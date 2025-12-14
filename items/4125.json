@@ -1,0 +1,17 @@
+{
+    "name": "Black boots",
+    "id": 4125,
+    "members": false,
+    "examine": "These will protect my feet.",
+    "value": 576,
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 7,
+        "slashDefence": 8,
+        "crushDefence": 9,
+        "slot": "FEET"
+    }
+}

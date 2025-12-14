@@ -1,0 +1,16 @@
+{
+    "name": "Void seal",
+    "id": 11673,
+    "members": false,
+    "examine": "A seal storing the power of the Void Knights.",
+    "value": 100,
+    "weight": 0.005,
+    "equipment": {
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "magicDefence": 1,
+        "rangedDefence": 1,
+        "slot": "NECK"
+    }
+}

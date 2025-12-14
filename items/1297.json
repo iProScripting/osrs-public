@@ -1,0 +1,21 @@
+{
+    "name": "Black longsword",
+    "id": 1297,
+    "members": false,
+    "examine": "A razor sharp longsword.",
+    "value": 960,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 13,
+        "slashAttack": 18,
+        "crushAttack": -2,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "strength": 16,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

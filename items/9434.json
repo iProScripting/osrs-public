@@ -1,0 +1,9 @@
+{
+    "name": "Bolt mould",
+    "id": 9434,
+    "members": false,
+    "examine": "A mould for creating silver crossbow bolts.",
+    "value": 25,
+    "weight": 0.453,
+    "buyLimit": 40
+}

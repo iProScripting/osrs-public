@@ -1,0 +1,9 @@
+{
+    "name": "Amethyst dart tip",
+    "id": 25853,
+    "members": false,
+    "examine": "A deadly-looking dart tip made of amethyst - needs feathers for flight.",
+    "value": 200,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

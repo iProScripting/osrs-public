@@ -1,0 +1,17 @@
+{
+    "name": "Zuriel's robe top (Deadman Mode)",
+    "id": 22653,
+    "members": false,
+    "examine": "A powerful robe top.",
+    "value": 500000,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": 35,
+        "rangedAttack": -10,
+        "stabDefence": 63,
+        "slashDefence": 45,
+        "crushDefence": 74,
+        "magicDefence": 35,
+        "slot": "BODY"
+    }
+}

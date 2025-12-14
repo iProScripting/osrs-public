@@ -1,0 +1,18 @@
+{
+    "name": "Bronze chainbody",
+    "id": 1103,
+    "members": false,
+    "examine": "A series of connected metal rings.",
+    "value": 60,
+    "weight": 6.803,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -15,
+        "stabDefence": 7,
+        "slashDefence": 11,
+        "crushDefence": 13,
+        "magicDefence": -3,
+        "rangedDefence": 9,
+        "slot": "BODY"
+    }
+}

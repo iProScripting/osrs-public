@@ -1,0 +1,13 @@
+{
+    "name": "Blessed dizana's quiver",
+    "id": 28957,
+    "members": false,
+    "examine": "A quiver awarded to those who have proved their worth in the Colosseum. It's been blessed by Ralos.",
+    "value": 100000,
+    "weight": 0.453,
+    "equipment": {
+        "rangedAttack": 18,
+        "rangedStrength": 3,
+        "slot": "CAPE"
+    }
+}

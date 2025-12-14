@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of underground passteurised milk",
+    "id": 31857,
+    "members": false,
+    "examine": "Due to a lack of cows, this milk was obtained from Kalrag.",
+    "value": 50,
+    "weight": 0.003
+}

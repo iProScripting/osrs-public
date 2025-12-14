@@ -1,0 +1,9 @@
+{
+    "name": "Mithril trimmed set (lg)",
+    "id": 13004,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, legs and kiteshield.",
+    "value": 5000,
+    "weight": 6.0,
+    "buyLimit": 8
+}

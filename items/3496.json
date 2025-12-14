@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - One of the sailors in Port Sarim",
+    "id": 3496,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

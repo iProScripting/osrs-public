@@ -1,0 +1,9 @@
+{
+    "name": "Raw barb-tailed kebbit",
+    "id": 29101,
+    "members": false,
+    "examine": "Ouch!",
+    "value": 1,
+    "weight": 0.34,
+    "buyLimit": 13000
+}

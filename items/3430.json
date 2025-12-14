@@ -1,0 +1,9 @@
+{
+    "name": "Sacred oil",
+    "id": 3430,
+    "members": false,
+    "examine": "4 doses of sacred Oil.",
+    "value": 100,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

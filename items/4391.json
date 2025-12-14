@@ -1,0 +1,15 @@
+{
+    "name": "Team-39 cape",
+    "id": 4391,
+    "members": false,
+    "examine": "Ooohhh look at the pretty colours...",
+    "value": 50,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

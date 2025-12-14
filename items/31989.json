@@ -1,0 +1,9 @@
+{
+    "name": "Boat bottle",
+    "id": 31989,
+    "members": false,
+    "examine": "One has been poured out for (sailing with) the boys.",
+    "value": 500,
+    "weight": 0.02,
+    "buyLimit": 100
+}

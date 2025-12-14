@@ -1,0 +1,8 @@
+{
+    "name": "Absorption",
+    "id": 11734,
+    "members": false,
+    "examine": "4 doses of absorption potion.",
+    "value": 275,
+    "weight": 0.035
+}

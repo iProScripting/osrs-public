@@ -1,0 +1,16 @@
+{
+    "name": "Magic comp bow",
+    "id": 10284,
+    "members": false,
+    "examine": "A powerful bow made from magic wood.",
+    "value": 2500,
+    "weight": 1.8,
+    "buyLimit": 8,
+    "equipment": {
+        "rangedAttack": 71,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 10,
+        "combatStyle": "BOW"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Willow roots",
+    "id": 6045,
+    "members": false,
+    "examine": "The roots of the Willow tree.",
+    "value": 1,
+    "weight": 0.001,
+    "buyLimit": 11000
+}

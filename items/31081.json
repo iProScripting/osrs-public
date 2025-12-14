@@ -1,0 +1,24 @@
+{
+    "name": "Antler guard",
+    "id": 31081,
+    "members": false,
+    "examine": "Surprisingly flexible.",
+    "value": 100000,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 15,
+        "slashAttack": 15,
+        "crushAttack": 15,
+        "magicAttack": 9,
+        "rangedAttack": 9,
+        "stabDefence": -15,
+        "slashDefence": -15,
+        "crushDefence": -15,
+        "magicDefence": -15,
+        "rangedDefence": -15,
+        "strength": 5,
+        "rangedStrength": 2,
+        "prayerBonus": 5,
+        "slot": "SHIELD"
+    }
+}

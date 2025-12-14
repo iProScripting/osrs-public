@@ -1,0 +1,19 @@
+{
+    "name": "Falador shield 3",
+    "id": 13119,
+    "members": false,
+    "examine": "A shield from Falador.",
+    "value": 0,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -2,
+        "stabDefence": 18,
+        "slashDefence": 22,
+        "crushDefence": 20,
+        "magicDefence": -1,
+        "rangedDefence": 20,
+        "prayerBonus": 4,
+        "slot": "SHIELD"
+    }
+}

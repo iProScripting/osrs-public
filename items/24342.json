@@ -1,0 +1,11 @@
+{
+    "name": "Bounty hunter hat (tier 3)",
+    "id": 24342,
+    "members": false,
+    "examine": "A hat fit for hobbiest player killers.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

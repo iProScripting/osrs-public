@@ -1,0 +1,9 @@
+{
+    "name": "Adamant seeds",
+    "id": 29458,
+    "members": false,
+    "examine": "Magical seeds in an adamant case.",
+    "value": 300,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

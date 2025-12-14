@@ -1,0 +1,9 @@
+{
+    "name": "Adamant javelin tips",
+    "id": 19578,
+    "members": false,
+    "examine": "Needs a shaft.",
+    "value": 440,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

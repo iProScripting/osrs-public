@@ -1,0 +1,8 @@
+{
+    "name": "Promissory note",
+    "id": 3709,
+    "members": false,
+    "examine": "A legally binding contract promising not to enter the longhall.",
+    "value": 1,
+    "weight": 0.005
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of monkfish",
+    "id": 32443,
+    "members": false,
+    "examine": "A cargo crate of monkfish destined for Aldarin.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

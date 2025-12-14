@@ -1,0 +1,8 @@
+{
+    "name": "Spider cave teleport",
+    "id": 29782,
+    "members": false,
+    "examine": "Teleports you to Morytania Spider Cave.",
+    "value": 10,
+    "weight": 0.0
+}

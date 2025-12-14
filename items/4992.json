@@ -1,0 +1,12 @@
+{
+    "name": "Verac's brassard",
+    "id": 4992,
+    "members": false,
+    "examine": "Verac the Defiled's brassard.",
+    "value": 280000,
+    "weight": 4.989,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

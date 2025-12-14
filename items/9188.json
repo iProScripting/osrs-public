@@ -1,0 +1,9 @@
+{
+    "name": "Topaz bolt tips",
+    "id": 9188,
+    "members": false,
+    "examine": "Red Topaz bolt tips.",
+    "value": 13,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Scarab dung",
+    "id": 27214,
+    "members": false,
+    "examine": "Eww, it stinks! Why would I want this?",
+    "value": 10,
+    "weight": 0.38
+}

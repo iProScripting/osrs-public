@@ -1,0 +1,11 @@
+{
+    "name": "Champion's cape",
+    "id": 21439,
+    "members": false,
+    "examine": "Formerly owned by Leon d'Cour, the Champion of Champions.",
+    "value": 2,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

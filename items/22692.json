@@ -1,0 +1,11 @@
+{
+    "name": "Clown bow tie",
+    "id": 22692,
+    "members": false,
+    "examine": "Hey, hey kids!",
+    "value": 1,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Steel crossbow (u)",
+    "id": 9459,
+    "members": false,
+    "examine": "An unstrung steel crossbow.",
+    "value": 327,
+    "weight": 8.0,
+    "buyLimit": 10000
+}

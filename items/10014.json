@@ -1,0 +1,9 @@
+{
+    "name": "Black warlock (item)",
+    "id": 10014,
+    "members": false,
+    "examine": "There's a black warlock butterfly in here.",
+    "value": 70,
+    "weight": 0.02,
+    "buyLimit": 125
+}

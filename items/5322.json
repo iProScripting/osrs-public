@@ -1,0 +1,9 @@
+{
+    "name": "Tomato seed",
+    "id": 5322,
+    "members": false,
+    "examine": "A tomato seed - plant in an allotment.",
+    "value": 4,
+    "weight": 0.0,
+    "buyLimit": 600
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Wooden cat",
+    "id": 10891,
+    "members": false,
+    "examine": "A wooden cat toy.",
+    "value": 1,
+    "weight": 0.03,
+    "buyLimit": 15
+}

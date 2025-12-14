@@ -1,0 +1,8 @@
+{
+    "name": "Ancient talisman",
+    "id": 681,
+    "members": false,
+    "examine": "An unusual symbol as yet unidentified by the archaeological expert.",
+    "value": 1,
+    "weight": 0.085
+}

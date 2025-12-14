@@ -1,0 +1,19 @@
+{
+    "name": "Bandos godsword",
+    "id": 11804,
+    "members": false,
+    "examine": "A brutally heavy sword.",
+    "value": 1250000,
+    "weight": 10.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slashAttack": 132,
+        "crushAttack": 80,
+        "strength": 132,
+        "prayerBonus": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

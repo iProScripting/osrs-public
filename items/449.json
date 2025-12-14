@@ -1,0 +1,9 @@
+{
+    "name": "Adamantite ore",
+    "id": 449,
+    "members": false,
+    "examine": "This needs refining.",
+    "value": 400,
+    "weight": 2.721,
+    "buyLimit": 4500
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Raw oomlie",
+    "id": 2337,
+    "members": false,
+    "examine": "Raw meat from the oomlie bird.",
+    "value": 10,
+    "weight": 0.225,
+    "buyLimit": 15
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Ancient globe",
+    "id": 25686,
+    "members": false,
+    "examine": "A globe showing the heavens. This belongs in a museum.",
+    "value": 1,
+    "weight": 1.0
+}

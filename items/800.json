@@ -1,0 +1,17 @@
+{
+    "name": "Bronze thrownaxe",
+    "id": 800,
+    "members": false,
+    "examine": "A finely balanced throwing axe.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedAttack": 4,
+        "rangedStrength": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

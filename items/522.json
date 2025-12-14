@@ -1,0 +1,8 @@
+{
+    "name": "Enchanted beef",
+    "id": 522,
+    "members": false,
+    "examine": "I don't fancy eating this now.",
+    "value": 1,
+    "weight": 0.5
+}

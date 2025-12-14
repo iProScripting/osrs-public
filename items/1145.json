@@ -1,0 +1,18 @@
+{
+    "name": "Adamant med helm",
+    "id": 1145,
+    "members": false,
+    "examine": "A medium sized helmet.",
+    "value": 1920,
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -3,
+        "stabDefence": 14,
+        "slashDefence": 15,
+        "crushDefence": 13,
+        "magicDefence": -1,
+        "rangedDefence": 14,
+        "slot": "HEAD"
+    }
+}

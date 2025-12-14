@@ -1,0 +1,8 @@
+{
+    "name": "Jug of blessed sunfire wine",
+    "id": 29384,
+    "members": false,
+    "examine": "A jug of sunfire wine that's been blessed by Ralos. Not for drinking.",
+    "value": 1,
+    "weight": 0.3
+}

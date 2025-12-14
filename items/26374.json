@@ -1,0 +1,22 @@
+{
+    "name": "Zaryte crossbow",
+    "id": 26374,
+    "members": false,
+    "examine": "A weapon born out of conflict.",
+    "value": 990000,
+    "weight": 6.001,
+    "buyLimit": 8,
+    "equipment": {
+        "rangedAttack": 110,
+        "stabDefence": 14,
+        "slashDefence": 14,
+        "crushDefence": 12,
+        "magicDefence": 15,
+        "rangedDefence": 16,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 8,
+        "combatStyle": "CROSSBOW"
+    }
+}

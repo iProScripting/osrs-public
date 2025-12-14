@@ -1,0 +1,16 @@
+{
+    "name": "Leather vambraces",
+    "id": 1063,
+    "members": false,
+    "examine": "Better than no armour!",
+    "value": 18,
+    "weight": 0.226,
+    "buyLimit": 125,
+    "equipment": {
+        "rangedAttack": 4,
+        "stabDefence": 2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "slot": "HANDS"
+    }
+}

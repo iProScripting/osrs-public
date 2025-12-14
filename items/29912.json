@@ -1,0 +1,14 @@
+{
+    "name": "Butler's tray",
+    "id": 29912,
+    "members": false,
+    "examine": "A neat way to carry things!",
+    "value": 100,
+    "weight": 0.05,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

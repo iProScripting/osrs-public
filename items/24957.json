@@ -1,0 +1,9 @@
+{
+    "name": "Khazard teleport (tablet)",
+    "id": 24957,
+    "members": false,
+    "examine": "A teleport to Port Khazard.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

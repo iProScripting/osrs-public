@@ -1,0 +1,8 @@
+{
+    "name": "Cranial clamp",
+    "id": 10893,
+    "members": false,
+    "examine": "A cranial clamp.",
+    "value": 1,
+    "weight": 0.01
+}

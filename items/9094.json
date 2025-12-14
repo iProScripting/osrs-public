@@ -1,0 +1,8 @@
+{
+    "name": "Kindling",
+    "id": 9094,
+    "members": false,
+    "examine": "Small bits of wood from the first magic tree!",
+    "value": 1,
+    "weight": 0.5
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Watermelon seed",
+    "id": 5321,
+    "members": false,
+    "examine": "A watermelon seed - plant in an allotment.",
+    "value": 56,
+    "weight": 0.0,
+    "buyLimit": 200
+}

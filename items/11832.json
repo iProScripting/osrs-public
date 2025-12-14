@@ -1,0 +1,21 @@
+{
+    "name": "Bandos chestplate",
+    "id": 11832,
+    "members": false,
+    "examine": "A sturdy chestplate.",
+    "value": 290010,
+    "weight": 12.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": -10,
+        "stabDefence": 98,
+        "slashDefence": 93,
+        "crushDefence": 105,
+        "magicDefence": -6,
+        "rangedDefence": 133,
+        "strength": 4,
+        "prayerBonus": 1,
+        "slot": "BODY"
+    }
+}

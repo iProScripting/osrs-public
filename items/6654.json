@@ -1,0 +1,11 @@
+{
+    "name": "Camo top",
+    "id": 6654,
+    "members": false,
+    "examine": "Examine what?",
+    "value": 1,
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

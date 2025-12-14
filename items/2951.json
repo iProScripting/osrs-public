@@ -1,0 +1,8 @@
+{
+    "name": "Golden needle",
+    "id": 2951,
+    "members": false,
+    "examine": "A replica needle made of solid gold.",
+    "value": 300,
+    "weight": 0.001
+}

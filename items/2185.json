@@ -1,0 +1,9 @@
+{
+    "name": "Chocolate bomb",
+    "id": 2185,
+    "members": false,
+    "examine": "Full of creamy, chocolately goodness.",
+    "value": 2,
+    "weight": 0.35,
+    "buyLimit": 6000
+}

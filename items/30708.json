@@ -1,0 +1,8 @@
+{
+    "name": "Carrot juice glass",
+    "id": 30708,
+    "members": false,
+    "examine": "Definitely not for beer!",
+    "value": 2,
+    "weight": 0.05
+}

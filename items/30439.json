@@ -1,0 +1,19 @@
+{
+    "name": "Echo virtus robe top",
+    "id": 30439,
+    "members": false,
+    "examine": "Virtus robes in the style of Leagues V: Raging Echoes.",
+    "value": 600000,
+    "weight": 2.895,
+    "equipment": {
+        "magicAttack": 35,
+        "rangedAttack": -11,
+        "stabDefence": 47,
+        "slashDefence": 36,
+        "crushDefence": 56,
+        "magicDefence": 31,
+        "prayerBonus": 2,
+        "magicDamage": 2.0,
+        "slot": "BODY"
+    }
+}

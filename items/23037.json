@@ -1,0 +1,15 @@
+{
+    "name": "Boots of stone",
+    "id": 23037,
+    "members": false,
+    "examine": "A pair of heat resistant boots with rocky soles.",
+    "value": 200,
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "FEET"
+    }
+}

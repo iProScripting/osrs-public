@@ -1,0 +1,17 @@
+{
+    "name": "Black knife",
+    "id": 5658,
+    "members": false,
+    "examine": "A finely balanced throwing knife.",
+    "value": 18,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedAttack": 10,
+        "rangedStrength": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

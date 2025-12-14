@@ -1,0 +1,8 @@
+{
+    "name": "Castle wars supply crate",
+    "id": 30690,
+    "members": false,
+    "examine": "Some combat supplies, neatly packaged for future use.",
+    "value": 1,
+    "weight": 1.285
+}

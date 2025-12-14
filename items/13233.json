@@ -1,0 +1,9 @@
+{
+    "name": "Smouldering stone",
+    "id": 13233,
+    "members": false,
+    "examine": "A smouldering stone from the depths of Hell.",
+    "value": 45000,
+    "weight": 0.05,
+    "buyLimit": 5
+}

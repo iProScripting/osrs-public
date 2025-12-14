@@ -1,0 +1,8 @@
+{
+    "name": "Arrav's axe",
+    "id": 30320,
+    "members": false,
+    "examine": "The axe of a legendary hero.",
+    "value": 30,
+    "weight": 2.721
+}

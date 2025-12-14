@@ -1,0 +1,9 @@
+{
+    "name": "Abyssal ashes",
+    "id": 25775,
+    "members": false,
+    "examine": "A heap of ashes.",
+    "value": 1,
+    "weight": 0.056,
+    "buyLimit": 7500
+}

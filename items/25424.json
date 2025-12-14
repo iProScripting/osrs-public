@@ -1,0 +1,8 @@
+{
+    "name": "Gold key red",
+    "id": 25424,
+    "members": false,
+    "examine": "A gold key with a red painted eyelet (Opens chests found in the Mort'ton catacombs).",
+    "value": 100,
+    "weight": 0.01
+}

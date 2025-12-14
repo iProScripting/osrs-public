@@ -1,0 +1,13 @@
+{
+    "name": "Mystic boots (or)",
+    "id": 26539,
+    "members": false,
+    "examine": "Magical boots plucked from the shattered abyss.",
+    "value": 10000,
+    "weight": 0.453,
+    "equipment": {
+        "magicAttack": 3,
+        "magicDefence": 3,
+        "slot": "FEET"
+    }
+}

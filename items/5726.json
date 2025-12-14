@@ -1,0 +1,21 @@
+{
+    "name": "Adamant spear",
+    "id": 5726,
+    "members": false,
+    "examine": "A poisoned adamantite tipped spear.",
+    "value": 2080,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 24,
+        "slashAttack": 24,
+        "crushAttack": 24,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "strength": 28,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Vardorvis' medallion",
+    "id": 28404,
+    "members": false,
+    "examine": "An ancient medallion that once belonged to Vardorvis.",
+    "value": 100,
+    "weight": 0.5
+}

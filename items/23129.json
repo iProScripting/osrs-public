@@ -1,0 +1,8 @@
+{
+    "name": "Clue bottle (beginner)",
+    "id": 23129,
+    "members": false,
+    "examine": "This bottle seems to have some old paper inside.",
+    "value": 20,
+    "weight": 0.19
+}

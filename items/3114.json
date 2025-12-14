@@ -1,0 +1,8 @@
+{
+    "name": "Certificate (Death Plateau)",
+    "id": 3114,
+    "members": false,
+    "examine": "Entrance certificate to the Imperial Guard.",
+    "value": 1,
+    "weight": 0.005
+}

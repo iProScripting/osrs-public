@@ -1,0 +1,12 @@
+{
+    "name": "Briefcase",
+    "id": 12335,
+    "members": false,
+    "examine": "For your first day in the big city.",
+    "value": 666,
+    "weight": 0.005,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

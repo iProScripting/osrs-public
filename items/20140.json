@@ -1,0 +1,14 @@
+{
+    "name": "Boots of darkness",
+    "id": 20140,
+    "members": false,
+    "examine": "A dark power is woven into these boots.",
+    "value": 10000,
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 3,
+        "magicDefence": 3,
+        "slot": "FEET"
+    }
+}

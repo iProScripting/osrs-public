@@ -1,0 +1,8 @@
+{
+    "name": "Calcified deposit",
+    "id": 29088,
+    "members": false,
+    "examine": "A deposit of calcified rock with bits of bone. It looks quite smashable.",
+    "value": 200,
+    "weight": 0.2
+}

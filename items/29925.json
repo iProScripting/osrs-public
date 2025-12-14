@@ -1,0 +1,8 @@
+{
+    "name": "Drinking flask",
+    "id": 29925,
+    "members": false,
+    "examine": "A small flask containing some liquid.",
+    "value": 30,
+    "weight": 0.1
+}

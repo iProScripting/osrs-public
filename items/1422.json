@@ -1,0 +1,20 @@
+{
+    "name": "Bronze mace",
+    "id": 1422,
+    "members": false,
+    "examine": "A spiky mace.",
+    "value": 18,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 1,
+        "slashAttack": -2,
+        "crushAttack": 6,
+        "strength": 5,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

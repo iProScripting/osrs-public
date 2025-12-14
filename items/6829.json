@@ -1,0 +1,8 @@
+{
+    "name": "Box bauble",
+    "id": 6829,
+    "members": false,
+    "examine": "A bauble shaped like a gift painted yellow.",
+    "value": 1,
+    "weight": 0.2
+}

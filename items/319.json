@@ -1,0 +1,9 @@
+{
+    "name": "Anchovies",
+    "id": 319,
+    "members": false,
+    "examine": "Some nicely cooked anchovies.",
+    "value": 15,
+    "weight": 0.1,
+    "buyLimit": 15000
+}

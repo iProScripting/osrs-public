@@ -1,0 +1,12 @@
+{
+    "name": "Black leprechaun hat",
+    "id": 20246,
+    "members": false,
+    "examine": "Try as they will, and try as they might, who steals me gold won't live through the night.",
+    "value": 5000,
+    "weight": 2.267,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

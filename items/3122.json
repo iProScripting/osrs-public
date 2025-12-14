@@ -1,0 +1,18 @@
+{
+    "name": "Granite shield",
+    "id": 3122,
+    "members": false,
+    "examine": "A solid stone shield.",
+    "value": 56000,
+    "weight": 6.803,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -12,
+        "rangedAttack": -8,
+        "stabDefence": 40,
+        "slashDefence": 42,
+        "crushDefence": 38,
+        "rangedDefence": 65,
+        "slot": "SHIELD"
+    }
+}

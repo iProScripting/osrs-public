@@ -1,0 +1,14 @@
+{
+    "name": "Xerician top",
+    "id": 13387,
+    "members": false,
+    "examine": "The forgotten magicks of Xeric imbue this garment with a little power.",
+    "value": 80,
+    "weight": 0.2,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 6,
+        "magicDefence": 10,
+        "slot": "BODY"
+    }
+}

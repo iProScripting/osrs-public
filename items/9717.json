@@ -1,0 +1,8 @@
+{
+    "name": "Beaten book",
+    "id": 9717,
+    "members": false,
+    "examine": "Book of the Elemental Helm.",
+    "value": 1,
+    "weight": 0.1
+}

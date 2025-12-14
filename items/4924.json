@@ -1,0 +1,18 @@
+{
+    "name": "Guthan's chainskirt",
+    "id": 4924,
+    "members": false,
+    "examine": "Guthan the Infested's chainskirt.",
+    "value": 275000,
+    "weight": 8.164,
+    "equipment": {
+        "magicAttack": -14,
+        "rangedAttack": -11,
+        "stabDefence": 75,
+        "slashDefence": 72,
+        "crushDefence": 73,
+        "magicDefence": -4,
+        "rangedDefence": 82,
+        "slot": "LEGS"
+    }
+}

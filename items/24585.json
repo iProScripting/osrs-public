@@ -1,0 +1,9 @@
+{
+    "name": "Looting bag note",
+    "id": 24585,
+    "members": false,
+    "examine": "A note that may be exchanged at a bank for a Looting Bag.",
+    "value": 90,
+    "weight": 0.0,
+    "buyLimit": 40
+}

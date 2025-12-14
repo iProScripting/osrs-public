@@ -1,0 +1,9 @@
+{
+    "name": "Bread",
+    "id": 2309,
+    "members": false,
+    "examine": "Nice crispy bread.",
+    "value": 12,
+    "weight": 0.5,
+    "buyLimit": 6000
+}

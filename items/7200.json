@@ -1,0 +1,8 @@
+{
+    "name": "Admiral pie",
+    "id": 7200,
+    "members": false,
+    "examine": "Much tastier than a normal fish pie.",
+    "value": 155,
+    "weight": 0.001
+}

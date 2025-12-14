@@ -1,0 +1,14 @@
+{
+    "name": "Accumulator max cape",
+    "id": 13337,
+    "members": false,
+    "examine": "The cape worn by only the most experienced players.",
+    "value": 99000,
+    "weight": 0.453,
+    "equipment": {
+        "rangedAttack": 4,
+        "slashDefence": 1,
+        "magicDefence": 4,
+        "slot": "CAPE"
+    }
+}

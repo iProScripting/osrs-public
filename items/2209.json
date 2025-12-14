@@ -1,0 +1,9 @@
+{
+    "name": "Chocchip crunchies",
+    "id": 2209,
+    "members": false,
+    "examine": "Yum... smells good.",
+    "value": 2,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

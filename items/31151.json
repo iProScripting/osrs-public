@@ -1,0 +1,8 @@
+{
+    "name": "Rock-shell armour set",
+    "id": 31151,
+    "members": false,
+    "examine": "A set containing a Rock-shell helm, Rock-shell plate, Rock-shell legs, Rock-shell boots and Rock-shell gloves.",
+    "value": 145000,
+    "weight": 0.05
+}

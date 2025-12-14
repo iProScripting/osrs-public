@@ -1,0 +1,9 @@
+{
+    "name": "Light orb",
+    "id": 10973,
+    "members": false,
+    "examine": "A component of cave goblin Magic.",
+    "value": 350,
+    "weight": 0.001,
+    "buyLimit": 10000
+}

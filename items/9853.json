@@ -1,0 +1,9 @@
+{
+    "name": "Carved oak magic wardrobe (flatpack)",
+    "id": 9853,
+    "members": false,
+    "examine": "Carved oak magic wardrobe.",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 500
+}

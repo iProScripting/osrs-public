@@ -1,0 +1,11 @@
+{
+    "name": "Amulet of nature",
+    "id": 6040,
+    "members": false,
+    "examine": "An Amulet of Nature.",
+    "value": 1,
+    "weight": 0.007,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

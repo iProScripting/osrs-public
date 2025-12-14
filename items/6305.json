@@ -1,0 +1,9 @@
+{
+    "name": "Skewer stick",
+    "id": 6305,
+    "members": false,
+    "examine": "A sharp pointed stick, quite resistant to fire.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

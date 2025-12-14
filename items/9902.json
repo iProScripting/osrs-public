@@ -1,0 +1,8 @@
+{
+    "name": "Hardy gout tubers",
+    "id": 9902,
+    "members": false,
+    "examine": "A pile of gout tubers suitable for use in mountainous terrain.",
+    "value": 5,
+    "weight": 0.1
+}

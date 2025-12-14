@@ -1,0 +1,9 @@
+{
+    "name": "Pineapple chunks",
+    "id": 2116,
+    "members": false,
+    "examine": "Fresh chunks of pineapple.",
+    "value": 1,
+    "weight": 0.12,
+    "buyLimit": 13000
+}

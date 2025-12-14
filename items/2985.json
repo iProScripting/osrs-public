@@ -1,0 +1,11 @@
+{
+    "name": "Chompy bird hat (woodsman)",
+    "id": 2985,
+    "members": false,
+    "examine": "A symbol of your chompy bird hunting prowess: Woodsman (225 kills)",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

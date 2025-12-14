@@ -1,0 +1,12 @@
+{
+    "name": "Villager robe (blue)",
+    "id": 6353,
+    "members": false,
+    "examine": "A brightly coloured robe prized by the Tai Bwo Wannai peoples.",
+    "value": 250,
+    "weight": 2.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

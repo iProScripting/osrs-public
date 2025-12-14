@@ -1,0 +1,21 @@
+{
+    "name": "Bone dagger",
+    "id": 8876,
+    "members": false,
+    "examine": "A powerful dagger.",
+    "value": 2000,
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 3,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 4,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Abyssal bracelet",
+    "id": 11099,
+    "members": false,
+    "examine": "Makes using the Abyss just slightly safer.",
+    "value": 4200,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

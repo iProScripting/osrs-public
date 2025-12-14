@@ -1,0 +1,9 @@
+{
+    "name": "Ugthanki & tomato",
+    "id": 1879,
+    "members": false,
+    "examine": "A mixture of chopped tomatoes and ugthanki meat in a bowl.",
+    "value": 7,
+    "weight": 0.3,
+    "buyLimit": 11000
+}

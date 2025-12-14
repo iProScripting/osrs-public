@@ -1,0 +1,8 @@
+{
+    "name": "Servery uncooked pie",
+    "id": 13402,
+    "members": false,
+    "examine": "A meat pie that needs to be cooked.",
+    "value": 1,
+    "weight": 0.5
+}

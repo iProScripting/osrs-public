@@ -1,0 +1,9 @@
+{
+    "name": "Triangle sandwich",
+    "id": 6962,
+    "members": false,
+    "examine": "A freshly made triangle sandwich.",
+    "value": 25,
+    "weight": 0.02,
+    "buyLimit": 6000
+}

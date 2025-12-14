@@ -1,0 +1,12 @@
+{
+    "name": "Crate of dragon bitter",
+    "id": 32736,
+    "members": false,
+    "examine": "A cargo crate of dragon bitter destined for Rellekka.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

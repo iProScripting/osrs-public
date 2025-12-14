@@ -1,0 +1,19 @@
+{
+    "name": "Bandos boots",
+    "id": 11836,
+    "members": false,
+    "examine": "Some sturdy boots.",
+    "value": 289010,
+    "weight": 6.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -5,
+        "rangedAttack": -3,
+        "stabDefence": 17,
+        "slashDefence": 18,
+        "crushDefence": 19,
+        "rangedDefence": 15,
+        "prayerBonus": 1,
+        "slot": "FEET"
+    }
+}

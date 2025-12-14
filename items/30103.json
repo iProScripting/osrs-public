@@ -1,0 +1,8 @@
+{
+    "name": "Redberry antelope",
+    "id": 30103,
+    "members": false,
+    "examine": "Sunlight antelope meat prepared with redberries.",
+    "value": 1,
+    "weight": 0.283
+}

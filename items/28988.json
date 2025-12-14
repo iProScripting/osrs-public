@@ -1,0 +1,25 @@
+{
+    "name": "Blue moon spear",
+    "id": 28988,
+    "members": false,
+    "examine": "A magical staff of ancient origin...",
+    "value": 100000,
+    "weight": 3.0,
+    "buyLimit": 15,
+    "equipment": {
+        "stabAttack": 70,
+        "slashAttack": 62,
+        "crushAttack": 62,
+        "magicAttack": 30,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 15,
+        "strength": 71,
+        "magicDamage": 5.0,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "BLADED_STAFF"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Torag's helm",
+    "id": 4954,
+    "members": false,
+    "examine": "Torag the Corrupted's helm.",
+    "value": 103000,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 55,
+        "slashDefence": 58,
+        "crushDefence": 54,
+        "magicDefence": -1,
+        "rangedDefence": 62,
+        "slot": "HEAD"
+    }
+}

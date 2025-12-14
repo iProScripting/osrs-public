@@ -1,0 +1,8 @@
+{
+    "name": "Bounty supply crate (unobtainable item)",
+    "id": 30576,
+    "members": false,
+    "examine": "A crate full of supplies.",
+    "value": 10000,
+    "weight": 5.0
+}

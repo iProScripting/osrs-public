@@ -1,0 +1,11 @@
+{
+    "name": "Chompy bird hat (ogre marksman)",
+    "id": 2982,
+    "members": false,
+    "examine": "A symbol of your chompy bird hunting prowess: Ogre Marksman (95 kills)",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

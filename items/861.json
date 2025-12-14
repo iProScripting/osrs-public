@@ -1,0 +1,16 @@
+{
+    "name": "Magic shortbow",
+    "id": 861,
+    "members": false,
+    "examine": "Short and magical, but still effective.",
+    "value": 1600,
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "equipment": {
+        "rangedAttack": 69,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "BOW"
+    }
+}

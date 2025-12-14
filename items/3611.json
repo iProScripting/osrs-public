@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - ME IF",
+    "id": 3611,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

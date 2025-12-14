@@ -1,0 +1,8 @@
+{
+    "name": "Burnt mushroom",
+    "id": 7094,
+    "members": false,
+    "examine": "A bowl of burnt sliced mushroom.",
+    "value": 5,
+    "weight": 0.5
+}

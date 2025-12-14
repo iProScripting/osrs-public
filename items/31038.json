@@ -1,0 +1,11 @@
+{
+    "name": "Greenman mask",
+    "id": 31038,
+    "members": false,
+    "examine": "Makes you feel at one with nature.",
+    "value": 1,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

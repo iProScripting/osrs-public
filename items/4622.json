@@ -1,0 +1,8 @@
+{
+    "name": "Black dye",
+    "id": 4622,
+    "members": false,
+    "examine": "Black dye made out of mushrooms.",
+    "value": 1,
+    "weight": 0.01
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Ancient jewel",
+    "id": 27607,
+    "members": false,
+    "examine": "A very old jewel.",
+    "value": 30,
+    "weight": 0.05
+}

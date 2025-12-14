@@ -1,0 +1,19 @@
+{
+    "name": "Infernal pickaxe",
+    "id": 13244,
+    "members": false,
+    "examine": "A very powerful, fiery pickaxe.",
+    "value": 99800,
+    "weight": 2.4,
+    "equipment": {
+        "stabAttack": 38,
+        "slashAttack": -2,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

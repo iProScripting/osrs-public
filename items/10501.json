@@ -1,0 +1,14 @@
+{
+    "name": "Snowball",
+    "id": 10501,
+    "members": false,
+    "examine": "Made from snow.",
+    "value": 0,
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

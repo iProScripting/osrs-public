@@ -1,0 +1,11 @@
+{
+    "name": "Builder's boots",
+    "id": 10865,
+    "members": false,
+    "examine": "They'll offer good protection for my toes.",
+    "value": 100,
+    "weight": 0.45,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

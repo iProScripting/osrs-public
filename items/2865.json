@@ -1,0 +1,9 @@
+{
+    "name": "Flighted ogre arrow",
+    "id": 2865,
+    "members": false,
+    "examine": "A wooden arrow shaft with four flights attached.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 7000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Chopped garlic",
+    "id": 7074,
+    "members": false,
+    "examine": "A bowl of chopped garlic.",
+    "value": 7,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

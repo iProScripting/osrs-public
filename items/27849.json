@@ -1,0 +1,19 @@
+{
+    "name": "Corrupted morrigan's leather chaps (bh)",
+    "id": 27849,
+    "members": false,
+    "examine": "A powerful pair of leather chaps.",
+    "value": 500000,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": 23,
+        "stabDefence": 9,
+        "slashDefence": 7,
+        "crushDefence": 8,
+        "magicDefence": 20,
+        "rangedDefence": 11,
+        "rangedStrength": 4,
+        "slot": "LEGS"
+    }
+}

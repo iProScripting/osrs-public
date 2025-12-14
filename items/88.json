@@ -1,0 +1,8 @@
+{
+    "name": "Boots of lightness",
+    "id": 88,
+    "members": false,
+    "examine": "Magic boots that make you lighter than normal.",
+    "value": 6,
+    "weight": 0.34
+}

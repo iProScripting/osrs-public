@@ -1,0 +1,11 @@
+{
+    "name": "One barrel",
+    "id": 8860,
+    "members": false,
+    "examine": "To put on your head.",
+    "value": 1,
+    "weight": 4.535,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

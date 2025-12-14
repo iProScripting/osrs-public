@@ -1,0 +1,8 @@
+{
+    "name": "Catalytic guardian stone",
+    "id": 26880,
+    "members": false,
+    "examine": "Highly potent essence, imbued with catalytic energy.",
+    "value": 30,
+    "weight": 0.0
+}

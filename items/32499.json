@@ -1,0 +1,12 @@
+{
+    "name": "Crate of vials",
+    "id": 32499,
+    "members": false,
+    "examine": "A cargo crate of vials destined for Catherby.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

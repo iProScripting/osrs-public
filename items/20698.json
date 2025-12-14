@@ -1,0 +1,8 @@
+{
+    "name": "Bruma herb",
+    "id": 20698,
+    "members": false,
+    "examine": "A herb from a bruma root.",
+    "value": 1,
+    "weight": 0.007
+}

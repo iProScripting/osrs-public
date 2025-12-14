@@ -1,0 +1,9 @@
+{
+    "name": "Shortbow (u)",
+    "id": 50,
+    "members": false,
+    "examine": "I need to find a string for this.",
+    "value": 23,
+    "weight": 0.992,
+    "buyLimit": 10000
+}

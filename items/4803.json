@@ -1,0 +1,13 @@
+{
+    "name": "Rune brutal",
+    "id": 4803,
+    "members": false,
+    "examine": "Blunt rune arrow... ouch.",
+    "value": 450,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 60,
+        "slot": "AMMO"
+    }
+}

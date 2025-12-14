@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of alco-sol",
+    "id": 31889,
+    "members": false,
+    "examine": "Gives a new meaning to blind drunk.",
+    "value": 50,
+    "weight": 0.003
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Druidic spell",
+    "id": 2968,
+    "members": false,
+    "examine": "A druidic spell given to you freely by the spirit of Filliman Tarlock.",
+    "value": 1,
+    "weight": 0.02
+}

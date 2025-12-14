@@ -1,0 +1,13 @@
+{
+    "name": "Broad bolts",
+    "id": 11875,
+    "members": false,
+    "examine": "Crossbow bolts with broad tips.",
+    "value": 55,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 100,
+        "slot": "AMMO"
+    }
+}

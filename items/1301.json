@@ -1,0 +1,21 @@
+{
+    "name": "Adamant longsword",
+    "id": 1301,
+    "members": false,
+    "examine": "A razor sharp longsword.",
+    "value": 3200,
+    "weight": 2.041,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": 29,
+        "crushAttack": -2,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "strength": 31,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

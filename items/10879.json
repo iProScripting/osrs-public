@@ -1,0 +1,11 @@
+{
+    "name": "Red satchel",
+    "id": 10879,
+    "members": false,
+    "examine": "I can keep my grub in here!",
+    "value": 100,
+    "weight": 0.15,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

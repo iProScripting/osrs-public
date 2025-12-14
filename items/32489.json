@@ -1,0 +1,12 @@
+{
+    "name": "Crate of gold ore",
+    "id": 32489,
+    "members": false,
+    "examine": "A cargo crate of gold ore destined for Catherby.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

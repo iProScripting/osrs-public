@@ -1,0 +1,9 @@
+{
+    "name": "Sliced banana",
+    "id": 3162,
+    "members": false,
+    "examine": "You swear you had more than three slices before.",
+    "value": 2,
+    "weight": 0.028,
+    "buyLimit": 15
+}

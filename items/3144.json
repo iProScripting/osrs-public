@@ -1,0 +1,9 @@
+{
+    "name": "Cooked karambwan",
+    "id": 3144,
+    "members": false,
+    "examine": "Cooked octopus. It looks very nutritious.",
+    "value": 250,
+    "weight": 0.65,
+    "buyLimit": 10000
+}

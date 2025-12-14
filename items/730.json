@@ -1,0 +1,8 @@
+{
+    "name": "Binding book",
+    "id": 730,
+    "members": false,
+    "examine": "An ancient tome on Demonology.",
+    "value": 1,
+    "weight": 0.51
+}

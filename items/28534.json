@@ -1,0 +1,21 @@
+{
+    "name": "Corrupted dragon claws",
+    "id": 28534,
+    "members": false,
+    "examine": "A set of fighting claws.",
+    "value": 250000,
+    "weight": 0.907,
+    "equipment": {
+        "stabAttack": 33,
+        "slashAttack": 46,
+        "crushAttack": -4,
+        "stabDefence": 11,
+        "slashDefence": 21,
+        "crushDefence": 6,
+        "strength": 45,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

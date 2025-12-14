@@ -1,0 +1,12 @@
+{
+    "name": "Diamond amulet",
+    "id": 1700,
+    "members": false,
+    "examine": "I wonder if I can get this enchanted.",
+    "value": 3525,
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

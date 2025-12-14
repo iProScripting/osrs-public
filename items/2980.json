@@ -1,0 +1,11 @@
+{
+    "name": "Chompy bird hat (ogre yeoman)",
+    "id": 2980,
+    "members": false,
+    "examine": "A symbol of your chompy bird hunting prowess: Ogre Yeoman (50 kills)",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

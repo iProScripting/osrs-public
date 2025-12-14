@@ -1,0 +1,8 @@
+{
+    "name": "Scroll box (elite)",
+    "id": 24365,
+    "members": false,
+    "examine": "Contains an elite clue scroll.",
+    "value": 50,
+    "weight": 0.0
+}

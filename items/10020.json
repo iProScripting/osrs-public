@@ -1,0 +1,9 @@
+{
+    "name": "Ruby harvest (item)",
+    "id": 10020,
+    "members": false,
+    "examine": "There's a ruby harvest butterfly in here.",
+    "value": 18,
+    "weight": 0.02,
+    "buyLimit": 125
+}

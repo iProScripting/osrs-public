@@ -1,0 +1,9 @@
+{
+    "name": "Blurberry special",
+    "id": 2064,
+    "members": false,
+    "examine": "Looks good... smells strong.",
+    "value": 30,
+    "weight": 0.5,
+    "buyLimit": 2000
+}

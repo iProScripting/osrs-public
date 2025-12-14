@@ -1,0 +1,13 @@
+{
+    "name": "Ancient ceremonial top",
+    "id": 26221,
+    "members": false,
+    "examine": "Some ceremonial robes dedicated to an ancient god.",
+    "value": 100000,
+    "weight": 0.9,
+    "buyLimit": 8,
+    "equipment": {
+        "prayerBonus": 6,
+        "slot": "BODY"
+    }
+}

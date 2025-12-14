@@ -1,0 +1,19 @@
+{
+    "name": "Spiny helmet",
+    "id": 4551,
+    "members": false,
+    "examine": "You don't want to wear it inside-out.",
+    "value": 650,
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 9,
+        "slashDefence": 10,
+        "crushDefence": 7,
+        "magicDefence": -1,
+        "rangedDefence": 9,
+        "slot": "HEAD"
+    }
+}

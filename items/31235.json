@@ -1,0 +1,9 @@
+{
+    "name": "Gryphon feather",
+    "id": 31235,
+    "members": false,
+    "examine": "A feather from a gryphon.",
+    "value": 15,
+    "weight": 0.002,
+    "buyLimit": 11000
+}

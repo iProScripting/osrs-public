@@ -1,0 +1,11 @@
+{
+    "name": "Bracelet of ethereum",
+    "id": 21816,
+    "members": false,
+    "examine": "The bracelet glows with ethereal power.",
+    "value": 75000,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of peg legs",
+    "id": 32526,
+    "members": false,
+    "examine": "A cargo crate of peg legs destined for Corsair Cove.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

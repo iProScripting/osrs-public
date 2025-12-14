@@ -1,0 +1,9 @@
+{
+    "name": "Raw shark",
+    "id": 383,
+    "members": false,
+    "examine": "I should try cooking this.",
+    "value": 170,
+    "weight": 0.7,
+    "buyLimit": 15000
+}

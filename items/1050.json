@@ -1,0 +1,12 @@
+{
+    "name": "Santa hat",
+    "id": 1050,
+    "members": false,
+    "examine": "It's a Santa hat.",
+    "value": 160,
+    "weight": 0.113,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

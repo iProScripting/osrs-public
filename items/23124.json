@@ -1,0 +1,9 @@
+{
+    "name": "Gilded dragonhide set",
+    "id": 23124,
+    "members": false,
+    "examine": "A set containing a gilded dragonhide body, chaps and vambraces.",
+    "value": 12500,
+    "weight": 0.05,
+    "buyLimit": 8
+}

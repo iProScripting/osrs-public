@@ -1,0 +1,11 @@
+{
+    "name": "Graceful cape (Adventurer)",
+    "id": 27449,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 40,
+    "weight": -4.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

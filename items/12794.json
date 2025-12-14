@@ -1,0 +1,8 @@
+{
+    "name": "Nest box",
+    "id": 12794,
+    "members": false,
+    "examine": "A box of nests containing rings.",
+    "value": 10,
+    "weight": 1.6
+}

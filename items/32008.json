@@ -1,0 +1,9 @@
+{
+    "name": "Mithril keel parts",
+    "id": 32008,
+    "members": false,
+    "examine": "Parts for creating a mithril keel for a boat.",
+    "value": 1250,
+    "weight": 4.0,
+    "buyLimit": 100
+}

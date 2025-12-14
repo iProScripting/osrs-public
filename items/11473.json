@@ -1,0 +1,9 @@
+{
+    "name": "Anti-poison supermix",
+    "id": 11473,
+    "members": false,
+    "examine": "Two doses of fishy super antipoison potion.",
+    "value": 216,
+    "weight": 0.075,
+    "buyLimit": 2000
+}

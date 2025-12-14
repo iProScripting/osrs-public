@@ -1,0 +1,8 @@
+{
+    "name": "Rock golem",
+    "id": 21197,
+    "members": false,
+    "examine": "Found somewhere between a rock and a hard place.",
+    "value": 1,
+    "weight": 0.015
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bob's black shirt",
+    "id": 10322,
+    "members": false,
+    "examine": "'Bob says: A bank pin will keep your items secure.'",
+    "value": 3,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

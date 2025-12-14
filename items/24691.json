@@ -1,0 +1,8 @@
+{
+    "name": "Blisterwood logs",
+    "id": 24691,
+    "members": false,
+    "examine": "Logs cut from the Blisterwood tree.",
+    "value": 200,
+    "weight": 2.0
+}

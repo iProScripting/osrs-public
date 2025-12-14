@@ -1,0 +1,9 @@
+{
+    "name": "Bird snare",
+    "id": 10006,
+    "members": false,
+    "examine": "A simple bird catcher.",
+    "value": 5,
+    "weight": 0.0,
+    "buyLimit": 250
+}

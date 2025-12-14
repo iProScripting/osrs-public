@@ -1,0 +1,9 @@
+{
+    "name": "Divine bastion potion",
+    "id": 24635,
+    "members": false,
+    "examine": "4 doses of divine bastion potion.",
+    "value": 720,
+    "weight": 0.135,
+    "buyLimit": 2000
+}

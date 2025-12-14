@@ -1,0 +1,13 @@
+{
+    "name": "Bellator ring",
+    "id": 28316,
+    "members": false,
+    "examine": "An occult ring that grants immense slicing power.",
+    "value": 140000,
+    "weight": 0.012,
+    "equipment": {
+        "slashAttack": 20,
+        "strength": 6,
+        "slot": "RING"
+    }
+}

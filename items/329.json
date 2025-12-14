@@ -1,0 +1,9 @@
+{
+    "name": "Salmon",
+    "id": 329,
+    "members": false,
+    "examine": "Some nicely cooked salmon.",
+    "value": 30,
+    "weight": 0.5,
+    "buyLimit": 6000
+}

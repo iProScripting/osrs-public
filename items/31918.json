@@ -1,0 +1,8 @@
+{
+    "name": "Bronze chainshot cannonball",
+    "id": 31918,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 5,
+    "weight": 3.628
+}

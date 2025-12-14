@@ -1,0 +1,8 @@
+{
+    "name": "Scurrius' spine",
+    "id": 28798,
+    "members": false,
+    "examine": "This can be attached to a Battlestaff, Rune Mace or Yew Shortbow.",
+    "value": 1000,
+    "weight": 0.3
+}

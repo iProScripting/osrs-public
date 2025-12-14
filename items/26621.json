@@ -1,0 +1,8 @@
+{
+    "name": "Pot of flour (cookout)",
+    "id": 26621,
+    "members": false,
+    "examine": "A pot of flour for the cookout.",
+    "value": 10,
+    "weight": 1.36
+}

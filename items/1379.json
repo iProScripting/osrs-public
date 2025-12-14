@@ -1,0 +1,23 @@
+{
+    "name": "Staff",
+    "id": 1379,
+    "members": false,
+    "examine": "It's a slightly magical stick.",
+    "value": 15,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slashAttack": -1,
+        "crushAttack": 7,
+        "magicAttack": 4,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 4,
+        "strength": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Blighted anglerfish",
+    "id": 24592,
+    "members": false,
+    "examine": "An unappetising fish, now blighted so it can be eaten only in the Wilderness.",
+    "value": 50,
+    "weight": 0.4,
+    "buyLimit": 10000
+}

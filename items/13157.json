@@ -1,0 +1,9 @@
+{
+    "name": "Book of law page set",
+    "id": 13157,
+    "members": false,
+    "examine": "A set containing the four pages of Armadyl's Book of Law.",
+    "value": 7500,
+    "weight": 0.05,
+    "buyLimit": 5
+}

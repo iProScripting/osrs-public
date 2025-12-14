@@ -1,0 +1,9 @@
+{
+    "name": "Cosmic rune",
+    "id": 564,
+    "members": false,
+    "examine": "Used for enchant spells.",
+    "value": 50,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

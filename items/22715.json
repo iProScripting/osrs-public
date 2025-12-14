@@ -1,0 +1,11 @@
+{
+    "name": "Tree top",
+    "id": 22715,
+    "members": false,
+    "examine": "Part of a tree costume.",
+    "value": 0,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

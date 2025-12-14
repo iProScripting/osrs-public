@@ -1,0 +1,11 @@
+{
+    "name": "Collection log (bronze)",
+    "id": 30579,
+    "members": false,
+    "examine": "A record of rewards and loot obtained all throughout Gielinor.",
+    "value": 6,
+    "weight": 0.51,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

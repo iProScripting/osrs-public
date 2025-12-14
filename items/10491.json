@@ -1,0 +1,20 @@
+{
+    "name": "Blessed axe",
+    "id": 10491,
+    "members": false,
+    "examine": "It radiates purity but can still lop off heads.",
+    "value": 20,
+    "weight": 1.162,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 12,
+        "crushAttack": 10,
+        "slashDefence": 1,
+        "strength": 13,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

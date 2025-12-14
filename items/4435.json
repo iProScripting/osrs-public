@@ -1,0 +1,8 @@
+{
+    "name": "Weather report",
+    "id": 4435,
+    "members": false,
+    "examine": "Clear skies ahead, with some chance of showers, thunderstorms, ice and hail.",
+    "value": 1,
+    "weight": 0.03
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of spinning comp-kvass",
+    "id": 31894,
+    "members": false,
+    "examine": "Bottle not actual compass. Do not try to detect any fields, magnetic or otherwise whilst under the effect of this drink.",
+    "value": 50,
+    "weight": 0.003
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Wolf mask",
+    "id": 23407,
+    "members": false,
+    "examine": "Howwwallll!",
+    "value": 2400,
+    "weight": 2.267,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

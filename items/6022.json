@@ -1,0 +1,8 @@
+{
+    "name": "Oak leaves",
+    "id": 6022,
+    "members": false,
+    "examine": "A pile of Oak tree leaves.",
+    "value": 1,
+    "weight": 0.0
+}

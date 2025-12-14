@@ -1,0 +1,8 @@
+{
+    "name": "Battered book",
+    "id": 2886,
+    "members": false,
+    "examine": "Book of the elemental shield.",
+    "value": 10,
+    "weight": 0.113
+}

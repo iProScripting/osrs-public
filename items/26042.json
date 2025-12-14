@@ -1,0 +1,9 @@
+{
+    "name": "Sigil of stamina",
+    "id": 26042,
+    "members": false,
+    "examine": "A power enhancing sigil not yet attuned to you.",
+    "value": 10000,
+    "weight": 0.1,
+    "buyLimit": 10
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottomless compost bucket",
+    "id": 22997,
+    "members": false,
+    "examine": "It's a bucket that can hold a lot of compost at once. It has some compost inside!",
+    "value": 45000,
+    "weight": 3.0
+}

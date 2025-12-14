@@ -1,0 +1,9 @@
+{
+    "name": "Zenyte amulet (u)",
+    "id": 19501,
+    "members": false,
+    "examine": "It needs a string so I can wear it.",
+    "value": 75000,
+    "weight": 0.004,
+    "buyLimit": 10000
+}

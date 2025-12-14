@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - In a town where everyone has perfect vision",
+    "id": 2837,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

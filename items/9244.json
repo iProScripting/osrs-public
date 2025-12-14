@@ -1,0 +1,13 @@
+{
+    "name": "Dragonstone bolts (e)",
+    "id": 9244,
+    "members": false,
+    "examine": "Enchanted Dragonstone tipped Runite Crossbow Bolts.",
+    "value": 1063,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 117,
+        "slot": "AMMO"
+    }
+}

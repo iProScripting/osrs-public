@@ -1,0 +1,16 @@
+{
+    "name": "Frozen abyssal whip",
+    "id": 12774,
+    "members": false,
+    "examine": "A weapon from the frozen abyss.",
+    "value": 120001,
+    "weight": 0.453,
+    "equipment": {
+        "slashAttack": 82,
+        "strength": 82,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "WHIP"
+    }
+}

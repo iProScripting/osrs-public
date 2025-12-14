@@ -1,0 +1,12 @@
+{
+    "name": "Fedora",
+    "id": 11990,
+    "members": false,
+    "examine": "Makes you look fedorable.",
+    "value": 300,
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

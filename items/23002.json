@@ -1,0 +1,9 @@
+{
+    "name": "Bottled dragonbreath",
+    "id": 23002,
+    "members": false,
+    "examine": "Several dragonfruit were squeezed into this vial and it has been powered by the fires of Mount Karuulm.",
+    "value": 500,
+    "weight": 0.08,
+    "buyLimit": 50
+}

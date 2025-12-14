@@ -1,0 +1,9 @@
+{
+    "name": "Large rosewood hull parts",
+    "id": 32080,
+    "members": false,
+    "examine": "Large parts for creating a rosewood hull for a boat.",
+    "value": 93750,
+    "weight": 4.0,
+    "buyLimit": 100
+}

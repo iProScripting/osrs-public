@@ -1,0 +1,9 @@
+{
+    "name": "Black locks",
+    "id": 25448,
+    "members": false,
+    "examine": "Perhaps someone can do something with this.",
+    "value": 3200,
+    "weight": 0.283,
+    "buyLimit": 8
+}

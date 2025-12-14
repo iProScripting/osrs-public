@@ -1,0 +1,8 @@
+{
+    "name": "Fossilised mushroom",
+    "id": 21598,
+    "members": false,
+    "examine": "This fossilised plant belongs in a museum!",
+    "value": 1,
+    "weight": 0.907
+}

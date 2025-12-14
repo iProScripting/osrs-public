@@ -1,0 +1,8 @@
+{
+    "name": "Menaphite ornament kit",
+    "id": 27255,
+    "members": false,
+    "examine": "Use on Elidinis' ward to change its look.",
+    "value": 100000,
+    "weight": 0.562
+}

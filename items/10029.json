@@ -1,0 +1,9 @@
+{
+    "name": "Teasing stick",
+    "id": 10029,
+    "members": false,
+    "examine": "Reduces the risk of hand severage when poking large, vicious carnivores.",
+    "value": 50,
+    "weight": 0.453,
+    "buyLimit": 40
+}

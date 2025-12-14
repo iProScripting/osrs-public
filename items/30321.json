@@ -1,0 +1,20 @@
+{
+    "name": "Zombie helmet",
+    "id": 30321,
+    "members": false,
+    "examine": "A rusty yet tough helmet.",
+    "value": 160000,
+    "weight": 2.721,
+    "buyLimit": 50,
+    "equipment": {
+        "crushAttack": 8,
+        "magicAttack": -4,
+        "rangedAttack": -2,
+        "stabDefence": 30,
+        "slashDefence": 32,
+        "crushDefence": 38,
+        "rangedDefence": 30,
+        "strength": 2,
+        "slot": "HEAD"
+    }
+}

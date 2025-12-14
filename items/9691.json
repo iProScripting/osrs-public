@@ -1,0 +1,8 @@
+{
+    "name": "Water rune (The Slug Menace)",
+    "id": 9691,
+    "members": false,
+    "examine": "A water rune.",
+    "value": 1,
+    "weight": 0.01
+}

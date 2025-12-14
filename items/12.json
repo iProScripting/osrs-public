@@ -1,0 +1,9 @@
+{
+    "name": "Cannon furnace",
+    "id": 12,
+    "members": false,
+    "examine": "This powers the multicannon.",
+    "value": 187500,
+    "weight": 5.0,
+    "buyLimit": 70
+}

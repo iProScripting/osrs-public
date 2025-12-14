@@ -1,0 +1,18 @@
+{
+    "name": "Ardougne knight platelegs",
+    "id": 23789,
+    "members": false,
+    "examine": "Some platelegs worn by the Knights of Ardougne.",
+    "value": 1000,
+    "weight": 9.071,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 11,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "magicDefence": -4,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Carpenter's helmet",
+    "id": 24872,
+    "members": false,
+    "examine": "The headgear of a superior builder.",
+    "value": 320,
+    "weight": 1.02,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Wolf bonemeal",
+    "id": 4262,
+    "members": false,
+    "examine": "A pot of crushed wolf bones.",
+    "value": 1,
+    "weight": 1.5
+}

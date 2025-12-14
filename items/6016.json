@@ -1,0 +1,9 @@
+{
+    "name": "Cactus spine",
+    "id": 6016,
+    "members": false,
+    "examine": "Don't prick yourself with this.",
+    "value": 1,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

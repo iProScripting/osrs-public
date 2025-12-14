@@ -1,0 +1,9 @@
+{
+    "name": "Bagged dead tree",
+    "id": 8417,
+    "members": false,
+    "examine": "You can plant this in your garden.",
+    "value": 1000,
+    "weight": 10.0,
+    "buyLimit": 10000
+}

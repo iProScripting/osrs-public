@@ -1,0 +1,9 @@
+{
+    "name": "Bow string",
+    "id": 1777,
+    "members": false,
+    "examine": "I need a bow stave to attach this to.",
+    "value": 10,
+    "weight": 0.014,
+    "buyLimit": 13000
+}

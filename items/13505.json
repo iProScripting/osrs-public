@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled aviansie head",
+    "id": 13505,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Master Reanimation.",
+    "value": 553,
+    "weight": 0.453,
+    "buyLimit": 7500
+}

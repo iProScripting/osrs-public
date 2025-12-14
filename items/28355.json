@@ -1,0 +1,8 @@
+{
+    "name": "Arder-resper poison",
+    "id": 28355,
+    "members": false,
+    "examine": "A nasty fungal poison.",
+    "value": 200,
+    "weight": 0.05
+}

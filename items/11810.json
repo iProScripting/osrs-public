@@ -1,0 +1,9 @@
+{
+    "name": "Armadyl hilt",
+    "id": 11810,
+    "members": false,
+    "examine": "Brimming with potential.",
+    "value": 500000,
+    "weight": 2.5,
+    "buyLimit": 10000
+}

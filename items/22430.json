@@ -1,0 +1,9 @@
+{
+    "name": "Bloody bracer",
+    "id": 22430,
+    "members": false,
+    "examine": "A coagulated concoction.",
+    "value": 10,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

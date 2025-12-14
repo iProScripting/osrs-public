@@ -1,0 +1,11 @@
+{
+    "name": "Hitpoints hood",
+    "id": 9770,
+    "members": false,
+    "examine": "Hitpoints skillcape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Ancestral robe top",
+    "id": 21021,
+    "members": false,
+    "examine": "The robe top of a powerful sorceress from a bygone era.",
+    "value": 120000,
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 35,
+        "rangedAttack": -8,
+        "stabDefence": 42,
+        "slashDefence": 31,
+        "crushDefence": 51,
+        "magicDefence": 28,
+        "magicDamage": 3.0,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Starjump (unobtainable item)",
+    "id": 10949,
+    "members": false,
+    "examine": "A sign.",
+    "value": 1,
+    "weight": 0.001
+}

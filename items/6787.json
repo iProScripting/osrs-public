@@ -1,0 +1,11 @@
+{
+    "name": "Robe of elidinis (bottom)",
+    "id": 6787,
+    "members": false,
+    "examine": "A patched up robe.",
+    "value": 1,
+    "weight": 0.005,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

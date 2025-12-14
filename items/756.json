@@ -1,0 +1,8 @@
+{
+    "name": "Cadava potion",
+    "id": 756,
+    "members": false,
+    "examine": "I'm meant to give this to Juliet.",
+    "value": 1,
+    "weight": 0.025
+}

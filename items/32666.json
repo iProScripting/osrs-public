@@ -1,0 +1,12 @@
+{
+    "name": "Crate of runes",
+    "id": 32666,
+    "members": false,
+    "examine": "A cargo crate of runes destined for Port Roberts.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

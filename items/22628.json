@@ -1,0 +1,22 @@
+{
+    "name": "Statius's platebody (Deadman Mode)",
+    "id": 22628,
+    "members": false,
+    "examine": "A powerful platebody.",
+    "value": 500000,
+    "weight": 9.979,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 5,
+        "crushAttack": 7,
+        "magicAttack": -30,
+        "rangedAttack": -10,
+        "stabDefence": 154,
+        "slashDefence": 145,
+        "crushDefence": 121,
+        "magicDefence": -6,
+        "rangedDefence": 157,
+        "strength": 5,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bronze boots",
+    "id": 4119,
+    "members": false,
+    "examine": "These will protect my feet.",
+    "value": 24,
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 1,
+        "slashDefence": 2,
+        "crushDefence": 3,
+        "slot": "FEET"
+    }
+}

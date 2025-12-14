@@ -1,0 +1,8 @@
+{
+    "name": "Bloodbark armour set",
+    "id": 31163,
+    "members": false,
+    "examine": "A set containing a Bloodbark helm, Bloodbark body, Bloodbark legs, Bloodbark boots and Bloodbark gloves.",
+    "value": 145000,
+    "weight": 0.05
+}

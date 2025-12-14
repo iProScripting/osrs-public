@@ -1,0 +1,9 @@
+{
+    "name": "Hunter potion",
+    "id": 10000,
+    "members": false,
+    "examine": "3 doses of Hunter potion.",
+    "value": 12,
+    "weight": 0.03,
+    "buyLimit": 2000
+}

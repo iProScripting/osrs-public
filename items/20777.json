@@ -1,0 +1,11 @@
+{
+    "name": "Banshee robe",
+    "id": 20777,
+    "members": false,
+    "examine": "Looks like someone has taken a saw to these!",
+    "value": 1,
+    "weight": 0.8,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

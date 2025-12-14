@@ -1,0 +1,15 @@
+{
+    "name": "Karil's crossbow",
+    "id": 4935,
+    "members": false,
+    "examine": "Karil the Tainted's repeating crossbow.",
+    "value": 160000,
+    "weight": 3.628,
+    "equipment": {
+        "rangedAttack": 84,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 8,
+        "combatStyle": "CROSSBOW"
+    }
+}

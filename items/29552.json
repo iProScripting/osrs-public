@@ -1,0 +1,8 @@
+{
+    "name": "Air block",
+    "id": 29552,
+    "members": false,
+    "examine": "An elemental block of air.",
+    "value": 30,
+    "weight": 1.0
+}

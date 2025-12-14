@@ -1,0 +1,9 @@
+{
+    "name": "Mushroom pie",
+    "id": 21690,
+    "members": false,
+    "examine": "Mmm mushroom pie.",
+    "value": 30,
+    "weight": 0.45,
+    "buyLimit": 10000
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Digsite pendant",
+    "id": 11191,
+    "members": false,
+    "examine": "An enchanted necklace.",
+    "value": 2400,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

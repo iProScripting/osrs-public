@@ -1,0 +1,8 @@
+{
+    "name": "Ancient blood ornament kit",
+    "id": 28336,
+    "members": false,
+    "examine": "Facilitates the imbuing of blood runes into ancient armour.",
+    "value": 9500,
+    "weight": 0.5
+}

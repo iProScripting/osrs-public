@@ -1,0 +1,9 @@
+{
+    "name": "Adamantite limbs",
+    "id": 9429,
+    "members": false,
+    "examine": "A pair of adamantite crossbow limbs.",
+    "value": 1600,
+    "weight": 3.0,
+    "buyLimit": 10000
+}

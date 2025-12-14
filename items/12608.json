@@ -1,0 +1,13 @@
+{
+    "name": "Book of war",
+    "id": 12608,
+    "members": false,
+    "examine": "The short book of the wisdom of Bandos.",
+    "value": 200,
+    "weight": 1.0,
+    "equipment": {
+        "strength": 2,
+        "prayerBonus": 5,
+        "slot": "SHIELD"
+    }
+}

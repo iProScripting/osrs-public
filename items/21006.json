@@ -1,0 +1,20 @@
+{
+    "name": "Kodai wand",
+    "id": 21006,
+    "members": false,
+    "examine": "A wand of an ancient Kodai mage.",
+    "value": 150000,
+    "weight": 0.198,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 28,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "magicDefence": 20,
+        "magicDamage": 15.0,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

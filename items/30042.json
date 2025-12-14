@@ -1,0 +1,8 @@
+{
+    "name": "Calcified acorn",
+    "id": 30042,
+    "members": false,
+    "examine": "A brittle looking acorn. Perhaps a squirrel would be interested in this?",
+    "value": 3000,
+    "weight": 0.002
+}

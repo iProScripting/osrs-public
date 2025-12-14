@@ -1,0 +1,9 @@
+{
+    "name": "Antipoison",
+    "id": 177,
+    "members": false,
+    "examine": "2 doses of antipoison potion.",
+    "value": 216,
+    "weight": 0.025,
+    "buyLimit": 2000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Moonlight potion",
+    "id": 29083,
+    "members": false,
+    "examine": "1 dose of a moonlight potion.",
+    "value": 250,
+    "weight": 0.02
+}

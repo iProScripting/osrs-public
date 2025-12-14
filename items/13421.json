@@ -1,0 +1,9 @@
+{
+    "name": "Saltpetre",
+    "id": 13421,
+    "members": false,
+    "examine": "A powder that can be added to compost to make fertiliser.",
+    "value": 5,
+    "weight": 0.003,
+    "buyLimit": 13000
+}

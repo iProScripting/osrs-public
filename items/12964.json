@@ -1,0 +1,9 @@
+{
+    "name": "Bronze trimmed set (lg)",
+    "id": 12964,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, legs and kiteshield.",
+    "value": 200,
+    "weight": 6.0,
+    "buyLimit": 8
+}

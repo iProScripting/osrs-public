@@ -1,0 +1,9 @@
+{
+    "name": "Jangerberry seed",
+    "id": 5104,
+    "members": false,
+    "examine": "A jangerberry bush seed - plant in a bush patch.",
+    "value": 60,
+    "weight": 0.0,
+    "buyLimit": 200
+}

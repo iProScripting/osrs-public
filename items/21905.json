@@ -1,0 +1,13 @@
+{
+    "name": "Dragon bolts",
+    "id": 21905,
+    "members": false,
+    "examine": "Dragon crossbow bolts.",
+    "value": 425,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

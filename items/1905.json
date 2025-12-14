@@ -1,0 +1,9 @@
+{
+    "name": "Asgarnian ale",
+    "id": 1905,
+    "members": false,
+    "examine": "Probably the finest ale in Asgarnia.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Criminal's dagger",
+    "id": 1813,
+    "members": false,
+    "examine": "A flimsy-looking dagger found at the crime scene.",
+    "value": 1,
+    "weight": 0.453
+}

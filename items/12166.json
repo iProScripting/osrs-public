@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search a bookcase in Lumbridge Swamp",
+    "id": 12166,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

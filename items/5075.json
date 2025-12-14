@@ -1,0 +1,9 @@
+{
+    "name": "Bird nest (empty)",
+    "id": 5075,
+    "members": false,
+    "examine": "It's an empty bird's nest.",
+    "value": 453,
+    "weight": 0.002,
+    "buyLimit": 11000
+}

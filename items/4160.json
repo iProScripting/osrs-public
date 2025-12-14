@@ -1,0 +1,12 @@
+{
+    "name": "Broad arrows",
+    "id": 4160,
+    "members": false,
+    "examine": "Arrows with a wider than normal tip.",
+    "value": 60,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 28,
+        "slot": "AMMO"
+    }
+}

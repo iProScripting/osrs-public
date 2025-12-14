@@ -1,0 +1,13 @@
+{
+    "name": "Rune javelin",
+    "id": 5653,
+    "members": false,
+    "examine": "A rune tipped javelin.",
+    "value": 400,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 124,
+        "slot": "AMMO"
+    }
+}

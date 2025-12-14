@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled elf head",
+    "id": 13481,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Adept Reanimation.",
+    "value": 358,
+    "weight": 0.453,
+    "buyLimit": 7500
+}

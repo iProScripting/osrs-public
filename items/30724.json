@@ -1,0 +1,11 @@
+{
+    "name": "Carrot costume tights",
+    "id": 30724,
+    "members": false,
+    "examine": "Carrots legs need to remain a tightly kept secret.",
+    "value": 30,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

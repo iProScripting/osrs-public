@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - A crate in the Lumber Yard",
+    "id": 2722,
+    "members": false,
+    "examine": "Part of the world map, but where?",
+    "value": 20,
+    "weight": 0.02
+}

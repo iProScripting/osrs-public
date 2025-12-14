@@ -1,0 +1,13 @@
+{
+    "name": "Silly jester top",
+    "id": 10837,
+    "members": false,
+    "examine": "A jester's jangly top.",
+    "value": 100,
+    "weight": 6.803,
+    "equipment": {
+        "magicDefence": 5,
+        "rangedDefence": -5,
+        "slot": "BODY"
+    }
+}

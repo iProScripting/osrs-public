@@ -1,0 +1,8 @@
+{
+    "name": "Blue crab",
+    "id": 31674,
+    "members": false,
+    "examine": "You'll need something to break through that shell.",
+    "value": 150,
+    "weight": 0.6
+}

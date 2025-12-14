@@ -1,0 +1,9 @@
+{
+    "name": "Lobster",
+    "id": 379,
+    "members": false,
+    "examine": "This looks tricky to eat.",
+    "value": 70,
+    "weight": 0.35,
+    "buyLimit": 6000
+}

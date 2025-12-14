@@ -1,0 +1,18 @@
+{
+    "name": "Twisted ancestral robe top",
+    "id": 24666,
+    "members": false,
+    "examine": "The robe top of a powerful sorceress from a bygone era.",
+    "value": 120000,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": 35,
+        "rangedAttack": -8,
+        "stabDefence": 42,
+        "slashDefence": 31,
+        "crushDefence": 51,
+        "magicDefence": 28,
+        "magicDamage": 3.0,
+        "slot": "BODY"
+    }
+}

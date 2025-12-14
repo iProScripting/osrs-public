@@ -1,0 +1,19 @@
+{
+    "name": "Black platelegs",
+    "id": 1077,
+    "members": false,
+    "examine": "Big, black and heavy looking.",
+    "value": 1920,
+    "weight": 9.071,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 21,
+        "slashDefence": 20,
+        "crushDefence": 19,
+        "magicDefence": -4,
+        "rangedDefence": 20,
+        "slot": "LEGS"
+    }
+}

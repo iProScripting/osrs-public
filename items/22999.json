@@ -1,0 +1,9 @@
+{
+    "name": "Bottled dragonbreath",
+    "id": 22999,
+    "members": false,
+    "examine": "Several dragonfruit were squeezed into this vial.",
+    "value": 500,
+    "weight": 0.08,
+    "buyLimit": 50
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lunar boots",
+    "id": 9100,
+    "members": false,
+    "examine": "Mystical foot protection.",
+    "value": 100,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 2,
+        "rangedAttack": -1,
+        "stabDefence": 1,
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "magicDefence": 2,
+        "slot": "FEET"
+    }
+}

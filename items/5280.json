@@ -1,0 +1,9 @@
+{
+    "name": "Cactus seed",
+    "id": 5280,
+    "members": false,
+    "examine": "A Cactus seed - plant in a cactus patch.",
+    "value": 99,
+    "weight": 0.0,
+    "buyLimit": 200
+}

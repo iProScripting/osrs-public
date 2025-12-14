@@ -1,0 +1,9 @@
+{
+    "name": "Bandos rune armour set (sk)",
+    "id": 13058,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
+    "value": 80000,
+    "weight": 6.0,
+    "buyLimit": 8
+}

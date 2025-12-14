@@ -1,0 +1,9 @@
+{
+    "name": "Barrows teleport (tablet)",
+    "id": 19629,
+    "members": false,
+    "examine": "A teleport to the Barrows.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

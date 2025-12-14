@@ -1,0 +1,11 @@
+{
+    "name": "Anti-panties",
+    "id": 13288,
+    "members": false,
+    "examine": "Your smelly reward for helping evict Anti-Santa from Death's house.",
+    "value": 1,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

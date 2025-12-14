@@ -1,0 +1,9 @@
+{
+    "name": "Achey tree logs",
+    "id": 2862,
+    "members": false,
+    "examine": "These logs are longer than normal.",
+    "value": 4,
+    "weight": 1.36,
+    "buyLimit": 13000
+}

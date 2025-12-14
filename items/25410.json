@@ -1,0 +1,16 @@
+{
+    "name": "Bloodbark boots",
+    "id": 25410,
+    "members": false,
+    "examine": "Great foot protection.",
+    "value": 10000,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 4,
+        "stabDefence": 5,
+        "slashDefence": 4,
+        "crushDefence": 6,
+        "magicDefence": 5,
+        "slot": "FEET"
+    }
+}

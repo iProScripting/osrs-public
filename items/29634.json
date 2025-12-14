@@ -1,0 +1,8 @@
+{
+    "name": "Blighted overload",
+    "id": 29634,
+    "members": false,
+    "examine": "3 doses of blighted overload potion.",
+    "value": 50,
+    "weight": 0.03
+}

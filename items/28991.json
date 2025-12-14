@@ -1,0 +1,12 @@
+{
+    "name": "Atlatl dart",
+    "id": 28991,
+    "members": false,
+    "examine": "Quite big for a dart.",
+    "value": 490,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Decorative armour (magic top)",
+    "id": 20495,
+    "members": false,
+    "examine": "Very decorative armour, but it's broken.",
+    "value": 1,
+    "weight": 6.803,
+    "equipment": {
+        "stabDefence": 20,
+        "slashDefence": 20,
+        "crushDefence": 20,
+        "magicDefence": 20,
+        "rangedDefence": 20,
+        "slot": "BODY"
+    }
+}

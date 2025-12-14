@@ -1,0 +1,20 @@
+{
+    "name": "Rune scimitar",
+    "id": 1333,
+    "members": false,
+    "examine": "A vicious, curved sword.",
+    "value": 25600,
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 7,
+        "slashAttack": 45,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "strength": 44,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

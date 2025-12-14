@@ -1,0 +1,9 @@
+{
+    "name": "Chisel",
+    "id": 1755,
+    "members": false,
+    "examine": "Good for detailed crafting.",
+    "value": 1,
+    "weight": 0.453,
+    "buyLimit": 40
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Adamant javelin",
+    "id": 5652,
+    "members": false,
+    "examine": "An adamant tipped javelin.",
+    "value": 160,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 102,
+        "slot": "AMMO"
+    }
+}

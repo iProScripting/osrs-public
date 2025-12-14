@@ -1,0 +1,8 @@
+{
+    "name": "Bone key (Shilo Village)",
+    "id": 605,
+    "members": false,
+    "examine": "A bone key fashioned from a shard of bone (Provides access to Rashiliyia's Tomb).",
+    "value": 1,
+    "weight": 0.01
+}

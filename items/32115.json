@@ -1,0 +1,8 @@
+{
+    "name": "Dragon cannon barrel",
+    "id": 32115,
+    "members": false,
+    "examine": "An old part of a dragon cannon.",
+    "value": 50000,
+    "weight": 12.0
+}

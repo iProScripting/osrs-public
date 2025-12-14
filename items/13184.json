@@ -1,0 +1,12 @@
+{
+    "name": "Incomplete blaster",
+    "id": 13184,
+    "members": false,
+    "examine": "It's loaded with explosive rounds only.",
+    "value": 1,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1
+    }
+}

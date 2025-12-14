@@ -1,0 +1,8 @@
+{
+    "name": "Burnt cave eel",
+    "id": 5002,
+    "members": false,
+    "examine": "It's no longer slimy, or edible.",
+    "value": 0,
+    "weight": 0.55
+}

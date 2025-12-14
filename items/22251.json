@@ -1,0 +1,17 @@
+{
+    "name": "Oak shield",
+    "id": 22251,
+    "members": false,
+    "examine": "A solid oaken shield.",
+    "value": 80,
+    "weight": 3.175,
+    "buyLimit": 18000,
+    "equipment": {
+        "stabDefence": 5,
+        "slashDefence": 6,
+        "crushDefence": 4,
+        "magicDefence": 1,
+        "rangedDefence": 5,
+        "slot": "SHIELD"
+    }
+}

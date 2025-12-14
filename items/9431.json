@@ -1,0 +1,9 @@
+{
+    "name": "Runite limbs",
+    "id": 9431,
+    "members": false,
+    "examine": "A pair of runite crossbow limbs.",
+    "value": 16000,
+    "weight": 3.0,
+    "buyLimit": 10000
+}

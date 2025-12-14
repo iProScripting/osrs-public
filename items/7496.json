@@ -1,0 +1,8 @@
+{
+    "name": "Empty spice shaker",
+    "id": 7496,
+    "members": false,
+    "examine": "Allows for equal distribution of spice.",
+    "value": 1,
+    "weight": 0.001
+}

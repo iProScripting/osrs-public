@@ -1,0 +1,21 @@
+{
+    "name": "Black dagger",
+    "id": 1217,
+    "members": false,
+    "examine": "A vicious black dagger.",
+    "value": 240,
+    "weight": 0.453,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 5,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 7,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

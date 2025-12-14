@@ -1,0 +1,11 @@
+{
+    "name": "Carrot costume gloves",
+    "id": 30726,
+    "members": false,
+    "examine": "What would it be like in a universe where everyone's fingers were replaced by carrots?",
+    "value": 0,
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Astronomy book",
+    "id": 600,
+    "members": false,
+    "examine": "A book on the history of astronomy.",
+    "value": 3,
+    "weight": 0.003
+}

@@ -1,0 +1,11 @@
+{
+    "name": "10th birthday cape",
+    "id": 27812,
+    "members": false,
+    "examine": "A cape made from a certain red and gold banner...where have I seen this before?",
+    "value": 1,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

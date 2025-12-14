@@ -1,0 +1,9 @@
+{
+    "name": "Orange tree seed",
+    "id": 5285,
+    "members": false,
+    "examine": "Plant in a plantpot of soil to grow a sapling.",
+    "value": 31,
+    "weight": 0.0,
+    "buyLimit": 200
+}

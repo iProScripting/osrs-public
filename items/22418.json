@@ -1,0 +1,8 @@
+{
+    "name": "Explosive discovery",
+    "id": 22418,
+    "members": false,
+    "examine": "An old book about ballistics.",
+    "value": 1,
+    "weight": 0.51
+}

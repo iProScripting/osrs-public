@@ -1,0 +1,15 @@
+{
+    "name": "Bandos robe legs",
+    "id": 12267,
+    "members": false,
+    "examine": "Leggings from the Bandos Vestments.",
+    "value": 7000,
+    "weight": 2.7,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "prayerBonus": 5,
+        "slot": "LEGS"
+    }
+}

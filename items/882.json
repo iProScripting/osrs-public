@@ -1,0 +1,13 @@
+{
+    "name": "Bronze arrow",
+    "id": 882,
+    "members": false,
+    "examine": "Arrows with bronze heads.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 7,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Barronite deposit",
+    "id": 25684,
+    "members": false,
+    "examine": "A deposit of strange glowing ore that looks quite smashable. I wonder what's inside?",
+    "value": 1,
+    "weight": 0.2
+}

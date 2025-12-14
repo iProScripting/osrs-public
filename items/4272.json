@@ -1,0 +1,8 @@
+{
+    "name": "Bone key (Ghosts Ahoy)",
+    "id": 4272,
+    "members": false,
+    "examine": "A key dropped by Necrovarus (Used in the Ghosts Ahoy quest).",
+    "value": 1,
+    "weight": 0.01
+}

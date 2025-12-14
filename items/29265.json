@@ -1,0 +1,11 @@
+{
+    "name": "Guild hunter top",
+    "id": 29265,
+    "members": false,
+    "examine": "The top of the Hunters.",
+    "value": 800,
+    "weight": 1.36,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

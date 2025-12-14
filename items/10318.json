@@ -1,0 +1,12 @@
+{
+    "name": "Bob's blue shirt",
+    "id": 10318,
+    "members": false,
+    "examine": "'Bob says: Always check the second trade screen.'",
+    "value": 3,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

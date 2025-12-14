@@ -1,0 +1,22 @@
+{
+    "name": "Dragon defender",
+    "id": 24143,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 68007,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 25,
+        "slashAttack": 24,
+        "crushAttack": 23,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 25,
+        "slashDefence": 24,
+        "crushDefence": 23,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "strength": 6,
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Abyssal bludgeon",
+    "id": 13263,
+    "members": false,
+    "examine": "Elements of deceased Abyssal Sires have been fused together.",
+    "value": 260000,
+    "weight": 6.0,
+    "buyLimit": 8,
+    "equipment": {
+        "crushAttack": 102,
+        "strength": 85,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUDGEON"
+    }
+}

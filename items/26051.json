@@ -1,0 +1,8 @@
+{
+    "name": "Sigil of the treasure hunter",
+    "id": 26051,
+    "members": false,
+    "examine": "A power enhancing sigil not yet attuned to you.",
+    "value": 10000,
+    "weight": 0.1
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Blue elegant blouse",
+    "id": 10428,
+    "members": false,
+    "examine": "A well made elegant ladies' blue blouse.",
+    "value": 2000,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

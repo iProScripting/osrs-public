@@ -1,0 +1,8 @@
+{
+    "name": "Captain's log",
+    "id": 31985,
+    "members": false,
+    "examine": "You wouldn't want to lose this out at sea.",
+    "value": 1,
+    "weight": 0.01
+}

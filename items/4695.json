@@ -1,0 +1,9 @@
+{
+    "name": "Mist rune",
+    "id": 4695,
+    "members": false,
+    "examine": "A combined Air and Water Rune.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

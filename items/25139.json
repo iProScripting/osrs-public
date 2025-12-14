@@ -1,0 +1,9 @@
+{
+    "name": "Bone fragments",
+    "id": 25139,
+    "members": false,
+    "examine": "Ground down bone fragments.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 500
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Bounty supply crate (anglerfish)",
+    "id": 30619,
+    "members": false,
+    "examine": "A crate full of supplies.",
+    "value": 10000,
+    "weight": 5.0,
+    "buyLimit": 100
+}

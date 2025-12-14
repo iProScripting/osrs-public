@@ -1,0 +1,8 @@
+{
+    "name": "Keg (dummy item)",
+    "id": 10885,
+    "members": false,
+    "examine": "A small keg of gunpowder.",
+    "value": 1,
+    "weight": 0.001
+}

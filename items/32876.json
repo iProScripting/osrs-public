@@ -1,0 +1,8 @@
+{
+    "name": "Aquanite tendon",
+    "id": 32876,
+    "members": false,
+    "examine": "A tendon. How nice.",
+    "value": 5000,
+    "weight": 0.01
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Mind shield",
+    "id": 9731,
+    "members": false,
+    "examine": "A magic shield.",
+    "value": 3000,
+    "weight": 0.226,
+    "buyLimit": 70,
+    "equipment": {
+        "magicDefence": 9,
+        "slot": "SHIELD"
+    }
+}

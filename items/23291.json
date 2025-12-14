@@ -1,0 +1,12 @@
+{
+    "name": "Bear feet",
+    "id": 23291,
+    "members": false,
+    "examine": "Vicious bear slippers.",
+    "value": 1000,
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

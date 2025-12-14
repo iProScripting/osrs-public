@@ -1,0 +1,16 @@
+{
+    "name": "Dragon sq shield (g)",
+    "id": 12418,
+    "members": false,
+    "examine": "An ancient and powerful looking Dragon Square shield with gold trim.",
+    "value": 500000,
+    "weight": 3.175,
+    "equipment": {
+        "magicAttack": -6,
+        "stabDefence": 50,
+        "slashDefence": 52,
+        "crushDefence": 48,
+        "rangedDefence": 50,
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Zamorak brew",
+    "id": 193,
+    "members": false,
+    "examine": "1 dose of Zamorak brew.",
+    "value": 125,
+    "weight": 0.02,
+    "buyLimit": 2000
+}

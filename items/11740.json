@@ -1,0 +1,8 @@
+{
+    "name": "Scroll of redirection",
+    "id": 11740,
+    "members": false,
+    "examine": "Use this on a 'Teleport to House' tablet to redirect the tablet.",
+    "value": 10,
+    "weight": 0.0
+}

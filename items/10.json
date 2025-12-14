@@ -1,0 +1,9 @@
+{
+    "name": "Cannon barrels",
+    "id": 10,
+    "members": false,
+    "examine": "The barrels of the multicannon.",
+    "value": 187500,
+    "weight": 15.0,
+    "buyLimit": 70
+}

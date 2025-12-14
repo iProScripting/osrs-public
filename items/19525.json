@@ -1,0 +1,14 @@
+{
+    "name": "Kruk monkey greegree",
+    "id": 19525,
+    "members": false,
+    "examine": "A magical talisman in the shape of Kruk's head.",
+    "value": 6000,
+    "weight": 0.085,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

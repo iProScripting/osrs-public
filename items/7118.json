@@ -1,0 +1,8 @@
+{
+    "name": "Canister (animation item)",
+    "id": 7118,
+    "members": false,
+    "examine": "A canister holding shrapnel.",
+    "value": 1,
+    "weight": 0.005
+}

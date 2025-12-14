@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of delicate elven wine",
+    "id": 31858,
+    "members": false,
+    "examine": "Do real wine tasters consume the whole bottle in one swig?",
+    "value": 50,
+    "weight": 0.003
+}

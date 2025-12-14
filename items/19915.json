@@ -1,0 +1,12 @@
+{
+    "name": "Cyclops head",
+    "id": 19915,
+    "members": false,
+    "examine": "You'd expect this to interfere with your 3D vision.",
+    "value": 5000,
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

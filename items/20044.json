@@ -1,0 +1,17 @@
+{
+    "name": "Samurai greaves",
+    "id": 20044,
+    "members": false,
+    "examine": "Armoured greaves of the Samurai.",
+    "value": 3200,
+    "weight": 1.5,
+    "buyLimit": 70,
+    "equipment": {
+        "stabDefence": 42,
+        "slashDefence": 40,
+        "crushDefence": 38,
+        "magicDefence": 3,
+        "rangedDefence": 40,
+        "slot": "LEGS"
+    }
+}

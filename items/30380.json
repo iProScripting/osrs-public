@@ -1,0 +1,22 @@
+{
+    "name": "Gloves of the damned",
+    "id": 30380,
+    "members": false,
+    "examine": "Gloves that bring down the composure of any living being nearby.",
+    "value": 50000,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 12,
+        "slashAttack": 12,
+        "crushAttack": 12,
+        "magicAttack": 6,
+        "rangedAttack": 12,
+        "stabDefence": 12,
+        "slashDefence": 12,
+        "crushDefence": 12,
+        "magicDefence": 6,
+        "rangedDefence": 12,
+        "strength": 12,
+        "slot": "HANDS"
+    }
+}

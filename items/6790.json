@@ -1,0 +1,11 @@
+{
+    "name": "Shoes",
+    "id": 6790,
+    "members": false,
+    "examine": "Awusah's Shoes.",
+    "value": 1,
+    "weight": 0.226,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

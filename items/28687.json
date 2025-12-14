@@ -1,0 +1,15 @@
+{
+    "name": "Blazing blowpipe",
+    "id": 28687,
+    "members": false,
+    "examine": "An uncharged Toxic Blowpipe that fires darts coated with venom... And fire.",
+    "value": 120000,
+    "weight": 0.3,
+    "equipment": {
+        "rangedAttack": 30,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 5,
+        "combatStyle": "THROWN"
+    }
+}

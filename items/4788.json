@@ -1,0 +1,13 @@
+{
+    "name": "Black brutal",
+    "id": 4788,
+    "members": false,
+    "examine": "Blunt black arrow... ouch.",
+    "value": 35,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 22,
+        "slot": "AMMO"
+    }
+}

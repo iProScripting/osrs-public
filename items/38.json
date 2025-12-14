@@ -1,0 +1,8 @@
+{
+    "name": "Black candle",
+    "id": 38,
+    "members": false,
+    "examine": "A spooky candle.",
+    "value": 3,
+    "weight": 0.028
+}

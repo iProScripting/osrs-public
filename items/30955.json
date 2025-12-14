@@ -1,0 +1,17 @@
+{
+    "name": "Arkan blade",
+    "id": 30955,
+    "members": false,
+    "examine": "A powerful sword imbued with the fire of the sun.",
+    "value": 250000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 55,
+        "slashAttack": 70,
+        "strength": 64,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

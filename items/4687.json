@@ -1,0 +1,9 @@
+{
+    "name": "Bucket of sap",
+    "id": 4687,
+    "members": false,
+    "examine": "It's a bucket of sap.",
+    "value": 30,
+    "weight": 2.5,
+    "buyLimit": 15
+}

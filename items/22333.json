@@ -1,0 +1,16 @@
+{
+    "name": "Starter bow",
+    "id": 22333,
+    "members": false,
+    "examine": "A bow from a starter pack.",
+    "value": 500,
+    "weight": 1.36,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 7,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "BOW"
+    }
+}

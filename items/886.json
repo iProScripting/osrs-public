@@ -1,0 +1,13 @@
+{
+    "name": "Steel arrow",
+    "id": 886,
+    "members": false,
+    "examine": "Arrows with steel heads.",
+    "value": 12,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 16,
+        "slot": "AMMO"
+    }
+}

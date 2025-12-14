@@ -1,0 +1,14 @@
+{
+    "name": "Castlewars cloak (Saradomin)",
+    "id": 4514,
+    "members": false,
+    "examine": "A fine castlewars Cape.",
+    "value": 100,
+    "weight": 0.453,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

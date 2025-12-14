@@ -1,0 +1,20 @@
+{
+    "name": "Dwarven helmet",
+    "id": 11200,
+    "members": false,
+    "examine": "A sturdy helmet that belonged to Rupert the Beard.",
+    "value": 60000,
+    "weight": 1.9,
+    "buyLimit": 50,
+    "equipment": {
+        "crushAttack": 6,
+        "magicAttack": -2,
+        "rangedAttack": -2,
+        "stabDefence": 27,
+        "slashDefence": 28,
+        "crushDefence": 31,
+        "magicDefence": 5,
+        "rangedDefence": 24,
+        "slot": "HEAD"
+    }
+}

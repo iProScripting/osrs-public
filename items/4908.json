@@ -1,0 +1,12 @@
+{
+    "name": "Guthan's helm",
+    "id": 4908,
+    "members": false,
+    "examine": "Guthan the Infested's helm.",
+    "value": 103000,
+    "weight": 2.721,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

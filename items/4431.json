@@ -1,0 +1,8 @@
+{
+    "name": "Broken vane part",
+    "id": 4431,
+    "members": false,
+    "examine": "This weathervane ornament is damaged.",
+    "value": 1,
+    "weight": 0.001
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Sandwich lady top",
+    "id": 23315,
+    "members": false,
+    "examine": "A top worn by a sandwich lady.",
+    "value": 500,
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of spices",
+    "id": 32477,
+    "members": false,
+    "examine": "A cargo crate of spices destined for \tBrimhaven.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

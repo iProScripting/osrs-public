@@ -1,0 +1,21 @@
+{
+    "name": "Black 2h sword",
+    "id": 1313,
+    "members": false,
+    "examine": "A two handed sword.",
+    "value": 1920,
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 27,
+        "crushAttack": 21,
+        "magicAttack": -4,
+        "rangedDefence": -1,
+        "strength": 26,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

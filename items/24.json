@@ -1,0 +1,8 @@
+{
+    "name": "Rat poison",
+    "id": 24,
+    "members": false,
+    "examine": "Doesn't look very tasty.",
+    "value": 1,
+    "weight": 0.141
+}

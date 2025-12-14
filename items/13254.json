@@ -1,0 +1,8 @@
+{
+    "name": "Basket pack",
+    "id": 13254,
+    "members": false,
+    "examine": "A pack containing 100 baskets.",
+    "value": 100,
+    "weight": 0.453
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Wooden pole",
+    "id": 26934,
+    "members": false,
+    "examine": "A wooden pole which could be used as an axle for the wheel.",
+    "value": 1,
+    "weight": 0.2
+}

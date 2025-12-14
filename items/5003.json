@@ -1,0 +1,9 @@
+{
+    "name": "Cave eel",
+    "id": 5003,
+    "members": false,
+    "examine": "It's a bit slimy.",
+    "value": 15,
+    "weight": 0.5,
+    "buyLimit": 10000
+}

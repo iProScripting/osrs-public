@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled demon head",
+    "id": 13502,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
+    "value": 527,
+    "weight": 0.453,
+    "buyLimit": 7500
+}

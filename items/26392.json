@@ -1,0 +1,8 @@
+{
+    "name": "Blood essence",
+    "id": 26392,
+    "members": false,
+    "examine": "A blood-filled essence with magical properties.",
+    "value": 100000,
+    "weight": 0.001
+}

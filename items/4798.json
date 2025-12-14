@@ -1,0 +1,13 @@
+{
+    "name": "Adamant brutal",
+    "id": 4798,
+    "members": false,
+    "examine": "Blunt adamantite arrow... ouch.",
+    "value": 95,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 45,
+        "slot": "AMMO"
+    }
+}

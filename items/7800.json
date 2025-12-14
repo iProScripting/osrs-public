@@ -1,0 +1,8 @@
+{
+    "name": "Snail shell",
+    "id": 7800,
+    "members": false,
+    "examine": "A shell from a giant snail.",
+    "value": 1,
+    "weight": 7.0
+}

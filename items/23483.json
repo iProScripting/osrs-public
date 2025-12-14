@@ -1,0 +1,8 @@
+{
+    "name": "Healer icon",
+    "id": 23483,
+    "members": false,
+    "examine": "An icon.",
+    "value": 1,
+    "weight": 0.001
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Black platebody (h5)",
+    "id": 23378,
+    "members": false,
+    "examine": "Black plate body with a heraldic design.",
+    "value": 3840,
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 41,
+        "slashDefence": 40,
+        "crushDefence": 30,
+        "magicDefence": -6,
+        "rangedDefence": 40,
+        "slot": "BODY"
+    }
+}

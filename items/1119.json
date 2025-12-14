@@ -1,0 +1,19 @@
+{
+    "name": "Steel platebody",
+    "id": 1119,
+    "members": false,
+    "examine": "Provides excellent protection.",
+    "value": 2000,
+    "weight": 9.979,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 32,
+        "slashDefence": 31,
+        "crushDefence": 24,
+        "magicDefence": -6,
+        "rangedDefence": 31,
+        "slot": "BODY"
+    }
+}

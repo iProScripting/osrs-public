@@ -1,0 +1,9 @@
+{
+    "name": "Armadyl brew",
+    "id": 31650,
+    "members": false,
+    "examine": "4 doses of Armadyl brew.",
+    "value": 250,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

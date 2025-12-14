@@ -1,0 +1,20 @@
+{
+    "name": "Adamant battleaxe",
+    "id": 1371,
+    "members": false,
+    "examine": "A vicious looking axe.",
+    "value": 4160,
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 31,
+        "crushAttack": 26,
+        "rangedDefence": -1,
+        "strength": 41,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

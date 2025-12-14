@@ -1,0 +1,12 @@
+{
+    "name": "Crate of alpaca wool",
+    "id": 32532,
+    "members": false,
+    "examine": "A cargo crate of alpaca wool destined for Deepfin Point.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

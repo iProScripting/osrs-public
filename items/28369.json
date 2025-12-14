@@ -1,0 +1,8 @@
+{
+    "name": "Anima portal",
+    "id": 28369,
+    "members": false,
+    "examine": "A strange magical portal.",
+    "value": 30,
+    "weight": 3.0
+}

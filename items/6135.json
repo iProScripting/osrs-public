@@ -1,0 +1,19 @@
+{
+    "name": "Spined chaps",
+    "id": 6135,
+    "members": false,
+    "examine": "Stylish leg armour for rangers with a lingering smell of raw fish...",
+    "value": 3900,
+    "weight": 5.443,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 8,
+        "stabDefence": 22,
+        "slashDefence": 16,
+        "crushDefence": 24,
+        "magicDefence": 8,
+        "rangedDefence": 22,
+        "slot": "LEGS"
+    }
+}

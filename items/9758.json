@@ -1,0 +1,11 @@
+{
+    "name": "Ranging hood",
+    "id": 9758,
+    "members": false,
+    "examine": "Range skillcape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Broken egg",
+    "id": 24544,
+    "members": false,
+    "examine": "Something has emerged from this egg already.",
+    "value": 1,
+    "weight": 0.1
+}

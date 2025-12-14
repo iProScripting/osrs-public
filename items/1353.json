@@ -1,0 +1,20 @@
+{
+    "name": "Steel axe",
+    "id": 1353,
+    "members": false,
+    "examine": "A woodcutter's axe.",
+    "value": 200,
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 8,
+        "crushAttack": 6,
+        "slashDefence": 1,
+        "strength": 9,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

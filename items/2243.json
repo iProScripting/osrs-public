@@ -1,0 +1,9 @@
+{
+    "name": "Premade t'd crunch",
+    "id": 2243,
+    "members": false,
+    "examine": "Some premade Toad Crunchies.",
+    "value": 85,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

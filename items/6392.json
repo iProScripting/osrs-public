@@ -1,0 +1,12 @@
+{
+    "name": "Menaphite purple hat",
+    "id": 6392,
+    "members": false,
+    "examine": "Good for keeping the sun off my neck.",
+    "value": 35,
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

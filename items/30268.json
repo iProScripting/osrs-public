@@ -1,0 +1,11 @@
+{
+    "name": "Orange pumpkin",
+    "id": 30268,
+    "members": false,
+    "examine": "That pumpkin is absolutely monstruous.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

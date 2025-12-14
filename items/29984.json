@@ -1,0 +1,11 @@
+{
+    "name": "Alchemist pants",
+    "id": 29984,
+    "members": false,
+    "examine": "Breezy.",
+    "value": 340,
+    "weight": 0.71,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

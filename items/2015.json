@@ -1,0 +1,9 @@
+{
+    "name": "Vodka",
+    "id": 2015,
+    "members": false,
+    "examine": "An absolutely clear spirit.",
+    "value": 5,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

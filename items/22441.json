@@ -1,0 +1,22 @@
+{
+    "name": "Avernic defender",
+    "id": 22441,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 30,
+        "slashAttack": 29,
+        "crushAttack": 28,
+        "magicAttack": -5,
+        "rangedAttack": -4,
+        "stabDefence": 30,
+        "slashDefence": 29,
+        "crushDefence": 28,
+        "magicDefence": -5,
+        "rangedDefence": -4,
+        "strength": 8,
+        "slot": "SHIELD"
+    }
+}

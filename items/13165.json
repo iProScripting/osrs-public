@@ -1,0 +1,9 @@
+{
+    "name": "Guthix dragonhide set",
+    "id": 13165,
+    "members": false,
+    "examine": "A set containing a Guthix dragonhide coif, body, chaps and vambraces.",
+    "value": 9000,
+    "weight": 0.05,
+    "buyLimit": 8
+}

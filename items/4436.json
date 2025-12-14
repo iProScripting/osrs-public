@@ -1,0 +1,9 @@
+{
+    "name": "Airtight pot",
+    "id": 4436,
+    "members": false,
+    "examine": "This is pretty well sealed.",
+    "value": 10,
+    "weight": 0.595,
+    "buyLimit": 15
+}

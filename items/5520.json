@@ -1,0 +1,8 @@
+{
+    "name": "Abyssal book",
+    "id": 5520,
+    "members": false,
+    "examine": "Some research notes on the Abyss.",
+    "value": 10,
+    "weight": 0.01
+}

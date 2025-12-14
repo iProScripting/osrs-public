@@ -1,0 +1,9 @@
+{
+    "name": "Ale yeast",
+    "id": 5767,
+    "members": false,
+    "examine": "A pot filled with ale yeast.",
+    "value": 1,
+    "weight": 2.834,
+    "buyLimit": 11000
+}

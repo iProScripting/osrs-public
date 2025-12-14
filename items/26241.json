@@ -1,0 +1,20 @@
+{
+    "name": "Virtus mask",
+    "id": 26241,
+    "members": false,
+    "examine": "An ancient mage's mask.",
+    "value": 200000,
+    "weight": 1.206,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 8,
+        "rangedAttack": -3,
+        "stabDefence": 15,
+        "slashDefence": 14,
+        "crushDefence": 16,
+        "magicDefence": 6,
+        "prayerBonus": 1,
+        "magicDamage": 2.0,
+        "slot": "HEAD"
+    }
+}

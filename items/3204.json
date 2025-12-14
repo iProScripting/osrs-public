@@ -1,0 +1,22 @@
+{
+    "name": "Dragon halberd",
+    "id": 3204,
+    "members": false,
+    "examine": "A dragon halberd.",
+    "value": 250000,
+    "weight": 3.175,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 70,
+        "slashAttack": 95,
+        "magicAttack": -4,
+        "stabDefence": -1,
+        "slashDefence": 4,
+        "crushDefence": 5,
+        "strength": 89,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 2,
+        "combatStyle": "POLEARM"
+    }
+}

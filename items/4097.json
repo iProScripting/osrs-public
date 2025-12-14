@@ -1,0 +1,14 @@
+{
+    "name": "Mystic boots",
+    "id": 4097,
+    "members": false,
+    "examine": "Magical boots.",
+    "value": 10000,
+    "weight": 0.453,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 3,
+        "magicDefence": 3,
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Samurai gloves",
+    "id": 20041,
+    "members": false,
+    "examine": "Armoured gloves of the Samurai.",
+    "value": 3200,
+    "weight": 0.4,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 2,
+        "slashAttack": 2,
+        "crushAttack": 2,
+        "magicAttack": 2,
+        "rangedAttack": 2,
+        "stabDefence": 3,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "magicDefence": 3,
+        "rangedDefence": 3,
+        "slot": "HANDS"
+    }
+}

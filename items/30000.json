@@ -1,0 +1,8 @@
+{
+    "name": "Chugging barrel",
+    "id": 30000,
+    "members": false,
+    "examine": "Used to store and drink multiple potions.",
+    "value": 100,
+    "weight": 0.453
+}

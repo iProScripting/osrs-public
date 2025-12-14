@@ -1,0 +1,8 @@
+{
+    "name": "Dead orb",
+    "id": 2529,
+    "members": false,
+    "examine": "It's dead. You should get rid of it.",
+    "value": 1,
+    "weight": 0.907
+}

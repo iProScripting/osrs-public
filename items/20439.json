@@ -1,0 +1,12 @@
+{
+    "name": "Evil chicken head",
+    "id": 20439,
+    "members": false,
+    "examine": "Cock-a-doodle-do!",
+    "value": 1,
+    "weight": 0.25,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

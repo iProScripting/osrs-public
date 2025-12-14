@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Dig near some giant mushrooms",
+    "id": 3510,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

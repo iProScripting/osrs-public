@@ -1,0 +1,9 @@
+{
+    "name": "Cadantine blood potion (unf)",
+    "id": 22443,
+    "members": false,
+    "examine": "I need another ingredient to finish this blood potion.",
+    "value": 165,
+    "weight": 0.056,
+    "buyLimit": 10000
+}

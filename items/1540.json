@@ -1,0 +1,17 @@
+{
+    "name": "Anti-dragon shield",
+    "id": 1540,
+    "members": false,
+    "examine": "This provides partial protection from dragonbreath attacks.",
+    "value": 20,
+    "weight": 5.443,
+    "buyLimit": 125,
+    "equipment": {
+        "stabDefence": 7,
+        "slashDefence": 9,
+        "crushDefence": 8,
+        "magicDefence": 2,
+        "rangedDefence": 8,
+        "slot": "SHIELD"
+    }
+}

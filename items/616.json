@@ -1,0 +1,23 @@
+{
+    "name": "Beads of the dead",
+    "id": 616,
+    "members": false,
+    "examine": "A curious looking neck ornament.",
+    "value": 1,
+    "weight": 0.01,
+    "equipment": {
+        "stabAttack": 1,
+        "slashAttack": 1,
+        "crushAttack": 1,
+        "magicAttack": 1,
+        "rangedAttack": 1,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "magicDefence": 1,
+        "rangedDefence": 1,
+        "strength": 1,
+        "prayerBonus": 1,
+        "slot": "NECK"
+    }
+}

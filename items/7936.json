@@ -1,0 +1,9 @@
+{
+    "name": "Pure essence",
+    "id": 7936,
+    "members": false,
+    "examine": "An unimbued rune of extra capability.",
+    "value": 4,
+    "weight": 0.002,
+    "buyLimit": 30000
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Desert top (overcoat)",
+    "id": 6388,
+    "members": false,
+    "examine": "Good for those cold desert nights.",
+    "value": 35,
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

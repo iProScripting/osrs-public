@@ -1,0 +1,8 @@
+{
+    "name": "Blue liquid",
+    "id": 23792,
+    "members": false,
+    "examine": "A thin blue liquid that I obtained from Elena's chemical cabinet.",
+    "value": 30,
+    "weight": 0.02
+}

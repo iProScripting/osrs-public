@@ -1,0 +1,12 @@
+{
+    "name": "Dragon fire arrow",
+    "id": 11217,
+    "members": false,
+    "examine": "Arrows with dragon heads wrapped in oily cloth.",
+    "value": 3,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 60,
+        "slot": "AMMO"
+    }
+}

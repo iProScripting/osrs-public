@@ -1,0 +1,8 @@
+{
+    "name": "Herb box",
+    "id": 11738,
+    "members": false,
+    "examine": "Contains seven random herbs.",
+    "value": 100,
+    "weight": 0.2
+}

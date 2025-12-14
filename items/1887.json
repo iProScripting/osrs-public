@@ -1,0 +1,9 @@
+{
+    "name": "Cake tin",
+    "id": 1887,
+    "members": false,
+    "examine": "Useful for baking cakes.",
+    "value": 10,
+    "weight": 0.1,
+    "buyLimit": 40
+}

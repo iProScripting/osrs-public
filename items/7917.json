@@ -1,0 +1,16 @@
+{
+    "name": "Ram skull helm",
+    "id": 7917,
+    "members": false,
+    "examine": "Makes me feel baaad to the bone.",
+    "value": 1,
+    "weight": 3.175,
+    "equipment": {
+        "rangedAttack": -2,
+        "stabDefence": 19,
+        "slashDefence": 21,
+        "crushDefence": 16,
+        "rangedDefence": 19,
+        "slot": "HEAD"
+    }
+}

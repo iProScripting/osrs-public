@@ -1,0 +1,9 @@
+{
+    "name": "Rabbit foot",
+    "id": 10134,
+    "members": false,
+    "examine": "This could be put on a string and worn for luck.",
+    "value": 30,
+    "weight": 0.03,
+    "buyLimit": 100
+}

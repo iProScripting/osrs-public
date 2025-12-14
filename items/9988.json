@@ -1,0 +1,9 @@
+{
+    "name": "Roast beast meat",
+    "id": 9988,
+    "members": false,
+    "examine": "A delicious looking slab of roast beast.",
+    "value": 25,
+    "weight": 2.0,
+    "buyLimit": 6000
+}

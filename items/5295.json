@@ -1,0 +1,9 @@
+{
+    "name": "Ranarr seed",
+    "id": 5295,
+    "members": false,
+    "examine": "A ranarr seed - plant in a herb patch.",
+    "value": 50,
+    "weight": 0.0,
+    "buyLimit": 200
+}

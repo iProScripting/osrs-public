@@ -1,0 +1,9 @@
+{
+    "name": "Senntisten teleport (tablet)",
+    "id": 12782,
+    "members": false,
+    "examine": "A teleport to Senntisten.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

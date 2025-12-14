@@ -1,0 +1,11 @@
+{
+    "name": "Cake hat",
+    "id": 27804,
+    "members": false,
+    "examine": "Fashionable and delicious.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

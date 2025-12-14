@@ -1,0 +1,12 @@
+{
+    "name": "Christmas dinner",
+    "id": 32934,
+    "members": false,
+    "examine": "A plate full of food and a cup full of festive drink!",
+    "value": 50,
+    "weight": 0.07,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Cooked graahk",
+    "id": 29149,
+    "members": false,
+    "examine": "Mmm, this looks tasty.",
+    "value": 4,
+    "weight": 0.283,
+    "buyLimit": 10000
+}

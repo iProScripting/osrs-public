@@ -1,0 +1,9 @@
+{
+    "name": "Bronze dart tip",
+    "id": 819,
+    "members": false,
+    "examine": "A deadly looking dart tip made of bronze - needs feathers for flight.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

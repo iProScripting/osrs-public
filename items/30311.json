@@ -1,0 +1,8 @@
+{
+    "name": "Base key",
+    "id": 30311,
+    "members": false,
+    "examine": "A key found in Zemouregal's Fort (Used in The Curse of Arrav quest).",
+    "value": 30,
+    "weight": 0.01
+}

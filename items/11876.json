@@ -1,0 +1,9 @@
+{
+    "name": "Unfinished broad bolts",
+    "id": 11876,
+    "members": false,
+    "examine": "Add feathers to make broad-tipped crossbow bolts.",
+    "value": 55,
+    "weight": 0.0,
+    "buyLimit": 7000
+}

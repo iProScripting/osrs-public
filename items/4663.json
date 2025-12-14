@@ -1,0 +1,8 @@
+{
+    "name": "Blessed pot",
+    "id": 4663,
+    "members": false,
+    "examine": "A blessed silver pot filled with blood and garlic.",
+    "value": 250,
+    "weight": 0.453
+}

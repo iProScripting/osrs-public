@@ -1,0 +1,8 @@
+{
+    "name": "Barrel bomb",
+    "id": 3219,
+    "members": false,
+    "examine": "A fused barrel full of fire oil.",
+    "value": 1,
+    "weight": 32.0
+}

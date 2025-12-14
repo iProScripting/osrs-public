@@ -1,0 +1,22 @@
+{
+    "name": "Rune gloves",
+    "id": 7460,
+    "members": false,
+    "examine": "A pair of very nice gloves.",
+    "value": 5000,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 8,
+        "slashAttack": 8,
+        "crushAttack": 8,
+        "magicAttack": 4,
+        "rangedAttack": 8,
+        "stabDefence": 8,
+        "slashDefence": 8,
+        "crushDefence": 8,
+        "magicDefence": 4,
+        "rangedDefence": 8,
+        "strength": 8,
+        "slot": "HANDS"
+    }
+}

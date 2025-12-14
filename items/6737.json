@@ -1,0 +1,14 @@
+{
+    "name": "Berserker ring",
+    "id": 6737,
+    "members": false,
+    "examine": "A ring reputed to bring out a berserk fury in its wearer.",
+    "value": 10000,
+    "weight": 0.004,
+    "buyLimit": 8,
+    "equipment": {
+        "crushDefence": 4,
+        "strength": 4,
+        "slot": "RING"
+    }
+}

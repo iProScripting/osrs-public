@@ -1,0 +1,9 @@
+{
+    "name": "Uncooked dragonfruit pie",
+    "id": 22789,
+    "members": false,
+    "examine": "This would be much tastier cooked.",
+    "value": 40,
+    "weight": 0.5,
+    "buyLimit": 10000
+}

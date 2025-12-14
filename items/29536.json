@@ -1,0 +1,8 @@
+{
+    "name": "Teleorb",
+    "id": 29536,
+    "members": false,
+    "examine": "This can be used to remotely teleport people.",
+    "value": 30,
+    "weight": 2.0
+}

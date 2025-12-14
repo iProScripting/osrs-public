@@ -1,0 +1,23 @@
+{
+    "name": "Sunlit bracers",
+    "id": 30386,
+    "members": false,
+    "examine": "Two bracers that provide a divine connection to the Sun God.",
+    "value": 50000,
+    "weight": 0.25,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 10,
+        "magicAttack": 6,
+        "rangedAttack": 18,
+        "stabDefence": 12,
+        "slashDefence": 12,
+        "crushDefence": 12,
+        "magicDefence": 6,
+        "rangedDefence": 12,
+        "strength": 8,
+        "rangedStrength": 4,
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Eggshell platebody",
+    "id": 22351,
+    "members": false,
+    "examine": "A chocolate shell reinforced with a thin layer of foil.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

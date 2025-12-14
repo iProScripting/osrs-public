@@ -1,0 +1,16 @@
+{
+    "name": "Morrigan's javelin (Deadman Mode)",
+    "id": 22636,
+    "members": false,
+    "examine": "A vicious javelin.",
+    "value": 4000,
+    "weight": 0.0,
+    "equipment": {
+        "rangedAttack": 105,
+        "rangedStrength": 145,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 5,
+        "combatStyle": "THROWN"
+    }
+}

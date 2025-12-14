@@ -1,0 +1,13 @@
+{
+    "name": "Book of the dead",
+    "id": 25818,
+    "members": false,
+    "examine": "A book that grants its holder the powers of resurrection.",
+    "value": 80,
+    "weight": 0.2,
+    "equipment": {
+        "magicAttack": 6,
+        "prayerBonus": 3,
+        "slot": "SHIELD"
+    }
+}

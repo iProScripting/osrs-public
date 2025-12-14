@@ -1,0 +1,8 @@
+{
+    "name": "Apple pie",
+    "id": 2335,
+    "members": false,
+    "examine": "Mmm half an apple pie.",
+    "value": 15,
+    "weight": 0.225
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Bronze arrow",
+    "id": 5622,
+    "members": false,
+    "examine": "Venomous-looking arrows.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 7,
+        "slot": "AMMO"
+    }
+}

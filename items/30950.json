@@ -1,0 +1,8 @@
+{
+    "name": "Canvas piece",
+    "id": 30950,
+    "members": false,
+    "examine": "The face of the sun, painted on canvas.",
+    "value": 30,
+    "weight": 0.01
+}

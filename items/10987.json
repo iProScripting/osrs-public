@@ -1,0 +1,8 @@
+{
+    "name": "Meter",
+    "id": 10987,
+    "members": false,
+    "examine": "A meter.",
+    "value": 0,
+    "weight": 1.0
+}

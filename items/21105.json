@@ -1,0 +1,9 @@
+{
+    "name": "Topaz amulet (u)",
+    "id": 21105,
+    "members": false,
+    "examine": "It needs a string so I can wear it.",
+    "value": 1275,
+    "weight": 0.004,
+    "buyLimit": 10000
+}

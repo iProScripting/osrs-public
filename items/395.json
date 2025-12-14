@@ -1,0 +1,9 @@
+{
+    "name": "Raw sea turtle",
+    "id": 395,
+    "members": false,
+    "examine": "A rare catch.",
+    "value": 200,
+    "weight": 0.4,
+    "buyLimit": 15000
+}

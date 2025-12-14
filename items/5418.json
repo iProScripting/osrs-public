@@ -1,0 +1,9 @@
+{
+    "name": "Empty sack",
+    "id": 5418,
+    "members": false,
+    "examine": "An empty vegetable sack.",
+    "value": 1,
+    "weight": 0.453,
+    "buyLimit": 10000
+}

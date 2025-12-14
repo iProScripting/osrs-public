@@ -1,0 +1,21 @@
+{
+    "name": "Burning claws",
+    "id": 29577,
+    "members": false,
+    "examine": "Torn from the hands of ancient demons.",
+    "value": 800000,
+    "weight": 0.907,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 43,
+        "slashAttack": 54,
+        "stabDefence": 3,
+        "slashDefence": 6,
+        "crushDefence": 1,
+        "strength": 32,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

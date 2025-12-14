@@ -1,0 +1,12 @@
+{
+    "name": "Ring of nature",
+    "id": 20005,
+    "members": false,
+    "examine": "A ring shaped like the nature rune symbol.",
+    "value": 8000,
+    "weight": 0.004,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "RING"
+    }
+}

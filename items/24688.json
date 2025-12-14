@@ -1,0 +1,8 @@
+{
+    "name": "Ancient armour (item)",
+    "id": 24688,
+    "members": false,
+    "examine": "It's far beyond repair.",
+    "value": 1,
+    "weight": 7.711
+}

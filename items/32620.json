@@ -1,0 +1,12 @@
+{
+    "name": "Crate of gunpowder",
+    "id": 32620,
+    "members": false,
+    "examine": "A cargo crate of gunpowder destined for Port Khazard.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

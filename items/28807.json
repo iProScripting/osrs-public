@@ -1,0 +1,8 @@
+{
+    "name": "Shield of arrav (item)",
+    "id": 28807,
+    "members": false,
+    "examine": "The legendary Shield of Arrav.",
+    "value": 30,
+    "weight": 3.628
+}

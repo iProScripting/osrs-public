@@ -1,0 +1,11 @@
+{
+    "name": "Banker's briefcase",
+    "id": 30361,
+    "members": false,
+    "examine": "Allows travel to all banks around Gileinor.",
+    "value": 1,
+    "weight": 0.05,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

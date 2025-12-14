@@ -1,0 +1,11 @@
+{
+    "name": "Nutcracker top",
+    "id": 27582,
+    "members": false,
+    "examine": "A sweet-themed nutcracker top.",
+    "value": 1,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

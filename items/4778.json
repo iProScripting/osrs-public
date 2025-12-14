@@ -1,0 +1,13 @@
+{
+    "name": "Iron brutal",
+    "id": 4778,
+    "members": false,
+    "examine": "Blunt iron arrow... ouch.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 13,
+        "slot": "AMMO"
+    }
+}

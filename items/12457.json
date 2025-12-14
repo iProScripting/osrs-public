@@ -1,0 +1,14 @@
+{
+    "name": "Dark infinity hat",
+    "id": 12457,
+    "members": false,
+    "examine": "A mystic hat with a dark recolour.",
+    "value": 17000,
+    "weight": 0.453,
+    "equipment": {
+        "magicAttack": 6,
+        "magicDefence": 6,
+        "magicDamage": 1.0,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Avernic defender hilt",
+    "id": 22477,
+    "members": false,
+    "examine": "Perhaps this could be used to create a defensive weapon.",
+    "value": 2500000,
+    "weight": 0.453,
+    "buyLimit": 8
+}

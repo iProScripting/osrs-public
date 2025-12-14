@@ -1,0 +1,9 @@
+{
+    "name": "Woad leaf",
+    "id": 1793,
+    "members": false,
+    "examine": "A slightly bluish leaf.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

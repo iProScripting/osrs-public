@@ -1,0 +1,12 @@
+{
+    "name": "Skirt (brown)",
+    "id": 5048,
+    "members": false,
+    "examine": "A brown skirt. Size small!",
+    "value": 350,
+    "weight": 0.08,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

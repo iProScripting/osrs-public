@@ -1,0 +1,18 @@
+{
+    "name": "Morrigan's leather body (Deadman Mode)",
+    "id": 22641,
+    "members": false,
+    "examine": "A powerful leather body.",
+    "value": 500000,
+    "weight": 6.803,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": 36,
+        "stabDefence": 61,
+        "slashDefence": 53,
+        "crushDefence": 66,
+        "magicDefence": 75,
+        "rangedDefence": 62,
+        "slot": "BODY"
+    }
+}

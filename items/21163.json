@@ -1,0 +1,12 @@
+{
+    "name": "Amulet of chemistry",
+    "id": 21163,
+    "members": false,
+    "examine": "Useful when making potions - has the chance of giving an extra dose.",
+    "value": 1050,
+    "weight": 0.007,
+    "buyLimit": 15000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

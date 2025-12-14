@@ -1,0 +1,8 @@
+{
+    "name": "Small fur pouch",
+    "id": 29299,
+    "members": false,
+    "examine": "A small pouch for carrying animal furs.",
+    "value": 3000,
+    "weight": 1.0
+}

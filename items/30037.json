@@ -1,0 +1,8 @@
+{
+    "name": "Grape barrel",
+    "id": 30037,
+    "members": false,
+    "examine": "A barrel for collecting grapes.",
+    "value": 30,
+    "weight": 15.0
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Emerald",
+    "id": 1605,
+    "members": false,
+    "examine": "This looks valuable.",
+    "value": 500,
+    "weight": 0.002,
+    "buyLimit": 13000
+}

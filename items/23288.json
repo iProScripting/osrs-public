@@ -1,0 +1,12 @@
+{
+    "name": "Frog slippers",
+    "id": 23288,
+    "members": false,
+    "examine": "Cute frog slippers.",
+    "value": 1000,
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

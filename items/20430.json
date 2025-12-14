@@ -1,0 +1,8 @@
+{
+    "name": "Ancient magicks tablet",
+    "id": 20430,
+    "members": false,
+    "examine": "Breaking this will unleash an ancient knowledge.",
+    "value": 400,
+    "weight": 0.0
+}

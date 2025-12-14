@@ -1,0 +1,22 @@
+{
+    "name": "Bronze gloves",
+    "id": 7454,
+    "members": false,
+    "examine": "A pair of gloves.",
+    "value": 100,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 2,
+        "slashAttack": 2,
+        "crushAttack": 2,
+        "magicAttack": 1,
+        "rangedAttack": 2,
+        "stabDefence": 2,
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "magicDefence": 1,
+        "rangedDefence": 2,
+        "strength": 2,
+        "slot": "HANDS"
+    }
+}

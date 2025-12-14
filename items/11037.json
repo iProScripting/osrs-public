@@ -1,0 +1,19 @@
+{
+    "name": "Brine sabre",
+    "id": 11037,
+    "members": false,
+    "examine": "A salty sword.",
+    "value": 26000,
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 7,
+        "slashAttack": 47,
+        "crushAttack": -2,
+        "strength": 46,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

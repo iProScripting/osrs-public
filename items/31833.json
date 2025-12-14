@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of fish bladder stout",
+    "id": 31833,
+    "members": false,
+    "examine": "No one knows why you'd want fish bladder in your stout, but I'm sure it will be fun finding out.",
+    "value": 50,
+    "weight": 0.003
+}

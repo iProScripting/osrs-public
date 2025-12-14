@@ -1,0 +1,9 @@
+{
+    "name": "Bowl",
+    "id": 1923,
+    "members": false,
+    "examine": "Useful for mixing things.",
+    "value": 4,
+    "weight": 0.453,
+    "buyLimit": 13000
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Runefest shield",
+    "id": 21695,
+    "members": false,
+    "examine": "Celebrating RuneFest 2017.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

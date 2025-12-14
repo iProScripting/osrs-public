@@ -1,0 +1,9 @@
+{
+    "name": "Drunk dragon",
+    "id": 2092,
+    "members": false,
+    "examine": "A warm creamy alcoholic beverage.",
+    "value": 30,
+    "weight": 0.5,
+    "buyLimit": 2000
+}

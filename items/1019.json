@@ -1,0 +1,15 @@
+{
+    "name": "Black cape",
+    "id": 1019,
+    "members": false,
+    "examine": "A warm black cape.",
+    "value": 7,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

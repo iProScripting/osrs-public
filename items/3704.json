@@ -1,0 +1,8 @@
+{
+    "name": "Sea fishing map",
+    "id": 3704,
+    "members": false,
+    "examine": "Map showing the best fishing spots out at sea.",
+    "value": 1,
+    "weight": 0.51
+}

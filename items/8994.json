@@ -1,0 +1,11 @@
+{
+    "name": "Brown navy slacks",
+    "id": 8994,
+    "members": false,
+    "examine": "Not for slackers.",
+    "value": 100,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

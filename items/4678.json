@@ -1,0 +1,8 @@
+{
+    "name": "Canopic jar",
+    "id": 4678,
+    "members": false,
+    "examine": "It has a lid shaped like a man. I think it contains someone's liver. Yuck!",
+    "value": 50,
+    "weight": 0.1
+}

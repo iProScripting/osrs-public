@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of zul-rye beer",
+    "id": 31853,
+    "members": false,
+    "examine": "Intoxication guaranteed.",
+    "value": 50,
+    "weight": 0.003
+}

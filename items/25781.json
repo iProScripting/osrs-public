@@ -1,0 +1,8 @@
+{
+    "name": "Ash sanctifier",
+    "id": 25781,
+    "members": false,
+    "examine": "Scatters ashes.",
+    "value": 1,
+    "weight": 0.025
+}

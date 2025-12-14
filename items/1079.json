@@ -1,0 +1,19 @@
+{
+    "name": "Rune platelegs",
+    "id": 1079,
+    "members": false,
+    "examine": "These look pretty heavy.",
+    "value": 64000,
+    "weight": 9.071,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 51,
+        "slashDefence": 49,
+        "crushDefence": 47,
+        "magicDefence": -4,
+        "rangedDefence": 49,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Armadyl brew",
+    "id": 31659,
+    "members": false,
+    "examine": "1 dose of Armadyl brewn.<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "value": 40,
+    "weight": 0.03,
+    "buyLimit": 2000
+}

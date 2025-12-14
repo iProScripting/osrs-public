@@ -1,0 +1,8 @@
+{
+    "name": "Ash covered tome",
+    "id": 21697,
+    "members": false,
+    "examine": "An ash covered book containing the secrets required for casting a stronger fertile soil spell.",
+    "value": 1,
+    "weight": 0.005
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Hood of darkness",
+    "id": 20128,
+    "members": false,
+    "examine": "A dark power is woven into this hood.",
+    "value": 10000,
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "slot": "HEAD"
+    }
+}

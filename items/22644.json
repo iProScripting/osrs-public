@@ -1,0 +1,18 @@
+{
+    "name": "Morrigan's leather chaps (Deadman Mode)",
+    "id": 22644,
+    "members": false,
+    "examine": "A powerful pair of leather chaps.",
+    "value": 500000,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 23,
+        "stabDefence": 35,
+        "slashDefence": 29,
+        "crushDefence": 37,
+        "magicDefence": 46,
+        "rangedDefence": 35,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Agility hood",
+    "id": 9773,
+    "members": false,
+    "examine": "Agility skillcape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

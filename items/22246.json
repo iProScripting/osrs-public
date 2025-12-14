@@ -1,0 +1,9 @@
+{
+    "name": "Anguish ornament kit",
+    "id": 22246,
+    "members": false,
+    "examine": "Use on a necklace of anguish to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

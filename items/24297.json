@@ -1,0 +1,8 @@
+{
+    "name": "White bed sheets",
+    "id": 24297,
+    "members": false,
+    "examine": "I hope they're clean.",
+    "value": 1,
+    "weight": 1.0
+}

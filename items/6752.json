@@ -1,0 +1,12 @@
+{
+    "name": "Black desert robe",
+    "id": 6752,
+    "members": false,
+    "examine": "A desert robe stained black.",
+    "value": 30,
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

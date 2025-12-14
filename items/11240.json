@@ -1,0 +1,9 @@
+{
+    "name": "Young impling jar",
+    "id": 11240,
+    "members": false,
+    "examine": "A young impling in a jar. Don't trap me, man.",
+    "value": 50,
+    "weight": 2.267,
+    "buyLimit": 18000
+}

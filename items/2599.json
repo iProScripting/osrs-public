@@ -1,0 +1,19 @@
+{
+    "name": "Adamant platebody (t)",
+    "id": 2599,
+    "members": false,
+    "examine": "Adamant platebody with trim.",
+    "value": 16640,
+    "weight": 11.339,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 65,
+        "slashDefence": 63,
+        "crushDefence": 55,
+        "magicDefence": -6,
+        "rangedDefence": 63,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Heavy casket",
+    "id": 19941,
+    "members": false,
+    "examine": "Full to the brim with loot... Where's that key gone?",
+    "value": 1000,
+    "weight": 15.0,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": -4,
+        "crushAttack": 11,
+        "magicAttack": -4,
+        "strength": 9,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Red beret",
+    "id": 12247,
+    "members": false,
+    "examine": "Parlez-vous francais?",
+    "value": 80,
+    "weight": 0.04,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Smoke quartz",
+    "id": 28274,
+    "members": false,
+    "examine": "Made of condensed smoke energy.",
+    "value": 100000,
+    "weight": 0.02
+}

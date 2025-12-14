@@ -1,0 +1,9 @@
+{
+    "name": "Bat bones",
+    "id": 530,
+    "members": false,
+    "examine": "Ew it's a pile of bones.",
+    "value": 1,
+    "weight": 0.3,
+    "buyLimit": 3000
+}

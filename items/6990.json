@@ -1,0 +1,8 @@
+{
+    "name": "Stone head",
+    "id": 6990,
+    "members": false,
+    "examine": "A granite head shaped like the god Zamorak.",
+    "value": 1,
+    "weight": 0.5
+}

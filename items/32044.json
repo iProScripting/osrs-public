@@ -1,0 +1,9 @@
+{
+    "name": "Oak hull parts",
+    "id": 32044,
+    "members": false,
+    "examine": "Parts for creating an oak hull for a boat.",
+    "value": 625,
+    "weight": 4.0,
+    "buyLimit": 100
+}

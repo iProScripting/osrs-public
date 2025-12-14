@@ -1,0 +1,8 @@
+{
+    "name": "Building supplies",
+    "id": 28968,
+    "members": false,
+    "examine": "Everything you might need to build a camp.",
+    "value": 30,
+    "weight": 5.15
+}

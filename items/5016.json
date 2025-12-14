@@ -1,0 +1,21 @@
+{
+    "name": "Bone spear",
+    "id": 5016,
+    "members": false,
+    "examine": "Basic but brutal!",
+    "value": 600,
+    "weight": 1.36,
+    "buyLimit": 4,
+    "equipment": {
+        "stabAttack": 11,
+        "slashAttack": 11,
+        "crushAttack": 11,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "strength": 13,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

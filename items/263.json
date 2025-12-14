@@ -1,0 +1,9 @@
+{
+    "name": "Kwuarm",
+    "id": 263,
+    "members": false,
+    "examine": "A powerful herb.",
+    "value": 54,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

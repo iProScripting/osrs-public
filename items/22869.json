@@ -1,0 +1,9 @@
+{
+    "name": "Celastrus seed",
+    "id": 22869,
+    "members": false,
+    "examine": "For growing a Celastrus tree.",
+    "value": 540,
+    "weight": 0.0,
+    "buyLimit": 200
+}

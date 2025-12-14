@@ -1,0 +1,9 @@
+{
+    "name": "Mind altar teleport (tablet)",
+    "id": 19617,
+    "members": false,
+    "examine": "A teleport to the Mind Altar.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Cemetery teleport (tablet)",
+    "id": 19627,
+    "members": false,
+    "examine": "A teleport to the Cemetery in level 31 Wilderness.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

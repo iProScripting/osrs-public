@@ -1,0 +1,19 @@
+{
+    "name": "3rd age plateskirt",
+    "id": 23242,
+    "members": false,
+    "examine": "Fabulously ancient armour beaten from magical silver.",
+    "value": 200000,
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -25,
+        "rangedAttack": -2,
+        "stabDefence": 78,
+        "slashDefence": 76,
+        "crushDefence": 83,
+        "magicDefence": -5,
+        "rangedDefence": 75,
+        "slot": "LEGS"
+    }
+}

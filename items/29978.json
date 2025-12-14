@@ -1,0 +1,11 @@
+{
+    "name": "Alchemist labcoat",
+    "id": 29978,
+    "members": false,
+    "examine": "Grants the wearer +10 IQ.",
+    "value": 380,
+    "weight": 0.62,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

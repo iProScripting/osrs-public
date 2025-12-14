@@ -1,0 +1,11 @@
+{
+    "name": "Amy's saw (off-hand)",
+    "id": 29774,
+    "members": false,
+    "examine": "She saw scope for improvement.",
+    "value": 280,
+    "weight": 0.8,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

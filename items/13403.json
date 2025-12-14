@@ -1,0 +1,8 @@
+{
+    "name": "Servery meat pie",
+    "id": 13403,
+    "members": false,
+    "examine": "Put it on the servery table to feed the troops.",
+    "value": 1,
+    "weight": 0.45
+}

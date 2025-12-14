@@ -1,0 +1,8 @@
+{
+    "name": "Bludgeon spine",
+    "id": 13274,
+    "members": false,
+    "examine": "The spine from a deceased Abyssal Sire.",
+    "value": 230000,
+    "weight": 2.5
+}

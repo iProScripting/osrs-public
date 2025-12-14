@@ -1,0 +1,12 @@
+{
+    "name": "Ankou top",
+    "id": 20098,
+    "members": false,
+    "examine": "This top will make your flesh transparent.",
+    "value": 1,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

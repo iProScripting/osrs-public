@@ -1,0 +1,19 @@
+{
+    "name": "3rd age felling axe",
+    "id": 28226,
+    "members": false,
+    "examine": "A beautifully crafted felling axe, shaped by ancient smiths.",
+    "value": 55000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -3,
+        "slashAttack": 60,
+        "crushAttack": 51,
+        "slashDefence": 1,
+        "strength": 67,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

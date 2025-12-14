@@ -1,0 +1,8 @@
+{
+    "name": "Dark claw",
+    "id": 21275,
+    "members": false,
+    "examine": "More menacing when attached to the owner. Emanates a dark energy.",
+    "value": 2500,
+    "weight": 0.02
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Roast bird meat",
+    "id": 9980,
+    "members": false,
+    "examine": "A nicely roasted bird.",
+    "value": 17,
+    "weight": 0.15,
+    "buyLimit": 6000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Sandworms",
+    "id": 13431,
+    "members": false,
+    "examine": "Can be used as bait for catching anglerfish.",
+    "value": 90,
+    "weight": 0.0,
+    "buyLimit": 8000
+}

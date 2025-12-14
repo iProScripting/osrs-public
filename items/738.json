@@ -1,0 +1,8 @@
+{
+    "name": "Ardrigal mixture",
+    "id": 738,
+    "members": false,
+    "examine": "It's a mixture of Ardrigal and water. Needs another ingredient.",
+    "value": 1,
+    "weight": 0.025
+}

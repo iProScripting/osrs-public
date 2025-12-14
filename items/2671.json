@@ -1,0 +1,20 @@
+{
+    "name": "Guthix platelegs",
+    "id": 2671,
+    "members": false,
+    "examine": "Rune plate legs in the colours of Guthix.",
+    "value": 64000,
+    "weight": 9.071,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 51,
+        "slashDefence": 49,
+        "crushDefence": 47,
+        "magicDefence": -4,
+        "rangedDefence": 49,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

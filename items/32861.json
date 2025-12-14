@@ -1,0 +1,8 @@
+{
+    "name": "Opulent salvage",
+    "id": 32861,
+    "members": false,
+    "examine": "Salvage collected from a merchant shipwreck.",
+    "value": 200,
+    "weight": 3.0
+}

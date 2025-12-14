@@ -1,0 +1,23 @@
+{
+    "name": "Armadyl chestplate",
+    "id": 11828,
+    "members": false,
+    "examine": "Armour of great craftsmanship.",
+    "value": 290000,
+    "weight": 4.0,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": -7,
+        "slashAttack": -7,
+        "crushAttack": -7,
+        "magicAttack": -15,
+        "rangedAttack": 33,
+        "stabDefence": 56,
+        "slashDefence": 48,
+        "crushDefence": 61,
+        "magicDefence": 70,
+        "rangedDefence": 57,
+        "prayerBonus": 1,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Blessed gold bowl",
+    "id": 722,
+    "members": false,
+    "examine": "A specially-made bowl constructed out of pure gold and blessed by Gujuo.",
+    "value": 700,
+    "weight": 0.8
+}

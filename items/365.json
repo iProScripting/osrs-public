@@ -1,0 +1,9 @@
+{
+    "name": "Bass",
+    "id": 365,
+    "members": false,
+    "examine": "Wow, this is a big fish.",
+    "value": 40,
+    "weight": 0.35,
+    "buyLimit": 6000
+}

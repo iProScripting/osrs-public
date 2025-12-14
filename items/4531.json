@@ -1,0 +1,8 @@
+{
+    "name": "Candle lantern",
+    "id": 4531,
+    "members": false,
+    "examine": "A flickering candle in a glass cage.",
+    "value": 15,
+    "weight": 0.907
+}

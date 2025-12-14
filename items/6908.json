@@ -1,0 +1,17 @@
+{
+    "name": "Beginner wand",
+    "id": 6908,
+    "members": false,
+    "examine": "A beginner level wand.",
+    "value": 1200,
+    "weight": 0.283,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 5,
+        "magicDefence": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

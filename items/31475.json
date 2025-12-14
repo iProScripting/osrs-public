@@ -1,0 +1,9 @@
+{
+    "name": "Bolt of canvas",
+    "id": 31475,
+    "members": false,
+    "examine": "A bolt of canvas.",
+    "value": 100,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

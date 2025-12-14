@@ -1,0 +1,8 @@
+{
+    "name": "Sigil of the hunter",
+    "id": 28486,
+    "members": false,
+    "examine": "A sigil attuned to you with great power.",
+    "value": 10000,
+    "weight": 0.4
+}

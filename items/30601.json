@@ -1,0 +1,14 @@
+{
+    "name": "Steel staff of collection",
+    "id": 30601,
+    "members": false,
+    "examine": "A staff of collection, steel tier.",
+    "value": 15,
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

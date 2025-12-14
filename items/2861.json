@@ -1,0 +1,9 @@
+{
+    "name": "Wolfbone arrowtips",
+    "id": 2861,
+    "members": false,
+    "examine": "I can make an ogre arrow with these.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 7000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Bale of flax",
+    "id": 31045,
+    "members": false,
+    "examine": "A tightly bound bundle of flax.",
+    "value": 125,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

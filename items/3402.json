@@ -1,0 +1,9 @@
+{
+    "name": "Asyn remains",
+    "id": 3402,
+    "members": false,
+    "examine": "The remains of a deadly shade.",
+    "value": 1,
+    "weight": 1.36,
+    "buyLimit": 7500
+}

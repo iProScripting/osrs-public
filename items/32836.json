@@ -1,0 +1,8 @@
+{
+    "name": "Armoured kraken ink sac",
+    "id": 32836,
+    "members": false,
+    "examine": "The ink sac of an armoured kraken.",
+    "value": 200,
+    "weight": 0.8
+}

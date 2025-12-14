@@ -1,0 +1,20 @@
+{
+    "name": "Saradomin d'hide boots",
+    "id": 19933,
+    "members": false,
+    "examine": "Saradomin blessed dragonhide boots.",
+    "value": 9300,
+    "weight": 1.4,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 7,
+        "stabDefence": 4,
+        "slashDefence": 4,
+        "crushDefence": 4,
+        "magicDefence": 4,
+        "rangedDefence": 4,
+        "prayerBonus": 1,
+        "slot": "FEET"
+    }
+}

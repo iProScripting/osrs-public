@@ -1,0 +1,13 @@
+{
+    "name": "Amethyst arrow",
+    "id": 21326,
+    "members": false,
+    "examine": "Arrows with amethyst heads.",
+    "value": 490,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 55,
+        "slot": "AMMO"
+    }
+}

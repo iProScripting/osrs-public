@@ -1,0 +1,8 @@
+{
+    "name": "Burnt bread",
+    "id": 2311,
+    "members": false,
+    "examine": "Nice crispy bread.  Possibly too crispy.",
+    "value": 1,
+    "weight": 0.35
+}

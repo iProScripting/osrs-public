@@ -1,0 +1,13 @@
+{
+    "name": "Broken axe (black)",
+    "id": 500,
+    "members": false,
+    "examine": "Bob can fix this for me.",
+    "value": 1,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1
+    }
+}

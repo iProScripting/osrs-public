@@ -1,0 +1,18 @@
+{
+    "name": "Tanzanite helm",
+    "id": 13197,
+    "members": false,
+    "examine": "Protects the wearer from poison and venom, and helps envenom monsters.",
+    "value": 110500,
+    "weight": 0.9,
+    "equipment": {
+        "magicAttack": -5,
+        "rangedAttack": -5,
+        "stabDefence": 52,
+        "slashDefence": 55,
+        "crushDefence": 58,
+        "rangedDefence": 50,
+        "strength": 5,
+        "slot": "HEAD"
+    }
+}

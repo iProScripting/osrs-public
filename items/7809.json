@@ -1,0 +1,19 @@
+{
+    "name": "Anger spear",
+    "id": 7809,
+    "members": false,
+    "examine": "A heavy duty spear.",
+    "value": 26,
+    "weight": 0.003,
+    "equipment": {
+        "stabAttack": 2,
+        "slashAttack": 2,
+        "crushAttack": 2,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Mixed hide legs",
+    "id": 29283,
+    "members": false,
+    "examine": "Made from the hide of a few different creatures.",
+    "value": 4000,
+    "weight": 2.0,
+    "buyLimit": 100,
+    "equipment": {
+        "stabAttack": 3,
+        "slashAttack": -1,
+        "crushAttack": -2,
+        "magicAttack": -10,
+        "rangedAttack": 14,
+        "stabDefence": 20,
+        "slashDefence": 23,
+        "crushDefence": 22,
+        "magicDefence": 16,
+        "rangedDefence": 20,
+        "slot": "LEGS"
+    }
+}

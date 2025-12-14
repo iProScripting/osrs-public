@@ -1,0 +1,12 @@
+{
+    "name": "Royal gown bottom",
+    "id": 12395,
+    "members": false,
+    "examine": "Feeling distinctly ornate.",
+    "value": 5000,
+    "weight": 1.36,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Arclight",
+    "id": 19675,
+    "members": false,
+    "examine": "The magical sword 'Silverlight', enhanced with the blood of Agrith-Naar and ancient shards.",
+    "value": 500,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 38,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "magicDefence": 2,
+        "strength": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

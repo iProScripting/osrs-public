@@ -1,0 +1,19 @@
+{
+    "name": "Bronze plateskirt (g)",
+    "id": 12209,
+    "members": false,
+    "examine": "Bronze plateskirt with gold trim.",
+    "value": 80,
+    "weight": 8.164,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 8,
+        "slashDefence": 7,
+        "crushDefence": 6,
+        "magicDefence": -4,
+        "rangedDefence": 7,
+        "slot": "LEGS"
+    }
+}

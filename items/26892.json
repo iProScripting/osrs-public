@@ -1,0 +1,8 @@
+{
+    "name": "Portal talisman (chaos)",
+    "id": 26892,
+    "members": false,
+    "examine": "A talisman bound to the Chaos Altar.",
+    "value": 1,
+    "weight": 0.0
+}

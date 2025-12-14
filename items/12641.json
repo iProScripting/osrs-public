@@ -1,0 +1,8 @@
+{
+    "name": "Amylase pack",
+    "id": 12641,
+    "members": false,
+    "examine": "A pack containing 100 crystals of amylase.",
+    "value": 10,
+    "weight": 0.5
+}

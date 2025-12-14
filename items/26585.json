@@ -1,0 +1,8 @@
+{
+    "name": "Goblin potion",
+    "id": 26585,
+    "members": false,
+    "examine": "2 doses of Goblin transmogrification potion.",
+    "value": 100,
+    "weight": 0.025
+}

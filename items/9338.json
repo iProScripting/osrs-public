@@ -1,0 +1,13 @@
+{
+    "name": "Emerald bolts",
+    "id": 9338,
+    "members": false,
+    "examine": "Emerald tipped Mithril crossbow bolts.",
+    "value": 53,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 85,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of beer",
+    "id": 32674,
+    "members": false,
+    "examine": "A cargo crate of beer destined for Port Sarim.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

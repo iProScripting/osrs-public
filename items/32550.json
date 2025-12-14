@@ -1,0 +1,12 @@
+{
+    "name": "Crate of adamantite ore",
+    "id": 32550,
+    "members": false,
+    "examine": "A cargo crate of adamantite ore destined for Etceteria.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

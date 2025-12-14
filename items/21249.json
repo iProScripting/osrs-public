@@ -1,0 +1,8 @@
+{
+    "name": "Wester fish",
+    "id": 21249,
+    "members": false,
+    "examine": "A glistening wester island fish.",
+    "value": 1,
+    "weight": 0.15
+}

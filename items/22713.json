@@ -1,0 +1,11 @@
+{
+    "name": "Star-face",
+    "id": 22713,
+    "members": false,
+    "examine": "Say hello to my little star.",
+    "value": 0,
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

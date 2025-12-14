@@ -1,0 +1,9 @@
+{
+    "name": "Lemon",
+    "id": 2102,
+    "members": false,
+    "examine": "A fresh lemon.",
+    "value": 2,
+    "weight": 0.1,
+    "buyLimit": 13000
+}

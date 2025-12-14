@@ -1,0 +1,8 @@
+{
+    "name": "Royal seed pod",
+    "id": 19564,
+    "members": false,
+    "examine": "King Narnode's personal seed pod, for travelling to the Grand Tree.",
+    "value": 20,
+    "weight": 0.005
+}

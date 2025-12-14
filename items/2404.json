@@ -1,0 +1,8 @@
+{
+    "name": "Chest key (Hazeel Cult)",
+    "id": 2404,
+    "members": false,
+    "examine": "A key found in the Carnillean Mansion (Used in the Hazeel Cult quest).",
+    "value": 30,
+    "weight": 0.01
+}

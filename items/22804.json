@@ -1,0 +1,17 @@
+{
+    "name": "Dragon knife",
+    "id": 22804,
+    "members": false,
+    "examine": "A finely balanced and powerful throwing knife.",
+    "value": 167,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedAttack": 28,
+        "rangedStrength": 30,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

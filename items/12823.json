@@ -1,0 +1,9 @@
+{
+    "name": "Spectral sigil",
+    "id": 12823,
+    "members": false,
+    "examine": "A sigil in the shape of a spectral symbol.",
+    "value": 750000,
+    "weight": 3.0,
+    "buyLimit": 5
+}

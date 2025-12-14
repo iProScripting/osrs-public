@@ -1,0 +1,11 @@
+{
+    "name": "Guild hunter boots",
+    "id": 29269,
+    "members": false,
+    "examine": "The boots of the Hunters.",
+    "value": 200,
+    "weight": 1.36,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

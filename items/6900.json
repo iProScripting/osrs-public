@@ -1,0 +1,8 @@
+{
+    "name": "Icosahedron",
+    "id": 6900,
+    "members": false,
+    "examine": "A blue icosahedron.",
+    "value": 0,
+    "weight": 0.001
+}

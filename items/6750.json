@@ -1,0 +1,12 @@
+{
+    "name": "Black desert shirt",
+    "id": 6750,
+    "members": false,
+    "examine": "A desert shirt stained black.",
+    "value": 40,
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

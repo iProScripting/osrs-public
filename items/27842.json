@@ -1,0 +1,22 @@
+{
+    "name": "Corrupted vesta's chainbody (bh)",
+    "id": 27842,
+    "members": false,
+    "examine": "A powerful chainbody.",
+    "value": 500000,
+    "weight": 6.803,
+    "equipment": {
+        "stabAttack": 14,
+        "slashAttack": 14,
+        "crushAttack": 4,
+        "magicAttack": -28,
+        "rangedAttack": -14,
+        "stabDefence": 18,
+        "slashDefence": 21,
+        "crushDefence": 23,
+        "magicDefence": -10,
+        "rangedDefence": 21,
+        "strength": 5,
+        "slot": "BODY"
+    }
+}

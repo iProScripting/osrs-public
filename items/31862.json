@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of soul juice",
+    "id": 31862,
+    "members": false,
+    "examine": "100% juice, never from consecrate.",
+    "value": 50,
+    "weight": 0.003
+}

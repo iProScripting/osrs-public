@@ -1,0 +1,9 @@
+{
+    "name": "Jug of water",
+    "id": 1937,
+    "members": false,
+    "examine": "It's full of water.",
+    "value": 1,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

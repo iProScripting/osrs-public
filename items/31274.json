@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - NOT RAG",
+    "id": 31274,
+    "members": false,
+    "examine": "I need to answer this correctly.",
+    "value": 20,
+    "weight": 0.02
+}

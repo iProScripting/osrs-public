@@ -1,0 +1,16 @@
+{
+    "name": "Decorative armour (magic legs)",
+    "id": 20497,
+    "members": false,
+    "examine": "Very decorative armour, but it's broken.",
+    "value": 1,
+    "weight": 8.164,
+    "equipment": {
+        "stabDefence": 15,
+        "slashDefence": 15,
+        "crushDefence": 15,
+        "magicDefence": 15,
+        "rangedDefence": 15,
+        "slot": "LEGS"
+    }
+}

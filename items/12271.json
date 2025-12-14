@@ -1,0 +1,15 @@
+{
+    "name": "Bandos mitre",
+    "id": 12271,
+    "members": false,
+    "examine": "A Bandos mitre.",
+    "value": 5000,
+    "weight": 0.3,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "prayerBonus": 5,
+        "slot": "HEAD"
+    }
+}

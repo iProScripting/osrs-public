@@ -1,0 +1,17 @@
+{
+    "name": "Black chinchompa",
+    "id": 11959,
+    "members": false,
+    "examine": "Just plain nasty.",
+    "value": 240,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedAttack": 80,
+        "rangedStrength": 30,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 9,
+        "combatStyle": "CHINCHOMPA"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Amulet mould",
+    "id": 1595,
+    "members": false,
+    "examine": "Used to make amulets.",
+    "value": 5,
+    "weight": 0.453,
+    "buyLimit": 40
+}

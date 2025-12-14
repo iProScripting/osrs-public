@@ -1,0 +1,8 @@
+{
+    "name": "Blood moon armour set",
+    "id": 31136,
+    "members": false,
+    "examine": "A set containing a Blood moon helm, Blood moon chestplate, Blood moon tassets and Dual macuahuitl.",
+    "value": 145000,
+    "weight": 0.05
+}

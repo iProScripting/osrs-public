@@ -1,0 +1,8 @@
+{
+    "name": "The desert trout - ship's log",
+    "id": 25567,
+    "members": false,
+    "examine": "A soaked and battered log from The Desert Trout's last fishing trip.",
+    "value": 1,
+    "weight": 0.51
+}

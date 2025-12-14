@@ -1,0 +1,8 @@
+{
+    "name": "Wood camo top",
+    "id": 10053,
+    "members": false,
+    "examine": "This should make me harder to spot in wooded areas.",
+    "value": 20,
+    "weight": 0.226
+}

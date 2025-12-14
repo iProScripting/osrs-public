@@ -1,0 +1,9 @@
+{
+    "name": "Logs",
+    "id": 1511,
+    "members": false,
+    "examine": "A number of wooden logs.",
+    "value": 4,
+    "weight": 2.0,
+    "buyLimit": 15000
+}

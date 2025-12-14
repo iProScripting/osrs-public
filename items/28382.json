@@ -1,0 +1,8 @@
+{
+    "name": "Potion note",
+    "id": 28382,
+    "members": false,
+    "examine": "A note about a potion.",
+    "value": 30,
+    "weight": 0.028
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of fishtongue tonic",
+    "id": 31873,
+    "members": false,
+    "examine": "If you don't lick your lips, the tonic will for you.",
+    "value": 50,
+    "weight": 0.003
+}

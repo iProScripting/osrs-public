@@ -1,0 +1,20 @@
+{
+    "name": "Ancient mace",
+    "id": 11061,
+    "members": false,
+    "examine": "It has ancient goblin symbols on it.",
+    "value": 1000,
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": -2,
+        "crushAttack": 16,
+        "strength": 14,
+        "prayerBonus": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

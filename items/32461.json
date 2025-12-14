@@ -1,0 +1,12 @@
+{
+    "name": "Crate of sand",
+    "id": 32461,
+    "members": false,
+    "examine": "A cargo crate of sand destined for Ardougne.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

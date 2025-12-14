@@ -1,0 +1,18 @@
+{
+    "name": "Bronze med helm",
+    "id": 1139,
+    "members": false,
+    "examine": "A medium sized helmet.",
+    "value": 24,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -3,
+        "stabDefence": 3,
+        "slashDefence": 4,
+        "crushDefence": 2,
+        "magicDefence": -1,
+        "rangedDefence": 3,
+        "slot": "HEAD"
+    }
+}

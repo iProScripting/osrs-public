@@ -1,0 +1,8 @@
+{
+    "name": "Square sandwich",
+    "id": 6965,
+    "members": false,
+    "examine": "A freshly made square sandwich.",
+    "value": 25,
+    "weight": 0.02
+}

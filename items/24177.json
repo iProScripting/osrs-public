@@ -1,0 +1,16 @@
+{
+    "name": "Void knight top",
+    "id": 24177,
+    "members": false,
+    "examine": "Torso armour from the order of the Void Knights.",
+    "value": 48000,
+    "weight": 6.803,
+    "equipment": {
+        "stabDefence": 45,
+        "slashDefence": 45,
+        "crushDefence": 45,
+        "magicDefence": 45,
+        "rangedDefence": 45,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Empty jug pack",
+    "id": 20742,
+    "members": false,
+    "examine": "A pack containing 100 empty jugs.",
+    "value": 140,
+    "weight": 0.453
+}

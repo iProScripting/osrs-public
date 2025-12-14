@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the bucket in the Port Sarim jail",
+    "id": 12192,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Ancient essence",
+    "id": 27616,
+    "members": false,
+    "examine": "Pure magical energy filled with a dark power.",
+    "value": 28,
+    "weight": 0.0,
+    "buyLimit": 300000
+}

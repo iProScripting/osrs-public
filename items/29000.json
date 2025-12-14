@@ -1,0 +1,17 @@
+{
+    "name": "Eclipse atlatl",
+    "id": 29000,
+    "members": false,
+    "examine": "A powerful thrown weapon forged from an eclipse.",
+    "value": 160000,
+    "weight": 3.628,
+    "buyLimit": 15,
+    "equipment": {
+        "rangedAttack": 87,
+        "strength": 40,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 5,
+        "combatStyle": "BOW"
+    }
+}

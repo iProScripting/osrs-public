@@ -1,0 +1,9 @@
+{
+    "name": "Cadavaberry seed",
+    "id": 5102,
+    "members": false,
+    "examine": "A cadavaberry bush seed - plant in a bush patch.",
+    "value": 9,
+    "weight": 0.0,
+    "buyLimit": 600
+}

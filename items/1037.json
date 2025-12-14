@@ -1,0 +1,11 @@
+{
+    "name": "Bunny ears",
+    "id": 1037,
+    "members": false,
+    "examine": "A rabbit-like adornment.",
+    "value": 1,
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

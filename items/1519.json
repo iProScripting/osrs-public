@@ -1,0 +1,9 @@
+{
+    "name": "Willow logs",
+    "id": 1519,
+    "members": false,
+    "examine": "Logs cut from a willow tree.",
+    "value": 40,
+    "weight": 2.0,
+    "buyLimit": 15000
+}

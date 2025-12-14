@@ -1,0 +1,13 @@
+{
+    "name": "3rd age druidic robe bottoms",
+    "id": 23339,
+    "members": false,
+    "examine": "A fabulously ancient woven robe as worn by the druids of old.",
+    "value": 200000,
+    "weight": 1.5,
+    "buyLimit": 4,
+    "equipment": {
+        "prayerBonus": 6,
+        "slot": "LEGS"
+    }
+}

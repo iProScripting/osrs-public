@@ -1,0 +1,8 @@
+{
+    "name": "Paste",
+    "id": 2424,
+    "members": false,
+    "examine": "A bottle of skin paste.",
+    "value": 30,
+    "weight": 0.015
+}

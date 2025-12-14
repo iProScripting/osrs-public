@@ -1,0 +1,16 @@
+{
+    "name": "Corrupted staff (attuned)",
+    "id": 23853,
+    "members": false,
+    "examine": "A sturdy staff of corrupted crystal.",
+    "value": 1,
+    "weight": 1.36,
+    "equipment": {
+        "magicAttack": 128,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 10,
+        "combatStyle": "POWERED_STAFF"
+    }
+}

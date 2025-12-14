@@ -1,0 +1,8 @@
+{
+    "name": "Hardy gout tuber",
+    "id": 4001,
+    "members": false,
+    "examine": "A hardy gout tuber.",
+    "value": 5,
+    "weight": 0.1
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Black kiteshield",
+    "id": 1195,
+    "members": false,
+    "examine": "A large metal shield.",
+    "value": 1632,
+    "weight": 5.443,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 17,
+        "slashDefence": 19,
+        "crushDefence": 18,
+        "magicDefence": -1,
+        "rangedDefence": 18,
+        "slot": "SHIELD"
+    }
+}

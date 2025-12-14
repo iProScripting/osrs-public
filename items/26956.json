@@ -1,0 +1,8 @@
+{
+    "name": "Scarab emblem",
+    "id": 26956,
+    "members": false,
+    "examine": "A gold emblem of a scarab.",
+    "value": 30,
+    "weight": 1.0
+}

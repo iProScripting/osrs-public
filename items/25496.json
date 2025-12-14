@@ -1,0 +1,19 @@
+{
+    "name": "Crystal body (beta)",
+    "id": 25496,
+    "members": false,
+    "examine": "Sturdier than it looks.",
+    "value": 1000,
+    "weight": 9.979,
+    "equipment": {
+        "magicAttack": -18,
+        "rangedAttack": 30,
+        "stabDefence": 34,
+        "slashDefence": 24,
+        "crushDefence": 32,
+        "magicDefence": 44,
+        "rangedDefence": 53,
+        "prayerBonus": 3,
+        "slot": "BODY"
+    }
+}

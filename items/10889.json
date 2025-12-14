@@ -1,0 +1,8 @@
+{
+    "name": "Blessed lamp",
+    "id": 10889,
+    "members": false,
+    "examine": "This will answer my prayers.",
+    "value": 1,
+    "weight": 0.1
+}

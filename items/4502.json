@@ -1,0 +1,18 @@
+{
+    "name": "Bearhead",
+    "id": 4502,
+    "members": false,
+    "examine": "Quite ferocious looking.",
+    "value": 0,
+    "weight": 0.453,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -3,
+        "stabDefence": 12,
+        "slashDefence": 14,
+        "crushDefence": 10,
+        "magicDefence": 7,
+        "rangedDefence": 9,
+        "slot": "HEAD"
+    }
+}

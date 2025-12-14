@@ -1,0 +1,8 @@
+{
+    "name": "Burnt oomlie wrap",
+    "id": 2345,
+    "members": false,
+    "examine": "Burnt oomlie meat in a palm leaf pouch.",
+    "value": 1,
+    "weight": 0.275
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Book of folklore",
+    "id": 5508,
+    "members": false,
+    "examine": "A tatty old book belonging to the Wise Old Man of Draynor Village.",
+    "value": 1,
+    "weight": 0.07
+}

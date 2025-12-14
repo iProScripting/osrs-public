@@ -1,0 +1,11 @@
+{
+    "name": "Snow imp costume body",
+    "id": 21842,
+    "members": false,
+    "examine": "A poorly made fake snow imp body.",
+    "value": 50,
+    "weight": 9.071,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

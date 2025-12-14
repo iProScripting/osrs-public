@@ -1,0 +1,8 @@
+{
+    "name": "Barrel of coal tar",
+    "id": 3220,
+    "members": false,
+    "examine": "A barrel full of coal tar.",
+    "value": 1,
+    "weight": 32.0
+}

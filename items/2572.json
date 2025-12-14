@@ -1,0 +1,12 @@
+{
+    "name": "Ring of wealth",
+    "id": 2572,
+    "members": false,
+    "examine": "It can be charged at the Fountain of Rune.",
+    "value": 17625,
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "RING"
+    }
+}

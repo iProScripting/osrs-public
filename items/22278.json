@@ -1,0 +1,22 @@
+{
+    "name": "Blue d'hide shield",
+    "id": 22278,
+    "members": false,
+    "examine": "A solid yew shield covered in blue dragon leather.",
+    "value": 7500,
+    "weight": 8.0,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -15,
+        "slashAttack": -15,
+        "crushAttack": -11,
+        "magicAttack": -10,
+        "rangedAttack": 5,
+        "stabDefence": 16,
+        "slashDefence": 14,
+        "crushDefence": 12,
+        "magicDefence": 12,
+        "rangedDefence": 12,
+        "slot": "SHIELD"
+    }
+}

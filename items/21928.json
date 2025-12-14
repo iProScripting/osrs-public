@@ -1,0 +1,13 @@
+{
+    "name": "Dragon bolts",
+    "id": 21928,
+    "members": false,
+    "examine": "Super poisoned dragon bolts.",
+    "value": 440,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

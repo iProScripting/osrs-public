@@ -1,0 +1,16 @@
+{
+    "name": "Rune crossbow",
+    "id": 9185,
+    "members": false,
+    "examine": "A runite crossbow.",
+    "value": 16200,
+    "weight": 6.0,
+    "buyLimit": 70,
+    "equipment": {
+        "rangedAttack": 90,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Spooky wall lamp",
+    "id": 31223,
+    "members": false,
+    "examine": "Death just calls it a wall lamp.",
+    "value": 1,
+    "weight": 1.0
+}

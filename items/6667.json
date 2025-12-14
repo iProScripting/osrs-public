@@ -1,0 +1,9 @@
+{
+    "name": "Fishbowl",
+    "id": 6667,
+    "members": false,
+    "examine": "An empty fishbowl.",
+    "value": 1,
+    "weight": 1.36,
+    "buyLimit": 100
+}

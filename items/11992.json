@@ -1,0 +1,9 @@
+{
+    "name": "Lava scale",
+    "id": 11992,
+    "members": false,
+    "examine": "A scale from the hide of a lava dragon.",
+    "value": 50,
+    "weight": 0.01,
+    "buyLimit": 11000
+}

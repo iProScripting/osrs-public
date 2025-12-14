@@ -1,0 +1,11 @@
+{
+    "name": "Deadman's chest",
+    "id": 24189,
+    "members": false,
+    "examine": "15 men may jump on you, but only to steal the contents of your bank.",
+    "value": 2,
+    "weight": 0.12,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

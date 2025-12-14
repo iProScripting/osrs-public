@@ -1,0 +1,17 @@
+{
+    "name": "Adamant sq shield",
+    "id": 1183,
+    "members": false,
+    "examine": "A medium square shield.",
+    "value": 3840,
+    "weight": 4.082,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "stabDefence": 24,
+        "slashDefence": 26,
+        "crushDefence": 22,
+        "rangedDefence": 24,
+        "slot": "SHIELD"
+    }
+}

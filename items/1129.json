@@ -1,0 +1,19 @@
+{
+    "name": "Leather body",
+    "id": 1129,
+    "members": false,
+    "examine": "Better than no armour!",
+    "value": 21,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -2,
+        "rangedAttack": 2,
+        "stabDefence": 8,
+        "slashDefence": 9,
+        "crushDefence": 10,
+        "magicDefence": 4,
+        "rangedDefence": 9,
+        "slot": "BODY"
+    }
+}

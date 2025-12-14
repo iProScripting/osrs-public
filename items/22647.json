@@ -1,0 +1,24 @@
+{
+    "name": "Zuriel's staff (Deadman Mode)",
+    "id": 22647,
+    "members": false,
+    "examine": "A powerful staff.",
+    "value": 300000,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 13,
+        "slashAttack": -1,
+        "crushAttack": 65,
+        "magicAttack": 18,
+        "stabDefence": 5,
+        "slashDefence": 7,
+        "crushDefence": 4,
+        "magicDefence": 18,
+        "strength": 72,
+        "magicDamage": 10.0,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

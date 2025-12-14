@@ -1,0 +1,9 @@
+{
+    "name": "Bucket of sand",
+    "id": 1783,
+    "members": false,
+    "examine": "One of the ingredients for making glass.",
+    "value": 2,
+    "weight": 2.5,
+    "buyLimit": 13000
+}

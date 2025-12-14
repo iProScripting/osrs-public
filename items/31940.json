@@ -1,0 +1,8 @@
+{
+    "name": "Adamant incendiary cannonball",
+    "id": 31940,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 180,
+    "weight": 3.628
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Crude carving",
+    "id": 11032,
+    "members": false,
+    "examine": "A log with some squiggles carved into it.",
+    "value": 0,
+    "weight": 0.05
+}

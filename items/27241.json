@@ -1,0 +1,21 @@
+{
+    "name": "Masori chaps (f)",
+    "id": 27241,
+    "members": false,
+    "examine": "Fortified armour once worn by a powerful ranger.",
+    "value": 1300000,
+    "weight": 8.5,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -2,
+        "rangedAttack": 27,
+        "stabDefence": 35,
+        "slashDefence": 30,
+        "crushDefence": 39,
+        "magicDefence": 46,
+        "rangedDefence": 37,
+        "rangedStrength": 2,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

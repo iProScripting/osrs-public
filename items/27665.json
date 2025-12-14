@@ -1,0 +1,16 @@
+{
+    "name": "Accursed sceptre",
+    "id": 27665,
+    "members": false,
+    "examine": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
+    "value": 120000,
+    "weight": 0.198,
+    "equipment": {
+        "magicAttack": 22,
+        "magicDefence": 20,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "POWERED_STAFF"
+    }
+}

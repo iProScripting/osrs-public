@@ -1,0 +1,8 @@
+{
+    "name": "Cannon base (or)",
+    "id": 26520,
+    "members": false,
+    "examine": "The body of a cannon plucked from the shattered abyss.",
+    "value": 187500,
+    "weight": 10.0
+}

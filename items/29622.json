@@ -1,0 +1,8 @@
+{
+    "name": "Armageddon teleport scroll",
+    "id": 29622,
+    "members": false,
+    "examine": "A scroll which unlocks the Deadman: Armageddon home teleport animation.",
+    "value": 25000,
+    "weight": 0.1
+}

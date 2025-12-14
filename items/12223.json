@@ -1,0 +1,19 @@
+{
+    "name": "Bronze kiteshield (t)",
+    "id": 12223,
+    "members": false,
+    "examine": "Bronze kiteshield with trim.",
+    "value": 64,
+    "weight": 5.443,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -2,
+        "stabDefence": 5,
+        "slashDefence": 7,
+        "crushDefence": 6,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "SHIELD"
+    }
+}

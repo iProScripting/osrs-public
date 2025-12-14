@@ -1,0 +1,9 @@
+{
+    "name": "Unicorn horn",
+    "id": 237,
+    "members": false,
+    "examine": "This horn has restorative properties.",
+    "value": 20,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

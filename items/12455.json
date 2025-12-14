@@ -1,0 +1,14 @@
+{
+    "name": "Black wizard hat (t)",
+    "id": 12455,
+    "members": false,
+    "examine": "A silly pointed hat, with colourful trim.",
+    "value": 2,
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": 2,
+        "magicDefence": 2,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Empty vial pack",
+    "id": 11877,
+    "members": false,
+    "examine": "A pack containing 100 empty vials.",
+    "value": 200,
+    "weight": 1.6
+}

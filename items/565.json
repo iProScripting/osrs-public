@@ -1,0 +1,9 @@
+{
+    "name": "Blood rune",
+    "id": 565,
+    "members": false,
+    "examine": "Used for high level missile spells.",
+    "value": 400,
+    "weight": 0.0,
+    "buyLimit": 25000
+}

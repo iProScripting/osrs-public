@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Speak to Hans to solve the clue",
+    "id": 2681,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

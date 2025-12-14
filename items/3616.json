@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - AHA JAR",
+    "id": 3616,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

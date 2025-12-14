@@ -1,0 +1,8 @@
+{
+    "name": "Big bucket",
+    "id": 26919,
+    "members": false,
+    "examine": "It's a wooden bucket. But... bigger.",
+    "value": 2,
+    "weight": 2.0
+}

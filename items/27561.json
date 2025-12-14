@@ -1,0 +1,8 @@
+{
+    "name": "Light beer",
+    "id": 27561,
+    "members": false,
+    "examine": "An ice cold glass of beer, without the side effects.",
+    "value": 1,
+    "weight": 0.55
+}

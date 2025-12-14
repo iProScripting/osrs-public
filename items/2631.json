@@ -1,0 +1,12 @@
+{
+    "name": "Highwayman mask",
+    "id": 2631,
+    "members": false,
+    "examine": "Your money or your life!",
+    "value": 40,
+    "weight": 0.02,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

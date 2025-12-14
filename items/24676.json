@@ -1,0 +1,11 @@
+{
+    "name": "Vyre noble top",
+    "id": 24676,
+    "members": false,
+    "examine": "Lets you dress like a vampyre noble.",
+    "value": 100,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

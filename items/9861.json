@@ -1,0 +1,9 @@
+{
+    "name": "Mahogany armour case (flatpack)",
+    "id": 9861,
+    "members": false,
+    "examine": "Mahogany armour case.",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 500
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Beaver",
+    "id": 28232,
+    "members": false,
+    "examine": "Looks like it's gotten through a lot of wood.",
+    "value": 1,
+    "weight": 0.015
+}

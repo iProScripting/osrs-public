@@ -1,0 +1,21 @@
+{
+    "name": "Vesta's chainbody (Deadman Mode)",
+    "id": 22616,
+    "members": false,
+    "examine": "A powerful chainbody.",
+    "value": 500000,
+    "weight": 6.803,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 7,
+        "crushAttack": 7,
+        "magicAttack": -15,
+        "stabDefence": 120,
+        "slashDefence": 131,
+        "crushDefence": 145,
+        "magicDefence": -3,
+        "rangedDefence": 140,
+        "strength": 6,
+        "slot": "BODY"
+    }
+}

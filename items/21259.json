@@ -1,0 +1,8 @@
+{
+    "name": "Enchanted scroll",
+    "id": 21259,
+    "members": false,
+    "examine": "This scroll sends messages to the client when written on with an enchanted quill. Using a feather on the scroll should transfer its magic!",
+    "value": 1,
+    "weight": 0.005
+}

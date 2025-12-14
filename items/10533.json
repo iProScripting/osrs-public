@@ -1,0 +1,8 @@
+{
+    "name": "Blue egg",
+    "id": 10533,
+    "members": false,
+    "examine": "Stun your foes!",
+    "value": 100,
+    "weight": 0.02
+}

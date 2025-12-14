@@ -1,0 +1,9 @@
+{
+    "name": "Spotted kebbit fur",
+    "id": 10125,
+    "members": false,
+    "examine": "Maybe this is why people think furry dice make you go faster.",
+    "value": 150,
+    "weight": 0.453,
+    "buyLimit": 10000
+}

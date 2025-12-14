@@ -1,0 +1,19 @@
+{
+    "name": "Dragon kiteshield",
+    "id": 21895,
+    "members": false,
+    "examine": "An ancient and powerful looking Dragon Kiteshield.",
+    "value": 1600000,
+    "weight": 6.803,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 56,
+        "slashDefence": 60,
+        "crushDefence": 58,
+        "magicDefence": -1,
+        "rangedDefence": 58,
+        "slot": "SHIELD"
+    }
+}

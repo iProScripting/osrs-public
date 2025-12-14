@@ -1,0 +1,13 @@
+{
+    "name": "Adamant arrow",
+    "id": 890,
+    "members": false,
+    "examine": "Arrows with adamant heads.",
+    "value": 80,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 31,
+        "slot": "AMMO"
+    }
+}

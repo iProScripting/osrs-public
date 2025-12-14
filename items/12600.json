@@ -1,0 +1,11 @@
+{
+    "name": "Druidic wreath",
+    "id": 12600,
+    "members": false,
+    "examine": "This one's more common than you'd expect.",
+    "value": 1,
+    "weight": 0.32,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

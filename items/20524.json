@@ -1,0 +1,8 @@
+{
+    "name": "Elemental rune pack",
+    "id": 20524,
+    "members": false,
+    "examine": "A pack containing 100 of each elemental rune.",
+    "value": 50,
+    "weight": 4.535
+}

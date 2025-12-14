@@ -1,0 +1,18 @@
+{
+    "name": "Neitiznot faceguard",
+    "id": 24271,
+    "members": false,
+    "examine": "A gift from Neitiznot's Burgher enhanced with the jaw of a Basilisk.",
+    "value": 550000,
+    "weight": 2.721,
+    "equipment": {
+        "stabDefence": 36,
+        "slashDefence": 34,
+        "crushDefence": 38,
+        "magicDefence": 3,
+        "rangedDefence": 34,
+        "strength": 6,
+        "prayerBonus": 3,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Blighted bind sack",
+    "id": 24609,
+    "members": false,
+    "examine": "Enough power for a Bind, blighted so it can be used only in the Wilderness.",
+    "value": 20,
+    "weight": 0.0
+}

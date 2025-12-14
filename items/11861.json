@@ -1,0 +1,11 @@
+{
+    "name": "Graceful boots",
+    "id": 11861,
+    "members": false,
+    "examine": "For your graceful feet.",
+    "value": 40,
+    "weight": -4.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

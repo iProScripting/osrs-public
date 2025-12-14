@@ -1,0 +1,8 @@
+{
+    "name": "Lamp of knowledge",
+    "id": 23516,
+    "members": false,
+    "examine": "Knowledge!",
+    "value": 1,
+    "weight": 0.1
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Book of darkness (or)",
+    "id": 26490,
+    "members": false,
+    "examine": "The dark book of a forgotten god, plucked from the shattered abyss.",
+    "value": 200,
+    "weight": 1.0,
+    "equipment": {
+        "magicAttack": 10,
+        "prayerBonus": 5,
+        "slot": "SHIELD"
+    }
+}

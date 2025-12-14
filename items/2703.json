@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the chest in the left-hand tower of Camelot Castle",
+    "id": 2703,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

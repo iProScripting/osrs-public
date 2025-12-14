@@ -1,0 +1,8 @@
+{
+    "name": "Bottled water",
+    "id": 6953,
+    "members": false,
+    "examine": "A bottle of water.",
+    "value": 1,
+    "weight": 0.05
+}

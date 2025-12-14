@@ -1,0 +1,8 @@
+{
+    "name": "Chart",
+    "id": 2576,
+    "members": false,
+    "examine": "A navigator's chart of Gielinor.",
+    "value": 2,
+    "weight": 0.01
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Chicken (Recruitment Drive)",
+    "id": 5609,
+    "members": false,
+    "examine": "He'd be easier to carry if I cooked and ate him first...",
+    "value": 1,
+    "weight": 5.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

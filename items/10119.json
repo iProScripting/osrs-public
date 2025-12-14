@@ -1,0 +1,9 @@
+{
+    "name": "Feldip weasel fur",
+    "id": 10119,
+    "members": false,
+    "examine": "Not actually from a weasel, but it is, at least, furry.",
+    "value": 14,
+    "weight": 0.453,
+    "buyLimit": 10000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Onyx bolt tips",
+    "id": 9194,
+    "members": false,
+    "examine": "Onyx bolt tips.",
+    "value": 1000,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

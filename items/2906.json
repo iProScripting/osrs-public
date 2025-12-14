@@ -1,0 +1,14 @@
+{
+    "name": "Red robe top",
+    "id": 2906,
+    "members": false,
+    "examine": "Some fine werewolf clothing.",
+    "value": 500,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "slot": "BODY"
+    }
+}

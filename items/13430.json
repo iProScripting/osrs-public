@@ -1,0 +1,8 @@
+{
+    "name": "Bucket of sandworms",
+    "id": 13430,
+    "members": false,
+    "examine": "There are sandworms buried in the bucket.",
+    "value": 90,
+    "weight": 2.5
+}

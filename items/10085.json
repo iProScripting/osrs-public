@@ -1,0 +1,19 @@
+{
+    "name": "Black spiky vambraces",
+    "id": 10085,
+    "members": false,
+    "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
+    "value": 4320,
+    "weight": 0.283,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 11,
+        "stabDefence": 6,
+        "slashDefence": 5,
+        "crushDefence": 7,
+        "magicDefence": 8,
+        "strength": 2,
+        "slot": "HANDS"
+    }
+}

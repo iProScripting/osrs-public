@@ -1,0 +1,9 @@
+{
+    "name": "Bones",
+    "id": 526,
+    "members": false,
+    "examine": "Bones are for burying!",
+    "value": 1,
+    "weight": 0.5,
+    "buyLimit": 3000
+}

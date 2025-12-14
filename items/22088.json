@@ -1,0 +1,8 @@
+{
+    "name": "Dragon key piece",
+    "id": 22088,
+    "members": false,
+    "examine": "A piece of an ancient key. I found this on an island north of Rellekka.",
+    "value": 1,
+    "weight": 0.001
+}

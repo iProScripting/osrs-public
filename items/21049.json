@@ -1,0 +1,9 @@
+{
+    "name": "Ancestral robes set",
+    "id": 21049,
+    "members": false,
+    "examine": "A set containing an Ancestral hat, robe top and robe bottom.",
+    "value": 145000,
+    "weight": 0.05,
+    "buyLimit": 5
+}

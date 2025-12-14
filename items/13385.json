@@ -1,0 +1,14 @@
+{
+    "name": "Xerician hat",
+    "id": 13385,
+    "members": false,
+    "examine": "The forgotten magicks of Xeric imbue this garment with a little power.",
+    "value": 60,
+    "weight": 0.2,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 3,
+        "magicDefence": 3,
+        "slot": "HEAD"
+    }
+}

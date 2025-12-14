@@ -1,0 +1,11 @@
+{
+    "name": "Carpenter's boots",
+    "id": 24878,
+    "members": false,
+    "examine": "The boots of a superior builder.",
+    "value": 280,
+    "weight": 0.42,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

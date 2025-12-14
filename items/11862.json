@@ -1,0 +1,11 @@
+{
+    "name": "Black partyhat",
+    "id": 11862,
+    "members": false,
+    "examine": "A dark hat produced by Shanty Claws.",
+    "value": 1,
+    "weight": 0.056,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

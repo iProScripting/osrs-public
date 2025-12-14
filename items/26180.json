@@ -1,0 +1,18 @@
+{
+    "name": "Hardcore group ironman platelegs",
+    "id": 26180,
+    "members": false,
+    "examine": "Guarding your legs - one of your most powerful tools of escaping.",
+    "value": 0,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 11,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "magicDefence": -4,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "'perfect' necklace",
+    "id": 774,
+    "members": false,
+    "examine": "A perfect ruby necklace.",
+    "value": 2175,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

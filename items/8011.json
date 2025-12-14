@@ -1,0 +1,9 @@
+{
+    "name": "Ardougne teleport (tablet)",
+    "id": 8011,
+    "members": false,
+    "examine": "A teleport to East Ardougne.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

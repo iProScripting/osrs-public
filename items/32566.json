@@ -1,0 +1,12 @@
+{
+    "name": "Crate of logs",
+    "id": 32566,
+    "members": false,
+    "examine": "A cargo crate of logs destined for Jatizso.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

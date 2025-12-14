@@ -1,0 +1,8 @@
+{
+    "name": "Book on costumes",
+    "id": 5065,
+    "members": false,
+    "examine": "An old library book. It bears the title 'Scholars Guide to Dwarven Costumes'.",
+    "value": 1,
+    "weight": 0.08
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Black salamander",
+    "id": 10148,
+    "members": false,
+    "examine": "Slightly slimy and somewhat menacing.",
+    "value": 200,
+    "weight": 4.0,
+    "buyLimit": 125,
+    "equipment": {
+        "slashAttack": 59,
+        "rangedAttack": 69,
+        "strength": 71,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SALAMANDER"
+    }
+}

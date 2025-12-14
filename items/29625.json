@@ -1,0 +1,8 @@
+{
+    "name": "Armageddon weapon scroll",
+    "id": 29625,
+    "members": false,
+    "examine": "Take this to Nigel to give the Armadyl Godsword, Volatile Nightmare Staff, Dark Bow or Voidwaker a cosmetic theme from Deadman: Armageddon.",
+    "value": 25000,
+    "weight": 0.1
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Ashes",
+    "id": 592,
+    "members": false,
+    "examine": "A heap of ashes.",
+    "value": 2,
+    "weight": 0.056,
+    "buyLimit": 13000
+}

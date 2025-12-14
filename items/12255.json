@@ -1,0 +1,15 @@
+{
+    "name": "Armadyl robe legs",
+    "id": 12255,
+    "members": false,
+    "examine": "Leggings from the Armadyl Vestments.",
+    "value": 7000,
+    "weight": 2.7,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "prayerBonus": 5,
+        "slot": "LEGS"
+    }
+}

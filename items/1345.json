@@ -1,0 +1,20 @@
+{
+    "name": "Adamant warhammer",
+    "id": 1345,
+    "members": false,
+    "examine": "I don't think it's intended for joinery.",
+    "value": 4120,
+    "weight": 2.041,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": -4,
+        "crushAttack": 35,
+        "magicAttack": -4,
+        "strength": 39,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

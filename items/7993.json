@@ -1,0 +1,8 @@
+{
+    "name": "Big shark",
+    "id": 7993,
+    "members": false,
+    "examine": "It's a monster! I should get this stuffed!",
+    "value": 5000,
+    "weight": 0.7
+}

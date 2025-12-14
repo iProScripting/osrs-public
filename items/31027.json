@@ -1,0 +1,8 @@
+{
+    "name": "Greenman statue",
+    "id": 31027,
+    "members": false,
+    "examine": "A garden statue of a woodland spirit.",
+    "value": 9245,
+    "weight": 5.0
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Dragon felling axe",
+    "id": 28217,
+    "members": false,
+    "examine": "A very powerful felling axe.",
+    "value": 55000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -3,
+        "slashAttack": 60,
+        "crushAttack": 51,
+        "slashDefence": 1,
+        "strength": 67,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

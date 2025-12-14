@@ -1,0 +1,16 @@
+{
+    "name": "Ardougne max cape",
+    "id": 20760,
+    "members": false,
+    "examine": "The cape worn by only the most experienced players.",
+    "value": 99000,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 6,
+        "magicAttack": 6,
+        "stabDefence": 6,
+        "magicDefence": 6,
+        "prayerBonus": 6,
+        "slot": "CAPE"
+    }
+}

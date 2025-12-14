@@ -1,0 +1,9 @@
+{
+    "name": "Iron ore",
+    "id": 440,
+    "members": false,
+    "examine": "This needs refining.",
+    "value": 17,
+    "weight": 2.267,
+    "buyLimit": 13000
+}

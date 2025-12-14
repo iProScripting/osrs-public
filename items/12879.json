@@ -1,0 +1,9 @@
+{
+    "name": "Torag's armour set",
+    "id": 12879,
+    "members": false,
+    "examine": "A set containing a Torag's helm, platelegs, platebody and hammers.",
+    "value": 400000,
+    "weight": 0.05,
+    "buyLimit": 8
+}

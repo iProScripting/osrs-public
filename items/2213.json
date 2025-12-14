@@ -1,0 +1,9 @@
+{
+    "name": "Spicy crunchies",
+    "id": 2213,
+    "members": false,
+    "examine": "Yum... smells spicy.",
+    "value": 2,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

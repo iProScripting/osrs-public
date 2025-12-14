@@ -1,0 +1,8 @@
+{
+    "name": "A magic scroll",
+    "id": 6949,
+    "members": false,
+    "examine": "This scroll glows with an inner light.",
+    "value": 1,
+    "weight": 0.02
+}

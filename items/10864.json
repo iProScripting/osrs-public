@@ -1,0 +1,11 @@
+{
+    "name": "Builder's trousers",
+    "id": 10864,
+    "members": false,
+    "examine": "Slightly tatty in my opinion.",
+    "value": 100,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

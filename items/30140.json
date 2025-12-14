@@ -1,0 +1,8 @@
+{
+    "name": "Goading potion",
+    "id": 30140,
+    "members": false,
+    "examine": "3 doses of Goading potion.",
+    "value": 250,
+    "weight": 0.03
+}

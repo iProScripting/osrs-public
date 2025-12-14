@@ -1,0 +1,8 @@
+{
+    "name": "Unusual armour",
+    "id": 2386,
+    "members": false,
+    "examine": "Looks kind of useless.",
+    "value": 1,
+    "weight": 3.628
+}

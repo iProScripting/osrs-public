@@ -1,0 +1,12 @@
+{
+    "name": "Crate of platebodies",
+    "id": 32773,
+    "members": false,
+    "examine": "A cargo crate of platebodies destined for The Pandemonium.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

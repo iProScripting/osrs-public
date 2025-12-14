@@ -1,0 +1,9 @@
+{
+    "name": "Dragonfruit tree seed",
+    "id": 22877,
+    "members": false,
+    "examine": "Plant in a plantpot of soil to grow a sapling.",
+    "value": 430,
+    "weight": 0.0,
+    "buyLimit": 200
+}

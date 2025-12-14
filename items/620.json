@@ -1,0 +1,8 @@
+{
+    "name": "Paramaya ticket (unobtainable item)",
+    "id": 620,
+    "members": false,
+    "examine": "Allows you to rest in the luxurious Paramayer Inn.",
+    "value": 5,
+    "weight": 0.0
+}

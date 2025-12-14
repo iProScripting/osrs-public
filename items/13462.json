@@ -1,0 +1,8 @@
+{
+    "name": "Ensouled bear head",
+    "id": 13462,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
+    "value": 260,
+    "weight": 0.453
+}

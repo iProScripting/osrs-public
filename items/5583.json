@@ -1,0 +1,8 @@
+{
+    "name": "Tin ore powder",
+    "id": 5583,
+    "members": false,
+    "examine": "A vial of something labelled 'Powdered Tin Ore'.",
+    "value": 1,
+    "weight": 0.056
+}

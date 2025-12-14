@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crate in Rommiks crafting shop in Rimmington",
+    "id": 23153,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

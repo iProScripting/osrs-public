@@ -1,0 +1,9 @@
+{
+    "name": "Rune dart tip",
+    "id": 824,
+    "members": false,
+    "examine": "A deadly-looking dart tip made of runite - needs feathers for flight.",
+    "value": 175,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Rainbow cape",
+    "id": 29505,
+    "members": false,
+    "examine": "A colourful cape, constructed with beautiful colourful fabrics!",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

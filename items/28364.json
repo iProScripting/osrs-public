@@ -1,0 +1,8 @@
+{
+    "name": "Basic shadow torch",
+    "id": 28364,
+    "members": false,
+    "examine": "A torch that can pierce the Shadow Realm.",
+    "value": 30,
+    "weight": 0.5
+}

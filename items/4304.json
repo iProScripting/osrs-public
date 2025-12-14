@@ -1,0 +1,15 @@
+{
+    "name": "Ham cloak",
+    "id": 4304,
+    "members": false,
+    "examine": "A HAM cape.",
+    "value": 75,
+    "weight": 0.453,
+    "buyLimit": 15,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

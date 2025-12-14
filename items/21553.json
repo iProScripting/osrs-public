@@ -1,0 +1,8 @@
+{
+    "name": "Rare enriched bone",
+    "id": 21553,
+    "members": false,
+    "examine": "This once fossilised bone is now bone again.",
+    "value": 1,
+    "weight": 0.3
+}

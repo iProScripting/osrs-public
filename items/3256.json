@@ -1,0 +1,9 @@
+{
+    "name": "Lava scale shard",
+    "id": 3256,
+    "members": false,
+    "examine": "Ground-up lava dragon scale.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

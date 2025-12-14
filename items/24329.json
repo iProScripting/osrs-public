@@ -1,0 +1,8 @@
+{
+    "name": "Bounty crate (discontinued)",
+    "id": 24329,
+    "members": false,
+    "examine": "Are you feeling lucky?",
+    "value": 40000,
+    "weight": 1.285
+}

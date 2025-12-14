@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of winter sun",
+    "id": 31877,
+    "members": false,
+    "examine": "Will warm you up on the coldest nights.",
+    "value": 50,
+    "weight": 0.003
+}

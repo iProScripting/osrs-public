@@ -1,0 +1,12 @@
+{
+    "name": "Crate of red coral",
+    "id": 32587,
+    "members": false,
+    "examine": "A cargo crate of red coral destined for Lunar Isle.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Silver pot (Desert Treasure I)",
+    "id": 4666,
+    "members": false,
+    "examine": "A silver pot made by Ruantun filled with blood and spices.",
+    "value": 250,
+    "weight": 0.453
+}

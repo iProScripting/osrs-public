@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of graveyard corpse reviver",
+    "id": 31883,
+    "members": false,
+    "examine": "Please collect corpse parts in one location before reviving.",
+    "value": 50,
+    "weight": 0.003
+}

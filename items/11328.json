@@ -1,0 +1,9 @@
+{
+    "name": "Leaping trout",
+    "id": 11328,
+    "members": false,
+    "examine": "A sad-looking trout.",
+    "value": 2,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

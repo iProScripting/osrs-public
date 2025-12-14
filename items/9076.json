@@ -1,0 +1,8 @@
+{
+    "name": "Lunar ore",
+    "id": 9076,
+    "members": false,
+    "examine": "This needs refining.",
+    "value": 3,
+    "weight": 2.267
+}

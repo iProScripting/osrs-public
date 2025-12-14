@@ -1,0 +1,9 @@
+{
+    "name": "Fishing potion",
+    "id": 2438,
+    "members": false,
+    "examine": "4 doses of Fishing potion.",
+    "value": 250,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

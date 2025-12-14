@@ -1,0 +1,12 @@
+{
+    "name": "Crate of fishing supplies",
+    "id": 32753,
+    "members": false,
+    "examine": "A cargo crate of fishing supplies destined for the Ruins of Unkah.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

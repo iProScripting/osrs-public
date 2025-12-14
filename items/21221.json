@@ -1,0 +1,8 @@
+{
+    "name": "Meaty easter egg",
+    "id": 21221,
+    "members": false,
+    "examine": "A meat flavoured Easter egg",
+    "value": 1,
+    "weight": 1.0
+}

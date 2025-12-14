@@ -1,0 +1,8 @@
+{
+    "name": "Meat pizza",
+    "id": 2295,
+    "members": false,
+    "examine": "Half of this meat pizza has been eaten.",
+    "value": 25,
+    "weight": 0.45
+}

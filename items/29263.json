@@ -1,0 +1,11 @@
+{
+    "name": "Guild hunter headwear",
+    "id": 29263,
+    "members": false,
+    "examine": "The hat of the Hunters.",
+    "value": 500,
+    "weight": 1.36,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

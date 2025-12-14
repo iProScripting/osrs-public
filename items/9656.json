@@ -1,0 +1,8 @@
+{
+    "name": "Tome of experience (Darkness of Hallowvale)",
+    "id": 9656,
+    "members": false,
+    "examine": "A tome of experience that awards 2,000 XP per chapter.",
+    "value": 1,
+    "weight": 1.0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Comp ogre bow",
+    "id": 4827,
+    "members": false,
+    "examine": "A composite ogre bow.",
+    "value": 180,
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "rangedAttack": 38,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 5,
+        "combatStyle": "BOW"
+    }
+}

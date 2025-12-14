@@ -1,0 +1,8 @@
+{
+    "name": "Ancient signet",
+    "id": 20611,
+    "members": false,
+    "examine": "An artefact imbued with ancient magical powers.",
+    "value": 0,
+    "weight": 0.3
+}

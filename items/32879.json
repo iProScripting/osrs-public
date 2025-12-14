@@ -1,0 +1,17 @@
+{
+    "name": "Aquanite hopper",
+    "id": 32879,
+    "members": false,
+    "examine": "An autoloading contraption made of aquanite bits. Slimy.",
+    "value": 8000,
+    "weight": 0.01,
+    "equipment": {
+        "stabAttack": -5,
+        "slashAttack": -5,
+        "crushAttack": -3,
+        "magicAttack": -13,
+        "rangedAttack": 12,
+        "rangedStrength": 1,
+        "slot": "SHIELD"
+    }
+}

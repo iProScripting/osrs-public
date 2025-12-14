@@ -1,0 +1,9 @@
+{
+    "name": "Raw beast meat",
+    "id": 9986,
+    "members": false,
+    "examine": "A slab of raw beast meat.",
+    "value": 25,
+    "weight": 2.0,
+    "buyLimit": 11000
+}

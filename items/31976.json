@@ -1,0 +1,9 @@
+{
+    "name": "Camphor repair kit",
+    "id": 31976,
+    "members": false,
+    "examine": "A strong boat repair kit made from camphor.",
+    "value": 3500,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Amulet of glory",
+    "id": 1704,
+    "members": false,
+    "examine": "A very powerful dragonstone amulet.",
+    "value": 17625,
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 10,
+        "magicAttack": 10,
+        "rangedAttack": 10,
+        "stabDefence": 3,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "magicDefence": 3,
+        "rangedDefence": 3,
+        "strength": 6,
+        "prayerBonus": 3,
+        "slot": "NECK"
+    }
+}

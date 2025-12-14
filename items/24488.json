@@ -1,0 +1,8 @@
+{
+    "name": "Inquisitor's armour set",
+    "id": 24488,
+    "members": false,
+    "examine": "A set containing an Inquisitor's great helm, Inquisitor's hauberk and Inquisitor's plateskirt.",
+    "value": 500000,
+    "weight": 0.05
+}

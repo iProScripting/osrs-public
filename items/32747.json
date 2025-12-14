@@ -1,0 +1,12 @@
+{
+    "name": "Crate of teak logs",
+    "id": 32747,
+    "members": false,
+    "examine": "A cargo crate of teak logs destined for Rellekka.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

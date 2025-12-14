@@ -1,0 +1,22 @@
+{
+    "name": "Black gloves",
+    "id": 7457,
+    "members": false,
+    "examine": "A pair of nice gloves.",
+    "value": 1000,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 5,
+        "crushAttack": 5,
+        "magicAttack": 3,
+        "rangedAttack": 5,
+        "stabDefence": 5,
+        "slashDefence": 5,
+        "crushDefence": 5,
+        "magicDefence": 3,
+        "rangedDefence": 5,
+        "strength": 5,
+        "slot": "HANDS"
+    }
+}

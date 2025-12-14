@@ -1,0 +1,8 @@
+{
+    "name": "Catalytic rune pack",
+    "id": 20523,
+    "members": false,
+    "examine": "A pack containing 50 of each high-level catalytic rune.",
+    "value": 75,
+    "weight": 4.535
+}

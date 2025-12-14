@@ -1,0 +1,11 @@
+{
+    "name": "Angler boots",
+    "id": 13261,
+    "members": false,
+    "examine": "Where's Welly?",
+    "value": 100,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

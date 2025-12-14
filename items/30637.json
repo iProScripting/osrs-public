@@ -1,0 +1,11 @@
+{
+    "name": "Giantsoul amulet",
+    "id": 30637,
+    "members": false,
+    "examine": "An enchanted amulet.",
+    "value": 5000,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

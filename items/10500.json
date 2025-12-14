@@ -1,0 +1,11 @@
+{
+    "name": "Crone-made amulet",
+    "id": 10500,
+    "members": false,
+    "examine": "Allows Malcolm the ghost farmer to talk to his wife Alice - a breakthrough!",
+    "value": 20,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

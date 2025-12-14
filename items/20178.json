@@ -1,0 +1,19 @@
+{
+    "name": "Steel full helm (g)",
+    "id": 20178,
+    "members": false,
+    "examine": "A steel full helmet with gold trim.",
+    "value": 550,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 9,
+        "slashDefence": 10,
+        "crushDefence": 7,
+        "magicDefence": -1,
+        "rangedDefence": 9,
+        "slot": "HEAD"
+    }
+}

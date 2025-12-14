@@ -1,0 +1,8 @@
+{
+    "name": "Bulging sack",
+    "id": 21874,
+    "members": false,
+    "examine": "Santa's sack is full of joy.",
+    "value": 1,
+    "weight": 9.071
+}

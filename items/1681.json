@@ -1,0 +1,9 @@
+{
+    "name": "Diamond amulet (u)",
+    "id": 1681,
+    "members": false,
+    "examine": "It needs a string so I can wear it.",
+    "value": 3525,
+    "weight": 0.004,
+    "buyLimit": 10000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Jug of wine",
+    "id": 1993,
+    "members": false,
+    "examine": "It's full of wine.",
+    "value": 1,
+    "weight": 1.5,
+    "buyLimit": 6000
+}

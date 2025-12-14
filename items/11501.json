@@ -1,0 +1,9 @@
+{
+    "name": "Antidote+ mix",
+    "id": 11501,
+    "members": false,
+    "examine": "Two doses of fishy extra strength antidote potion.",
+    "value": 216,
+    "weight": 0.075,
+    "buyLimit": 2000
+}

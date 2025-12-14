@@ -1,0 +1,8 @@
+{
+    "name": "Ancient map",
+    "id": 27597,
+    "members": false,
+    "examine": "A very old map.",
+    "value": 30,
+    "weight": 0.003
+}

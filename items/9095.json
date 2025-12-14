@@ -1,0 +1,8 @@
+{
+    "name": "Soaked kindling",
+    "id": 9095,
+    "members": false,
+    "examine": "Magic wood soaked with a potion of waking sleep. Groovy.",
+    "value": 1,
+    "weight": 0.5
+}

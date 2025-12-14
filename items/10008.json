@@ -1,0 +1,9 @@
+{
+    "name": "Box trap",
+    "id": 10008,
+    "members": false,
+    "examine": "If a creature goes inside, the box should then slam shut.",
+    "value": 32,
+    "weight": 0.0,
+    "buyLimit": 250
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Teleport to boat (tablet)",
+    "id": 31443,
+    "members": false,
+    "examine": "A tablet containing a magic spell.",
+    "value": 1,
+    "weight": 0.0
+}

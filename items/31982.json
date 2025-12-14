@@ -1,0 +1,9 @@
+{
+    "name": "Rosewood repair kit",
+    "id": 31982,
+    "members": false,
+    "examine": "An excellent boat repair kit made from rosewood.",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

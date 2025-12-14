@@ -1,0 +1,9 @@
+{
+    "name": "Candle",
+    "id": 36,
+    "members": false,
+    "examine": "A candle.",
+    "value": 3,
+    "weight": 0.028,
+    "buyLimit": 40
+}

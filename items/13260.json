@@ -1,0 +1,11 @@
+{
+    "name": "Angler waders",
+    "id": 13260,
+    "members": false,
+    "examine": "This will help with fishing.",
+    "value": 100,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

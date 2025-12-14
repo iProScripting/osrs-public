@@ -1,0 +1,8 @@
+{
+    "name": "Blindweed",
+    "id": 6711,
+    "members": false,
+    "examine": "An inedible, foul smelling herb.",
+    "value": 1,
+    "weight": 0.007
+}

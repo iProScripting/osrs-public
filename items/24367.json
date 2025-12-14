@@ -1,0 +1,8 @@
+{
+    "name": "Cabbage (unobtainable item)",
+    "id": 24367,
+    "members": false,
+    "examine": "Looks like a cabbage.",
+    "value": 1,
+    "weight": 0.0
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Snake hide",
+    "id": 6287,
+    "members": false,
+    "examine": "Scaly but not slimy! It could be a useful material if it were tanned.",
+    "value": 35,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

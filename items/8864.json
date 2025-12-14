@@ -1,0 +1,11 @@
+{
+    "name": "Five barrels",
+    "id": 8864,
+    "members": false,
+    "examine": "To put on your head.",
+    "value": 1,
+    "weight": 22.679,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

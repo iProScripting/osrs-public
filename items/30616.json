@@ -1,0 +1,9 @@
+{
+    "name": "Bounty supply crate (manta ray)",
+    "id": 30616,
+    "members": false,
+    "examine": "A crate full of supplies.",
+    "value": 10000,
+    "weight": 5.0,
+    "buyLimit": 100
+}

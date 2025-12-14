@@ -1,0 +1,24 @@
+{
+    "name": "Magic staff",
+    "id": 1389,
+    "members": false,
+    "examine": "A Magical staff.",
+    "value": 200,
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 2,
+        "slashAttack": -1,
+        "crushAttack": 10,
+        "magicAttack": 10,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 10,
+        "strength": 7,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Blue cog",
+    "id": 22,
+    "members": false,
+    "examine": "A cog from some machinery.",
+    "value": 1,
+    "weight": 1.0
+}

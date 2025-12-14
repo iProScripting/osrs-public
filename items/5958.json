@@ -1,0 +1,9 @@
+{
+    "name": "Antidote++",
+    "id": 5958,
+    "members": false,
+    "examine": "1 dose of super strong antipoison potion.",
+    "value": 144,
+    "weight": 0.035,
+    "buyLimit": 4000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Great white shark jaw",
+    "id": 32812,
+    "members": false,
+    "examine": "The jaw of a great white shark.",
+    "value": 100,
+    "weight": 0.8
+}

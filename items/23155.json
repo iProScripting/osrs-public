@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Vision",
+    "id": 23155,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Beret mask",
+    "id": 11282,
+    "members": false,
+    "examine": "Essential mime wear.",
+    "value": 80,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

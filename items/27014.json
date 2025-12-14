@@ -1,0 +1,8 @@
+{
+    "name": "Kovac's grog",
+    "id": 27014,
+    "members": false,
+    "examine": "Only Kovac knows what's gone into this.",
+    "value": 5,
+    "weight": 0.55
+}

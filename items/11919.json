@@ -1,0 +1,11 @@
+{
+    "name": "Cow mask",
+    "id": 11919,
+    "members": false,
+    "examine": "It looks like a cow's head.",
+    "value": 1,
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

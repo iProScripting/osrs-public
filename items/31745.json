@@ -1,0 +1,8 @@
+{
+    "name": "Captured wind mote",
+    "id": 31745,
+    "members": false,
+    "examine": "The container emits a whirring noise as the mote feverently<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"Correct spelling is &quot;fervently&quot;\">sic</span>&#93;</sup> tries to escape.",
+    "value": 30,
+    "weight": 0.001
+}

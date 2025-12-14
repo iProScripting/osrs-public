@@ -1,0 +1,14 @@
+{
+    "name": "Tome of fire",
+    "id": 20716,
+    "members": false,
+    "examine": "An ancient tome containing the secrets of fire magic.",
+    "value": 20000,
+    "weight": 1.0,
+    "buyLimit": 15,
+    "equipment": {
+        "magicAttack": 8,
+        "magicDefence": 8,
+        "slot": "SHIELD"
+    }
+}

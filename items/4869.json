@@ -1,0 +1,18 @@
+{
+    "name": "Ahrim's robetop",
+    "id": 4869,
+    "members": false,
+    "examine": "Ahrim the Blighted's armoured robe top.",
+    "value": 50000,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": 30,
+        "rangedAttack": -10,
+        "stabDefence": 52,
+        "slashDefence": 37,
+        "crushDefence": 63,
+        "magicDefence": 30,
+        "magicDamage": 1.0,
+        "slot": "BODY"
+    }
+}

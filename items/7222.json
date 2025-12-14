@@ -1,0 +1,8 @@
+{
+    "name": "Burnt rabbit",
+    "id": 7222,
+    "members": false,
+    "examine": "This could be mistaken for charcoal.",
+    "value": 1,
+    "weight": 0.3
+}

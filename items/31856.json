@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of crystal clear water",
+    "id": 31856,
+    "members": false,
+    "examine": "Flecks of shiny crystal can be seen in the water.",
+    "value": 50,
+    "weight": 0.003
+}

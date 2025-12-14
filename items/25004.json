@@ -1,0 +1,12 @@
+{
+    "name": "Trailblazer top (t3)",
+    "id": 25004,
+    "members": false,
+    "examine": "The coat of a trailblazer relic hunter.",
+    "value": 150000,
+    "weight": 0.907,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Hydra's fang",
+    "id": 22971,
+    "members": false,
+    "examine": "The fang of a hydra, looks like it can be combined with a heart and an eye.",
+    "value": 100000,
+    "weight": 0.001
+}

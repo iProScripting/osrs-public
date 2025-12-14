@@ -1,0 +1,8 @@
+{
+    "name": "Barrel (The Tourist Trap)",
+    "id": 1841,
+    "members": false,
+    "examine": "An empty mining barrel.",
+    "value": 1,
+    "weight": 9.979
+}

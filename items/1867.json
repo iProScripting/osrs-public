@@ -1,0 +1,8 @@
+{
+    "name": "Burnt pitta bread",
+    "id": 1867,
+    "members": false,
+    "examine": "It's all burnt.",
+    "value": 1,
+    "weight": 0.08
+}

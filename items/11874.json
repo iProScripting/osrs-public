@@ -1,0 +1,9 @@
+{
+    "name": "Broad arrowheads",
+    "id": 11874,
+    "members": false,
+    "examine": "Arrowheads with broad tips.",
+    "value": 55,
+    "weight": 0.0,
+    "buyLimit": 7000
+}

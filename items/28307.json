@@ -1,0 +1,12 @@
+{
+    "name": "Ultor ring",
+    "id": 28307,
+    "members": false,
+    "examine": "An occult ring that grants immense physical power.",
+    "value": 140000,
+    "weight": 0.012,
+    "equipment": {
+        "strength": 12,
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Box trap pack",
+    "id": 12742,
+    "members": false,
+    "examine": "A pack containing 100 box traps.",
+    "value": 3200,
+    "weight": 4.989
+}

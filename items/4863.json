@@ -1,0 +1,24 @@
+{
+    "name": "Ahrim's staff",
+    "id": 4863,
+    "members": false,
+    "examine": "Ahrim the Blighted's quarterstaff.",
+    "value": 85000,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 12,
+        "slashAttack": -1,
+        "crushAttack": 65,
+        "magicAttack": 15,
+        "stabDefence": 3,
+        "slashDefence": 5,
+        "crushDefence": 2,
+        "magicDefence": 15,
+        "strength": 68,
+        "magicDamage": 5.0,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

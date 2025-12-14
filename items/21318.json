@@ -1,0 +1,13 @@
+{
+    "name": "Amethyst javelin",
+    "id": 21318,
+    "members": false,
+    "examine": "An amethyst tipped javelin.",
+    "value": 420,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 135,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Blurite crossbow",
+    "id": 9176,
+    "members": false,
+    "examine": "A blurite crossbow.",
+    "value": 93,
+    "weight": 4.0,
+    "equipment": {
+        "rangedAttack": 30,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

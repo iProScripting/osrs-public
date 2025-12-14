@@ -1,0 +1,21 @@
+{
+    "name": "Farseer helm",
+    "id": 3755,
+    "members": false,
+    "examine": "This helmet is worn by farseers.",
+    "value": 60000,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": -5,
+        "slashAttack": -5,
+        "crushAttack": -5,
+        "magicAttack": 6,
+        "rangedAttack": -5,
+        "stabDefence": 8,
+        "slashDefence": 10,
+        "crushDefence": 12,
+        "magicDefence": 6,
+        "slot": "HEAD"
+    }
+}

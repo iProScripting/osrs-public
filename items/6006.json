@@ -1,0 +1,9 @@
+{
+    "name": "Barley",
+    "id": 6006,
+    "members": false,
+    "examine": "A handful of Barley.",
+    "value": 4,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

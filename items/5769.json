@@ -1,0 +1,9 @@
+{
+    "name": "Calquat keg",
+    "id": 5769,
+    "members": false,
+    "examine": "Sliced and hollowed out to form a keg.",
+    "value": 1,
+    "weight": 0.028,
+    "buyLimit": 10000
+}

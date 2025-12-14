@@ -1,0 +1,8 @@
+{
+    "name": "Vial (The Gauntlet)",
+    "id": 23879,
+    "members": false,
+    "examine": "An empty vial shaped by crystals deep within the Gauntlet.",
+    "value": 1,
+    "weight": 0.015
+}

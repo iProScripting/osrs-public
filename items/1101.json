@@ -1,0 +1,18 @@
+{
+    "name": "Iron chainbody",
+    "id": 1101,
+    "members": false,
+    "examine": "A series of connected metal rings.",
+    "value": 210,
+    "weight": 6.803,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -15,
+        "stabDefence": 10,
+        "slashDefence": 15,
+        "crushDefence": 19,
+        "magicDefence": -3,
+        "rangedDefence": 12,
+        "slot": "BODY"
+    }
+}

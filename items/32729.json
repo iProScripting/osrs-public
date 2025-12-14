@@ -1,0 +1,12 @@
+{
+    "name": "Crate of ores",
+    "id": 32729,
+    "members": false,
+    "examine": "A cargo crate of ores destined for Red Rock.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

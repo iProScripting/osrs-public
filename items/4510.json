@@ -1,0 +1,18 @@
+{
+    "name": "Decorative armour (gold platelegs)",
+    "id": 4510,
+    "members": false,
+    "examine": "Very decorative armour.",
+    "value": 6400,
+    "weight": 9.071,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 33,
+        "slashDefence": 31,
+        "crushDefence": 29,
+        "magicDefence": -4,
+        "rangedDefence": 31,
+        "slot": "LEGS"
+    }
+}

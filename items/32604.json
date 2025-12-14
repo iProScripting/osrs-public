@@ -1,0 +1,12 @@
+{
+    "name": "Crate of mahogany logs",
+    "id": 32604,
+    "members": false,
+    "examine": "A cargo Crate of mahogany logs destined for neitiznot.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

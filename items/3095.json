@@ -1,0 +1,22 @@
+{
+    "name": "Bronze claws",
+    "id": 3095,
+    "members": false,
+    "examine": "A set of fighting claws.",
+    "value": 15,
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 3,
+        "slashAttack": 4,
+        "crushAttack": -4,
+        "stabDefence": 1,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

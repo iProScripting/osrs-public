@@ -1,0 +1,9 @@
+{
+    "name": "Broken zombie helmet",
+    "id": 30324,
+    "members": false,
+    "examine": "An old rusty helmet. It needs repairing before it can be used.",
+    "value": 160000,
+    "weight": 2.721,
+    "buyLimit": 70
+}

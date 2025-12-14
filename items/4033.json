@@ -1,0 +1,8 @@
+{
+    "name": "Monkey (Monkey Madness I)",
+    "id": 4033,
+    "members": false,
+    "examine": "It's a monkey in your backpack. As you look it pokes you.",
+    "value": 1,
+    "weight": 15.0
+}

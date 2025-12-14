@@ -1,0 +1,16 @@
+{
+    "name": "Granite maul",
+    "id": 12848,
+    "members": false,
+    "examine": "Its power should not be taken for granited.",
+    "value": 50000,
+    "weight": 4.535,
+    "equipment": {
+        "crushAttack": 81,
+        "strength": 79,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

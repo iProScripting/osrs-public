@@ -1,0 +1,11 @@
+{
+    "name": "Ring of returning",
+    "id": 21134,
+    "members": false,
+    "examine": "This ring returns you to your spawn point.",
+    "value": 1275,
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

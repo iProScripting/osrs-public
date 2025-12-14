@@ -1,0 +1,11 @@
+{
+    "name": "Blue cape (Soul Wars)",
+    "id": 25195,
+    "members": false,
+    "examine": "Like a red cape, but blue.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

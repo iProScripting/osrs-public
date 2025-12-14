@@ -1,0 +1,17 @@
+{
+    "name": "Bloodbark gauntlets",
+    "id": 25407,
+    "members": false,
+    "examine": "These should protect my hands.",
+    "value": 10000,
+    "weight": 0.907,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 4,
+        "stabDefence": 5,
+        "slashDefence": 4,
+        "crushDefence": 6,
+        "magicDefence": 5,
+        "slot": "HANDS"
+    }
+}

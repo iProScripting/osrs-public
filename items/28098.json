@@ -1,0 +1,8 @@
+{
+    "name": "Bounty crate (tier 9)",
+    "id": 28098,
+    "members": false,
+    "examine": "Contains a lot of coins and supplies.",
+    "value": 500,
+    "weight": 1.285
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Torch",
+    "id": 596,
+    "members": false,
+    "examine": "An unlit home-made torch.",
+    "value": 4,
+    "weight": 0.5,
+    "buyLimit": 40
+}

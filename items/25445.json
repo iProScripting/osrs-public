@@ -1,0 +1,9 @@
+{
+    "name": "Steel locks",
+    "id": 25445,
+    "members": false,
+    "examine": "Perhaps someone can do something with this.",
+    "value": 1600,
+    "weight": 0.283,
+    "buyLimit": 8
+}

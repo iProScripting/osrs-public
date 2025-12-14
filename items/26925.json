@@ -1,0 +1,8 @@
+{
+    "name": "Cooler",
+    "id": 26925,
+    "members": false,
+    "examine": "A cooler with enough space for two Easter eggs.",
+    "value": 1,
+    "weight": 1.0
+}

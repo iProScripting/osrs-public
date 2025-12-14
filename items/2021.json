@@ -1,0 +1,9 @@
+{
+    "name": "Brandy",
+    "id": 2021,
+    "members": false,
+    "examine": "A strong spirit best served in a large glass.",
+    "value": 5,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

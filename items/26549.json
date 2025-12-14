@@ -1,0 +1,11 @@
+{
+    "name": "Portable waystone",
+    "id": 26549,
+    "members": false,
+    "examine": "A small waystone which can whisk you to places of importance.",
+    "value": 400,
+    "weight": 0.002,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

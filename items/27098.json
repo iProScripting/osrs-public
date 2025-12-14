@@ -1,0 +1,8 @@
+{
+    "name": "Elder maul ornament kit",
+    "id": 27098,
+    "members": false,
+    "examine": "Use on an elder maul to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5
+}

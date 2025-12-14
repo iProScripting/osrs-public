@@ -1,0 +1,8 @@
+{
+    "name": "Sandstone base",
+    "id": 6988,
+    "members": false,
+    "examine": "The base and legs of a sandstone statue.",
+    "value": 1,
+    "weight": 23.0
+}

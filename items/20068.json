@@ -1,0 +1,9 @@
+{
+    "name": "Armadyl godsword ornament kit",
+    "id": 20068,
+    "members": false,
+    "examine": "Use on an Armadyl godsword to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

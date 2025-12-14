@@ -1,0 +1,19 @@
+{
+    "name": "Dragon pickaxe (upgraded)",
+    "id": 12797,
+    "members": false,
+    "examine": "If rocks could feel fear, they'd fear this while admiring its beauty.",
+    "value": 97960,
+    "weight": 2.4,
+    "equipment": {
+        "stabAttack": 38,
+        "slashAttack": -2,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

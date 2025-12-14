@@ -1,0 +1,16 @@
+{
+    "name": "Corrupted twisted bow",
+    "id": 28540,
+    "members": false,
+    "examine": "A mystical bow carved from the twisted remains of the Great Olm.",
+    "value": 250000,
+    "weight": 1.814,
+    "equipment": {
+        "rangedAttack": 56,
+        "rangedStrength": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 10,
+        "combatStyle": "BOW"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Shaikahan bones",
+    "id": 3123,
+    "members": false,
+    "examine": "Large glistening bones which glow with a pale yellow aura.",
+    "value": 1,
+    "weight": 1.5,
+    "buyLimit": 7500
+}

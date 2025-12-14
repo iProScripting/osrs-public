@@ -1,0 +1,8 @@
+{
+    "name": "Sigil of the menacing mage",
+    "id": 26078,
+    "members": false,
+    "examine": "A power enhancing sigil not yet attuned to you.",
+    "value": 20000,
+    "weight": 0.1
+}

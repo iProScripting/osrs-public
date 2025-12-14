@@ -1,0 +1,12 @@
+{
+    "name": "Crate of secret stuff",
+    "id": 32628,
+    "members": false,
+    "examine": "A cargo crate of secret stuff destined for Port Khazard.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Grape seed",
+    "id": 13657,
+    "members": false,
+    "examine": "A grape seed for growing in a vinery.",
+    "value": 74,
+    "weight": 0.0,
+    "buyLimit": 200
+}

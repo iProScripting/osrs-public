@@ -1,0 +1,21 @@
+{
+    "name": "Kitchen knife",
+    "id": 7447,
+    "members": false,
+    "examine": "A sharp, dependable knife, for filleting meat.",
+    "value": 8000,
+    "weight": 0.453,
+    "buyLimit": 50,
+    "equipment": {
+        "stabAttack": 25,
+        "slashAttack": 12,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 24,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

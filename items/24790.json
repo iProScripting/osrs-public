@@ -1,0 +1,8 @@
+{
+    "name": "Long rope",
+    "id": 24790,
+    "members": false,
+    "examine": "Like normal rope, but with extra length.",
+    "value": 40000,
+    "weight": 1.36
+}

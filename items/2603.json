@@ -1,0 +1,19 @@
+{
+    "name": "Adamant kiteshield (t)",
+    "id": 2603,
+    "members": false,
+    "examine": "Adamant kiteshield with trim.",
+    "value": 5440,
+    "weight": 5.896,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -2,
+        "stabDefence": 27,
+        "slashDefence": 31,
+        "crushDefence": 29,
+        "magicDefence": -1,
+        "rangedDefence": 29,
+        "slot": "SHIELD"
+    }
+}

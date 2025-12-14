@@ -1,0 +1,9 @@
+{
+    "name": "Kebab mix",
+    "id": 1881,
+    "members": false,
+    "examine": "A mixture of chopped tomatoes, onions and ugthanki meat in a bowl.",
+    "value": 9,
+    "weight": 0.4,
+    "buyLimit": 11000
+}

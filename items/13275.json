@@ -1,0 +1,8 @@
+{
+    "name": "Bludgeon claw",
+    "id": 13275,
+    "members": false,
+    "examine": "A claw from a deceased Abyssal Sire.",
+    "value": 230000,
+    "weight": 2.5
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Resper-holos poison",
+    "id": 28354,
+    "members": false,
+    "examine": "A nasty fungal poison.",
+    "value": 200,
+    "weight": 0.05
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Blessed pot",
+    "id": 4661,
+    "members": false,
+    "examine": "A blessed silver pot made by Ruantun filled with your blood.",
+    "value": 250,
+    "weight": 0.453
+}

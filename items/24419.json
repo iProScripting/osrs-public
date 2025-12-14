@@ -1,0 +1,23 @@
+{
+    "name": "Inquisitor's great helm",
+    "id": 24419,
+    "members": false,
+    "examine": "The great helmet of the turncloak justiciar.",
+    "value": 500000,
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": -2,
+        "crushAttack": 8,
+        "magicAttack": -5,
+        "rangedAttack": -5,
+        "stabDefence": 19,
+        "slashDefence": 10,
+        "crushDefence": 21,
+        "rangedDefence": 12,
+        "strength": 4,
+        "prayerBonus": 1,
+        "slot": "HEAD"
+    }
+}

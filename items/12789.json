@@ -1,0 +1,9 @@
+{
+    "name": "Clue box",
+    "id": 12789,
+    "members": false,
+    "examine": "Protects your clue scroll if you die.",
+    "value": 10,
+    "weight": 0.005,
+    "buyLimit": 50
+}

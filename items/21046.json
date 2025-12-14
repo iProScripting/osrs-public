@@ -1,0 +1,8 @@
+{
+    "name": "Ancient tablet",
+    "id": 21046,
+    "members": false,
+    "examine": "Strange glowing symbols are inscribed in this tablet.",
+    "value": 75000,
+    "weight": 2.0
+}

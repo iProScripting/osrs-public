@@ -1,0 +1,9 @@
+{
+    "name": "Bird house (item)",
+    "id": 21512,
+    "members": false,
+    "examine": "Feed and catch the birds by placing this in the right spot.",
+    "value": 5,
+    "weight": 0.453,
+    "buyLimit": 250
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Stone ball",
+    "id": 3110,
+    "members": false,
+    "examine": "Place on the stone mechanism in the right order to open the door.",
+    "value": 1,
+    "weight": 3.628
+}

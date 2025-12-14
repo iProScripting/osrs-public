@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of suqah-free cola",
+    "id": 31876,
+    "members": false,
+    "examine": "Implies something horrible about standard cola.",
+    "value": 50,
+    "weight": 0.003
+}

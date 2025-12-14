@@ -1,0 +1,8 @@
+{
+    "name": "Bloody grimoire",
+    "id": 22420,
+    "members": false,
+    "examine": "An old book about potions.",
+    "value": 1,
+    "weight": 0.51
+}

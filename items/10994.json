@@ -1,0 +1,8 @@
+{
+    "name": "Powerbox",
+    "id": 10994,
+    "members": false,
+    "examine": "A broken powerbox.",
+    "value": 0,
+    "weight": 3.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bone charm",
+    "id": 21530,
+    "members": false,
+    "examine": "A lucky charm made out of bone.",
+    "value": 1,
+    "weight": 2.267
+}

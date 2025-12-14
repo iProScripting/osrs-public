@@ -1,0 +1,17 @@
+{
+    "name": "Earthbound tecpatl",
+    "id": 30957,
+    "members": false,
+    "examine": "Shaped from rock that was sharpened by time.",
+    "value": 30000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 72,
+        "slashAttack": 11,
+        "strength": 64,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "combatStyle": "STAB_SWORD"
+    }
+}

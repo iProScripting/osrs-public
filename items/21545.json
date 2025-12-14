@@ -1,0 +1,9 @@
+{
+    "name": "Pyrophosphite",
+    "id": 21545,
+    "members": false,
+    "examine": "A phosphate rich mineral dust.",
+    "value": 30,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

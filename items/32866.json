@@ -1,0 +1,8 @@
+{
+    "name": "Broken compass",
+    "id": 32866,
+    "members": false,
+    "examine": "A long-broken compass. It doesn't point anywhere now.",
+    "value": 100,
+    "weight": 0.01
+}

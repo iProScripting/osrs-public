@@ -1,0 +1,12 @@
+{
+    "name": "Crate of mithril ore",
+    "id": 32701,
+    "members": false,
+    "examine": "A cargo crate of mithril ore destined for Port Tyras.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

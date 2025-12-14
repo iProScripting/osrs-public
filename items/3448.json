@@ -1,0 +1,9 @@
+{
+    "name": "Magic pyre logs",
+    "id": 3448,
+    "members": false,
+    "examine": "Magic logs prepared with sacred oil for a funeral pyre.",
+    "value": 640,
+    "weight": 1.36,
+    "buyLimit": 11000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Antique emblem",
+    "id": 24567,
+    "members": false,
+    "examine": "An emblem of ancient times.",
+    "value": 501,
+    "weight": 0.1
+}

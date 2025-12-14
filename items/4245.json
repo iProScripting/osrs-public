@@ -1,0 +1,8 @@
+{
+    "name": "Cup of tea (Ghosts Ahoy)",
+    "id": 4245,
+    "members": false,
+    "examine": "Some nettle tea in a porcelain cup.",
+    "value": 10,
+    "weight": 0.15
+}

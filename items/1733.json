@@ -1,0 +1,9 @@
+{
+    "name": "Needle",
+    "id": 1733,
+    "members": false,
+    "examine": "Used with a thread to make clothes.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 40
+}

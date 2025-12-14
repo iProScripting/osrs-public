@@ -1,0 +1,8 @@
+{
+    "name": "Hay sack",
+    "id": 6057,
+    "members": false,
+    "examine": "A sack filled with hay.",
+    "value": 1,
+    "weight": 0.113
+}

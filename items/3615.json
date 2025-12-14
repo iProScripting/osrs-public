@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Speak to Roavar",
+    "id": 3615,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

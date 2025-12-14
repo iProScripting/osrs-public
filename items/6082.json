@@ -1,0 +1,13 @@
+{
+    "name": "Fixed device",
+    "id": 6082,
+    "members": false,
+    "examine": "A device for firing dye.",
+    "value": 150,
+    "weight": 4.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "combatStyle": "GUN"
+    }
+}

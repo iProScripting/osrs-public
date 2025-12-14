@@ -1,0 +1,13 @@
+{
+    "name": "Bronze bolts",
+    "id": 877,
+    "members": false,
+    "examine": "Bronze crossbow bolts.",
+    "value": 0,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 10,
+        "slot": "AMMO"
+    }
+}

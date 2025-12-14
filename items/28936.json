@@ -1,0 +1,19 @@
+{
+    "name": "Sunfire fanatic cuirass",
+    "id": 28936,
+    "members": false,
+    "examine": "A cuirass forged from sunfire.",
+    "value": 500000,
+    "weight": 8.618,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 82,
+        "slashDefence": 80,
+        "crushDefence": 72,
+        "magicDefence": -6,
+        "rangedDefence": 80,
+        "prayerBonus": 10,
+        "slot": "BODY"
+    }
+}

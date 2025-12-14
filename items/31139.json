@@ -1,0 +1,8 @@
+{
+    "name": "Blue moon armour set",
+    "id": 31139,
+    "members": false,
+    "examine": "A set containing a Blue moon helm, Blue moon chestplate, Blue moon tassets and Blue moon spear.",
+    "value": 145000,
+    "weight": 0.05
+}

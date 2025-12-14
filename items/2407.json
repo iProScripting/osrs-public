@@ -1,0 +1,8 @@
+{
+    "name": "Ball",
+    "id": 2407,
+    "members": false,
+    "examine": "A child's ball.",
+    "value": 1,
+    "weight": 0.15
+}

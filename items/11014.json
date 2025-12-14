@@ -1,0 +1,13 @@
+{
+    "name": "Beacon ring",
+    "id": 11014,
+    "members": false,
+    "examine": "A magical ring.",
+    "value": 0,
+    "weight": 0.006,
+    "equipment": {
+        "magicAttack": 2,
+        "magicDefence": 1,
+        "slot": "RING"
+    }
+}

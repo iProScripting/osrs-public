@@ -1,0 +1,9 @@
+{
+    "name": "Earth talisman",
+    "id": 1440,
+    "members": false,
+    "examine": "A mysterious power emanates from the talisman...",
+    "value": 4,
+    "weight": 0.015,
+    "buyLimit": 11000
+}

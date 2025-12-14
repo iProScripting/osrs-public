@@ -1,0 +1,8 @@
+{
+    "name": "Animate rock scroll",
+    "id": 4428,
+    "members": false,
+    "examine": "An animate rock spell is written on this parchment.",
+    "value": 50,
+    "weight": 0.01
+}

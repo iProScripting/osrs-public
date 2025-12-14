@@ -1,0 +1,19 @@
+{
+    "name": "Amulet of rancour",
+    "id": 29801,
+    "members": false,
+    "examine": "A very powerful zenyte amulet, infused with araxyte venom.",
+    "value": 400000,
+    "weight": 0.012,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 25,
+        "slashAttack": 25,
+        "crushAttack": 25,
+        "magicAttack": -6,
+        "rangedAttack": -8,
+        "strength": 12,
+        "prayerBonus": 2,
+        "slot": "NECK"
+    }
+}

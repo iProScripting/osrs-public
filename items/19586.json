@@ -1,0 +1,9 @@
+{
+    "name": "Light frame",
+    "id": 19586,
+    "members": false,
+    "examine": "A light wooden frame.",
+    "value": 50000,
+    "weight": 2.25,
+    "buyLimit": 8
+}

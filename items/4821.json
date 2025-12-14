@@ -1,0 +1,9 @@
+{
+    "name": "Black nails",
+    "id": 4821,
+    "members": false,
+    "examine": "Keeps things in place fairly permanently.",
+    "value": 12,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

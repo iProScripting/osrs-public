@@ -1,0 +1,9 @@
+{
+    "name": "Agility mix",
+    "id": 11463,
+    "members": false,
+    "examine": "One dose of fishy Agility potion.",
+    "value": 50,
+    "weight": 0.045,
+    "buyLimit": 2000
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Dragon claws",
+    "id": 13652,
+    "members": false,
+    "examine": "A set of fighting claws.",
+    "value": 205000,
+    "weight": 0.907,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 41,
+        "slashAttack": 57,
+        "crushAttack": -4,
+        "stabDefence": 13,
+        "slashDefence": 26,
+        "crushDefence": 7,
+        "strength": 56,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

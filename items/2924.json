@@ -1,0 +1,14 @@
+{
+    "name": "Teal boots",
+    "id": 2924,
+    "members": false,
+    "examine": "Very stylish!",
+    "value": 500,
+    "weight": 0.34,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "FEET"
+    }
+}

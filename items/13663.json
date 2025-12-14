@@ -1,0 +1,11 @@
+{
+    "name": "Bunny top",
+    "id": 13663,
+    "members": false,
+    "examine": "Carrot stain resistant.",
+    "value": 50,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

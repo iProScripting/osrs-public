@@ -1,0 +1,11 @@
+{
+    "name": "Shattered top (t2)",
+    "id": 26442,
+    "members": false,
+    "examine": "The shirt of a Shattered Relic Hunter.",
+    "value": 15000,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

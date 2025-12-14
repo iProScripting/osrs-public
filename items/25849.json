@@ -1,0 +1,16 @@
+{
+    "name": "Amethyst dart",
+    "id": 25849,
+    "members": false,
+    "examine": "A deadly throwing dart with an amethyst tip.",
+    "value": 400,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 28,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 3,
+        "combatStyle": "THROWN"
+    }
+}

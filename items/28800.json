@@ -1,0 +1,8 @@
+{
+    "name": "Antique lamp (Historian Aldo)",
+    "id": 28800,
+    "members": false,
+    "examine": "Wonder what happens if I rub it...",
+    "value": 50,
+    "weight": 0.1
+}

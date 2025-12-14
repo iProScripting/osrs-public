@@ -1,0 +1,16 @@
+{
+    "name": "Crystal bow (i)",
+    "id": 11750,
+    "members": false,
+    "examine": "A nice sturdy magical bow.",
+    "value": 275000,
+    "weight": 1.814,
+    "equipment": {
+        "rangedAttack": 100,
+        "rangedStrength": 70,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 10,
+        "combatStyle": "BOW"
+    }
+}

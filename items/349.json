@@ -1,0 +1,9 @@
+{
+    "name": "Raw pike",
+    "id": 349,
+    "members": false,
+    "examine": "I should try cooking this.",
+    "value": 20,
+    "weight": 0.55,
+    "buyLimit": 15000
+}

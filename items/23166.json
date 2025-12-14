@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Talk to the cook in the Blue Moon Inn",
+    "id": 23166,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

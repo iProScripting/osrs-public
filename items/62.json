@@ -1,0 +1,9 @@
+{
+    "name": "Maple longbow (u)",
+    "id": 62,
+    "members": false,
+    "examine": "An unstrung maple longbow; I need a bowstring for this.",
+    "value": 320,
+    "weight": 1.332,
+    "buyLimit": 10000
+}

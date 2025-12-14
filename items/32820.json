@@ -1,0 +1,8 @@
+{
+    "name": "Butterfly ray fin",
+    "id": 32820,
+    "members": false,
+    "examine": "The fin of a butterfly ray.",
+    "value": 100,
+    "weight": 0.8
+}

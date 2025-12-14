@@ -1,0 +1,25 @@
+{
+    "name": "Battlehat",
+    "id": 31172,
+    "members": false,
+    "examine": "You gotta fight for your right to party!",
+    "value": 0,
+    "weight": 2.721,
+    "equipment": {
+        "stabAttack": 15,
+        "slashAttack": 15,
+        "crushAttack": 15,
+        "magicAttack": 15,
+        "rangedAttack": 15,
+        "stabDefence": 60,
+        "slashDefence": 60,
+        "crushDefence": 60,
+        "magicDefence": 60,
+        "rangedDefence": 60,
+        "strength": 10,
+        "rangedStrength": 5,
+        "prayerBonus": 10,
+        "magicDamage": 5.0,
+        "slot": "HEAD"
+    }
+}

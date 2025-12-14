@@ -1,0 +1,11 @@
+{
+    "name": "Graceful top",
+    "id": 11855,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 55,
+    "weight": -5.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

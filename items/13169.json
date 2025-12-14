@@ -1,0 +1,9 @@
+{
+    "name": "Armadyl dragonhide set",
+    "id": 13169,
+    "members": false,
+    "examine": "A set containing an Armadyl dragonhide coif, body, chaps and bracers.",
+    "value": 9500,
+    "weight": 0.05,
+    "buyLimit": 8
+}

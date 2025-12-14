@@ -1,0 +1,19 @@
+{
+    "name": "Adamant helm (h3)",
+    "id": 10300,
+    "members": false,
+    "examine": "An adamant helmet with a heraldic design.",
+    "value": 3520,
+    "weight": 3.175,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 19,
+        "slashDefence": 21,
+        "crushDefence": 16,
+        "magicDefence": -1,
+        "rangedDefence": 19,
+        "slot": "HEAD"
+    }
+}

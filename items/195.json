@@ -1,0 +1,8 @@
+{
+    "name": "Potion (Apothecary)",
+    "id": 195,
+    "members": false,
+    "examine": "This is meant to be good for spots.",
+    "value": 1,
+    "weight": 0.025
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Granite longsword",
+    "id": 21646,
+    "members": false,
+    "examine": "A razor sharp longsword made of stone.",
+    "value": 32000,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 56,
+        "slashAttack": 65,
+        "crushAttack": -2,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "strength": 62,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

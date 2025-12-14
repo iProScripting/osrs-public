@@ -1,0 +1,14 @@
+{
+    "name": "Imcando hammer",
+    "id": 25644,
+    "members": false,
+    "examine": "It's good for holding and hitting things!",
+    "value": 1,
+    "weight": 2.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

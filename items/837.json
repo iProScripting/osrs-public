@@ -1,0 +1,16 @@
+{
+    "name": "Crossbow",
+    "id": 837,
+    "members": false,
+    "examine": "This fires crossbow bolts.",
+    "value": 70,
+    "weight": 8.0,
+    "buyLimit": 125,
+    "equipment": {
+        "rangedAttack": 6,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 10,
+        "combatStyle": "CROSSBOW"
+    }
+}

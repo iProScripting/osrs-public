@@ -1,0 +1,19 @@
+{
+    "name": "Crystal legs (Ithell)",
+    "id": 27713,
+    "members": false,
+    "examine": "A bright, shiny set of leg armour.",
+    "value": 1000000,
+    "weight": 1.0,
+    "equipment": {
+        "magicAttack": -12,
+        "rangedAttack": 18,
+        "stabDefence": 26,
+        "slashDefence": 21,
+        "crushDefence": 30,
+        "magicDefence": 34,
+        "rangedDefence": 38,
+        "prayerBonus": 2,
+        "slot": "LEGS"
+    }
+}

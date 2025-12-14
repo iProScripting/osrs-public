@@ -1,0 +1,8 @@
+{
+    "name": "Cabbage (Draynor Manor)",
+    "id": 1967,
+    "members": false,
+    "examine": "Yuck I don't like cabbage.",
+    "value": 1,
+    "weight": 0.35
+}

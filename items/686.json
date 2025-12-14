@@ -1,0 +1,8 @@
+{
+    "name": "Rusty sword",
+    "id": 686,
+    "members": false,
+    "examine": "A decent-enough weapon gone rusty.",
+    "value": 1,
+    "weight": 2.267
+}

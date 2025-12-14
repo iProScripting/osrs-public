@@ -1,0 +1,9 @@
+{
+    "name": "Pile of salt",
+    "id": 4689,
+    "members": false,
+    "examine": "A little heap of salt.",
+    "value": 20,
+    "weight": 0.5,
+    "buyLimit": 15
+}

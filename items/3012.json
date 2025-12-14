@@ -1,0 +1,9 @@
+{
+    "name": "Energy potion",
+    "id": 3012,
+    "members": false,
+    "examine": "2 doses of energy potion.",
+    "value": 72,
+    "weight": 0.025,
+    "buyLimit": 2000
+}

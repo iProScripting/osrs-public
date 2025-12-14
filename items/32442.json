@@ -1,0 +1,12 @@
+{
+    "name": "Crate of lead ore",
+    "id": 32442,
+    "members": false,
+    "examine": "A cargo crate of lead ore destined for Aldarin.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Aether rune",
+    "id": 30843,
+    "members": false,
+    "examine": "A combined cosmic and soul rune.",
+    "value": 300,
+    "weight": 0.002,
+    "buyLimit": 25000
+}

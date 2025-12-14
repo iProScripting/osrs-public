@@ -1,0 +1,11 @@
+{
+    "name": "Egg priest necklace",
+    "id": 29441,
+    "members": false,
+    "examine": "I feel closer to the eggs when I am wearing this.",
+    "value": 40,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

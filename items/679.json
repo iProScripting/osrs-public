@@ -1,0 +1,8 @@
+{
+    "name": "Panning tray",
+    "id": 679,
+    "members": false,
+    "examine": "This tray contains mud.",
+    "value": 1,
+    "weight": 0.17
+}

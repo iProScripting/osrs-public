@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of black lobster ale",
+    "id": 31878,
+    "members": false,
+    "examine": "The lobster inside looks like a shell of its former self.",
+    "value": 50,
+    "weight": 0.003
+}

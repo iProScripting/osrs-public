@@ -1,0 +1,8 @@
+{
+    "name": "Oily fishing rod",
+    "id": 1585,
+    "members": false,
+    "examine": "Useful for catching lava eels.",
+    "value": 15,
+    "weight": 1.36
+}

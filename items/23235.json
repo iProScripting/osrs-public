@@ -1,0 +1,17 @@
+{
+    "name": "Tzhaar-ket-om (t)",
+    "id": 23235,
+    "members": false,
+    "examine": "A maul of obsidian with trim and spikes.",
+    "value": 50001,
+    "weight": 3.628,
+    "equipment": {
+        "crushAttack": 80,
+        "magicAttack": -4,
+        "strength": 85,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

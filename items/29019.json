@@ -1,0 +1,17 @@
+{
+    "name": "Blue moon helm",
+    "id": 29019,
+    "members": false,
+    "examine": "The helm of the Blue Moon.",
+    "value": 103000,
+    "weight": 0.453,
+    "buyLimit": 15,
+    "equipment": {
+        "magicAttack": 6,
+        "crushDefence": 10,
+        "magicDefence": 6,
+        "strength": 3,
+        "magicDamage": 1.0,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Iron sickle",
+    "id": 3899,
+    "members": false,
+    "examine": "Not as good as a pet frog.",
+    "value": 15,
+    "weight": 1.587,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "magicDefence": 1,
+        "rangedDefence": 1,
+        "strength": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

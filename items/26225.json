@@ -1,0 +1,13 @@
+{
+    "name": "Ancient ceremonial mask",
+    "id": 26225,
+    "members": false,
+    "examine": "A ceremonial mask dedicated to an ancient god.",
+    "value": 50000,
+    "weight": 0.3,
+    "buyLimit": 8,
+    "equipment": {
+        "prayerBonus": 2,
+        "slot": "HEAD"
+    }
+}

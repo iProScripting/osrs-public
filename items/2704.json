@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crates in the guard house in northern East Ardougne",
+    "id": 2704,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

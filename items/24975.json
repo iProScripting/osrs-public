@@ -1,0 +1,11 @@
+{
+    "name": "Headless head",
+    "id": 24975,
+    "members": false,
+    "examine": "There's a spooky spell on this helm.",
+    "value": 1,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

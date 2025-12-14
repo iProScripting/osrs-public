@@ -1,0 +1,16 @@
+{
+    "name": "Camphor blowpipe",
+    "id": 31577,
+    "members": false,
+    "examine": "Breath powered dart delivering system with a hint of camphor.",
+    "value": 2200,
+    "weight": 0.3,
+    "equipment": {
+        "rangedAttack": 12,
+        "rangedStrength": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 5,
+        "combatStyle": "THROWN"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Lockpick (Desert Treasure II)",
+    "id": 28415,
+    "members": false,
+    "examine": "For picking tough locks.",
+    "value": 30,
+    "weight": 0.01
+}

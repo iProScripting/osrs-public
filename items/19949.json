@@ -1,0 +1,12 @@
+{
+    "name": "Lovakengj scarf",
+    "id": 19949,
+    "members": false,
+    "examine": "A yellow scarf adorned with an ornamental anvil.",
+    "value": 10000,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

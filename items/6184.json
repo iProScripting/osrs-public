@@ -1,0 +1,11 @@
+{
+    "name": "Royal frog tunic",
+    "id": 6184,
+    "members": false,
+    "examine": "Very posh!",
+    "value": 0,
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

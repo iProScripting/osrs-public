@@ -1,0 +1,12 @@
+{
+    "name": "Crate of coal",
+    "id": 32580,
+    "members": false,
+    "examine": "A cargo crate of coal destined for Lunar Isle.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

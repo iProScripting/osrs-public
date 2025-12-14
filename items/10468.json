@@ -1,0 +1,15 @@
+{
+    "name": "Zamorak robe legs",
+    "id": 10468,
+    "members": false,
+    "examine": "Leggings from the Zamorak Vestments.",
+    "value": 7000,
+    "weight": 2.7,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "prayerBonus": 5,
+        "slot": "LEGS"
+    }
+}

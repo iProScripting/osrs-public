@@ -1,0 +1,8 @@
+{
+    "name": "Bandages (Theatre of Blood)",
+    "id": 25730,
+    "members": false,
+    "examine": "A box of bandages for healing.",
+    "value": 10,
+    "weight": 0.001
+}

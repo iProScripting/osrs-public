@@ -1,0 +1,9 @@
+{
+    "name": "Bronze locks",
+    "id": 25442,
+    "members": false,
+    "examine": "Perhaps someone can do something with this.",
+    "value": 800,
+    "weight": 0.283,
+    "buyLimit": 8
+}

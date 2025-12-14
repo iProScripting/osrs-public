@@ -1,0 +1,11 @@
+{
+    "name": "Spookier hood",
+    "id": 24315,
+    "members": false,
+    "examine": "A spooky hood cut from a bedsheet!",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

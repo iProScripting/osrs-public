@@ -1,0 +1,9 @@
+{
+    "name": "Araxyte venom sack",
+    "id": 29784,
+    "members": false,
+    "examine": "Looks spicy!",
+    "value": 500,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

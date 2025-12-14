@@ -1,0 +1,12 @@
+{
+    "name": "Games necklace",
+    "id": 3853,
+    "members": false,
+    "examine": "An enchanted necklace.",
+    "value": 1050,
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

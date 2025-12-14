@@ -1,0 +1,13 @@
+{
+    "name": "Blunt arrow",
+    "id": 22229,
+    "members": false,
+    "examine": "Arrows with blunt heads.",
+    "value": 1,
+    "weight": 0.0,
+    "equipment": {
+        "rangedAttack": 46,
+        "rangedStrength": 125,
+        "slot": "AMMO"
+    }
+}

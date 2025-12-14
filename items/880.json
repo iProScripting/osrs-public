@@ -1,0 +1,13 @@
+{
+    "name": "Pearl bolts",
+    "id": 880,
+    "members": false,
+    "examine": "Pearl tipped Iron crossbow bolts.",
+    "value": 13,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 48,
+        "slot": "AMMO"
+    }
+}

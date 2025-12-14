@@ -1,0 +1,17 @@
+{
+    "name": "Lunar gloves",
+    "id": 9099,
+    "members": false,
+    "examine": "These should keep my hands safe.",
+    "value": 100,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 4,
+        "rangedAttack": -1,
+        "stabDefence": 2,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "magicDefence": 2,
+        "slot": "HANDS"
+    }
+}

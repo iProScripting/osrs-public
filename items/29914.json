@@ -1,0 +1,11 @@
+{
+    "name": "Butler's uniform (top)",
+    "id": 29914,
+    "members": false,
+    "examine": "A mostly clean uniform.",
+    "value": 100,
+    "weight": 0.6,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

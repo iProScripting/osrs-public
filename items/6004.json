@@ -1,0 +1,9 @@
+{
+    "name": "Mushroom",
+    "id": 6004,
+    "members": false,
+    "examine": "A Bittercap Mushroom",
+    "value": 38,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

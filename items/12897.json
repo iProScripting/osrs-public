@@ -1,0 +1,8 @@
+{
+    "name": "Antisanta's coal box",
+    "id": 12897,
+    "members": false,
+    "examine": "This can be used on a coal mining site to get lumps of coal.",
+    "value": 0,
+    "weight": 0.1
+}

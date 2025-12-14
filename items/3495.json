@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search chests found in the upstairs of shops in Port Sarim",
+    "id": 3495,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

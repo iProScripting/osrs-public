@@ -1,0 +1,9 @@
+{
+    "name": "Bronze javelin tips",
+    "id": 19570,
+    "members": false,
+    "examine": "Needs a shaft.",
+    "value": 25,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

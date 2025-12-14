@@ -1,0 +1,17 @@
+{
+    "name": "Steel boots",
+    "id": 4123,
+    "members": false,
+    "examine": "These will protect my feet.",
+    "value": 300,
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 5,
+        "slashDefence": 6,
+        "crushDefence": 7,
+        "slot": "FEET"
+    }
+}

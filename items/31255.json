@@ -1,0 +1,8 @@
+{
+    "name": "Barnacle blaster",
+    "id": 31255,
+    "members": false,
+    "examine": "Rum, lemon and... crushed barnacles?",
+    "value": 20,
+    "weight": 0.5
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Rune defender ornament kit",
+    "id": 23227,
+    "members": false,
+    "examine": "Use on the rune defender to trim it with gold.",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

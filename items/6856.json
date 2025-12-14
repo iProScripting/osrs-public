@@ -1,0 +1,11 @@
+{
+    "name": "Bobble hat",
+    "id": 6856,
+    "members": false,
+    "examine": "A woolly bobble hat.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

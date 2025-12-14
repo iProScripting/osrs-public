@@ -1,0 +1,8 @@
+{
+    "name": "Bird's egg",
+    "id": 5076,
+    "members": false,
+    "examine": "A red bird's egg.",
+    "value": 1,
+    "weight": 0.002
+}

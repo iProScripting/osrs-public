@@ -1,0 +1,8 @@
+{
+    "name": "Nature offerings",
+    "id": 28152,
+    "members": false,
+    "examine": "A sacrifice to nature in the hope of an increase of yield in logs.",
+    "value": 20,
+    "weight": 0.0
+}

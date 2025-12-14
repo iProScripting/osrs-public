@@ -1,0 +1,8 @@
+{
+    "name": "Canopic jar (The Curse of Arrav)",
+    "id": 30313,
+    "members": false,
+    "examine": "A canopic jar full of oil and dwellberries.",
+    "value": 30,
+    "weight": 0.05
+}

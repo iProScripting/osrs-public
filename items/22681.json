@@ -1,0 +1,8 @@
+{
+    "name": "Cauldron of water",
+    "id": 22681,
+    "members": false,
+    "examine": "It's got water in it.",
+    "value": 0,
+    "weight": 10.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Sulphurous fertiliser",
+    "id": 13419,
+    "members": false,
+    "examine": "Used in the farming industry of Hosidius.",
+    "value": 48,
+    "weight": 3.05
+}

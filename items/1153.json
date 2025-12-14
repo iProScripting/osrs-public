@@ -1,0 +1,19 @@
+{
+    "name": "Iron full helm",
+    "id": 1153,
+    "members": false,
+    "examine": "A full face helmet.",
+    "value": 154,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 6,
+        "slashDefence": 7,
+        "crushDefence": 5,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

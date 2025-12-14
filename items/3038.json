@@ -1,0 +1,9 @@
+{
+    "name": "Agility potion",
+    "id": 3038,
+    "members": false,
+    "examine": "1 dose of Agility potion.",
+    "value": 50,
+    "weight": 0.02,
+    "buyLimit": 2000
+}

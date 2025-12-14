@@ -1,0 +1,13 @@
+{
+    "name": "Ancient ceremonial legs",
+    "id": 26223,
+    "members": false,
+    "examine": "Some ceremonial robes dedicated to an ancient god.",
+    "value": 80000,
+    "weight": 0.8,
+    "buyLimit": 8,
+    "equipment": {
+        "prayerBonus": 5,
+        "slot": "LEGS"
+    }
+}

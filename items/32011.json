@@ -1,0 +1,9 @@
+{
+    "name": "Adamant keel parts",
+    "id": 32011,
+    "members": false,
+    "examine": "Parts for creating an adamant keel for a boat.",
+    "value": 3125,
+    "weight": 4.0,
+    "buyLimit": 100
+}

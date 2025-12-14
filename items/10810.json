@@ -1,0 +1,9 @@
+{
+    "name": "Arctic pine logs",
+    "id": 10810,
+    "members": false,
+    "examine": "Log cut from an arctic pine.",
+    "value": 35,
+    "weight": 1.36,
+    "buyLimit": 11000
+}

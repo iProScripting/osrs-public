@@ -1,0 +1,8 @@
+{
+    "name": "Red crab meat",
+    "id": 31689,
+    "members": false,
+    "examine": "This looks tricky to eat.",
+    "value": 100,
+    "weight": 0.35
+}

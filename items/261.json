@@ -1,0 +1,9 @@
+{
+    "name": "Avantoe",
+    "id": 261,
+    "members": false,
+    "examine": "A useful herb.",
+    "value": 48,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Black felling axe",
+    "id": 28205,
+    "members": false,
+    "examine": "A sinister looking felling axe.",
+    "value": 384,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 10,
+        "crushAttack": 8,
+        "slashDefence": 1,
+        "strength": 12,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

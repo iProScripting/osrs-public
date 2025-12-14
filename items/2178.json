@@ -1,0 +1,8 @@
+{
+    "name": "Raw gnomebowl",
+    "id": 2178,
+    "members": false,
+    "examine": "This gnome bowl needs cooking.",
+    "value": 2,
+    "weight": 0.3
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Trailblazer boots (t3)",
+    "id": 25010,
+    "members": false,
+    "examine": "The boots of a trailblazer relic hunter.",
+    "value": 150000,
+    "weight": 0.34,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bullseye lantern",
+    "id": 4550,
+    "members": false,
+    "examine": "A sturdy steel lantern casting a bright beam.",
+    "value": 420,
+    "weight": 1.36
+}

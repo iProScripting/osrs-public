@@ -1,0 +1,8 @@
+{
+    "name": "Bolt pouch",
+    "id": 9433,
+    "members": false,
+    "examine": "A pouch for storing crossbow bolts.",
+    "value": 10,
+    "weight": 1.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bell jar",
+    "id": 10895,
+    "members": false,
+    "examine": "A bell jar for covering things.",
+    "value": 1,
+    "weight": 1.0
+}

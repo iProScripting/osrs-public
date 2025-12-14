@@ -1,0 +1,11 @@
+{
+    "name": "Egg priest mitre",
+    "id": 29443,
+    "members": false,
+    "examine": "An egg mitre.",
+    "value": 200,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of fish",
+    "id": 32592,
+    "members": false,
+    "examine": "A cargo crate of fish destined for Musa Point.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

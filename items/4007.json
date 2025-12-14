@@ -1,0 +1,8 @@
+{
+    "name": "Enchanted bar",
+    "id": 4007,
+    "members": false,
+    "examine": "A gold bar invested with a talkative monkey spirit.",
+    "value": 800,
+    "weight": 1.814
+}

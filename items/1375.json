@@ -1,0 +1,20 @@
+{
+    "name": "Bronze battleaxe",
+    "id": 1375,
+    "members": false,
+    "examine": "A vicious looking axe.",
+    "value": 52,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 6,
+        "crushAttack": 3,
+        "rangedDefence": -1,
+        "strength": 9,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

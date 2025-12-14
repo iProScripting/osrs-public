@@ -1,0 +1,19 @@
+{
+    "name": "Warped sceptre",
+    "id": 28583,
+    "members": false,
+    "examine": "A magical warped weapon.",
+    "value": 150000,
+    "weight": 1.814,
+    "equipment": {
+        "magicAttack": 12,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 12,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "POWERED_STAFF"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bandages (The Heart of Darkness)",
+    "id": 29884,
+    "members": false,
+    "examine": "Used for healing wounds.",
+    "value": 30,
+    "weight": 5.0
+}

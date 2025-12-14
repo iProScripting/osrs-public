@@ -1,0 +1,9 @@
+{
+    "name": "Black toy horsey",
+    "id": 2524,
+    "members": false,
+    "examine": "A black toy horse.",
+    "value": 100,
+    "weight": 0.05,
+    "buyLimit": 150
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Magical orb",
+    "id": 6950,
+    "members": false,
+    "examine": "An ordinary looking magical scrying orb.",
+    "value": 1,
+    "weight": 0.02
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Bronze keel parts",
+    "id": 31999,
+    "members": false,
+    "examine": "Parts for creating a bronze keel for a boat.",
+    "value": 35,
+    "weight": 4.0,
+    "buyLimit": 100
+}

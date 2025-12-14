@@ -1,0 +1,19 @@
+{
+    "name": "Blood moon helm",
+    "id": 29047,
+    "members": false,
+    "examine": "The helm of the Blood Moon.",
+    "value": 103000,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 20,
+        "slashDefence": 31,
+        "crushDefence": 34,
+        "magicDefence": 7,
+        "rangedDefence": 29,
+        "strength": 4,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of gin",
+    "id": 32640,
+    "members": false,
+    "examine": "A cargo crate of gin destined for Port Piscarilius.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

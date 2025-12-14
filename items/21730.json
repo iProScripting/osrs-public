@@ -1,0 +1,9 @@
+{
+    "name": "Black tourmaline core",
+    "id": 21730,
+    "members": false,
+    "examine": "The blackened heart of the Grotesque Guardians.",
+    "value": 41500,
+    "weight": 1.0,
+    "buyLimit": 5
+}

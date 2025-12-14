@@ -1,0 +1,8 @@
+{
+    "name": "Bandos armour ornament kit",
+    "id": 26717,
+    "members": false,
+    "examine": "Use on a bandos armour piece to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5
+}

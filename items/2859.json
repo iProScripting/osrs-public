@@ -1,0 +1,9 @@
+{
+    "name": "Wolf bones",
+    "id": 2859,
+    "members": false,
+    "examine": "Bones of a recently slain wolf.",
+    "value": 1,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

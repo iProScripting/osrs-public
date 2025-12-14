@@ -1,0 +1,24 @@
+{
+    "name": "Battlestaff",
+    "id": 1391,
+    "members": false,
+    "examine": "It's a slightly magical stick.",
+    "value": 7000,
+    "weight": 2.267,
+    "buyLimit": 11000,
+    "equipment": {
+        "stabAttack": 7,
+        "slashAttack": -1,
+        "crushAttack": 25,
+        "magicAttack": 12,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 12,
+        "strength": 32,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

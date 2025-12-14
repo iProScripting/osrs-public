@@ -1,0 +1,9 @@
+{
+    "name": "Shield left half",
+    "id": 2366,
+    "members": false,
+    "examine": "The left half of a dragon square shield.",
+    "value": 110000,
+    "weight": 2.721,
+    "buyLimit": 50
+}

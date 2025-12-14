@@ -1,0 +1,9 @@
+{
+    "name": "Camphor hull parts",
+    "id": 32053,
+    "members": false,
+    "examine": "Parts for creating a camphor hull for a boat.",
+    "value": 6250,
+    "weight": 4.0,
+    "buyLimit": 100
+}

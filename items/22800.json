@@ -1,0 +1,8 @@
+{
+    "name": "Bird nest (Wyson)",
+    "id": 22800,
+    "members": false,
+    "examine": "It's a bird's nest with some seeds in it.",
+    "value": 453,
+    "weight": 0.002
+}

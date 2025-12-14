@@ -1,0 +1,8 @@
+{
+    "name": "Bucket of slime",
+    "id": 4286,
+    "members": false,
+    "examine": "It's a bucket of ectoplasm.",
+    "value": 1,
+    "weight": 3.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cider (Player-owned house)",
+    "id": 7752,
+    "members": false,
+    "examine": "A glass of cider.",
+    "value": 2,
+    "weight": 0.55
+}

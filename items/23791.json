@@ -1,0 +1,8 @@
+{
+    "name": "Ardougne knight tabard",
+    "id": 23791,
+    "members": false,
+    "examine": "A tabard worn by the Knights of Ardougne.",
+    "value": 30,
+    "weight": 1.0
+}

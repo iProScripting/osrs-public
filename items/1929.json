@@ -1,0 +1,9 @@
+{
+    "name": "Bucket of water",
+    "id": 1929,
+    "members": false,
+    "examine": "It's a bucket of water.",
+    "value": 6,
+    "weight": 3.0,
+    "buyLimit": 13000
+}

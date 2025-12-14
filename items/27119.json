@@ -1,0 +1,14 @@
+{
+    "name": "Elder chaos hood (or)",
+    "id": 27119,
+    "members": false,
+    "examine": "The hood worn by the dangerous elder druids, tastefully decorated.",
+    "value": 500,
+    "weight": 0.18,
+    "equipment": {
+        "magicAttack": 5,
+        "magicDefence": 4,
+        "magicDamage": 1.0,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Rune arrowtips",
+    "id": 44,
+    "members": false,
+    "examine": "I can make some arrows with these.",
+    "value": 200,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

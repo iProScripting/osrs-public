@@ -1,0 +1,12 @@
+{
+    "name": "Bowl wig",
+    "id": 20110,
+    "members": false,
+    "examine": "The bowl wig.",
+    "value": 1,
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gas mask",
+    "id": 1506,
+    "members": false,
+    "examine": "Stops me from breathing nasty stuff!",
+    "value": 2,
+    "weight": 0.255,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

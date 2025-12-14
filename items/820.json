@@ -1,0 +1,9 @@
+{
+    "name": "Iron dart tip",
+    "id": 820,
+    "members": false,
+    "examine": "A deadly looking dart tip made of iron - needs feathers for flight.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

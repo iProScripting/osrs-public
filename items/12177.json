@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the bookcase in the monastery",
+    "id": 12177,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

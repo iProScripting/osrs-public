@@ -1,0 +1,9 @@
+{
+    "name": "Initiate harness m",
+    "id": 9668,
+    "members": false,
+    "examine": "Initiate level armour pack.",
+    "value": 20000,
+    "weight": 14.514,
+    "buyLimit": 70
+}

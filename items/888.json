@@ -1,0 +1,13 @@
+{
+    "name": "Mithril arrow",
+    "id": 888,
+    "members": false,
+    "examine": "Arrows with mithril heads.",
+    "value": 32,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 22,
+        "slot": "AMMO"
+    }
+}

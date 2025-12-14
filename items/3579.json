@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - When no weapons are at hand",
+    "id": 3579,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Uncharged cell (Desert Treasure II)",
+    "id": 28402,
+    "members": false,
+    "examine": "An empty cell for storing runic energy.",
+    "value": 30,
+    "weight": 0.0
+}

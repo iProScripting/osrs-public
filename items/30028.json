@@ -1,0 +1,8 @@
+{
+    "name": "Anti-leech lotion",
+    "id": 30028,
+    "members": false,
+    "examine": "Leeches hate this one simple trick!",
+    "value": 1,
+    "weight": 0.135
+}

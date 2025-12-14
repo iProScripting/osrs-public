@@ -1,0 +1,19 @@
+{
+    "name": "Blue d'hide chaps",
+    "id": 2493,
+    "members": false,
+    "examine": "Made from 100% real dragonhide.",
+    "value": 4320,
+    "weight": 5.443,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 11,
+        "stabDefence": 13,
+        "slashDefence": 16,
+        "crushDefence": 20,
+        "magicDefence": 14,
+        "rangedDefence": 20,
+        "slot": "LEGS"
+    }
+}

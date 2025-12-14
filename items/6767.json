@@ -1,0 +1,8 @@
+{
+    "name": "Book (Ratpits)",
+    "id": 6767,
+    "members": false,
+    "examine": "The book of Rats.",
+    "value": 1,
+    "weight": 0.04
+}

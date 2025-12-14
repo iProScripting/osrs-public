@@ -1,0 +1,12 @@
+{
+    "name": "Crate of herbs",
+    "id": 32727,
+    "members": false,
+    "examine": "A cargo crate of herbs destined for Red Rock.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

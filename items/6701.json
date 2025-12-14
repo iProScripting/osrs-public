@@ -1,0 +1,9 @@
+{
+    "name": "Baked potato",
+    "id": 6701,
+    "members": false,
+    "examine": "It'd taste even better with some toppings.",
+    "value": 4,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

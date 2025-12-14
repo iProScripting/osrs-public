@@ -1,0 +1,11 @@
+{
+    "name": "Banshee mask",
+    "id": 20773,
+    "members": false,
+    "examine": "Makes me want to scream.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

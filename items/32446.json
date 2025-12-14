@@ -1,0 +1,12 @@
+{
+    "name": "Crate of platebodies",
+    "id": 32446,
+    "members": false,
+    "examine": "A cargo crate of platebodies destined for Aldarin.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

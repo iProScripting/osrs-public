@@ -1,0 +1,11 @@
+{
+    "name": "Graceful top (Kourend)",
+    "id": 13672,
+    "members": false,
+    "examine": "A sign of your grace and unity.",
+    "value": 55,
+    "weight": -5.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

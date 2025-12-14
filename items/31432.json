@@ -1,0 +1,8 @@
+{
+    "name": "Camphor plank",
+    "id": 31432,
+    "members": false,
+    "examine": "A plank of hardy camphor.",
+    "value": 1500,
+    "weight": 0.8
+}

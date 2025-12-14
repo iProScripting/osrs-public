@@ -1,0 +1,8 @@
+{
+    "name": "Energy disk",
+    "id": 22767,
+    "members": false,
+    "examine": "A level 2 energy disk.",
+    "value": 30,
+    "weight": 0.453
+}

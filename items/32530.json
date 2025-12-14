@@ -1,0 +1,12 @@
+{
+    "name": "Crate of ship parts",
+    "id": 32530,
+    "members": false,
+    "examine": "A cargo crate of ship parts destined for Corsair Cove.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

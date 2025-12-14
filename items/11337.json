@@ -1,0 +1,8 @@
+{
+    "name": "Mangled bones",
+    "id": 11337,
+    "members": false,
+    "examine": "The bones of a barbarian warrior, slain by his fellow adventurers.",
+    "value": 1000,
+    "weight": 12.0
+}

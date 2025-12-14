@@ -1,0 +1,9 @@
+{
+    "name": "Necklace mould",
+    "id": 1597,
+    "members": false,
+    "examine": "Used to make necklaces.",
+    "value": 5,
+    "weight": 0.453,
+    "buyLimit": 40
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Desert disguise",
+    "id": 4611,
+    "members": false,
+    "examine": "A disguise suitable for the desert.",
+    "value": 1,
+    "weight": 0.04,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

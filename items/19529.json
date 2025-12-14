@@ -1,0 +1,9 @@
+{
+    "name": "Zenyte shard",
+    "id": 19529,
+    "members": false,
+    "examine": "A shard of unstable zenyte.",
+    "value": 75000,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

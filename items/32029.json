@@ -1,0 +1,9 @@
+{
+    "name": "Large mithril keel parts",
+    "id": 32029,
+    "members": false,
+    "examine": "Parts for creating a mithril keel for a large boat.",
+    "value": 6250,
+    "weight": 4.0,
+    "buyLimit": 100
+}

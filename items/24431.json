@@ -1,0 +1,11 @@
+{
+    "name": "Blue gingerbread shield",
+    "id": 24431,
+    "members": false,
+    "examine": "A delicious looking Gingerbread Gnome.",
+    "value": 0,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

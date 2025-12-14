@@ -1,0 +1,9 @@
+{
+    "name": "Grimy avantoe",
+    "id": 211,
+    "members": false,
+    "examine": "It needs cleaning.",
+    "value": 18,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

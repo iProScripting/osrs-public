@@ -1,0 +1,9 @@
+{
+    "name": "Crossbow string",
+    "id": 9438,
+    "members": false,
+    "examine": "A string for a crossbow.",
+    "value": 1,
+    "weight": 0.002,
+    "buyLimit": 11000
+}

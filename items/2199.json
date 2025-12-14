@@ -1,0 +1,8 @@
+{
+    "name": "Burnt crunchies",
+    "id": 2199,
+    "members": false,
+    "examine": "These crunchies have been burnt to a cinder.",
+    "value": 1,
+    "weight": 0.25
+}

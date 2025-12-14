@@ -1,0 +1,8 @@
+{
+    "name": "Broken glass",
+    "id": 1469,
+    "members": false,
+    "examine": "Smashed glass.",
+    "value": 0,
+    "weight": 0.056
+}

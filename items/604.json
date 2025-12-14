@@ -1,0 +1,8 @@
+{
+    "name": "Bone shard (Shilo Village)",
+    "id": 604,
+    "members": false,
+    "examine": "A slender bone shard given to you by Zadimus.",
+    "value": 1,
+    "weight": 0.01
+}

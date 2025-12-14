@@ -1,0 +1,12 @@
+{
+    "name": "Royal gown top",
+    "id": 12393,
+    "members": false,
+    "examine": "Feeling distinctly ornate.",
+    "value": 5000,
+    "weight": 1.36,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Camphor logs",
+    "id": 32904,
+    "members": false,
+    "examine": "Logs cut from a camphor tree.",
+    "value": 220,
+    "weight": 2.0
+}

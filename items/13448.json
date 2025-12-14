@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled goblin head",
+    "id": 13448,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
+    "value": 52,
+    "weight": 0.453,
+    "buyLimit": 3000
+}

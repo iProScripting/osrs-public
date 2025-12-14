@@ -1,0 +1,9 @@
+{
+    "name": "Toad batta",
+    "id": 2255,
+    "members": false,
+    "examine": "It actually smells quite good.",
+    "value": 2,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

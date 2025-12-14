@@ -1,0 +1,16 @@
+{
+    "name": "Dragon dart",
+    "id": 11231,
+    "members": false,
+    "examine": "A deadly poisoned dart with a dragon tip.",
+    "value": 500,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 35,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 3,
+        "combatStyle": "THROWN"
+    }
+}

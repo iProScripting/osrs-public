@@ -1,0 +1,9 @@
+{
+    "name": "Ribcage piece",
+    "id": 6165,
+    "members": false,
+    "examine": "A slightly damaged ribcage.",
+    "value": 60,
+    "weight": 3.175,
+    "buyLimit": 11000
+}

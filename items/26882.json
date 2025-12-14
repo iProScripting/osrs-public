@@ -1,0 +1,8 @@
+{
+    "name": "Uncharged cell",
+    "id": 26882,
+    "members": false,
+    "examine": "Can potentially hold runic energy, but it currently holds nothing.",
+    "value": 30,
+    "weight": 0.0
+}

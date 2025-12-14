@@ -1,0 +1,8 @@
+{
+    "name": "Blurite crossbow (u)",
+    "id": 9456,
+    "members": false,
+    "examine": "An unstrung blurite crossbow.",
+    "value": 60,
+    "weight": 8.0
+}

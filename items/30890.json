@@ -1,0 +1,8 @@
+{
+    "name": "Rotten turnip",
+    "id": 30890,
+    "members": false,
+    "examine": "Used to assist with developing plugins.",
+    "value": 0,
+    "weight": 0.001
+}

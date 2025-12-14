@@ -1,0 +1,11 @@
+{
+    "name": "Warm gloves",
+    "id": 20712,
+    "members": false,
+    "examine": "Possibly fireproof. Possibly.",
+    "value": 200,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Blessed bone shards",
+    "id": 29381,
+    "members": false,
+    "examine": "Blessed bones that have been broken down into smaller pieces.",
+    "value": 30,
+    "weight": 0.0
+}

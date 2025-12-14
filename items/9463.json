@@ -1,0 +1,9 @@
+{
+    "name": "Adamant crossbow (u)",
+    "id": 9463,
+    "members": false,
+    "examine": "An unstrung adamantite crossbow.",
+    "value": 1733,
+    "weight": 8.0,
+    "buyLimit": 10000
+}

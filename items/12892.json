@@ -1,0 +1,11 @@
+{
+    "name": "Antisanta mask",
+    "id": 12892,
+    "members": false,
+    "examine": "He sees you when you're sleeping.",
+    "value": 0,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

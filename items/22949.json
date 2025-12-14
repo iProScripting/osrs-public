@@ -1,0 +1,9 @@
+{
+    "name": "Battlefront teleport (tablet)",
+    "id": 22949,
+    "members": false,
+    "examine": "A teleport to the Kebos Battlefront.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

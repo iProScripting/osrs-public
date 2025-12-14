@@ -1,0 +1,9 @@
+{
+    "name": "Lizardman fang",
+    "id": 13391,
+    "members": false,
+    "examine": "Ripped from the maw of a dying lizardman of Kourend.",
+    "value": 60,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

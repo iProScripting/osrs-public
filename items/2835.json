@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - In a town where thieves steal from stalls",
+    "id": 2835,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Alchemist's signet",
+    "id": 31084,
+    "members": false,
+    "examine": "A ring that presumably belonged to an alchemist.",
+    "value": 5000,
+    "weight": 0.06
+}

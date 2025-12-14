@@ -1,0 +1,9 @@
+{
+    "name": "Berserker necklace ornament kit",
+    "id": 23237,
+    "members": false,
+    "examine": "Use on the Berserker necklace to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Armadyl crossbow",
+    "id": 11785,
+    "members": false,
+    "examine": "A weapon originally developed for Armadyl's forces.",
+    "value": 990000,
+    "weight": 6.0,
+    "buyLimit": 8,
+    "equipment": {
+        "rangedAttack": 100,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 8,
+        "combatStyle": "CROSSBOW"
+    }
+}

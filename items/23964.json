@@ -1,0 +1,8 @@
+{
+    "name": "Crystal dust",
+    "id": 23964,
+    "members": false,
+    "examine": "Crystal crushed down to the finest form imaginable, useful for making potions.",
+    "value": 1000,
+    "weight": 0.0
+}

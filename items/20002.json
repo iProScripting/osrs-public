@@ -1,0 +1,9 @@
+{
+    "name": "Dragon scimitar ornament kit",
+    "id": 20002,
+    "members": false,
+    "examine": "Use on the dragon scimitar to trim it with gold.",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

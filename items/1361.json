@@ -1,0 +1,20 @@
+{
+    "name": "Black axe",
+    "id": 1361,
+    "members": false,
+    "examine": "A sinister looking axe.",
+    "value": 384,
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 10,
+        "crushAttack": 8,
+        "slashDefence": 1,
+        "strength": 12,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

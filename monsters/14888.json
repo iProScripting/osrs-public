@@ -1,0 +1,26 @@
+{
+    "name": "Guard (Port Roberts)",
+    "id": 14888,
+    "isMembersOnly": false,
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "2",
+    "combatLevel": 21,
+    "hitpoints": 22,
+    "usesSkill": [
+    ],
+    "attackLevel": 19,
+    "defenceLevel": 14,
+    "attackBonuses": {
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 25,
+        "crush": 19,
+        "magic": -4
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bravery potion",
+    "id": 739,
+    "members": false,
+    "examine": "A Bravery Potion made from Gujuo's recipe. Let's hope it works.",
+    "value": 1,
+    "weight": 0.025
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Sample bottle",
+    "id": 3377,
+    "members": false,
+    "examine": "An empty sample bottle.",
+    "value": 5,
+    "weight": 0.02
+}

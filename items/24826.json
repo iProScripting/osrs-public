@@ -1,0 +1,11 @@
+{
+    "name": "Vyre noble blazer (grey)",
+    "id": 24826,
+    "members": false,
+    "examine": "Lets you dress like a vampyre noble.",
+    "value": 5000,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

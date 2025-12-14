@@ -1,0 +1,8 @@
+{
+    "name": "Funky shaped log",
+    "id": 28138,
+    "members": false,
+    "examine": "A weirdly shaped log. Perhaps a beaver would be interested in this?",
+    "value": 30000,
+    "weight": 2.0
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Zaryte bow",
+    "id": 26239,
+    "members": false,
+    "examine": "A powerful bow imbued with the fury of an ancient god.",
+    "value": 800000,
+    "weight": 2.0,
+    "equipment": {
+        "rangedAttack": 100,
+        "rangedStrength": 10,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 9,
+        "combatStyle": "BOW"
+    }
+}

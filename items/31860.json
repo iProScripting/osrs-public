@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of banker's draught",
+    "id": 31860,
+    "members": false,
+    "examine": "If your banker drinks this, seek independent financial advice immediately.",
+    "value": 50,
+    "weight": 0.003
+}

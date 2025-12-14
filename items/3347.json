@@ -1,0 +1,9 @@
+{
+    "name": "Blamish red shell (round)",
+    "id": 3347,
+    "members": false,
+    "examine": "A large red and black blamish snail shell, looks protective.",
+    "value": 150,
+    "weight": 10.0,
+    "buyLimit": 13000
+}

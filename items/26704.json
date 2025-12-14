@@ -1,0 +1,8 @@
+{
+    "name": "Blighted wave sack",
+    "id": 26704,
+    "members": false,
+    "examine": "Enough power for any Wave spell, blighted so it can be used only in the Wilderness.",
+    "value": 40,
+    "weight": 0.0
+}

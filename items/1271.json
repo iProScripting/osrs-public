@@ -1,0 +1,20 @@
+{
+    "name": "Adamant pickaxe",
+    "id": 1271,
+    "members": false,
+    "examine": "Used for mining.",
+    "value": 3200,
+    "weight": 2.721,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": 17,
+        "slashAttack": -2,
+        "crushAttack": 15,
+        "slashDefence": 1,
+        "strength": 19,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

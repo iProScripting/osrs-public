@@ -1,0 +1,8 @@
+{
+    "name": "Basic quetzal whistle blueprint",
+    "id": 29251,
+    "members": false,
+    "examine": "A simple blueprint for a quetzal whistle.",
+    "value": 10,
+    "weight": 0.004
+}

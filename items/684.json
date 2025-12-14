@@ -1,0 +1,8 @@
+{
+    "name": "Belt buckle",
+    "id": 684,
+    "members": false,
+    "examine": "Used to hold up trousers!",
+    "value": 1,
+    "weight": 1.0
+}

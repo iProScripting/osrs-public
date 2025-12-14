@@ -1,0 +1,9 @@
+{
+    "name": "Teak toy box (flatpack)",
+    "id": 9850,
+    "members": false,
+    "examine": "How does it all fit in there?",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 500
+}

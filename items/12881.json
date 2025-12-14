@@ -1,0 +1,9 @@
+{
+    "name": "Ahrim's armour set",
+    "id": 12881,
+    "members": false,
+    "examine": "A set containing an Ahrim's hood, robetop, robeskirt and staff.",
+    "value": 200000,
+    "weight": 0.05,
+    "buyLimit": 8
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Adamant gloves",
+    "id": 7459,
+    "members": false,
+    "examine": "A pair of nice gloves.",
+    "value": 2500,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 7,
+        "slashAttack": 7,
+        "crushAttack": 7,
+        "magicAttack": 4,
+        "rangedAttack": 7,
+        "stabDefence": 7,
+        "slashDefence": 7,
+        "crushDefence": 7,
+        "magicDefence": 4,
+        "rangedDefence": 7,
+        "strength": 7,
+        "slot": "HANDS"
+    }
+}

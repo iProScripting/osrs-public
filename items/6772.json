@@ -1,0 +1,8 @@
+{
+    "name": "Smouldering pot",
+    "id": 6772,
+    "members": false,
+    "examine": "Contains slowly burning garden weeds.",
+    "value": 1,
+    "weight": 0.5
+}

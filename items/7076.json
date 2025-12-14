@@ -1,0 +1,9 @@
+{
+    "name": "Uncooked egg",
+    "id": 7076,
+    "members": false,
+    "examine": "A bowl of uncooked egg.",
+    "value": 8,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

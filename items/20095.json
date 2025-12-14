@@ -1,0 +1,12 @@
+{
+    "name": "Ankou mask",
+    "id": 20095,
+    "members": false,
+    "examine": "This mask will make your flesh transparent.",
+    "value": 1,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

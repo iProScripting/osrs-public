@@ -1,0 +1,9 @@
+{
+    "name": "Botanical pie",
+    "id": 19662,
+    "members": false,
+    "examine": "Mmm botanical pie.",
+    "value": 30,
+    "weight": 0.45,
+    "buyLimit": 10000
+}

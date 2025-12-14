@@ -1,0 +1,13 @@
+{
+    "name": "Topaz dragon bolts (e)",
+    "id": 21938,
+    "members": false,
+    "examine": "Enchanted Dragon crossbow bolts, tipped with red topaz.",
+    "value": 730,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

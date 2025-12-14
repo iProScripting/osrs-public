@@ -1,0 +1,9 @@
+{
+    "name": "Astral rune",
+    "id": 9075,
+    "members": false,
+    "examine": "Used for Lunar spells.",
+    "value": 50,
+    "weight": 0.0,
+    "buyLimit": 25000
+}

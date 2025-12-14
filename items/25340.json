@@ -1,0 +1,8 @@
+{
+    "name": "Ectoplasmator",
+    "id": 25340,
+    "members": false,
+    "examine": "Allows you to harvest the essence of spectral creatures.",
+    "value": 1,
+    "weight": 0.035
+}

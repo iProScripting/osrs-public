@@ -1,0 +1,8 @@
+{
+    "name": "Bowl of fish",
+    "id": 21693,
+    "members": false,
+    "examine": "This bowl appears to be full of live fish, and a bit of water.",
+    "value": 30,
+    "weight": 0.0
+}

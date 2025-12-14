@@ -1,0 +1,9 @@
+{
+    "name": "Kodai insignia",
+    "id": 21043,
+    "members": false,
+    "examine": "An insignia representing Kodai, Xeric's fearsome wizards.",
+    "value": 150000,
+    "weight": 0.056,
+    "buyLimit": 8
+}

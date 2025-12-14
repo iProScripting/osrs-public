@@ -1,0 +1,8 @@
+{
+    "name": "Barrelchest anchor imbue scroll",
+    "id": 28074,
+    "members": false,
+    "examine": "Use on a Barrelchest Anchor to imbue the weapon.",
+    "value": 10000,
+    "weight": 0.002
+}

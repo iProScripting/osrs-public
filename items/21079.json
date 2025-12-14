@@ -1,0 +1,9 @@
+{
+    "name": "Arcane prayer scroll",
+    "id": 21079,
+    "members": false,
+    "examine": "Scrawled words that can invoke the power of the gods.",
+    "value": 80000,
+    "weight": 0.015,
+    "buyLimit": 5
+}

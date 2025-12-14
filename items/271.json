@@ -1,0 +1,8 @@
+{
+    "name": "Pressure gauge",
+    "id": 271,
+    "members": false,
+    "examine": "It looks like part of a machine.",
+    "value": 1,
+    "weight": 0.056
+}

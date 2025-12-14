@@ -1,0 +1,12 @@
+{
+    "name": "Unpowered symbol",
+    "id": 1722,
+    "members": false,
+    "examine": "An unblessed symbol of Zamorak.",
+    "value": 200,
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

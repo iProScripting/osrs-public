@@ -1,0 +1,8 @@
+{
+    "name": "Ancient treatise",
+    "id": 25692,
+    "members": false,
+    "examine": "An untranslatable scroll. This belongs in a museum.",
+    "value": 1,
+    "weight": 1.0
+}

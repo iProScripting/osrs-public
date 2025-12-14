@@ -1,0 +1,21 @@
+{
+    "name": "Iron dagger",
+    "id": 1203,
+    "members": false,
+    "examine": "Short but pointy.",
+    "value": 35,
+    "weight": 0.453,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 3,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 4,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

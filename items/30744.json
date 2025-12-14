@@ -1,0 +1,8 @@
+{
+    "name": "Oathplate armour set",
+    "id": 30744,
+    "members": false,
+    "examine": "A set containing a Oathplate helm, Oathplate chest, and Oathplate legs.",
+    "value": 145000,
+    "weight": 0.05
+}

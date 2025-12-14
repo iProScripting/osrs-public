@@ -1,0 +1,11 @@
+{
+    "name": "Antisanta gloves",
+    "id": 12895,
+    "members": false,
+    "examine": "Keeps the coal-dust off.",
+    "value": 0,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

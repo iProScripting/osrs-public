@@ -1,0 +1,11 @@
+{
+    "name": "'perfect' ring",
+    "id": 773,
+    "members": false,
+    "examine": "A perfect ruby ring.",
+    "value": 2025,
+    "weight": 0.007,
+    "equipment": {
+        "slot": "RING"
+    }
+}

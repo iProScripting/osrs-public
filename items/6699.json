@@ -1,0 +1,8 @@
+{
+    "name": "Burnt potato",
+    "id": 6699,
+    "members": false,
+    "examine": "This potato doesn't look edible.",
+    "value": 1,
+    "weight": 0.5
+}

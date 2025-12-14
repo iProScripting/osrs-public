@@ -1,0 +1,8 @@
+{
+    "name": "Certificate (Shield of Arrav)",
+    "id": 769,
+    "members": false,
+    "examine": "I can use this to claim a reward from King Roald.",
+    "value": 10,
+    "weight": 0.02
+}

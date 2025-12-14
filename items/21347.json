@@ -1,0 +1,9 @@
+{
+    "name": "Amethyst",
+    "id": 21347,
+    "members": false,
+    "examine": "Maybe I can make something with this.",
+    "value": 3900,
+    "weight": 1.36,
+    "buyLimit": 13000
+}

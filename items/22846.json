@@ -1,0 +1,14 @@
+{
+    "name": "Pearl fishing rod",
+    "id": 22846,
+    "members": false,
+    "examine": "Useful for catching sardine or herring while looking a little bit fancy.",
+    "value": 100,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Ape atoll teleport (tablet)",
+    "id": 19631,
+    "members": false,
+    "examine": "A teleport to Ape Atoll.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

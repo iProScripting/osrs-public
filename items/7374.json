@@ -1,0 +1,19 @@
+{
+    "name": "Blue d'hide body (g)",
+    "id": 7374,
+    "members": false,
+    "examine": "Made from 100% real dragonhide. With colourful trim!",
+    "value": 9360,
+    "weight": 6.803,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": 20,
+        "stabDefence": 23,
+        "slashDefence": 30,
+        "crushDefence": 30,
+        "magicDefence": 26,
+        "rangedDefence": 40,
+        "slot": "BODY"
+    }
+}

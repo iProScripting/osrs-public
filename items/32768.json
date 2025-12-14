@@ -1,0 +1,12 @@
+{
+    "name": "Crate of coral",
+    "id": 32768,
+    "members": false,
+    "examine": "A cargo crate of coral destined for The Pandemonium.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

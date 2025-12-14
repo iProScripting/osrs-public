@@ -1,0 +1,8 @@
+{
+    "name": "Scrying orb",
+    "id": 5518,
+    "members": false,
+    "examine": "This contains mystical teleport information...",
+    "value": 30,
+    "weight": 1.0
+}

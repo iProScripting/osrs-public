@@ -1,0 +1,9 @@
+{
+    "name": "Bronze arrowtips",
+    "id": 39,
+    "members": false,
+    "examine": "I can make some arrows with these.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

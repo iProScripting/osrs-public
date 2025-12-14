@@ -1,0 +1,8 @@
+{
+    "name": "Wax",
+    "id": 4085,
+    "members": false,
+    "examine": "I can use this to wax my sled.",
+    "value": 15,
+    "weight": 0.025
+}

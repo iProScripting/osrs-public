@@ -1,0 +1,11 @@
+{
+    "name": "Vyre noble dress bottom (red)",
+    "id": 24808,
+    "members": false,
+    "examine": "Lets you dress like a vampyre noble.",
+    "value": 5000,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

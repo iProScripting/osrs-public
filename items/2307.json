@@ -1,0 +1,9 @@
+{
+    "name": "Bread dough",
+    "id": 2307,
+    "members": false,
+    "examine": "Some uncooked dough.",
+    "value": 4,
+    "weight": 0.6,
+    "buyLimit": 13000
+}

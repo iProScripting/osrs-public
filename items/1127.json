@@ -1,0 +1,19 @@
+{
+    "name": "Rune platebody",
+    "id": 1127,
+    "members": false,
+    "examine": "Provides excellent protection.",
+    "value": 65000,
+    "weight": 9.979,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 82,
+        "slashDefence": 80,
+        "crushDefence": 72,
+        "magicDefence": -6,
+        "rangedDefence": 80,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Barrel",
+    "id": 3216,
+    "members": false,
+    "examine": "An empty barrel.",
+    "value": 1,
+    "weight": 10.0,
+    "buyLimit": 15
+}

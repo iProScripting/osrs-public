@@ -1,0 +1,11 @@
+{
+    "name": "Spookier boots",
+    "id": 24323,
+    "members": false,
+    "examine": "A spooky pair of boots cut from a bedsheet!",
+    "value": 1,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

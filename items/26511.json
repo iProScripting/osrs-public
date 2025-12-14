@@ -1,0 +1,14 @@
+{
+    "name": "Shattered relics adamant trophy",
+    "id": 26511,
+    "members": false,
+    "examine": "An Adamant trophy for competing in Leagues III - Shattered Relics",
+    "value": 1,
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

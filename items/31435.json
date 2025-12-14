@@ -1,0 +1,8 @@
+{
+    "name": "Ironwood plank",
+    "id": 31435,
+    "members": false,
+    "examine": "A plank of robust ironwood.",
+    "value": 1500,
+    "weight": 0.8
+}

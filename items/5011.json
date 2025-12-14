@@ -1,0 +1,8 @@
+{
+    "name": "Silverware",
+    "id": 5011,
+    "members": false,
+    "examine": "You found the Lumbridge silverware in the HAM cave.",
+    "value": 1,
+    "weight": 0.05
+}

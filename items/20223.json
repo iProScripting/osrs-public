@@ -1,0 +1,13 @@
+{
+    "name": "Unholy blessing",
+    "id": 20223,
+    "members": false,
+    "examine": "The Dark Lord will rise again with his servant's aid, greater and more terrible than ever he was.",
+    "value": 80,
+    "weight": 0.51,
+    "buyLimit": 5,
+    "equipment": {
+        "prayerBonus": 1,
+        "slot": "AMMO"
+    }
+}

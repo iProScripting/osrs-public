@@ -1,0 +1,9 @@
+{
+    "name": "Super strength",
+    "id": 161,
+    "members": false,
+    "examine": "1 dose of super Strength potion.",
+    "value": 110,
+    "weight": 0.02,
+    "buyLimit": 2000
+}

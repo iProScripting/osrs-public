@@ -1,0 +1,8 @@
+{
+    "name": "Ancient casket",
+    "id": 23071,
+    "members": false,
+    "examine": "An ancient casket. This must be what Veos is looking for.",
+    "value": 30,
+    "weight": 5.0
+}

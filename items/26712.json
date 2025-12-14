@@ -1,0 +1,16 @@
+{
+    "name": "Heavy ballista (or)",
+    "id": 26712,
+    "members": false,
+    "examine": "A powerful and good looking weapon forged from the wreckage of an airship.",
+    "value": 950000,
+    "weight": 6.0,
+    "equipment": {
+        "rangedAttack": 125,
+        "rangedStrength": 15,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 9,
+        "combatStyle": "CROSSBOW"
+    }
+}

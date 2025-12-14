@@ -1,0 +1,8 @@
+{
+    "name": "Champion's lamp",
+    "id": 22320,
+    "members": false,
+    "examine": "Sometimes that quiet feeling of accomplishment just isn't enough of a reward.",
+    "value": 1,
+    "weight": 0.18
+}

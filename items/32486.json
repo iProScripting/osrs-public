@@ -1,0 +1,12 @@
+{
+    "name": "Crate of coconuts",
+    "id": 32486,
+    "members": false,
+    "examine": "A cargo crate of coconuts destined for Catherby.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

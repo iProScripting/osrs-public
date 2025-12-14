@@ -1,0 +1,8 @@
+{
+    "name": "Fungicide spray",
+    "id": 7421,
+    "members": false,
+    "examine": "Pumps fungicide.",
+    "value": 300,
+    "weight": 2.0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Adamant 2h sword",
+    "id": 1317,
+    "members": false,
+    "examine": "A two handed sword.",
+    "value": 6400,
+    "weight": 4.082,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 43,
+        "crushAttack": 30,
+        "magicAttack": -4,
+        "rangedDefence": -1,
+        "strength": 44,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

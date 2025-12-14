@@ -1,0 +1,9 @@
+{
+    "name": "Dragon bitter",
+    "id": 1911,
+    "members": false,
+    "examine": "A glass of bitter.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cake",
+    "id": 1895,
+    "members": false,
+    "examine": "I'd rather have a whole cake.",
+    "value": 10,
+    "weight": 0.1
+}

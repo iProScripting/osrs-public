@@ -1,0 +1,18 @@
+{
+    "name": "Corrupted pickaxe",
+    "id": 23822,
+    "members": false,
+    "examine": "If rocks could feel fear, they'd fear this.",
+    "value": 1,
+    "weight": 1.36,
+    "equipment": {
+        "stabAttack": 4,
+        "slashAttack": 4,
+        "crushAttack": 4,
+        "strength": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

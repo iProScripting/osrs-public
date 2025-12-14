@@ -1,0 +1,8 @@
+{
+    "name": "Black mushroom",
+    "id": 4620,
+    "members": false,
+    "examine": "It looks horrible.",
+    "value": 1,
+    "weight": 0.01
+}

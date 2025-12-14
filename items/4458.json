@@ -1,0 +1,9 @@
+{
+    "name": "Cup of water",
+    "id": 4458,
+    "members": false,
+    "examine": "A cup of water.",
+    "value": 10,
+    "weight": 0.05,
+    "buyLimit": 13000
+}

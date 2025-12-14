@@ -1,0 +1,9 @@
+{
+    "name": "Divine magic potion",
+    "id": 23745,
+    "members": false,
+    "examine": "4 doses of divine magic potion.",
+    "value": 250,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

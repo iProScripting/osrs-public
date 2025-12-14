@@ -1,0 +1,21 @@
+{
+    "name": "Wolfbane",
+    "id": 2952,
+    "members": false,
+    "examine": "A silver dagger that can prevent werewolves changing form.",
+    "value": 300,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 11,
+        "slashAttack": 5,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 10,
+        "prayerBonus": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

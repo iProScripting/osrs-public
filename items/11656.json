@@ -1,0 +1,8 @@
+{
+    "name": "Glassblowing book",
+    "id": 11656,
+    "members": false,
+    "examine": "A book that explains the art of crafting items from glass.",
+    "value": 3,
+    "weight": 0.003
+}

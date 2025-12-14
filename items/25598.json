@@ -1,0 +1,11 @@
+{
+    "name": "Spirit angler boots",
+    "id": 25598,
+    "members": false,
+    "examine": "Where's Welly?",
+    "value": 120,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

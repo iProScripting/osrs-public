@@ -1,0 +1,8 @@
+{
+    "name": "Hand mirror",
+    "id": 6639,
+    "members": false,
+    "examine": "A small hand mirror.",
+    "value": 1,
+    "weight": 0.01
+}

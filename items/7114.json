@@ -1,0 +1,12 @@
+{
+    "name": "Pirate boots",
+    "id": 7114,
+    "members": false,
+    "examine": "Not for land lubbers.",
+    "value": 350,
+    "weight": 4.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

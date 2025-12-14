@@ -1,0 +1,9 @@
+{
+    "name": "Bryophyta's essence",
+    "id": 22372,
+    "members": false,
+    "examine": "Ready to infuse a Battlestaff with the power of Nature.",
+    "value": 7000,
+    "weight": 0.001,
+    "buyLimit": 100
+}

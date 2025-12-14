@@ -1,0 +1,11 @@
+{
+    "name": "Rainbow jumper",
+    "id": 28125,
+    "members": false,
+    "examine": "Colourful, warm and fashionable!",
+    "value": 1,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

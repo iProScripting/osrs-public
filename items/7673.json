@@ -1,0 +1,16 @@
+{
+    "name": "Boxing gloves",
+    "id": 7673,
+    "members": false,
+    "examine": "I think they look a bit silly.",
+    "value": 0,
+    "weight": 0.453,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

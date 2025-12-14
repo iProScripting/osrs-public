@@ -1,0 +1,11 @@
+{
+    "name": "Black santa hat",
+    "id": 13343,
+    "members": false,
+    "examine": "A black Santa hat produced by Anti-Santa.",
+    "value": 1,
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

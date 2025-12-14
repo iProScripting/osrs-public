@@ -1,0 +1,8 @@
+{
+    "name": "Apprentice potion pack",
+    "id": 29971,
+    "members": false,
+    "examine": "A pack of potions made by an apprentice alchemist.",
+    "value": 145,
+    "weight": 5.15
+}

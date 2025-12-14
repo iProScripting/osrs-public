@@ -1,0 +1,8 @@
+{
+    "name": "Void orb",
+    "id": 32433,
+    "members": false,
+    "examine": "Not for pondering.",
+    "value": 30,
+    "weight": 0.125
+}

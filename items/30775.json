@@ -1,0 +1,8 @@
+{
+    "name": "Chasm teleport scroll",
+    "id": 30775,
+    "members": false,
+    "examine": "Ancient glyphs cover the paper, resembling those in the chasm of fire.",
+    "value": 10,
+    "weight": 0.001
+}

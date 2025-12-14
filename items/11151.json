@@ -1,0 +1,8 @@
+{
+    "name": "Dream vial",
+    "id": 11151,
+    "members": false,
+    "examine": "A vessel for holding liquid.",
+    "value": 1,
+    "weight": 0.015
+}

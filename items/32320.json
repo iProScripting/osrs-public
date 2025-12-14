@@ -1,0 +1,8 @@
+{
+    "name": "Haddock",
+    "id": 32320,
+    "members": false,
+    "examine": "Some nicely cooked haddock.",
+    "value": 170,
+    "weight": 0.65
+}

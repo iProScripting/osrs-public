@@ -1,0 +1,8 @@
+{
+    "name": "Star fragment",
+    "id": 25547,
+    "members": false,
+    "examine": "A fragment of a long-dead star. You can use it to recolour Prospector equipment.",
+    "value": 3000,
+    "weight": 2.721
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bloodier key",
+    "id": 20608,
+    "members": false,
+    "examine": "A key stained in the blood of a worthy opponent.",
+    "value": 1,
+    "weight": 0.01
+}

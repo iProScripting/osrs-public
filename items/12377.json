@@ -1,0 +1,20 @@
+{
+    "name": "Adamant cane",
+    "id": 12377,
+    "members": false,
+    "examine": "A diamond topped cane.",
+    "value": 1440,
+    "weight": 1.814,
+    "buyLimit": 4,
+    "equipment": {
+        "stabAttack": 13,
+        "slashAttack": -2,
+        "crushAttack": 25,
+        "strength": 23,
+        "prayerBonus": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

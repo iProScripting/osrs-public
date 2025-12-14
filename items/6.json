@@ -1,0 +1,9 @@
+{
+    "name": "Cannon base",
+    "id": 6,
+    "members": false,
+    "examine": "The cannon is built on this.",
+    "value": 187500,
+    "weight": 10.0,
+    "buyLimit": 70
+}

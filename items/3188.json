@@ -1,0 +1,9 @@
+{
+    "name": "Cleaning cloth",
+    "id": 3188,
+    "members": false,
+    "examine": "A spirit soaked piece of silk which can be used to remove poison.",
+    "value": 60,
+    "weight": 1.0,
+    "buyLimit": 40
+}

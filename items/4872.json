@@ -1,0 +1,12 @@
+{
+    "name": "Ahrim's robetop",
+    "id": 4872,
+    "members": false,
+    "examine": "Ahrim the Blighted's armoured robe top.",
+    "value": 50000,
+    "weight": 4.535,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

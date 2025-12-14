@@ -1,0 +1,8 @@
+{
+    "name": "Kourend map",
+    "id": 25801,
+    "members": false,
+    "examine": "A map of Kourend found at the home of Councillor Hughes.",
+    "value": 30,
+    "weight": 0.51
+}

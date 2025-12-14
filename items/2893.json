@@ -1,0 +1,8 @@
+{
+    "name": "Elemental metal",
+    "id": 2893,
+    "members": false,
+    "examine": "It's a bar of refined elemental ore.",
+    "value": 8,
+    "weight": 1.814
+}

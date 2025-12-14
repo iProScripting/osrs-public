@@ -1,0 +1,8 @@
+{
+    "name": "Basic shadow torch schematic",
+    "id": 28378,
+    "members": false,
+    "examine": "A design for a basic shadow torch.",
+    "value": 30,
+    "weight": 0.004
+}

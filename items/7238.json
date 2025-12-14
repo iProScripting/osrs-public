@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crates in Canifis",
+    "id": 7238,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

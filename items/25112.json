@@ -1,0 +1,14 @@
+{
+    "name": "Echo pickaxe",
+    "id": 25112,
+    "members": false,
+    "examine": "A very powerful pickaxe, echoing with power from the past.",
+    "value": 0,
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

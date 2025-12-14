@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the drawers in the ground floor of a shop in Yanille",
+    "id": 3492,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

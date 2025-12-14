@@ -1,0 +1,17 @@
+{
+    "name": "Adamant knife",
+    "id": 875,
+    "members": false,
+    "examine": "A finely balanced throwing knife.",
+    "value": 66,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedAttack": 15,
+        "rangedStrength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

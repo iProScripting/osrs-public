@@ -1,0 +1,8 @@
+{
+    "name": "Scythe sharpener",
+    "id": 12842,
+    "members": false,
+    "examine": "Used to sharpen the blade on a scythe.",
+    "value": 1,
+    "weight": 20.0
+}

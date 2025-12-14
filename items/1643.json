@@ -1,0 +1,12 @@
+{
+    "name": "Diamond ring",
+    "id": 1643,
+    "members": false,
+    "examine": "A valuable ring.",
+    "value": 3525,
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "RING"
+    }
+}

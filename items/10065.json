@@ -1,0 +1,8 @@
+{
+    "name": "Polar camo top",
+    "id": 10065,
+    "members": false,
+    "examine": "This should make me harder to spot in polar areas.",
+    "value": 20,
+    "weight": 0.226
+}

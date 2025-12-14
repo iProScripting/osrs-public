@@ -1,0 +1,19 @@
+{
+    "name": "3rd age range legs",
+    "id": 10332,
+    "members": false,
+    "examine": "Fabulously ancient range protection crafted from white dragonhide.",
+    "value": 50600,
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 17,
+        "stabDefence": 31,
+        "slashDefence": 25,
+        "crushDefence": 33,
+        "magicDefence": 30,
+        "rangedDefence": 31,
+        "slot": "LEGS"
+    }
+}

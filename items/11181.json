@@ -1,0 +1,8 @@
+{
+    "name": "Ancient symbol",
+    "id": 11181,
+    "members": false,
+    "examine": "A very old symbol of Saradomin.",
+    "value": 1,
+    "weight": 0.001
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Top hat & monocle",
+    "id": 12434,
+    "members": false,
+    "examine": "Like a sir.",
+    "value": 4000,
+    "weight": 1.36,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

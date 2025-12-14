@@ -1,0 +1,12 @@
+{
+    "name": "Crate of fabrics",
+    "id": 32737,
+    "members": false,
+    "examine": "A cargo crate of fabrics destined for Rellekka.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

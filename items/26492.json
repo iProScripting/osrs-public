@@ -1,0 +1,13 @@
+{
+    "name": "Book of law (or)",
+    "id": 26492,
+    "members": false,
+    "examine": "The book of Armadyl's Law, plucked from the shattered abyss.",
+    "value": 200,
+    "weight": 1.0,
+    "equipment": {
+        "rangedAttack": 10,
+        "prayerBonus": 5,
+        "slot": "SHIELD"
+    }
+}

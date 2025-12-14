@@ -1,0 +1,9 @@
+{
+    "name": "Grimy lantadyme",
+    "id": 2485,
+    "members": false,
+    "examine": "It needs cleaning.",
+    "value": 23,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

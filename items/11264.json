@@ -1,0 +1,8 @@
+{
+    "name": "Anchovy oil",
+    "id": 11264,
+    "members": false,
+    "examine": "Omega 3 oil. Good for the brain, not so for the nose.",
+    "value": 10,
+    "weight": 0.035
+}

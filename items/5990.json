@@ -1,0 +1,8 @@
+{
+    "name": "Burnt sweetcorn",
+    "id": 5990,
+    "members": false,
+    "examine": "This sweetcorn has been cooked for too long.",
+    "value": 1,
+    "weight": 0.028
+}

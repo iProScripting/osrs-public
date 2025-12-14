@@ -1,0 +1,18 @@
+{
+    "name": "Morytania legs 3",
+    "id": 13114,
+    "members": false,
+    "examine": "Platelegs adorned with the crest of Morytania.",
+    "value": 0,
+    "weight": 9.071,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -7,
+        "stabDefence": 24,
+        "slashDefence": 22,
+        "crushDefence": 20,
+        "magicDefence": -4,
+        "rangedDefence": 22,
+        "slot": "LEGS"
+    }
+}

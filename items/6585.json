@@ -1,0 +1,24 @@
+{
+    "name": "Amulet of fury",
+    "id": 6585,
+    "members": false,
+    "examine": "A very powerful onyx amulet.",
+    "value": 202000,
+    "weight": 0.01,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 10,
+        "magicAttack": 10,
+        "rangedAttack": 10,
+        "stabDefence": 15,
+        "slashDefence": 15,
+        "crushDefence": 15,
+        "magicDefence": 15,
+        "rangedDefence": 15,
+        "strength": 8,
+        "prayerBonus": 5,
+        "slot": "NECK"
+    }
+}

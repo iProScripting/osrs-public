@@ -1,0 +1,16 @@
+{
+    "name": "Cape of legends",
+    "id": 1052,
+    "members": false,
+    "examine": "The cape worn by members of the Legends Guild.",
+    "value": 450,
+    "weight": 1.814,
+    "equipment": {
+        "stabDefence": 7,
+        "slashDefence": 7,
+        "crushDefence": 7,
+        "magicDefence": 7,
+        "rangedDefence": 7,
+        "slot": "CAPE"
+    }
+}

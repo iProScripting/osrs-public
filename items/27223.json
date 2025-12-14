@@ -1,0 +1,8 @@
+{
+    "name": "Eldritch ashes",
+    "id": 27223,
+    "members": false,
+    "examine": "A heap of strange ashes.",
+    "value": 10,
+    "weight": 0.05
+}

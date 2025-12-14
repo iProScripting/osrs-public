@@ -1,0 +1,20 @@
+{
+    "name": "Bandos platebody",
+    "id": 12480,
+    "members": false,
+    "examine": "Rune platebody in the colours of Bandos.",
+    "value": 65000,
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 82,
+        "slashDefence": 80,
+        "crushDefence": 72,
+        "magicDefence": -6,
+        "rangedDefence": 80,
+        "prayerBonus": 1,
+        "slot": "BODY"
+    }
+}

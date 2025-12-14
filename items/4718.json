@@ -1,0 +1,21 @@
+{
+    "name": "Dharok's greataxe",
+    "id": 4718,
+    "members": false,
+    "examine": "Dharok the Wretched's greataxe.",
+    "value": 208000,
+    "weight": 3.175,
+    "buyLimit": 15,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 103,
+        "crushAttack": 95,
+        "magicAttack": -4,
+        "rangedDefence": -1,
+        "strength": 105,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

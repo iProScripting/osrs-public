@@ -1,0 +1,9 @@
+{
+    "name": "Cannon stand",
+    "id": 8,
+    "members": false,
+    "examine": "The mounting for the multicannon.",
+    "value": 187500,
+    "weight": 0.907,
+    "buyLimit": 70
+}

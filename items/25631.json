@@ -1,0 +1,8 @@
+{
+    "name": "Steak sandwich",
+    "id": 25631,
+    "members": false,
+    "examine": "Perfect combination of beef and bread.",
+    "value": 25,
+    "weight": 0.02
+}

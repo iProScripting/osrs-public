@@ -1,0 +1,20 @@
+{
+    "name": "Masori body",
+    "id": 27229,
+    "members": false,
+    "examine": "Ancient armour once worn by a powerful ranger.",
+    "value": 1200000,
+    "weight": 8.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -4,
+        "rangedAttack": 43,
+        "stabDefence": 37,
+        "slashDefence": 35,
+        "crushDefence": 38,
+        "magicDefence": 25,
+        "rangedDefence": 33,
+        "rangedStrength": 4,
+        "slot": "BODY"
+    }
+}

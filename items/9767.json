@@ -1,0 +1,11 @@
+{
+    "name": "Runecraft hood",
+    "id": 9767,
+    "members": false,
+    "examine": "Runecraft skillcape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

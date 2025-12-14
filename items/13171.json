@@ -1,0 +1,9 @@
+{
+    "name": "Ancient dragonhide set",
+    "id": 13171,
+    "members": false,
+    "examine": "A set containing an ancient dragonhide coif, body, chaps and bracers.",
+    "value": 9500,
+    "weight": 0.05,
+    "buyLimit": 8
+}

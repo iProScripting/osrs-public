@@ -1,0 +1,8 @@
+{
+    "name": "Tortugan scute",
+    "id": 31393,
+    "members": false,
+    "examine": "A scute from a tortugan shell.",
+    "value": 20,
+    "weight": 0.7
+}

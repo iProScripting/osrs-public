@@ -1,0 +1,8 @@
+{
+    "name": "Blessed hydra bones",
+    "id": 29368,
+    "members": false,
+    "examine": "Bones blessed at an exposed altar.",
+    "value": 160,
+    "weight": 1.8
+}

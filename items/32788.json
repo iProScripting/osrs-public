@@ -1,0 +1,12 @@
+{
+    "name": "Crate of pest remains",
+    "id": 32788,
+    "members": false,
+    "examine": "A cargo crate of pest remains destined for The Summer Shore.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

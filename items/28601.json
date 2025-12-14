@@ -1,0 +1,11 @@
+{
+    "name": "Cobweb cape",
+    "id": 28601,
+    "members": false,
+    "examine": "This is made of the finest spidersilk.",
+    "value": 0,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

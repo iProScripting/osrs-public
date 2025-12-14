@@ -1,0 +1,20 @@
+{
+    "name": "Abyssal dagger (bh)",
+    "id": 27867,
+    "members": false,
+    "examine": "Something sharp and extremely poisonous from the body of a defeated Abyssal Sire.",
+    "value": 115004,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 85,
+        "slashAttack": 40,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 75,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

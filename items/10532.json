@@ -1,0 +1,8 @@
+{
+    "name": "Red egg",
+    "id": 10532,
+    "members": false,
+    "examine": "Will explode when fired!",
+    "value": 100,
+    "weight": 0.02
+}

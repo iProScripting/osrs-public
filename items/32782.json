@@ -1,0 +1,12 @@
+{
+    "name": "Crate of gems",
+    "id": 32782,
+    "members": false,
+    "examine": "A cargo crate of gems destined for The Summer Shore.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

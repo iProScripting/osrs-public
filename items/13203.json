@@ -1,0 +1,11 @@
+{
+    "name": "Mask of balance",
+    "id": 13203,
+    "members": false,
+    "examine": "A shining mask of balance.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

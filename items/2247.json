@@ -1,0 +1,8 @@
+{
+    "name": "Burnt batta",
+    "id": 2247,
+    "members": false,
+    "examine": "This batta has been burnt to a cinder.",
+    "value": 1,
+    "weight": 0.2
+}

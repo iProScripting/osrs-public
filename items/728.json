@@ -1,0 +1,8 @@
+{
+    "name": "Hollow reed (unobtainable item)",
+    "id": 728,
+    "members": false,
+    "examine": "One of nature's pipes.",
+    "value": 1,
+    "weight": 0.012
+}

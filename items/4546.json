@@ -1,0 +1,9 @@
+{
+    "name": "Bullseye lantern (empty)",
+    "id": 4546,
+    "members": false,
+    "examine": "You need to add lamp oil before you can use it.",
+    "value": 400,
+    "weight": 1.36,
+    "buyLimit": 10000
+}

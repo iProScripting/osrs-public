@@ -1,0 +1,8 @@
+{
+    "name": "Castlewars brew",
+    "id": 25159,
+    "members": false,
+    "examine": "Boosts your skills when drunk.",
+    "value": 1,
+    "weight": 0.035
+}

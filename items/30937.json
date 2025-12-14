@@ -1,0 +1,8 @@
+{
+    "name": "Caerula berries",
+    "id": 30937,
+    "members": false,
+    "examine": "Some tasty blue berries.",
+    "value": 30,
+    "weight": 0.005
+}

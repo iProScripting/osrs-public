@@ -1,0 +1,8 @@
+{
+    "name": "Astral rune shards",
+    "id": 11156,
+    "members": false,
+    "examine": "An astral rune that has been broken into shards.",
+    "value": 1,
+    "weight": 0.453
+}

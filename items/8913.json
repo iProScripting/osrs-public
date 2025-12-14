@@ -1,0 +1,18 @@
+{
+    "name": "Black mask",
+    "id": 8913,
+    "members": false,
+    "examine": "A magic cave horror mask.",
+    "value": 3000,
+    "weight": 10.0,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 9,
+        "slashDefence": 10,
+        "crushDefence": 8,
+        "magicDefence": -1,
+        "rangedDefence": 9,
+        "slot": "HEAD"
+    }
+}

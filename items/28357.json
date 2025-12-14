@@ -1,0 +1,8 @@
+{
+    "name": "Blackstone fragment",
+    "id": 28357,
+    "members": false,
+    "examine": "A strange shard of dark stone with various modifications.",
+    "value": 100,
+    "weight": 0.5
+}

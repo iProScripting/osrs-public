@@ -1,0 +1,8 @@
+{
+    "name": "Mokhaiotl cloth",
+    "id": 31109,
+    "members": false,
+    "examine": "A rare cloth imbued with wild magic, left behind by a fallen monster.",
+    "value": 200000,
+    "weight": 0.34
+}

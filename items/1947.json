@@ -1,0 +1,9 @@
+{
+    "name": "Grain",
+    "id": 1947,
+    "members": false,
+    "examine": "Some wheat heads.",
+    "value": 2,
+    "weight": 0.6,
+    "buyLimit": 13000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Damaged monkey tail",
+    "id": 19665,
+    "members": false,
+    "examine": "Smells like the north end of a southbound monkey, because it is.",
+    "value": 2,
+    "weight": 0.25,
+    "buyLimit": 13000
+}

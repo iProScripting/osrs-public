@@ -1,0 +1,8 @@
+{
+    "name": "Sturdy boots",
+    "id": 3700,
+    "members": false,
+    "examine": "A pair of sturdy custom made boots.",
+    "value": 1,
+    "weight": 0.34
+}

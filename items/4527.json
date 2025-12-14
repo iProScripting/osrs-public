@@ -1,0 +1,9 @@
+{
+    "name": "Empty candle lantern",
+    "id": 4527,
+    "members": false,
+    "examine": "Put a candle in to complete it.",
+    "value": 10,
+    "weight": 0.907,
+    "buyLimit": 10000
+}

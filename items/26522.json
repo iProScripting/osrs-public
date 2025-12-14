@@ -1,0 +1,8 @@
+{
+    "name": "Cannon stand (or)",
+    "id": 26522,
+    "members": false,
+    "examine": "The stand of a cannon plucked from the shattered abyss.",
+    "value": 187500,
+    "weight": 0.907
+}

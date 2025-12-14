@@ -1,0 +1,20 @@
+{
+    "name": "3rd age axe",
+    "id": 20011,
+    "members": false,
+    "examine": "A beautifully crafted axe, shaped by ancient smiths.",
+    "value": 55000,
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 38,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

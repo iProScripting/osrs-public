@@ -1,0 +1,9 @@
+{
+    "name": "Calcified moth",
+    "id": 29090,
+    "members": false,
+    "examine": "A fossilised moth infused with dwarven magic.",
+    "value": 10000,
+    "weight": 0.0,
+    "buyLimit": 100
+}

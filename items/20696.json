@@ -1,0 +1,8 @@
+{
+    "name": "Bruma kindling",
+    "id": 20696,
+    "members": false,
+    "examine": "This should light a brazier nicely.",
+    "value": 1,
+    "weight": 2.0
+}

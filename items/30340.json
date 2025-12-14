@@ -1,0 +1,21 @@
+{
+    "name": "Crystal dagger (perfected)",
+    "id": 30340,
+    "members": false,
+    "examine": "A crystalline dagger.",
+    "value": 30000,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": 140,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 40,
+        "prayerBonus": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

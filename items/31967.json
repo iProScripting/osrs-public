@@ -1,0 +1,9 @@
+{
+    "name": "Oak repair kit",
+    "id": 31967,
+    "members": false,
+    "examine": "A boat repair kit made from oak.",
+    "value": 400,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

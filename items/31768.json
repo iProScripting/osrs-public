@@ -1,0 +1,8 @@
+{
+    "name": "Sunken rum",
+    "id": 31768,
+    "members": false,
+    "examine": "Rum shipment from a merchant ship south of Storm Tempor.",
+    "value": 20,
+    "weight": 0.5
+}

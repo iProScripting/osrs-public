@@ -1,0 +1,14 @@
+{
+    "name": "Ava's accumulator",
+    "id": 10499,
+    "members": false,
+    "examine": "A superior bagged chicken ready to serve you, magnet in claw.",
+    "value": 1000,
+    "weight": 4.535,
+    "equipment": {
+        "rangedAttack": 4,
+        "slashDefence": 1,
+        "magicDefence": 4,
+        "slot": "CAPE"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Carpenter's shirt",
+    "id": 24874,
+    "members": false,
+    "examine": "The shirt of a superior builder.",
+    "value": 380,
+    "weight": 0.62,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

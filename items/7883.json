@@ -1,0 +1,8 @@
+{
+    "name": "Ghoul bone",
+    "id": 7883,
+    "members": false,
+    "examine": "This bone belongs in a museum!",
+    "value": 1,
+    "weight": 0.907
+}

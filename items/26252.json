@@ -1,0 +1,8 @@
+{
+    "name": "Ad coupon",
+    "id": 26252,
+    "members": false,
+    "examine": "A coupon for an advert in the Varrock Herald.",
+    "value": 1,
+    "weight": 0.01
+}

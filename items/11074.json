@@ -1,0 +1,12 @@
+{
+    "name": "Bracelet of clay",
+    "id": 11074,
+    "members": false,
+    "examine": "Now I can become a potter.",
+    "value": 1265,
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

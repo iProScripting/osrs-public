@@ -1,0 +1,8 @@
+{
+    "name": "Bailing bucket",
+    "id": 583,
+    "members": false,
+    "examine": "It's a bailing bucket.",
+    "value": 10,
+    "weight": 1.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Albatross feather",
+    "id": 32826,
+    "members": false,
+    "examine": "The feather of an albatross.",
+    "value": 100,
+    "weight": 0.8
+}

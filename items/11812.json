@@ -1,0 +1,9 @@
+{
+    "name": "Bandos hilt",
+    "id": 11812,
+    "members": false,
+    "examine": "Brimming with potential.",
+    "value": 500000,
+    "weight": 2.5,
+    "buyLimit": 10000
+}

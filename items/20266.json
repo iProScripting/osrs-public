@@ -1,0 +1,12 @@
+{
+    "name": "Black unicorn mask",
+    "id": 20266,
+    "members": false,
+    "examine": "Pointy shadows.",
+    "value": 1000,
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

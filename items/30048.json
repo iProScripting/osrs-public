@@ -1,0 +1,8 @@
+{
+    "name": "Graceful cape (Varlamore)",
+    "id": 30048,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 40,
+    "weight": 0.8
+}

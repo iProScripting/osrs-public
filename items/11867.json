@@ -1,0 +1,11 @@
+{
+    "name": "Slayer ring",
+    "id": 11867,
+    "members": false,
+    "examine": "A beautifully mounted Slayer gem.",
+    "value": 990,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "RING"
+    }
+}

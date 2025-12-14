@@ -1,0 +1,9 @@
+{
+    "name": "Arctic pyre logs",
+    "id": 10808,
+    "members": false,
+    "examine": "Arctic pine logs prepared with sacred oil for a funeral pyre.",
+    "value": 200,
+    "weight": 1.36,
+    "buyLimit": 11000
+}

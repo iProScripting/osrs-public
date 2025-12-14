@@ -1,0 +1,11 @@
+{
+    "name": "Firemaking hood",
+    "id": 9806,
+    "members": false,
+    "examine": "Firemaking skillcape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

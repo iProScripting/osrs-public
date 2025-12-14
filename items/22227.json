@@ -1,0 +1,13 @@
+{
+    "name": "Bullet arrow",
+    "id": 22227,
+    "members": false,
+    "examine": "Arrows with bullet heads.",
+    "value": 1,
+    "weight": 0.0,
+    "equipment": {
+        "rangedAttack": 46,
+        "rangedStrength": 125,
+        "slot": "AMMO"
+    }
+}

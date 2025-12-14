@@ -1,0 +1,9 @@
+{
+    "name": "Basalt",
+    "id": 22603,
+    "members": false,
+    "examine": "The crushed rock looks like it may react to other materials.",
+    "value": 30,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

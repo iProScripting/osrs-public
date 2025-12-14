@@ -1,0 +1,8 @@
+{
+    "name": "Abyssal dagger imbue scroll",
+    "id": 28080,
+    "members": false,
+    "examine": "Use on a Abyssal dagger to imbue the weapon.<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "value": 10000,
+    "weight": 0.002
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of sea spray",
+    "id": 31859,
+    "members": false,
+    "examine": "Danger, drink under pressure. Wear protective equipment when opening.",
+    "value": 50,
+    "weight": 0.003
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Bandit's brew",
+    "id": 4627,
+    "members": false,
+    "examine": "A cheeky little lager.",
+    "value": 500,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

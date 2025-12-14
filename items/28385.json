@@ -1,0 +1,8 @@
+{
+    "name": "Argian berries",
+    "id": 28385,
+    "members": false,
+    "examine": "Some strange berries.",
+    "value": 30,
+    "weight": 0.007
+}

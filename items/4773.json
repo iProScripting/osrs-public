@@ -1,0 +1,13 @@
+{
+    "name": "Bronze brutal",
+    "id": 4773,
+    "members": false,
+    "examine": "Blunt bronze arrow... ouch.",
+    "value": 5,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 11,
+        "slot": "AMMO"
+    }
+}

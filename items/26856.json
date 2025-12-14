@@ -1,0 +1,11 @@
+{
+    "name": "Boots of the eye",
+    "id": 26856,
+    "members": false,
+    "examine": "The perfect boots for runecrafting.",
+    "value": 250,
+    "weight": 0.6,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

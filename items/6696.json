@@ -1,0 +1,8 @@
+{
+    "name": "Ice cooler",
+    "id": 6696,
+    "members": false,
+    "examine": "Contains ice-cold water.",
+    "value": 1,
+    "weight": 0.0
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Thieving hood",
+    "id": 9779,
+    "members": false,
+    "examine": "Thieving skillcape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

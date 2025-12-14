@@ -1,0 +1,19 @@
+{
+    "name": "Nature's reprisal",
+    "id": 30390,
+    "members": false,
+    "examine": "A piece of living nature, with a will for vengeance.",
+    "value": 50000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 95,
+        "magicAttack": 45,
+        "rangedAttack": 155,
+        "strength": 103,
+        "rangedStrength": 92,
+        "magicDamage": 12.0,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 7
+    }
+}

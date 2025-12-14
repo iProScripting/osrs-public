@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the boxes in one of the tents in Al Kharid",
+    "id": 3501,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

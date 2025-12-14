@@ -1,0 +1,8 @@
+{
+    "name": "Bloody knife",
+    "id": 25799,
+    "members": false,
+    "examine": "A blood coated knife found at the home of Councillor Hughes.",
+    "value": 30,
+    "weight": 0.453
+}

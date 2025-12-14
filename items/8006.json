@@ -1,0 +1,8 @@
+{
+    "name": "Large map (item)",
+    "id": 8006,
+    "members": false,
+    "examine": "A large map of Gielinor.",
+    "value": 1000,
+    "weight": 1.0
+}

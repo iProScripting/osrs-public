@@ -1,0 +1,20 @@
+{
+    "name": "Bandos chaps",
+    "id": 12502,
+    "members": false,
+    "examine": "Bandos blessed dragonhide chaps.",
+    "value": 6000,
+    "weight": 5.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 17,
+        "stabDefence": 31,
+        "slashDefence": 25,
+        "crushDefence": 33,
+        "magicDefence": 28,
+        "rangedDefence": 31,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

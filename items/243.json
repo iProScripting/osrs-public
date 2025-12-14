@@ -1,0 +1,9 @@
+{
+    "name": "Blue dragon scale",
+    "id": 243,
+    "members": false,
+    "examine": "A large shiny scale.",
+    "value": 50,
+    "weight": 0.01,
+    "buyLimit": 13000
+}

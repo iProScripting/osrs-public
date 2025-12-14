@@ -1,0 +1,9 @@
+{
+    "name": "Malediction shard 2",
+    "id": 11932,
+    "members": false,
+    "examine": "A broken shield piece.",
+    "value": 31000,
+    "weight": 0.907,
+    "buyLimit": 10000
+}

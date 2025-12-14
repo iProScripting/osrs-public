@@ -1,0 +1,19 @@
+{
+    "name": "Bronze platelegs",
+    "id": 1075,
+    "members": false,
+    "examine": "These look pretty heavy.",
+    "value": 80,
+    "weight": 9.071,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 8,
+        "slashDefence": 7,
+        "crushDefence": 6,
+        "magicDefence": -4,
+        "rangedDefence": 7,
+        "slot": "LEGS"
+    }
+}

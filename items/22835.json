@@ -1,0 +1,9 @@
+{
+    "name": "Greater siren",
+    "id": 22835,
+    "members": false,
+    "examine": "A descendant of the salamander family.",
+    "value": 3,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

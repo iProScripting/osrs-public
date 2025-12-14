@@ -1,0 +1,9 @@
+{
+    "name": "Pillar frag",
+    "id": 31513,
+    "members": false,
+    "examine": "This can be propagated in a coral nursery.",
+    "value": 52,
+    "weight": 0.001,
+    "buyLimit": 600
+}

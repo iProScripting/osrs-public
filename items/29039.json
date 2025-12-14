@@ -1,0 +1,16 @@
+{
+    "name": "Blue moon tassets",
+    "id": 29039,
+    "members": false,
+    "examine": "The tassets of the Blue Moon.",
+    "value": 289910,
+    "weight": 1.36,
+    "equipment": {
+        "magicAttack": 22,
+        "crushDefence": 23,
+        "magicDefence": 32,
+        "strength": 1,
+        "magicDamage": 1.0,
+        "slot": "LEGS"
+    }
+}

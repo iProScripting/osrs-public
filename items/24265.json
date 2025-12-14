@@ -1,0 +1,16 @@
+{
+    "name": "V's shield",
+    "id": 24265,
+    "members": false,
+    "examine": "V's mighty shield. This should earn the trust of the council.",
+    "value": 1,
+    "weight": 2.267,
+    "equipment": {
+        "stabDefence": 27,
+        "slashDefence": 31,
+        "crushDefence": 29,
+        "magicDefence": 5,
+        "rangedDefence": 29,
+        "slot": "SHIELD"
+    }
+}

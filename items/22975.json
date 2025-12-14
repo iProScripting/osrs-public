@@ -1,0 +1,23 @@
+{
+    "name": "Brimstone ring",
+    "id": 22975,
+    "members": false,
+    "examine": "A well balanced ring that aids in piercing magic defence.",
+    "value": 10000,
+    "weight": 0.004,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 4,
+        "slashAttack": 4,
+        "crushAttack": 4,
+        "magicAttack": 6,
+        "rangedAttack": 4,
+        "stabDefence": 4,
+        "slashDefence": 4,
+        "crushDefence": 4,
+        "magicDefence": 6,
+        "rangedDefence": 4,
+        "strength": 4,
+        "slot": "RING"
+    }
+}

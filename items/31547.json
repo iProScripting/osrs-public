@@ -1,0 +1,9 @@
+{
+    "name": "Camphor seed",
+    "id": 31547,
+    "members": false,
+    "examine": "Plant this in a plantpot of soil to grow a sapling.",
+    "value": 60,
+    "weight": 0.002,
+    "buyLimit": 200
+}

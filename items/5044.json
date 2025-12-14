@@ -1,0 +1,12 @@
+{
+    "name": "Shorts (yellow)",
+    "id": 5044,
+    "members": false,
+    "examine": "Yellow shorts. Far too small for you.",
+    "value": 360,
+    "weight": 0.1,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

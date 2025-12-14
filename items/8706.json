@@ -1,0 +1,18 @@
+{
+    "name": "Steel heraldic helm (Saradomin)",
+    "id": 8706,
+    "members": false,
+    "examine": "The colours represent Saradomin.",
+    "value": 600,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 9,
+        "slashDefence": 10,
+        "crushDefence": 7,
+        "magicDefence": -1,
+        "rangedDefence": 9,
+        "slot": "HEAD"
+    }
+}

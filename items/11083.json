@@ -1,0 +1,11 @@
+{
+    "name": "Castle wars bracelet",
+    "id": 11083,
+    "members": false,
+    "examine": "Must be worn as you enter the game to receive the bonus for that game.",
+    "value": 1675,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

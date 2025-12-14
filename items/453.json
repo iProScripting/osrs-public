@@ -1,0 +1,9 @@
+{
+    "name": "Coal",
+    "id": 453,
+    "members": false,
+    "examine": "Hmm a non-renewable energy source!",
+    "value": 45,
+    "weight": 2.267,
+    "buyLimit": 13000
+}

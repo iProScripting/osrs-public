@@ -1,0 +1,9 @@
+{
+    "name": "Unfired plant pot",
+    "id": 5352,
+    "members": false,
+    "examine": "An unfired plant pot.",
+    "value": 1,
+    "weight": 0.907,
+    "buyLimit": 10000
+}

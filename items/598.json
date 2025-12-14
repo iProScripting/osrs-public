@@ -1,0 +1,12 @@
+{
+    "name": "Bronze fire arrow",
+    "id": 598,
+    "members": false,
+    "examine": "Arrows with bronze heads wrapped in oily cloth.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 7,
+        "slot": "AMMO"
+    }
+}

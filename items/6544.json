@@ -1,0 +1,11 @@
+{
+    "name": "Catspeak amulet(e)",
+    "id": 6544,
+    "members": false,
+    "examine": "It's an amulet of cat speak. It makes vague purring noises.",
+    "value": 1,
+    "weight": 1.36,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

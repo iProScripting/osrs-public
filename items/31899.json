@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of monkfish bladder stout",
+    "id": 31899,
+    "members": false,
+    "examine": "Somehow specifying the fish makes it sound worse.",
+    "value": 50,
+    "weight": 0.003
+}

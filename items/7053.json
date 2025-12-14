@@ -1,0 +1,11 @@
+{
+    "name": "Bug lantern",
+    "id": 7053,
+    "members": false,
+    "examine": "A lantern to aid attacking Harpie bugs.",
+    "value": 130,
+    "weight": 2.267,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

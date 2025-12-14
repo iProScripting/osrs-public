@@ -1,0 +1,12 @@
+{
+    "name": "Dragonstone amulet",
+    "id": 1702,
+    "members": false,
+    "examine": "I wonder if I can get this enchanted.",
+    "value": 17625,
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

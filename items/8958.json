@@ -1,0 +1,11 @@
+{
+    "name": "Grey naval shirt",
+    "id": 8958,
+    "members": false,
+    "examine": "...You can sail the seven seas...",
+    "value": 100,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

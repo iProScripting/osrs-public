@@ -1,0 +1,9 @@
+{
+    "name": "Elkhorn frag",
+    "id": 31511,
+    "members": false,
+    "examine": "This can be propagated in a coral nursery.",
+    "value": 26,
+    "weight": 0.001,
+    "buyLimit": 600
+}

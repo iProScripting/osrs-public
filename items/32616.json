@@ -1,0 +1,12 @@
+{
+    "name": "Crate of chainbodies",
+    "id": 32616,
+    "members": false,
+    "examine": "A cargo crate of chainbodies destined for Port Khazard.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

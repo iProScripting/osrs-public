@@ -1,0 +1,11 @@
+{
+    "name": "Cat ears",
+    "id": 24525,
+    "members": false,
+    "examine": "Meeeooow.",
+    "value": 2,
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

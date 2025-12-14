@@ -1,0 +1,9 @@
+{
+    "name": "Premade ttl",
+    "id": 2231,
+    "members": false,
+    "examine": "A premade Tangled Toads Legs.",
+    "value": 160,
+    "weight": 0.35,
+    "buyLimit": 6000
+}

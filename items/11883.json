@@ -1,0 +1,8 @@
+{
+    "name": "Bait pack",
+    "id": 11883,
+    "members": false,
+    "examine": "A pack containing 100 sets of fishing bait.",
+    "value": 300,
+    "weight": 0.3
+}

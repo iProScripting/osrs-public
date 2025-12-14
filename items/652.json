@@ -1,0 +1,14 @@
+{
+    "name": "Cream robe bottoms",
+    "id": 652,
+    "members": false,
+    "examine": "Made by Tree Gnomes with a thing for cream.",
+    "value": 180,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "slot": "LEGS"
+    }
+}

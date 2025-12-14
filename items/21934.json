@@ -1,0 +1,13 @@
+{
+    "name": "Jade dragon bolts (e)",
+    "id": 21934,
+    "members": false,
+    "examine": "Enchanted Dragon crossbow bolts, tipped with jade.",
+    "value": 630,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

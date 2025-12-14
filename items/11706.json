@@ -1,0 +1,17 @@
+{
+    "name": "Beach boxing gloves",
+    "id": 11706,
+    "members": false,
+    "examine": "For play-fighting.",
+    "value": 50,
+    "weight": 0.453,
+    "equipment": {
+        "crushAttack": 1,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

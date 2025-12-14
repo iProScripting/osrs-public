@@ -1,0 +1,13 @@
+{
+    "name": "Ancient ceremonial boots",
+    "id": 26229,
+    "members": false,
+    "examine": "Some ceremonial boots dedicated to an ancient god.",
+    "value": 40000,
+    "weight": 0.3,
+    "buyLimit": 8,
+    "equipment": {
+        "prayerBonus": 1,
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Salve amulet",
+    "id": 4081,
+    "members": false,
+    "examine": "Increases the wearer's strength and accuracy by 15%<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"actually 1/6th\">sic</span>&#93;</sup> when fighting the undead.",
+    "value": 1,
+    "weight": 0.007,
+    "equipment": {
+        "stabDefence": 3,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "prayerBonus": 3,
+        "slot": "NECK"
+    }
+}

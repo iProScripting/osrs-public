@@ -1,0 +1,16 @@
+{
+    "name": "Hunters' crossbow",
+    "id": 10156,
+    "members": false,
+    "examine": "A weapon made of bone and wood.",
+    "value": 1300,
+    "weight": 5.0,
+    "buyLimit": 70,
+    "equipment": {
+        "rangedAttack": 55,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 8,
+        "combatStyle": "CROSSBOW"
+    }
+}

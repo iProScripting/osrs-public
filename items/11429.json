@@ -1,0 +1,9 @@
+{
+    "name": "Attack mix",
+    "id": 11429,
+    "members": false,
+    "examine": "Two doses of fishy Attack potion.",
+    "value": 9,
+    "weight": 0.075,
+    "buyLimit": 2000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Bronze axe",
+    "id": 1351,
+    "members": false,
+    "examine": "A woodcutter's axe.",
+    "value": 16,
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 4,
+        "crushAttack": 2,
+        "slashDefence": 1,
+        "strength": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Human eye",
+    "id": 12843,
+    "members": false,
+    "examine": "That's gross. Why am I carrying it around?",
+    "value": 1,
+    "weight": 20.0
+}

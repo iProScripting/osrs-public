@@ -1,0 +1,20 @@
+{
+    "name": "Adamant mace",
+    "id": 1430,
+    "members": false,
+    "examine": "A spiky mace.",
+    "value": 1440,
+    "weight": 2.041,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 13,
+        "slashAttack": -2,
+        "crushAttack": 25,
+        "strength": 23,
+        "prayerBonus": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

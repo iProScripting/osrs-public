@@ -1,0 +1,8 @@
+{
+    "name": "Map part (Melzar)",
+    "id": 1535,
+    "members": false,
+    "examine": "A piece of the map to Crandor.",
+    "value": 1,
+    "weight": 0.005
+}

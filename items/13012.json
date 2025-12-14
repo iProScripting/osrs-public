@@ -1,0 +1,9 @@
+{
+    "name": "Adamant set (lg)",
+    "id": 13012,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, legs and kiteshield.",
+    "value": 8000,
+    "weight": 6.0,
+    "buyLimit": 8
+}

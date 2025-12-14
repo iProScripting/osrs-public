@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of oo'glug",
+    "id": 31846,
+    "members": false,
+    "examine": "The bottle is warm. It was apparently bottled in a renowned hot spring, hopefully before anyone bathed in it.",
+    "value": 50,
+    "weight": 0.003
+}

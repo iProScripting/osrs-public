@@ -1,0 +1,19 @@
+{
+    "name": "Black kiteshield (g)",
+    "id": 2597,
+    "members": false,
+    "examine": "Black kiteshield with gold trim.",
+    "value": 1632,
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -2,
+        "stabDefence": 17,
+        "slashDefence": 19,
+        "crushDefence": 18,
+        "magicDefence": -1,
+        "rangedDefence": 18,
+        "slot": "SHIELD"
+    }
+}

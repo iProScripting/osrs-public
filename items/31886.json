@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of elidinis's life water",
+    "id": 31886,
+    "members": false,
+    "examine": "Looks like normal water, but if this journey has taught you anything, its that you shouldn't trust a floating sealed crate full of bottles of drink.",
+    "value": 50,
+    "weight": 0.003
+}

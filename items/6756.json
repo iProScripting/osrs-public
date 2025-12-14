@@ -1,0 +1,8 @@
+{
+    "name": "Letter (King Lathas)",
+    "id": 6756,
+    "members": false,
+    "examine": "A sealed letter to the king.",
+    "value": 1,
+    "weight": 0.005
+}

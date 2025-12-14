@@ -1,0 +1,9 @@
+{
+    "name": "Cooked chicken",
+    "id": 2140,
+    "members": false,
+    "examine": "Mmm this looks tasty.",
+    "value": 4,
+    "weight": 0.141,
+    "buyLimit": 6000
+}

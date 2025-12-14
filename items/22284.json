@@ -1,0 +1,22 @@
+{
+    "name": "Black d'hide shield",
+    "id": 22284,
+    "members": false,
+    "examine": "A solid redwood shield covered in black dragon leather.",
+    "value": 28334,
+    "weight": 8.0,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -15,
+        "slashAttack": -15,
+        "crushAttack": -11,
+        "magicAttack": -10,
+        "rangedAttack": 7,
+        "stabDefence": 21,
+        "slashDefence": 18,
+        "crushDefence": 16,
+        "magicDefence": 15,
+        "rangedDefence": 14,
+        "slot": "SHIELD"
+    }
+}

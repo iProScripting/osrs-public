@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - It seems to have reached the end of the line",
+    "id": 7251,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

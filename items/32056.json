@@ -1,0 +1,9 @@
+{
+    "name": "Ironwood hull parts",
+    "id": 32056,
+    "members": false,
+    "examine": "Parts for creating an ironwood hull for a boat.",
+    "value": 12500,
+    "weight": 4.0,
+    "buyLimit": 100
+}

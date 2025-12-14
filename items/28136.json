@@ -1,0 +1,11 @@
+{
+    "name": "Forestry kit",
+    "id": 28136,
+    "members": false,
+    "examine": "Holds assorted Forestry gear.",
+    "value": 850,
+    "weight": 0.95,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

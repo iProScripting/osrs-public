@@ -1,0 +1,8 @@
+{
+    "name": "Brimstone key",
+    "id": 23083,
+    "members": false,
+    "examine": "Unlocks Konar's chest found atop Mount Karuulm.",
+    "value": 80000,
+    "weight": 0.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Stone-plaque",
+    "id": 606,
+    "members": false,
+    "examine": "A stone plaque with carved letters in it.",
+    "value": 1,
+    "weight": 0.8
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Waterskin",
+    "id": 1829,
+    "members": false,
+    "examine": "A nearly empty waterskin with one portion of water.",
+    "value": 18,
+    "weight": 0.35
+}

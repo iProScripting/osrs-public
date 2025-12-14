@@ -1,0 +1,23 @@
+{
+    "name": "Amulet of blood fury",
+    "id": 24780,
+    "members": false,
+    "examine": "A very powerful onyx amulet, imbued with blood magic.",
+    "value": 402000,
+    "weight": 0.02,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 10,
+        "magicAttack": 10,
+        "rangedAttack": 10,
+        "stabDefence": 15,
+        "slashDefence": 15,
+        "crushDefence": 15,
+        "magicDefence": 15,
+        "rangedDefence": 15,
+        "strength": 8,
+        "prayerBonus": 5,
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Large salvage",
+    "id": 32853,
+    "members": false,
+    "examine": "Salvage collected from a large shipwreck.",
+    "value": 200,
+    "weight": 3.0
+}

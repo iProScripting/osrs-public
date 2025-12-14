@@ -1,0 +1,11 @@
+{
+    "name": "Ram mask",
+    "id": 29929,
+    "members": false,
+    "examine": "A rather interesting mask of a ram.",
+    "value": 100,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

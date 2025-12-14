@@ -1,0 +1,9 @@
+{
+    "name": "Mort myre pear",
+    "id": 2974,
+    "members": false,
+    "examine": "A pear picked from a dying bush in Mort Myre.",
+    "value": 1,
+    "weight": 0.113,
+    "buyLimit": 13000
+}

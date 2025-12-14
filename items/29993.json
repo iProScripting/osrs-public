@@ -1,0 +1,8 @@
+{
+    "name": "Aldarium",
+    "id": 29993,
+    "members": false,
+    "examine": "A special alchemical ingredient used for creating potions.",
+    "value": 100,
+    "weight": 0.007
+}

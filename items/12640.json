@@ -1,0 +1,9 @@
+{
+    "name": "Amylase crystal",
+    "id": 12640,
+    "members": false,
+    "examine": "Good for enhancing a super energy potion.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

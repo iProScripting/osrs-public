@@ -1,0 +1,12 @@
+{
+    "name": "Desert top",
+    "id": 6384,
+    "members": false,
+    "examine": "A bit itchy.",
+    "value": 15,
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Barrows gloves (wrapped)",
+    "id": 27112,
+    "members": false,
+    "examine": "A pair of very nice gloves with wristwraps to enhance their qualities.",
+    "value": 85000,
+    "weight": 0.25,
+    "equipment": {
+        "stabAttack": 21,
+        "slashAttack": 21,
+        "crushAttack": 21,
+        "magicAttack": 9,
+        "rangedAttack": 21,
+        "strength": 12,
+        "slot": "HANDS"
+    }
+}

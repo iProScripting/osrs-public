@@ -1,0 +1,8 @@
+{
+    "name": "Osprey beak",
+    "id": 32843,
+    "members": false,
+    "examine": "The beak of an osprey.",
+    "value": 200,
+    "weight": 0.8
+}

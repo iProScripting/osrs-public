@@ -1,0 +1,9 @@
+{
+    "name": "Cadantine potion (unf)",
+    "id": 107,
+    "members": false,
+    "examine": "I need another ingredient to finish this Cadantine potion.",
+    "value": 65,
+    "weight": 0.056,
+    "buyLimit": 10000
+}

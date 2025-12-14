@@ -1,0 +1,8 @@
+{
+    "name": "Acetic acid",
+    "id": 5578,
+    "members": false,
+    "examine": "A vial of something labelled 'Acetic Acid'.",
+    "value": 1,
+    "weight": 0.056
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Black cane",
+    "id": 12375,
+    "members": false,
+    "examine": "A ruby topped cane.",
+    "value": 600,
+    "weight": 1.814,
+    "buyLimit": 4,
+    "equipment": {
+        "stabAttack": 8,
+        "slashAttack": -2,
+        "crushAttack": 16,
+        "strength": 13,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

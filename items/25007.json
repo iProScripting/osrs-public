@@ -1,0 +1,12 @@
+{
+    "name": "Trailblazer trousers (t3)",
+    "id": 25007,
+    "members": false,
+    "examine": "The trousers of a trailblazer relic hunter.",
+    "value": 150000,
+    "weight": 0.907,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

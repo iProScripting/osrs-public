@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Talk to Wayne at Wayne's Chains in Falador",
+    "id": 23163,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Adventurer's boots (t1)",
+    "id": 27394,
+    "members": false,
+    "examine": "The boots of an adventurer.",
+    "value": 50,
+    "weight": 0.7,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

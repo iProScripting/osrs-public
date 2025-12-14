@@ -1,0 +1,8 @@
+{
+    "name": "Barracuda salvage",
+    "id": 32851,
+    "members": false,
+    "examine": "Salvage collected from a barracuda shipwreck.",
+    "value": 200,
+    "weight": 3.0
+}

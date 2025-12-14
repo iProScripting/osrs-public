@@ -1,0 +1,16 @@
+{
+    "name": "Rogue top",
+    "id": 5553,
+    "members": false,
+    "examine": "Black banded leather armour, a rogue's dream!",
+    "value": 625,
+    "weight": 0.453,
+    "equipment": {
+        "stabDefence": 10,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "magicDefence": 10,
+        "rangedDefence": 10,
+        "slot": "BODY"
+    }
+}

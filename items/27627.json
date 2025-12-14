@@ -1,0 +1,8 @@
+{
+    "name": "Ancient icon",
+    "id": 27627,
+    "members": false,
+    "examine": "A mysterious icon of ancient origin.",
+    "value": 100000,
+    "weight": 0.02
+}

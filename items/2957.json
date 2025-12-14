@@ -1,0 +1,8 @@
+{
+    "name": "Druid pouch",
+    "id": 2957,
+    "members": false,
+    "examine": "An empty druid pouch.",
+    "value": 5,
+    "weight": 0.01
+}

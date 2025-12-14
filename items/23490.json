@@ -1,0 +1,9 @@
+{
+    "name": "Larran's key",
+    "id": 23490,
+    "members": false,
+    "examine": "Opens Larran's chests in the Wilderness.",
+    "value": 90,
+    "weight": 0.0,
+    "buyLimit": 250
+}

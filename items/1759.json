@@ -1,0 +1,9 @@
+{
+    "name": "Ball of wool",
+    "id": 1759,
+    "members": false,
+    "examine": "Spun from wool.",
+    "value": 2,
+    "weight": 0.012,
+    "buyLimit": 13000
+}

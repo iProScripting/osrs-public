@@ -1,0 +1,23 @@
+{
+    "name": "Adamant hasta",
+    "id": 11375,
+    "members": false,
+    "examine": "An adamant-tipped, one-handed hasta.",
+    "value": 2080,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 24,
+        "slashAttack": 24,
+        "crushAttack": 24,
+        "stabDefence": -6,
+        "slashDefence": -7,
+        "crushDefence": -5,
+        "rangedDefence": -6,
+        "strength": 28,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

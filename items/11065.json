@@ -1,0 +1,9 @@
+{
+    "name": "Bracelet mould",
+    "id": 11065,
+    "members": false,
+    "examine": "Used to make bracelets.",
+    "value": 5,
+    "weight": 0.453,
+    "buyLimit": 40
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Sardine",
+    "id": 325,
+    "members": false,
+    "examine": "Some nicely cooked sardines.",
+    "value": 10,
+    "weight": 0.12,
+    "buyLimit": 6000
+}

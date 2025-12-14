@@ -1,0 +1,11 @@
+{
+    "name": "Sack of coal",
+    "id": 27570,
+    "members": false,
+    "examine": "Better not fill this to the brim or I might be on the naughty list.",
+    "value": 1,
+    "weight": 0.05,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Attack hood",
+    "id": 9749,
+    "members": false,
+    "examine": "Attack skillcape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

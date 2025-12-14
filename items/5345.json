@@ -1,0 +1,12 @@
+{
+    "name": "Gardening boots",
+    "id": 5345,
+    "members": false,
+    "examine": "A pair of gardening boots.",
+    "value": 25,
+    "weight": 0.34,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

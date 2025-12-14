@@ -1,0 +1,8 @@
+{
+    "name": "Battered key",
+    "id": 2887,
+    "members": false,
+    "examine": "An old battered key (Provides access to the elemental workshop).",
+    "value": 1,
+    "weight": 0.01
+}

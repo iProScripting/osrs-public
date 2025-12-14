@@ -1,0 +1,11 @@
+{
+    "name": "Abyssal lantern",
+    "id": 26822,
+    "members": false,
+    "examine": "A lantern containing power from the Abyss.",
+    "value": 100,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

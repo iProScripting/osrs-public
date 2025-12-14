@@ -1,0 +1,11 @@
+{
+    "name": "Camel mask",
+    "id": 7003,
+    "members": false,
+    "examine": "Blend in in the desert.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

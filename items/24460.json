@@ -1,0 +1,9 @@
+{
+    "name": "Twisted teleport scroll",
+    "id": 24460,
+    "members": false,
+    "examine": "A scroll which unlocks the twisted home teleport animation.",
+    "value": 25000,
+    "weight": 0.1,
+    "buyLimit": 5
+}

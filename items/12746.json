@@ -1,0 +1,8 @@
+{
+    "name": "Archaic emblem",
+    "id": 12746,
+    "members": false,
+    "examine": "An emblem of ancient times, now superseded.",
+    "value": 50000,
+    "weight": 0.1
+}

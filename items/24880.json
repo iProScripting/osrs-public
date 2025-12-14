@@ -1,0 +1,20 @@
+{
+    "name": "Amy's saw",
+    "id": 24880,
+    "members": false,
+    "examine": "She saw scope for improvement.",
+    "value": 280,
+    "weight": 0.8,
+    "equipment": {
+        "stabAttack": 2,
+        "slashAttack": 5,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

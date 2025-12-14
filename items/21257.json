@@ -1,0 +1,9 @@
+{
+    "name": "Slayer's enchantment",
+    "id": 21257,
+    "members": false,
+    "examine": "The parchment contains a spell invented by Slayer Masters in ancient times.",
+    "value": 1200,
+    "weight": 0.0,
+    "buyLimit": 500
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Holos-arder poison",
+    "id": 28353,
+    "members": false,
+    "examine": "A nasty fungal poison.",
+    "value": 200,
+    "weight": 0.05
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Ale of the gods",
+    "id": 20056,
+    "members": false,
+    "examine": "Ale of the gods.",
+    "value": 850,
+    "weight": 0.06,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

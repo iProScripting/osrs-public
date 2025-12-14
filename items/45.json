@@ -1,0 +1,9 @@
+{
+    "name": "Opal bolt tips",
+    "id": 45,
+    "members": false,
+    "examine": "Opal bolt tips.",
+    "value": 7,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

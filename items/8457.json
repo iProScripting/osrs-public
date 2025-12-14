@@ -1,0 +1,9 @@
+{
+    "name": "Bagged sunflower",
+    "id": 8457,
+    "members": false,
+    "examine": "You can plant this in your garden.",
+    "value": 5000,
+    "weight": 10.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Barronite mace",
+    "id": 25641,
+    "members": false,
+    "examine": "Made from the unearthly material, barronite.",
+    "value": 10500,
+    "weight": 2.0,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": -2,
+        "crushAttack": 40,
+        "strength": 40,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

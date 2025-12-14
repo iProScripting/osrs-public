@@ -1,0 +1,9 @@
+{
+    "name": "Blamish blue shell (round)",
+    "id": 3351,
+    "members": false,
+    "examine": "A large blue coloured blamish snail shell, looks protective.",
+    "value": 150,
+    "weight": 10.0,
+    "buyLimit": 13000
+}

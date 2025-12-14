@@ -1,0 +1,19 @@
+{
+    "name": "Ancestral hat",
+    "id": 21018,
+    "members": false,
+    "examine": "The hat of a powerful sorceress from a bygone era.",
+    "value": 45000,
+    "weight": 0.453,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 8,
+        "rangedAttack": -2,
+        "stabDefence": 12,
+        "slashDefence": 11,
+        "crushDefence": 13,
+        "magicDefence": 5,
+        "magicDamage": 3.0,
+        "slot": "HEAD"
+    }
+}

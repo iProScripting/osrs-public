@@ -1,0 +1,8 @@
+{
+    "name": "Bank filler",
+    "id": 20594,
+    "members": false,
+    "examine": "Fills your bank.",
+    "value": 0,
+    "weight": 0.0
+}

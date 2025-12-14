@@ -1,0 +1,8 @@
+{
+    "name": "Storeroom key (Ethically Acquired Antiquities)",
+    "id": 29906,
+    "members": false,
+    "examine": "A key for the Varrock Museum storeroom (Used in the Ethically Acquired Antiquities quest).",
+    "value": 30,
+    "weight": 0.01
+}

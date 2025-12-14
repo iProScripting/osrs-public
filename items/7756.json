@@ -1,0 +1,8 @@
+{
+    "name": "Paintbrush",
+    "id": 7756,
+    "members": false,
+    "examine": "Try dipping it in paint and applying it.",
+    "value": 1,
+    "weight": 0.0
+}

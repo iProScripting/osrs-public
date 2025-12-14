@@ -1,0 +1,19 @@
+{
+    "name": "Black shield (h5)",
+    "id": 7356,
+    "members": false,
+    "examine": "A shield with a heraldic design",
+    "value": 1632,
+    "weight": 5.443,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 17,
+        "slashDefence": 19,
+        "crushDefence": 18,
+        "magicDefence": -1,
+        "rangedDefence": 18,
+        "slot": "SHIELD"
+    }
+}

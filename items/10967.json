@@ -1,0 +1,8 @@
+{
+    "name": "Roast frog",
+    "id": 10967,
+    "members": false,
+    "examine": "A whole roasted frog.",
+    "value": 50,
+    "weight": 0.001
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Offering bouquet",
+    "id": 31400,
+    "members": false,
+    "examine": "Placeholder please fit as quest requires, thank you.",
+    "value": 30,
+    "weight": 0.05
+}

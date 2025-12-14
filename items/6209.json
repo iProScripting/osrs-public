@@ -1,0 +1,8 @@
+{
+    "name": "Small fishing net (Evil Bob)",
+    "id": 6209,
+    "members": false,
+    "examine": "Useful for catching small fish.",
+    "value": 5,
+    "weight": 4.535
+}

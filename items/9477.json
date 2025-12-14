@@ -1,0 +1,8 @@
+{
+    "name": "Aluft aloft box",
+    "id": 9477,
+    "members": false,
+    "examine": "You can check on your delivery details here.",
+    "value": 1,
+    "weight": 0.1
+}

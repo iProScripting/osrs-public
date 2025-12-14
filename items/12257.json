@@ -1,0 +1,15 @@
+{
+    "name": "Armadyl stole",
+    "id": 12257,
+    "members": false,
+    "examine": "An Armadyl stole.",
+    "value": 2500,
+    "weight": 0.01,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 2,
+        "magicDefence": 2,
+        "prayerBonus": 10,
+        "slot": "NECK"
+    }
+}

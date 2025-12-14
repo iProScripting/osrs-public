@@ -1,0 +1,9 @@
+{
+    "name": "Extended super antifire",
+    "id": 22215,
+    "members": false,
+    "examine": "2 doses of extended super anti-firebreath potion.",
+    "value": 720,
+    "weight": 0.025,
+    "buyLimit": 2000
+}

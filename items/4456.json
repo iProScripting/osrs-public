@@ -1,0 +1,9 @@
+{
+    "name": "Bowl of hot water",
+    "id": 4456,
+    "members": false,
+    "examine": "It's a bowl of hot water.",
+    "value": 10,
+    "weight": 0.907,
+    "buyLimit": 13000
+}

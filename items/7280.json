@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - ARC O LINE",
+    "id": 7280,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

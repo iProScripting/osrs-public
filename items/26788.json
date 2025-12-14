@@ -1,0 +1,12 @@
+{
+    "name": "Gold tiara",
+    "id": 26788,
+    "members": false,
+    "examine": "Makes me feel like a wealthy Princess.",
+    "value": 100,
+    "weight": 1.0,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

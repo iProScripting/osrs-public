@@ -1,0 +1,8 @@
+{
+    "name": "Antique lamp (The Final Dawn)",
+    "id": 30960,
+    "members": false,
+    "examine": "Give it a rub.",
+    "value": 50,
+    "weight": 0.1
+}

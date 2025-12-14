@@ -1,0 +1,8 @@
+{
+    "name": "Ambrosia",
+    "id": 27347,
+    "members": false,
+    "examine": "Restores and boosts health and prayer while also curing poison.",
+    "value": 30,
+    "weight": 0.453
+}

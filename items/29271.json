@@ -1,0 +1,8 @@
+{
+    "name": "Basic quetzal whistle",
+    "id": 29271,
+    "members": false,
+    "examine": "A simple quetzal whistle crafted from willow logs.",
+    "value": 10,
+    "weight": 0.004
+}

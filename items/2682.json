@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crates in the most north-western house in Al Kharid",
+    "id": 2682,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

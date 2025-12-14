@@ -1,0 +1,12 @@
+{
+    "name": "Crate of monkfish",
+    "id": 32741,
+    "members": false,
+    "examine": "A cargo crate of monkfish destined for Rellekka.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

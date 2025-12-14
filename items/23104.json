@@ -1,0 +1,8 @@
+{
+    "name": "Cook's letter",
+    "id": 23104,
+    "members": false,
+    "examine": "An enigmatic letter from the Cook to Sir Vyvin's squire.",
+    "value": 1,
+    "weight": 0.005
+}

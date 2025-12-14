@@ -1,0 +1,18 @@
+{
+    "name": "Klank's gauntlets",
+    "id": 1495,
+    "members": false,
+    "examine": "Strong dwarvish gloves.",
+    "value": 6,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 2,
+        "slashAttack": 2,
+        "crushAttack": 2,
+        "stabDefence": 8,
+        "slashDefence": 9,
+        "crushDefence": 7,
+        "strength": 2,
+        "slot": "HANDS"
+    }
+}

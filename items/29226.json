@@ -1,0 +1,8 @@
+{
+    "name": "Larupia ear",
+    "id": 29226,
+    "members": false,
+    "examine": "Do you think it heard me coming?",
+    "value": 10,
+    "weight": 1.0
+}

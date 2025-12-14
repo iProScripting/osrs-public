@@ -1,0 +1,8 @@
+{
+    "name": "Heart crystal",
+    "id": 745,
+    "members": false,
+    "examine": "A heart-shaped crystal.",
+    "value": 1,
+    "weight": 0.15
+}

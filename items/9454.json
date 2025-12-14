@@ -1,0 +1,9 @@
+{
+    "name": "Bronze crossbow (u)",
+    "id": 9454,
+    "members": false,
+    "examine": "An unstrung bronze crossbow.",
+    "value": 40,
+    "weight": 8.0,
+    "buyLimit": 10000
+}

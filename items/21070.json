@@ -1,0 +1,8 @@
+{
+    "name": "Graceful legs (Agility Arena)",
+    "id": 21070,
+    "members": false,
+    "examine": "You have graceful legs. How nice.",
+    "value": 60,
+    "weight": 0.9
+}

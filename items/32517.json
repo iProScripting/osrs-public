@@ -1,0 +1,12 @@
+{
+    "name": "Crate of tokens",
+    "id": 32517,
+    "members": false,
+    "examine": "A cargo crate of tokens destined for Civitas illa Fortis.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ancient gorilla greegree",
+    "id": 4028,
+    "members": false,
+    "examine": "A magical talisman in the shape of a mysterious monkey head.",
+    "value": 10000,
+    "weight": 0.085,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

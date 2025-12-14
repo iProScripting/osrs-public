@@ -1,0 +1,18 @@
+{
+    "name": "Verac's plateskirt",
+    "id": 4994,
+    "members": false,
+    "examine": "Verac the Defiled's plate skirt.",
+    "value": 275000,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 85,
+        "slashDefence": 82,
+        "crushDefence": 83,
+        "rangedDefence": 84,
+        "prayerBonus": 4,
+        "slot": "LEGS"
+    }
+}

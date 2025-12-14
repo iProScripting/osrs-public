@@ -1,0 +1,12 @@
+{
+    "name": "Crate of potions",
+    "id": 32790,
+    "members": false,
+    "examine": "A cargo crate of potions destined for The Summer Shore.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

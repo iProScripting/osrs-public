@@ -1,0 +1,9 @@
+{
+    "name": "Premade choc bomb",
+    "id": 2229,
+    "members": false,
+    "examine": "A premade Chocolate Bomb.",
+    "value": 160,
+    "weight": 0.35,
+    "buyLimit": 6000
+}

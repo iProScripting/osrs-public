@@ -1,0 +1,9 @@
+{
+    "name": "Calquat fruit",
+    "id": 5980,
+    "members": false,
+    "examine": "This is the largest fruit I've ever seen.",
+    "value": 54,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Green dye bellows",
+    "id": 6088,
+    "members": false,
+    "examine": "A large pair of ogre bellows filled with green dye.",
+    "value": 20,
+    "weight": 0.538
+}

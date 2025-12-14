@@ -1,0 +1,9 @@
+{
+    "name": "Granite clamp",
+    "id": 12849,
+    "members": false,
+    "examine": "A strong clamp, used for hardening granite maul blocks.",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 50
+}

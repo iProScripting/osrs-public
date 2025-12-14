@@ -1,0 +1,8 @@
+{
+    "name": "Chest key (Pirate's Treasure)",
+    "id": 432,
+    "members": false,
+    "examine": "A key to One-Eyed Hector's chest (Used in the Pirate's Treasure quest).",
+    "value": 1,
+    "weight": 0.01
+}

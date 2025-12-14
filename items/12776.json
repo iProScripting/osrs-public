@@ -1,0 +1,9 @@
+{
+    "name": "Carrallanger teleport (tablet)",
+    "id": 12776,
+    "members": false,
+    "examine": "A teleport to Carrallanger, in level 19 Wilderness.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

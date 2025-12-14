@@ -1,0 +1,12 @@
+{
+    "name": "Gold bracelet",
+    "id": 11069,
+    "members": false,
+    "examine": "I wonder if this is valuable.",
+    "value": 550,
+    "weight": 0.25,
+    "buyLimit": 18000,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

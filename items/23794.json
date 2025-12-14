@@ -1,0 +1,8 @@
+{
+    "name": "Clear liquid",
+    "id": 23794,
+    "members": false,
+    "examine": "A thick clear liquid that I obtained from Elena's chemical cabinet.",
+    "value": 30,
+    "weight": 0.02
+}

@@ -1,0 +1,12 @@
+{
+    "name": "A powdered wig",
+    "id": 10392,
+    "members": false,
+    "examine": "A big do about nothing.",
+    "value": 2000,
+    "weight": 0.4,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

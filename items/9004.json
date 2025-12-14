@@ -1,0 +1,9 @@
+{
+    "name": "Stronghold notes",
+    "id": 9004,
+    "members": false,
+    "examine": "Information regarding the Stronghold of Security.",
+    "value": 2,
+    "weight": 0.01,
+    "buyLimit": 15
+}

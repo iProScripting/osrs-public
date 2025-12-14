@@ -1,0 +1,22 @@
+{
+    "name": "Rune claws",
+    "id": 3101,
+    "members": false,
+    "examine": "A set of fighting claws.",
+    "value": 12000,
+    "weight": 0.907,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 26,
+        "slashAttack": 38,
+        "crushAttack": -4,
+        "stabDefence": 10,
+        "slashDefence": 19,
+        "crushDefence": 5,
+        "strength": 39,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

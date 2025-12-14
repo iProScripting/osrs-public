@@ -1,0 +1,11 @@
+{
+    "name": "Wilderness champion amulet",
+    "id": 21433,
+    "members": false,
+    "examine": "A very powerful amulet worn by Wilderness Wars champions.",
+    "value": 1,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

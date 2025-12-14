@@ -1,0 +1,12 @@
+{
+    "name": "Crate of camphor logs",
+    "id": 32467,
+    "members": false,
+    "examine": "A cargo crate of camphor logs destined for \tBrimhaven.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

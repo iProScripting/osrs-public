@@ -1,0 +1,18 @@
+{
+    "name": "Adamant kiteshield (HAM)",
+    "id": 22139,
+    "members": false,
+    "examine": "A shield with the symbol of the HAM cult.",
+    "value": 5440,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 27,
+        "slashDefence": 31,
+        "crushDefence": 29,
+        "magicDefence": -1,
+        "rangedDefence": 29,
+        "slot": "SHIELD"
+    }
+}

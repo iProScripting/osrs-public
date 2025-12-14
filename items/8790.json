@@ -1,0 +1,9 @@
+{
+    "name": "Bolt of cloth",
+    "id": 8790,
+    "members": false,
+    "examine": "A bolt of ordinary cloth.",
+    "value": 500,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

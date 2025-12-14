@@ -1,0 +1,9 @@
+{
+    "name": "Shattered relics void ornament kit",
+    "id": 26479,
+    "members": false,
+    "examine": "A kit that can be used on void armour to theme it to Leagues III - Shattered Relics.",
+    "value": 25000,
+    "weight": 0.1,
+    "buyLimit": 5
+}

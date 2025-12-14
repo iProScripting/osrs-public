@@ -1,0 +1,11 @@
+{
+    "name": "Deep sea apparatus",
+    "id": 31300,
+    "members": false,
+    "examine": "I'll need a helmet to make this work.",
+    "value": 50,
+    "weight": 10.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

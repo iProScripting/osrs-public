@@ -1,0 +1,19 @@
+{
+    "name": "Black plateskirt",
+    "id": 1089,
+    "members": false,
+    "examine": "Big, black and heavy looking.",
+    "value": 1920,
+    "weight": 8.164,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 21,
+        "slashDefence": 20,
+        "crushDefence": 19,
+        "magicDefence": -4,
+        "rangedDefence": 20,
+        "slot": "LEGS"
+    }
+}

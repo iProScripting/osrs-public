@@ -1,0 +1,8 @@
+{
+    "name": "Capacitor",
+    "id": 10990,
+    "members": false,
+    "examine": "A broken capacitor.",
+    "value": 0,
+    "weight": 1.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Rod mould",
+    "id": 7649,
+    "members": false,
+    "examine": "A mould of the Rod of Ivandis.",
+    "value": 100,
+    "weight": 0.05
+}

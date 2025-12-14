@@ -1,0 +1,12 @@
+{
+    "name": "Crate of jewellery",
+    "id": 32642,
+    "members": false,
+    "examine": "A cargo crate of jewellery destined for Port Piscarilius.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

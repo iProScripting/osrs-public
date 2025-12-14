@@ -1,0 +1,12 @@
+{
+    "name": "Arceuus hood",
+    "id": 20113,
+    "members": false,
+    "examine": "A rare hood from Arceuus.",
+    "value": 1,
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Blamish ochre shell (round)",
+    "id": 3349,
+    "members": false,
+    "examine": "A large muddy yellow coloured blamish snail shell, looks protective.",
+    "value": 150,
+    "weight": 10.0,
+    "buyLimit": 13000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Nettle tea",
+    "id": 4239,
+    "members": false,
+    "examine": "It's a bowl of nettle tea.",
+    "value": 4,
+    "weight": 0.907
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - His head might be hollow",
+    "id": 7253,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

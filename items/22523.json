@@ -1,0 +1,8 @@
+{
+    "name": "Coin pouch",
+    "id": 22523,
+    "members": false,
+    "examine": "A pouch full of coins taken from the pockets of a H.A.M. member.",
+    "value": 1,
+    "weight": 0.0
+}

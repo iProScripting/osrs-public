@@ -1,0 +1,12 @@
+{
+    "name": "Golden chef's hat",
+    "id": 20205,
+    "members": false,
+    "examine": "What a perfectly reasonable hat.",
+    "value": 2,
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

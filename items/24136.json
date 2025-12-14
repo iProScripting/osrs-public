@@ -1,0 +1,21 @@
+{
+    "name": "Bronze defender",
+    "id": 24136,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 3,
+        "slashAttack": 2,
+        "crushAttack": 1,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 3,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Iron platelegs",
+    "id": 1067,
+    "members": false,
+    "examine": "These look pretty heavy.",
+    "value": 280,
+    "weight": 9.071,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 11,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "magicDefence": -4,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Infernal pickaxe (or) (Trailblazer Reloaded)",
+    "id": 30346,
+    "members": false,
+    "examine": "A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",
+    "value": 97950,
+    "weight": 2.4,
+    "equipment": {
+        "stabAttack": 38,
+        "slashAttack": -2,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

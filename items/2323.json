@@ -1,0 +1,9 @@
+{
+    "name": "Apple pie",
+    "id": 2323,
+    "members": false,
+    "examine": "Mmm Apple pie.",
+    "value": 30,
+    "weight": 0.45,
+    "buyLimit": 10000
+}

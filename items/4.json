@@ -1,0 +1,8 @@
+{
+    "name": "Ammo mould",
+    "id": 4,
+    "members": false,
+    "examine": "Used to make cannon ammunition.",
+    "value": 5,
+    "weight": 4.535
+}

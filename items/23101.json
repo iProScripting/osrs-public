@@ -1,0 +1,18 @@
+{
+    "name": "Ornate helm",
+    "id": 23101,
+    "members": false,
+    "examine": "An ornate helm, first discovered by the Crack the Clue Community.",
+    "value": 1,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 6,
+        "slashDefence": 7,
+        "crushDefence": 5,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

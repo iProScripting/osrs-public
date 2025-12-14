@@ -1,0 +1,14 @@
+{
+    "name": "Necklace of anguish (or)",
+    "id": 22249,
+    "members": false,
+    "examine": "A deep sense of anguish burns within this powerful necklace.",
+    "value": 202000,
+    "weight": 0.01,
+    "equipment": {
+        "rangedAttack": 15,
+        "rangedStrength": 5,
+        "prayerBonus": 2,
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Fibula piece",
+    "id": 6167,
+    "members": false,
+    "examine": "An interesting looking bone shard.",
+    "value": 60,
+    "weight": 3.175,
+    "buyLimit": 11000
+}

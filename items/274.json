@@ -1,0 +1,8 @@
+{
+    "name": "Poisoned fish food",
+    "id": 274,
+    "members": false,
+    "examine": "Doesn't seem very nice to the poor fishes.",
+    "value": 1,
+    "weight": 0.03
+}

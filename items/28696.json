@@ -1,0 +1,8 @@
+{
+    "name": "Trailblazer reloaded vengeance scroll",
+    "id": 28696,
+    "members": false,
+    "examine": "A scroll which unlocks the Trailblazer Reloaded Vengeance animation.",
+    "value": 25000,
+    "weight": 0.1
+}

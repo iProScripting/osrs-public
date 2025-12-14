@@ -1,0 +1,16 @@
+{
+    "name": "Swampbark body",
+    "id": 25389,
+    "members": false,
+    "examine": "Keeps my chest protected.",
+    "value": 120000,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": 15,
+        "stabDefence": 38,
+        "slashDefence": 44,
+        "crushDefence": 48,
+        "magicDefence": 21,
+        "slot": "BODY"
+    }
+}

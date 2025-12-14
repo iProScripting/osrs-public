@@ -1,0 +1,9 @@
+{
+    "name": "Burning claw",
+    "id": 29574,
+    "members": false,
+    "examine": "An intact, lightly smouldering claw.",
+    "value": 400000,
+    "weight": 0.8,
+    "buyLimit": 8
+}

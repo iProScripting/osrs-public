@@ -1,0 +1,9 @@
+{
+    "name": "Ring of wealth scroll",
+    "id": 12783,
+    "members": false,
+    "examine": "Use on a Ring of Wealth to imbue the ring.",
+    "value": 5000,
+    "weight": 0.002,
+    "buyLimit": 10000
+}

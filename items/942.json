@@ -1,0 +1,12 @@
+{
+    "name": "Bronze fire arrow",
+    "id": 942,
+    "members": false,
+    "examine": "These bronze-headed arrows are ablaze with fire.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 7,
+        "slot": "AMMO"
+    }
+}

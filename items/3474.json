@@ -1,0 +1,19 @@
+{
+    "name": "Adamant plateskirt (t)",
+    "id": 3474,
+    "members": false,
+    "examine": "Adamant plateskirt with trim.",
+    "value": 6400,
+    "weight": 10.432,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 33,
+        "slashDefence": 31,
+        "crushDefence": 29,
+        "magicDefence": -4,
+        "rangedDefence": 31,
+        "slot": "LEGS"
+    }
+}

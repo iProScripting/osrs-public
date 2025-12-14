@@ -1,0 +1,16 @@
+{
+    "name": "Bronze crossbow",
+    "id": 9174,
+    "members": false,
+    "examine": "A bronze crossbow.",
+    "value": 73,
+    "weight": 4.0,
+    "buyLimit": 125,
+    "equipment": {
+        "rangedAttack": 18,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

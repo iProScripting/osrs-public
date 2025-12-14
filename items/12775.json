@@ -1,0 +1,9 @@
+{
+    "name": "Annakarl teleport (tablet)",
+    "id": 12775,
+    "members": false,
+    "examine": "A teleport to Annakarl, in level 46 Wilderness.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

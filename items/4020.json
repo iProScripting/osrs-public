@@ -1,0 +1,8 @@
+{
+    "name": "M'amulet mould",
+    "id": 4020,
+    "members": false,
+    "examine": "It's an amulet mould shaped like a monkey head.",
+    "value": 10,
+    "weight": 0.007
+}

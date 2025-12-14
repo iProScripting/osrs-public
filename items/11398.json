@@ -1,0 +1,23 @@
+{
+    "name": "Steel hasta",
+    "id": 11398,
+    "members": false,
+    "examine": "A poison-tipped, one-handed steel hasta.",
+    "value": 325,
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 12,
+        "slashAttack": 12,
+        "crushAttack": 12,
+        "stabDefence": -3,
+        "slashDefence": -3,
+        "crushDefence": -3,
+        "rangedDefence": -3,
+        "strength": 12,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

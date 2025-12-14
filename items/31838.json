@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of banana daiquiri",
+    "id": 31838,
+    "members": false,
+    "examine": "Seems to be very heavy on the banana. 100% of your daily recommended amount.",
+    "value": 50,
+    "weight": 0.003
+}

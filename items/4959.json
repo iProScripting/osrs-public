@@ -1,0 +1,19 @@
+{
+    "name": "Torag's hammers",
+    "id": 4959,
+    "members": false,
+    "examine": "Torag the Corrupted's twin hammers.",
+    "value": 160000,
+    "weight": 3.628,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": -4,
+        "crushAttack": 85,
+        "magicAttack": -4,
+        "strength": 72,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Graceful boots (Agility Arena)",
+    "id": 21076,
+    "members": false,
+    "examine": "For your graceful feet.",
+    "value": 40,
+    "weight": 0.4
+}

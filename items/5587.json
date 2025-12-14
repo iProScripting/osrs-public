@@ -1,0 +1,8 @@
+{
+    "name": "Metal spade",
+    "id": 5587,
+    "members": false,
+    "examine": "It's a metal spade without a handle.",
+    "value": 1,
+    "weight": 1.814
+}

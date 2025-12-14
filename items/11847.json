@@ -1,0 +1,11 @@
+{
+    "name": "Black h'ween mask",
+    "id": 11847,
+    "members": false,
+    "examine": "Aaaarrrghhh, I'm an old-school monster!",
+    "value": 7,
+    "weight": 0.34,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

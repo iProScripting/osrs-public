@@ -1,0 +1,12 @@
+{
+    "name": "Crate of lead ore",
+    "id": 32740,
+    "members": false,
+    "examine": "A cargo crate of lead ore destined for Rellekka.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

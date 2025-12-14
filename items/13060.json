@@ -1,0 +1,9 @@
+{
+    "name": "Ancient rune armour set (lg)",
+    "id": 13060,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, legs and kiteshield.",
+    "value": 80000,
+    "weight": 6.0,
+    "buyLimit": 8
+}

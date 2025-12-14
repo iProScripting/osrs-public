@@ -1,0 +1,22 @@
+{
+    "name": "Armadyl chainskirt (or)",
+    "id": 26716,
+    "members": false,
+    "examine": "A chainskirt of great craftsmanship.",
+    "value": 289900,
+    "weight": 1.0,
+    "equipment": {
+        "stabAttack": -6,
+        "slashAttack": -6,
+        "crushAttack": -6,
+        "magicAttack": -10,
+        "rangedAttack": 20,
+        "stabDefence": 32,
+        "slashDefence": 26,
+        "crushDefence": 34,
+        "magicDefence": 40,
+        "rangedDefence": 33,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

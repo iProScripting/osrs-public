@@ -1,0 +1,17 @@
+{
+    "name": "Adamant thrownaxe",
+    "id": 804,
+    "members": false,
+    "examine": "A finely balanced throwing axe.",
+    "value": 176,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedAttack": 17,
+        "rangedStrength": 23,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

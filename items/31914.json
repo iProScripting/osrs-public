@@ -1,0 +1,9 @@
+{
+    "name": "Rune cannonball",
+    "id": 31914,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 1400,
+    "weight": 3.628,
+    "buyLimit": 11000
+}

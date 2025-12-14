@@ -1,0 +1,15 @@
+{
+    "name": "3rd age mage hat",
+    "id": 10342,
+    "members": false,
+    "examine": "Fabulously ancient mage protection enchanted in the 3rd Age.",
+    "value": 50400,
+    "weight": 0.4,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 8,
+        "magicDefence": 8,
+        "magicDamage": 1.0,
+        "slot": "HEAD"
+    }
+}

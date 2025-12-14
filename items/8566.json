@@ -1,0 +1,9 @@
+{
+    "name": "Carved oak bench (flatpack)",
+    "id": 8566,
+    "members": false,
+    "examine": "How does it all fit in there?",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 500
+}

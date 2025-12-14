@@ -1,0 +1,8 @@
+{
+    "name": "Broken crab claw",
+    "id": 7540,
+    "members": false,
+    "examine": "Darn, it's useless now.",
+    "value": 1,
+    "weight": 0.005
+}

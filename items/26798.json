@@ -1,0 +1,9 @@
+{
+    "name": "Catalytic talisman",
+    "id": 26798,
+    "members": false,
+    "examine": "A mysterious power emanates from the talisman...",
+    "value": 2000,
+    "weight": 0.02,
+    "buyLimit": 40
+}

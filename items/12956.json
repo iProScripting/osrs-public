@@ -1,0 +1,11 @@
+{
+    "name": "Cow top",
+    "id": 12956,
+    "members": false,
+    "examine": "It looks like a cow's body.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

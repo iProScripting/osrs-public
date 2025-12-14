@@ -1,0 +1,9 @@
+{
+    "name": "Banana tree seed",
+    "id": 5284,
+    "members": false,
+    "examine": "Plant in a plantpot of soil to grow a sapling.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 200
+}

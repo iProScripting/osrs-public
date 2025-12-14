@@ -1,0 +1,8 @@
+{
+    "name": "Bag full of gems",
+    "id": 25537,
+    "members": false,
+    "examine": "Contains gems - but which ones?",
+    "value": 300,
+    "weight": 1.0
+}

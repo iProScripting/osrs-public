@@ -1,0 +1,8 @@
+{
+    "name": "Bucket of water (Rum Deal)",
+    "id": 6712,
+    "members": false,
+    "examine": "It's a bucket of... water?",
+    "value": 1,
+    "weight": 3.0
+}

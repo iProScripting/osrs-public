@@ -1,0 +1,14 @@
+{
+    "name": "Citizen shoes",
+    "id": 9644,
+    "members": false,
+    "examine": "Ghetto disguise!",
+    "value": 5,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Camelot teleport (tablet)",
+    "id": 8010,
+    "members": false,
+    "examine": "A teleport to Camelot.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 15000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Hammerstone seed",
+    "id": 5307,
+    "members": false,
+    "examine": "A Hammerstone hop seed - plant in a hops patch.",
+    "value": 2,
+    "weight": 0.0,
+    "buyLimit": 2000
+}

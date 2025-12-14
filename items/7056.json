@@ -1,0 +1,9 @@
+{
+    "name": "Egg potato",
+    "id": 7056,
+    "members": false,
+    "examine": "A baked potato with egg and tomato.",
+    "value": 12,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

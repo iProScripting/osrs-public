@@ -1,0 +1,11 @@
+{
+    "name": "Red goblin mail",
+    "id": 9054,
+    "members": false,
+    "examine": "Some red armour designed to fit goblins.",
+    "value": 40,
+    "weight": 3.628,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Mithril fire arrow",
+    "id": 2536,
+    "members": false,
+    "examine": "Arrows with mithril heads wrapped in oily cloth.",
+    "value": 3,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 22,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Dawn scarab egg",
+    "id": 27368,
+    "members": false,
+    "examine": "A small scarab egg.",
+    "value": 30,
+    "weight": 0.01
+}

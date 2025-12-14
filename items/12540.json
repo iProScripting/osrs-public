@@ -1,0 +1,12 @@
+{
+    "name": "Deerstalker",
+    "id": 12540,
+    "members": false,
+    "examine": "Elementary!",
+    "value": 2300,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

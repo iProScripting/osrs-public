@@ -1,0 +1,8 @@
+{
+    "name": "Silver key (H.A.M.)",
+    "id": 8868,
+    "members": false,
+    "examine": "You stole this key from a HAM guard (Used to open a chest deep in the HAM cave).",
+    "value": 1,
+    "weight": 0.01
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of possible albumen",
+    "id": 31887,
+    "members": false,
+    "examine": "If it looks like egg whites, and quacks like egg whites, its probably duck egg whites.",
+    "value": 50,
+    "weight": 0.003
+}

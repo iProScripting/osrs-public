@@ -1,0 +1,11 @@
+{
+    "name": "Trailblazer reloaded headband (t2)",
+    "id": 28724,
+    "members": false,
+    "examine": "The headgear of a Trailblazer Reloaded Relic Hunter.",
+    "value": 15000,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

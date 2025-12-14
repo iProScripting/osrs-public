@@ -1,0 +1,20 @@
+{
+    "name": "Bronze scimitar",
+    "id": 1321,
+    "members": false,
+    "examine": "A vicious, curved sword.",
+    "value": 32,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 1,
+        "slashAttack": 7,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "strength": 6,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

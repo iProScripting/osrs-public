@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of goldless asgoldian ale",
+    "id": 31848,
+    "members": false,
+    "examine": "Who pickpockets a drink? Do drinks have pockets? Did they wash their hands?",
+    "value": 50,
+    "weight": 0.003
+}

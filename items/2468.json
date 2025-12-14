@@ -1,0 +1,19 @@
+{
+    "name": "Purple flowers",
+    "id": 2468,
+    "members": false,
+    "examine": "A posy of flowers.",
+    "value": 100,
+    "weight": 0.028,
+    "buyLimit": 150,
+    "equipment": {
+        "stabAttack": -100,
+        "slashAttack": -100,
+        "crushAttack": -50,
+        "strength": -10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

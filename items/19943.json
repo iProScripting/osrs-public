@@ -1,0 +1,12 @@
+{
+    "name": "Arceuus scarf",
+    "id": 19943,
+    "members": false,
+    "examine": "A blue scarf adorned with a dark crystal.",
+    "value": 10000,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Smelling salts",
+    "id": 27345,
+    "members": false,
+    "examine": "Repeatedly boosts combat abilities over time and restores run energy.",
+    "value": 30,
+    "weight": 0.453
+}

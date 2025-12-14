@@ -1,0 +1,9 @@
+{
+    "name": "Blood pint",
+    "id": 24774,
+    "members": false,
+    "examine": "It's literally a pint of blood.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

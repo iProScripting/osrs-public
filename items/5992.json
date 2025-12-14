@@ -1,0 +1,9 @@
+{
+    "name": "Apple mush",
+    "id": 5992,
+    "members": false,
+    "examine": "A bucket of apple mush.",
+    "value": 13,
+    "weight": 1.1,
+    "buyLimit": 11000
+}

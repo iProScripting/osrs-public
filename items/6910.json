@@ -1,0 +1,17 @@
+{
+    "name": "Apprentice wand",
+    "id": 6910,
+    "members": false,
+    "examine": "An apprentice level wand.",
+    "value": 1500,
+    "weight": 0.255,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 10,
+        "magicDefence": 10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

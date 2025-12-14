@@ -1,0 +1,19 @@
+{
+    "name": "Elite black full helm",
+    "id": 29560,
+    "members": false,
+    "examine": "An elite full face helmet.",
+    "value": 1000,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 13,
+        "slashDefence": 14,
+        "crushDefence": 11,
+        "magicDefence": -1,
+        "rangedDefence": 13,
+        "prayerBonus": 4,
+        "slot": "HEAD"
+    }
+}

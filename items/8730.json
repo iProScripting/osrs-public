@@ -1,0 +1,18 @@
+{
+    "name": "Rune kiteshield (Jogre)",
+    "id": 8730,
+    "members": false,
+    "examine": "A shield with a picture of a Jogre.",
+    "value": 54400,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 44,
+        "slashDefence": 48,
+        "crushDefence": 46,
+        "magicDefence": -1,
+        "rangedDefence": 46,
+        "slot": "SHIELD"
+    }
+}

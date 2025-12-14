@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of mist",
+    "id": 28805,
+    "members": false,
+    "examine": "A bottle of red mist.",
+    "value": 30,
+    "weight": 0.04
+}

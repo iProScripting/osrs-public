@@ -1,0 +1,11 @@
+{
+    "name": "Bobble scarf",
+    "id": 6857,
+    "members": false,
+    "examine": "A woolly scarf.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

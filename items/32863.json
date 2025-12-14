@@ -1,0 +1,8 @@
+{
+    "name": "Rusty locket",
+    "id": 32863,
+    "members": false,
+    "examine": "A rusty old locket that's sealed shut.",
+    "value": 100,
+    "weight": 0.01
+}

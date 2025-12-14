@@ -1,0 +1,11 @@
+{
+    "name": "Bunnyman mask",
+    "id": 23448,
+    "members": false,
+    "examine": "Hippity, hoppity, the Bunnyman is on his way.",
+    "value": 1,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

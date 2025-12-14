@@ -1,0 +1,20 @@
+{
+    "name": "Western banner 4",
+    "id": 13144,
+    "members": false,
+    "examine": "A mysterious crystal banner.",
+    "value": 0,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 24,
+        "slashAttack": 24,
+        "crushAttack": 24,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "strength": 28,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "POLESTAFF"
+    }
+}

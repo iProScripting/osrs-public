@@ -1,0 +1,9 @@
+{
+    "name": "Amethyst bolt tips",
+    "id": 21338,
+    "members": false,
+    "examine": "Amethyst bolt tips.",
+    "value": 160,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

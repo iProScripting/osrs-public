@@ -1,0 +1,12 @@
+{
+    "name": "Explorer's ring 4",
+    "id": 13128,
+    "members": false,
+    "examine": "A Lumbridge explorer's ring.",
+    "value": 0,
+    "weight": 0.006,
+    "equipment": {
+        "prayerBonus": 1,
+        "slot": "RING"
+    }
+}

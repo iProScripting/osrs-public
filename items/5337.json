@@ -1,0 +1,8 @@
+{
+    "name": "Watering can",
+    "id": 5337,
+    "members": false,
+    "examine": "This watering can is just over half-full.",
+    "value": 1,
+    "weight": 0.6
+}

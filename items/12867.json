@@ -1,0 +1,9 @@
+{
+    "name": "Blue dragonhide set",
+    "id": 12867,
+    "members": false,
+    "examine": "A set containing a blue dragonhide body, chaps and vambraces.",
+    "value": 5000,
+    "weight": 0.05,
+    "buyLimit": 125
+}

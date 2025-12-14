@@ -1,0 +1,9 @@
+{
+    "name": "Zalcano shard",
+    "id": 23908,
+    "members": false,
+    "examine": "Makes a dragon pickaxe more beautiful.",
+    "value": 1600,
+    "weight": 0.5,
+    "buyLimit": 50
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of beer",
+    "id": 32735,
+    "members": false,
+    "examine": "A cargo crate of beer destined for Rellekka.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Honourable blessing",
+    "id": 20229,
+    "members": false,
+    "examine": "Law is not law if it violates the principles of eternal justice.",
+    "value": 80,
+    "weight": 0.51,
+    "buyLimit": 5,
+    "equipment": {
+        "prayerBonus": 1,
+        "slot": "AMMO"
+    }
+}

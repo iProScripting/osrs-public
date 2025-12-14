@@ -1,0 +1,12 @@
+{
+    "name": "Crate of suqah hides",
+    "id": 32545,
+    "members": false,
+    "examine": "A cargo crate of suqah hides destined for Deepfin Point.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

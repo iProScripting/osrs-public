@@ -1,0 +1,8 @@
+{
+    "name": "Animals' bones",
+    "id": 6905,
+    "members": false,
+    "examine": "Various animals' bones.",
+    "value": 1,
+    "weight": 0.001
+}

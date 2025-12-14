@@ -1,0 +1,8 @@
+{
+    "name": "Cauldron of cabbages",
+    "id": 22680,
+    "members": false,
+    "examine": "It's got cabbages in it.",
+    "value": 0,
+    "weight": 10.0
+}

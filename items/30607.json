@@ -1,0 +1,14 @@
+{
+    "name": "Adamant staff of collection",
+    "id": 30607,
+    "members": false,
+    "examine": "A staff of collection, adamant tier.",
+    "value": 15,
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

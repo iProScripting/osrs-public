@@ -1,0 +1,24 @@
+{
+    "name": "Blisterwood flail",
+    "id": 24699,
+    "members": false,
+    "examine": "A legendary flail that has been enhanced with blisterwood.",
+    "value": 40000,
+    "weight": 0.001,
+    "equipment": {
+        "stabAttack": 30,
+        "slashAttack": 44,
+        "crushAttack": 68,
+        "magicAttack": 8,
+        "stabDefence": 4,
+        "slashDefence": 4,
+        "crushDefence": 2,
+        "magicDefence": 8,
+        "strength": 46,
+        "prayerBonus": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

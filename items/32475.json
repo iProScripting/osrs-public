@@ -1,0 +1,12 @@
+{
+    "name": "Crate of sandstone",
+    "id": 32475,
+    "members": false,
+    "examine": "A cargo crate of sandstone destined for \tBrimhaven.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

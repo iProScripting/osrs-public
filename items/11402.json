@@ -1,0 +1,22 @@
+{
+    "name": "Mithril hasta",
+    "id": 11402,
+    "members": false,
+    "examine": "A karambwan poison-tipped, one-handed mithril hasta.",
+    "value": 845,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 17,
+        "slashAttack": 17,
+        "crushAttack": 17,
+        "stabDefence": -5,
+        "slashDefence": -5,
+        "crushDefence": -4,
+        "rangedDefence": -5,
+        "strength": 18,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

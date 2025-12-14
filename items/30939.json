@@ -1,0 +1,8 @@
+{
+    "name": "Mind mender",
+    "id": 30939,
+    "members": false,
+    "examine": "Apparently helps with nerves.",
+    "value": 30,
+    "weight": 0.056
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Boss helper tool",
+    "id": 3667,
+    "members": false,
+    "examine": "A tool to teleport you to various bosses and setup slayer tasks.",
+    "value": 1,
+    "weight": 1.814
+}

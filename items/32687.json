@@ -1,0 +1,12 @@
+{
+    "name": "Crate of red coral",
+    "id": 32687,
+    "members": false,
+    "examine": "A cargo crate of red coral destined for Port Sarim.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

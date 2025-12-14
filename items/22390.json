@@ -1,0 +1,11 @@
+{
+    "name": "Xeric's warrior",
+    "id": 22390,
+    "members": false,
+    "examine": "Awarded for completing 500 Chambers of Xeric in challenge mode.",
+    "value": 400,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

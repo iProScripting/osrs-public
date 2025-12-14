@@ -1,0 +1,12 @@
+{
+    "name": "Elven signet",
+    "id": 23943,
+    "members": false,
+    "examine": "A signet ring with some elven markings.",
+    "value": 30000,
+    "weight": 0.006,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "RING"
+    }
+}

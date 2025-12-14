@@ -1,0 +1,8 @@
+{
+    "name": "Cell door key",
+    "id": 1840,
+    "members": false,
+    "examine": "A metallic key, usually used by prison guards (Unlocks the cell door in the Desert Mining Camp).",
+    "value": 1,
+    "weight": 0.01
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Battlemage potion",
+    "id": 22455,
+    "members": false,
+    "examine": "2 doses of battlemage potion.",
+    "value": 180,
+    "weight": 0.03,
+    "buyLimit": 2000
+}

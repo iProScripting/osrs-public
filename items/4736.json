@@ -1,0 +1,19 @@
+{
+    "name": "Karil's leathertop",
+    "id": 4736,
+    "members": false,
+    "examine": "Karil the Tainted's leather body armour.",
+    "value": 50000,
+    "weight": 6.803,
+    "buyLimit": 15,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": 30,
+        "stabDefence": 47,
+        "slashDefence": 42,
+        "crushDefence": 50,
+        "magicDefence": 65,
+        "rangedDefence": 57,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Teak repair kit",
+    "id": 31970,
+    "members": false,
+    "examine": "A boat repair kit made from teak.",
+    "value": 1000,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the food barrel at the top of the Hunter Guild",
+    "id": 28913,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

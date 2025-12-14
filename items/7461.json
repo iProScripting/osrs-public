@@ -1,0 +1,22 @@
+{
+    "name": "Dragon gloves",
+    "id": 7461,
+    "members": false,
+    "examine": "A pair of very nice gloves.",
+    "value": 100000,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 9,
+        "slashAttack": 9,
+        "crushAttack": 9,
+        "magicAttack": 5,
+        "rangedAttack": 9,
+        "stabDefence": 9,
+        "slashDefence": 9,
+        "crushDefence": 9,
+        "magicDefence": 5,
+        "rangedDefence": 9,
+        "strength": 9,
+        "slot": "HANDS"
+    }
+}

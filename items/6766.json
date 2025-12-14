@@ -1,0 +1,8 @@
+{
+    "name": "Cat antipoison",
+    "id": 6766,
+    "members": false,
+    "examine": "Antipoison for Pox.",
+    "value": 1,
+    "weight": 0.035
+}

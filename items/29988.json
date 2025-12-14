@@ -1,0 +1,11 @@
+{
+    "name": "Alchemist's amulet",
+    "id": 29988,
+    "members": false,
+    "examine": "Useful when making potions - has the chance of giving an extra dose.",
+    "value": 1050,
+    "weight": 0.007,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

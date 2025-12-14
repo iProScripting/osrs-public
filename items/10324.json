@@ -1,0 +1,12 @@
+{
+    "name": "Bob's purple shirt",
+    "id": 10324,
+    "members": false,
+    "examine": "'Bob says: Keep your computer keylogger free and virus scanned.'",
+    "value": 3,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

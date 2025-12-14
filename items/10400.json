@@ -1,0 +1,12 @@
+{
+    "name": "Black elegant shirt",
+    "id": 10400,
+    "members": false,
+    "examine": "A well made elegant men's black shirt.",
+    "value": 2000,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

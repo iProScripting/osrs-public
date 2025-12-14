@@ -1,0 +1,8 @@
+{
+    "name": "Sulphuric acid",
+    "id": 25966,
+    "members": false,
+    "examine": "A corrosive liquid.",
+    "value": 30,
+    "weight": 0.01
+}

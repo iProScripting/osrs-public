@@ -1,0 +1,22 @@
+{
+    "name": "Black defender",
+    "id": 8847,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 9,
+        "slashAttack": 8,
+        "crushAttack": 7,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 9,
+        "slashDefence": 8,
+        "crushDefence": 7,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "strength": 2,
+        "slot": "SHIELD"
+    }
+}

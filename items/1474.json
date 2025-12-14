@@ -1,0 +1,9 @@
+{
+    "name": "Black bead",
+    "id": 1474,
+    "members": false,
+    "examine": "A small round black bead.",
+    "value": 4,
+    "weight": 0.003,
+    "buyLimit": 11000
+}

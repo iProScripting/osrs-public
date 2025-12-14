@@ -1,0 +1,11 @@
+{
+    "name": "Ghostspeak amulet",
+    "id": 4250,
+    "members": false,
+    "examine": "The amulet of ghostspeak glows green from the crone's enchantment.",
+    "value": 35,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

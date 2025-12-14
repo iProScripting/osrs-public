@@ -1,0 +1,8 @@
+{
+    "name": "Large zombie monkey bones",
+    "id": 3186,
+    "members": false,
+    "examine": "These are smallish monkey bones. They smell extremely nauseating.",
+    "value": 1,
+    "weight": 0.5
+}

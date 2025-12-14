@@ -1,0 +1,9 @@
+{
+    "name": "Skull piece",
+    "id": 6163,
+    "members": false,
+    "examine": "A fearsome looking skull.",
+    "value": 60,
+    "weight": 3.175,
+    "buyLimit": 11000
+}

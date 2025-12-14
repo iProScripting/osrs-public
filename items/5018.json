@@ -1,0 +1,20 @@
+{
+    "name": "Bone club",
+    "id": 5018,
+    "members": false,
+    "examine": "Basic but brutal!",
+    "value": 600,
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": -4,
+        "crushAttack": 16,
+        "magicAttack": -4,
+        "strength": 15,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

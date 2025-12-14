@@ -1,0 +1,9 @@
+{
+    "name": "Moonlight antelope fur",
+    "id": 29174,
+    "members": false,
+    "examine": "I can make something out of this.",
+    "value": 10,
+    "weight": 3.0,
+    "buyLimit": 18000
+}

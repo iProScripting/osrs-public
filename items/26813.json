@@ -1,0 +1,8 @@
+{
+    "name": "Abyssal needle",
+    "id": 26813,
+    "members": false,
+    "examine": "A needle designed for use with abyssal materials.",
+    "value": 3000,
+    "weight": 0.002
+}

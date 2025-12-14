@@ -1,0 +1,11 @@
+{
+    "name": "Graceful gloves (Adventurer)",
+    "id": 27458,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 30,
+    "weight": -3.0,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

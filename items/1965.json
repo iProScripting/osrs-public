@@ -1,0 +1,9 @@
+{
+    "name": "Cabbage",
+    "id": 1965,
+    "members": false,
+    "examine": "Yuck I don't like cabbage.",
+    "value": 1,
+    "weight": 0.453,
+    "buyLimit": 6000
+}

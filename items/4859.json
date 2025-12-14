@@ -1,0 +1,18 @@
+{
+    "name": "Ahrim's hood",
+    "id": 4859,
+    "members": false,
+    "examine": "Ahrim the Blighted's leather hood.",
+    "value": 13000,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 6,
+        "rangedAttack": -2,
+        "stabDefence": 15,
+        "slashDefence": 13,
+        "crushDefence": 16,
+        "magicDefence": 6,
+        "magicDamage": 1.0,
+        "slot": "HEAD"
+    }
+}

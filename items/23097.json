@@ -1,0 +1,17 @@
+{
+    "name": "Ornate top",
+    "id": 23097,
+    "members": false,
+    "examine": "An ornate armoured top.",
+    "value": 1,
+    "weight": 11.339,
+    "equipment": {
+        "magicAttack": -15,
+        "stabDefence": 10,
+        "slashDefence": 15,
+        "crushDefence": 19,
+        "magicDefence": -3,
+        "rangedDefence": 12,
+        "slot": "BODY"
+    }
+}

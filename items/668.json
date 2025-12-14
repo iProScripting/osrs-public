@@ -1,0 +1,8 @@
+{
+    "name": "Blurite ore",
+    "id": 668,
+    "members": false,
+    "examine": "Definitely blue.",
+    "value": 3,
+    "weight": 2.267
+}

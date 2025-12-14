@@ -1,0 +1,8 @@
+{
+    "name": "Detonator",
+    "id": 28393,
+    "members": false,
+    "examine": "Magically detonates the nearest satchel of explosives. Cool!",
+    "value": 30,
+    "weight": 0.056
+}

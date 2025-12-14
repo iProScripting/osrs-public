@@ -1,0 +1,14 @@
+{
+    "name": "Gorilla greegree",
+    "id": 4026,
+    "members": false,
+    "examine": "A magical talisman in the shape of a gorilla head.",
+    "value": 1000,
+    "weight": 0.085,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

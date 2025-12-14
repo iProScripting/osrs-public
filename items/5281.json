@@ -1,0 +1,9 @@
+{
+    "name": "Belladonna seed",
+    "id": 5281,
+    "members": false,
+    "examine": "Also known as Deadly Nightshade - plant in a belladonna patch.",
+    "value": 177,
+    "weight": 0.0,
+    "buyLimit": 200
+}

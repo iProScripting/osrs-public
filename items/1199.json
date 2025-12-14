@@ -1,0 +1,19 @@
+{
+    "name": "Adamant kiteshield",
+    "id": 1199,
+    "members": false,
+    "examine": "A large metal shield.",
+    "value": 5440,
+    "weight": 5.896,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 27,
+        "slashDefence": 31,
+        "crushDefence": 29,
+        "magicDefence": -1,
+        "rangedDefence": 29,
+        "slot": "SHIELD"
+    }
+}

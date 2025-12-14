@@ -1,0 +1,8 @@
+{
+    "name": "Wester spices",
+    "id": 21244,
+    "members": false,
+    "examine": "A selection of Wester Island spices",
+    "value": 1,
+    "weight": 0.15
+}

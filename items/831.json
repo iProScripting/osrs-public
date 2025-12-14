@@ -1,0 +1,13 @@
+{
+    "name": "Bronze javelin",
+    "id": 831,
+    "members": false,
+    "examine": "A bronze tipped javelin.",
+    "value": 4,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 25,
+        "slot": "AMMO"
+    }
+}

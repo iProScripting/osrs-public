@@ -1,0 +1,8 @@
+{
+    "name": "Strange cipher",
+    "id": 27598,
+    "members": false,
+    "examine": "An odd cipher from long ago.",
+    "value": 30,
+    "weight": 0.003
+}

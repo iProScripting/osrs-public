@@ -1,0 +1,11 @@
+{
+    "name": "Imcando hammer (off-hand)",
+    "id": 29775,
+    "members": false,
+    "examine": "It's good for holding and hitting things!",
+    "value": 1,
+    "weight": 2.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

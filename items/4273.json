@@ -1,0 +1,8 @@
+{
+    "name": "Chest key (Ghosts Ahoy)",
+    "id": 4273,
+    "members": false,
+    "examine": "A key to a chest (Used in the Ghost Ahoy quest).",
+    "value": 1,
+    "weight": 0.01
+}

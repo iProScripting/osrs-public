@@ -1,0 +1,15 @@
+{
+    "name": "Ancient mitre",
+    "id": 12203,
+    "members": false,
+    "examine": "An Ancient mitre.",
+    "value": 5000,
+    "weight": 0.3,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "prayerBonus": 5,
+        "slot": "HEAD"
+    }
+}

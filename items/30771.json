@@ -1,0 +1,9 @@
+{
+    "name": "Aether catalyst",
+    "id": 30771,
+    "members": false,
+    "examine": "A piece of the cosmos' soul? Or souls belonging to the cosmos?",
+    "value": 200,
+    "weight": 0.0,
+    "buyLimit": 25000
+}

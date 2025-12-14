@@ -1,0 +1,11 @@
+{
+    "name": "Bob the cat slippers",
+    "id": 27806,
+    "members": false,
+    "examine": "No cats were harmed in the making of these slippers.",
+    "value": 1,
+    "weight": 0.2,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

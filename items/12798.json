@@ -1,0 +1,9 @@
+{
+    "name": "Steam staff upgrade kit",
+    "id": 12798,
+    "members": false,
+    "examine": "Makes a steam battlestaff or mystic steam staff more beautiful.",
+    "value": 1500,
+    "weight": 0.5,
+    "buyLimit": 50
+}

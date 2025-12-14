@@ -1,0 +1,9 @@
+{
+    "name": "Bronze cannonball",
+    "id": 31906,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 5,
+    "weight": 3.628,
+    "buyLimit": 11000
+}

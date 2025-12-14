@@ -1,0 +1,8 @@
+{
+    "name": "Akila's journal",
+    "id": 27300,
+    "members": false,
+    "examine": "A journal found at the entrance to Osmumten's Tomb.",
+    "value": 30,
+    "weight": 0.51
+}

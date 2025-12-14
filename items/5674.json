@@ -1,0 +1,21 @@
+{
+    "name": "Mithril dagger",
+    "id": 5674,
+    "members": false,
+    "examine": "A poisoned Mithril dagger.",
+    "value": 325,
+    "weight": 0.396,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 11,
+        "slashAttack": 5,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

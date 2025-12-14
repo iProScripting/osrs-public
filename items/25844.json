@@ -1,0 +1,8 @@
+{
+    "name": "Orange egg sac",
+    "id": 25844,
+    "members": false,
+    "examine": "A giant sac of... orange spider eggs? Use on Sraracha.",
+    "value": 1,
+    "weight": 5.0
+}

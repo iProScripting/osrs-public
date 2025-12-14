@@ -1,0 +1,14 @@
+{
+    "name": "3rd age amulet",
+    "id": 10344,
+    "members": false,
+    "examine": "Fabulously ancient mage protection enchanted in the 3rd Age.",
+    "value": 50500,
+    "weight": 0.003,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 15,
+        "magicDefence": 10,
+        "slot": "NECK"
+    }
+}

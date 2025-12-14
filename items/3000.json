@@ -1,0 +1,9 @@
+{
+    "name": "Snapdragon",
+    "id": 3000,
+    "members": false,
+    "examine": "A powerful herb.",
+    "value": 59,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

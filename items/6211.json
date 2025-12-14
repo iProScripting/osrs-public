@@ -1,0 +1,9 @@
+{
+    "name": "Teak pyre logs",
+    "id": 6211,
+    "members": false,
+    "examine": "Teak logs prepared with sacred oil for a funeral pyre.",
+    "value": 100,
+    "weight": 1.36,
+    "buyLimit": 11000
+}

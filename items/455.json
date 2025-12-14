@@ -1,0 +1,8 @@
+{
+    "name": "Barcrawl card",
+    "id": 455,
+    "members": false,
+    "examine": "The official Alfred Grimhand bar crawl card.",
+    "value": 10,
+    "weight": 0.014
+}

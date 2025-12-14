@@ -1,0 +1,11 @@
+{
+    "name": "Angler hat",
+    "id": 13258,
+    "members": false,
+    "examine": "This will help with fishing.",
+    "value": 100,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Bronze 2h sword",
+    "id": 1307,
+    "members": false,
+    "examine": "A two handed sword.",
+    "value": 80,
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 9,
+        "crushAttack": 8,
+        "magicAttack": -4,
+        "rangedDefence": -1,
+        "strength": 10,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

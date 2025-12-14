@@ -1,0 +1,9 @@
+{
+    "name": "Guthix page 1",
+    "id": 3835,
+    "members": false,
+    "examine": "This seems to have been torn from a book...",
+    "value": 200,
+    "weight": 0.0,
+    "buyLimit": 5
+}

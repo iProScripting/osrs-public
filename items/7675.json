@@ -1,0 +1,20 @@
+{
+    "name": "Wooden sword",
+    "id": 7675,
+    "members": false,
+    "examine": "A less-than razor sharp sword.",
+    "value": 1,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 4,
+        "slashAttack": 3,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

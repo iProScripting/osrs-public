@@ -1,0 +1,8 @@
+{
+    "name": "Trinket of vengeance",
+    "id": 28561,
+    "members": false,
+    "examine": "A magic rock! This one casts the Vengeance spell.",
+    "value": 10000,
+    "weight": 1.0
+}

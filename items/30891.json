@@ -1,0 +1,19 @@
+{
+    "name": "Keris partisan of amascut",
+    "id": 30891,
+    "members": false,
+    "examine": "A powerful polearm imbued with pinpoint precision.",
+    "value": 300000,
+    "weight": 3.218,
+    "equipment": {
+        "stabAttack": 108,
+        "slashAttack": -2,
+        "crushAttack": 57,
+        "magicAttack": 2,
+        "strength": 67,
+        "prayerBonus": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "combatStyle": "PARTISAN"
+    }
+}

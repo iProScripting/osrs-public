@@ -1,0 +1,8 @@
+{
+    "name": "Sulphurous essence",
+    "id": 29087,
+    "members": false,
+    "examine": "Brimming with unstable magic. It stings when it touches skin.",
+    "value": 10,
+    "weight": 0.0
+}

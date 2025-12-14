@@ -1,0 +1,19 @@
+{
+    "name": "Falador shield 2",
+    "id": 13118,
+    "members": false,
+    "examine": "A shield from Falador.",
+    "value": 0,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -2,
+        "stabDefence": 13,
+        "slashDefence": 15,
+        "crushDefence": 14,
+        "magicDefence": -1,
+        "rangedDefence": 14,
+        "prayerBonus": 3,
+        "slot": "SHIELD"
+    }
+}

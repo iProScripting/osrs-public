@@ -1,0 +1,8 @@
+{
+    "name": "Balloon toad",
+    "id": 7564,
+    "members": false,
+    "examine": "An inflated toad tied to a rock like a balloon.",
+    "value": 1,
+    "weight": 4.0
+}

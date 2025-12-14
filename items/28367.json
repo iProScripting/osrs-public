@@ -1,0 +1,8 @@
+{
+    "name": "Shadow blocker",
+    "id": 28367,
+    "members": false,
+    "examine": "Keeps the shadows at bay.",
+    "value": 30,
+    "weight": 3.0
+}

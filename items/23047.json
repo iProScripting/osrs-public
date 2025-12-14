@@ -1,0 +1,14 @@
+{
+    "name": "Mystic hat (dusk)",
+    "id": 23047,
+    "members": false,
+    "examine": "A dusky magical hat.",
+    "value": 15000,
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "slot": "HEAD"
+    }
+}

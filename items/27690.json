@@ -1,0 +1,22 @@
+{
+    "name": "Voidwaker",
+    "id": 27690,
+    "members": false,
+    "examine": "A truly fearsome weapon.",
+    "value": 2000000,
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 70,
+        "slashAttack": 80,
+        "crushAttack": -2,
+        "magicAttack": 5,
+        "slashDefence": 1,
+        "magicDefence": 2,
+        "strength": 80,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

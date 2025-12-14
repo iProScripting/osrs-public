@@ -1,0 +1,8 @@
+{
+    "name": "Blasted ore",
+    "id": 13575,
+    "members": false,
+    "examine": "It needs washing before it disintegrates.",
+    "value": 60,
+    "weight": 2.267
+}

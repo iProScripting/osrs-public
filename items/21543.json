@@ -1,0 +1,9 @@
+{
+    "name": "Calcite",
+    "id": 21543,
+    "members": false,
+    "examine": "A large crystal of calcium carbonate.",
+    "value": 30,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

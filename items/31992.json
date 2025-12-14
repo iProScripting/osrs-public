@@ -1,0 +1,8 @@
+{
+    "name": "Boat bottle",
+    "id": 31992,
+    "members": false,
+    "examine": "I'm a boat within a bottle, baby, you gotta rub me the right way.",
+    "value": 500,
+    "weight": 0.02
+}

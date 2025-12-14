@@ -1,0 +1,19 @@
+{
+    "name": "Blacksmith's helm",
+    "id": 19988,
+    "members": false,
+    "examine": "A helm worn by blacksmiths.",
+    "value": 3000,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 6,
+        "slashDefence": 7,
+        "crushDefence": 5,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

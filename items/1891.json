@@ -1,0 +1,9 @@
+{
+    "name": "Cake",
+    "id": 1891,
+    "members": false,
+    "examine": "A plain sponge cake.",
+    "value": 50,
+    "weight": 0.3,
+    "buyLimit": 6000
+}

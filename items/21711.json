@@ -1,0 +1,8 @@
+{
+    "name": "Murky potion",
+    "id": 21711,
+    "members": false,
+    "examine": "I don't think I'd want to drink this.",
+    "value": 0,
+    "weight": 0.03
+}

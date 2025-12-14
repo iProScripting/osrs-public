@@ -1,0 +1,8 @@
+{
+    "name": "Abyssal blue dye",
+    "id": 26809,
+    "members": false,
+    "examine": "A strange blue dye made from abyssal materials.",
+    "value": 3000,
+    "weight": 0.02
+}

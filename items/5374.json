@@ -1,0 +1,9 @@
+{
+    "name": "Magic sapling",
+    "id": 5374,
+    "members": false,
+    "examine": "This sapling is ready to be replanted in a tree patch.",
+    "value": 1,
+    "weight": 0.907,
+    "buyLimit": 200
+}

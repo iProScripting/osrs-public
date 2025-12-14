@@ -1,0 +1,15 @@
+{
+    "name": "Green cape",
+    "id": 1027,
+    "members": false,
+    "examine": "A thick green cape.",
+    "value": 32,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

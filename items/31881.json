@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of dwarvern wizard's stout bomb",
+    "id": 31881,
+    "members": false,
+    "examine": "Will blow your tiny little mind.",
+    "value": 50,
+    "weight": 0.003
+}

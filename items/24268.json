@@ -1,0 +1,8 @@
+{
+    "name": "Basilisk jaw",
+    "id": 24268,
+    "members": false,
+    "examine": "The jaw of a Basilisk Knight.",
+    "value": 500000,
+    "weight": 0.005
+}

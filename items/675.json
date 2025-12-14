@@ -1,0 +1,8 @@
+{
+    "name": "Rock pick",
+    "id": 675,
+    "members": false,
+    "examine": "A small pick for digging.",
+    "value": 1,
+    "weight": 0.056
+}

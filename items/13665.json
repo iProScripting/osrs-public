@@ -1,0 +1,11 @@
+{
+    "name": "Bunny paws",
+    "id": 13665,
+    "members": false,
+    "examine": "Floofy.",
+    "value": 1,
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

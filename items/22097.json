@@ -1,0 +1,9 @@
+{
+    "name": "Dragon metal shard",
+    "id": 22097,
+    "members": false,
+    "examine": "A badly damaged shard of dragon metal.",
+    "value": 1200000,
+    "weight": 2.721,
+    "buyLimit": 50
+}

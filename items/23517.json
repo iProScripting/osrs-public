@@ -1,0 +1,9 @@
+{
+    "name": "Giant egg sac",
+    "id": 23517,
+    "members": false,
+    "examine": "A giant sac of red spider eggs, hopefully none of them hatch.",
+    "value": 10,
+    "weight": 5.0,
+    "buyLimit": 100
+}

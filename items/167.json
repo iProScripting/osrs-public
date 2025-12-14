@@ -1,0 +1,9 @@
+{
+    "name": "Super defence",
+    "id": 167,
+    "members": false,
+    "examine": "1 dose of super Defence potion.",
+    "value": 132,
+    "weight": 0.02,
+    "buyLimit": 2000
+}

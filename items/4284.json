@@ -1,0 +1,11 @@
+{
+    "name": "Bedsheet",
+    "id": 4284,
+    "members": false,
+    "examine": "It's a bedsheet.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

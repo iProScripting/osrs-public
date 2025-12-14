@@ -1,0 +1,13 @@
+{
+    "name": "Adamant bolts",
+    "id": 9143,
+    "members": false,
+    "examine": "Adamantite crossbow bolts.",
+    "value": 58,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 100,
+        "slot": "AMMO"
+    }
+}

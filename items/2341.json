@@ -1,0 +1,9 @@
+{
+    "name": "Wrapped oomlie",
+    "id": 2341,
+    "members": false,
+    "examine": "Oomlie meat in a palm leaf pouch.  It just needs to be cooked.",
+    "value": 16,
+    "weight": 0.325,
+    "buyLimit": 15
+}

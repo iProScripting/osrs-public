@@ -1,0 +1,12 @@
+{
+    "name": "Crate of bait",
+    "id": 32483,
+    "members": false,
+    "examine": "A cargo crate of bait destined for Catherby.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

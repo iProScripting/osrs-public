@@ -1,0 +1,9 @@
+{
+    "name": "Goat horn dust",
+    "id": 9736,
+    "members": false,
+    "examine": "Finely ground desert goat horn.",
+    "value": 12,
+    "weight": 0.453,
+    "buyLimit": 13000
+}

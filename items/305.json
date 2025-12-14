@@ -1,0 +1,9 @@
+{
+    "name": "Big fishing net",
+    "id": 305,
+    "members": false,
+    "examine": "Useful for catching lots of fish.",
+    "value": 20,
+    "weight": 8.164,
+    "buyLimit": 40
+}

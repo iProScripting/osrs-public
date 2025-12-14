@@ -1,0 +1,8 @@
+{
+    "name": "Bank key",
+    "id": 13303,
+    "members": false,
+    "examine": "This can be used to raid items that were in your victim's bank.",
+    "value": 1,
+    "weight": 0.01
+}

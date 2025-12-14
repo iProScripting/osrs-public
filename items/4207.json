@@ -1,0 +1,9 @@
+{
+    "name": "Crystal weapon seed",
+    "id": 4207,
+    "members": false,
+    "examine": "A seed to be sung into the finest crystal weapons.",
+    "value": 1,
+    "weight": 0.014,
+    "buyLimit": 70
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Broken coffin",
+    "id": 25457,
+    "members": false,
+    "examine": "A broken coffin, looks like it could be repaired.",
+    "value": 1,
+    "weight": 1.0
+}

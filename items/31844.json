@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of ogre prayer potion",
+    "id": 31844,
+    "members": false,
+    "examine": "Noted ogre herbalists formulated this potion from strong beer, snake tails and rancid weeds.",
+    "value": 50,
+    "weight": 0.003
+}

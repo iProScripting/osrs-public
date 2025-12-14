@@ -1,0 +1,9 @@
+{
+    "name": "Gin",
+    "id": 2019,
+    "members": false,
+    "examine": "A strong spirit that tastes of Juniper.",
+    "value": 5,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

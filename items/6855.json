@@ -1,0 +1,8 @@
+{
+    "name": "Bauble box",
+    "id": 6855,
+    "members": false,
+    "examine": "A box full of painted baubles. Give to a Pixie or use to decorate a tree.",
+    "value": 1,
+    "weight": 2.0
+}

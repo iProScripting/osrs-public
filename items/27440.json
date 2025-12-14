@@ -1,0 +1,11 @@
+{
+    "name": "Infinite money bag",
+    "id": 27440,
+    "members": false,
+    "examine": "A magical money bag with infinite coins inside.",
+    "value": 1,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

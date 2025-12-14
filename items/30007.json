@@ -1,0 +1,8 @@
+{
+    "name": "Aga paste",
+    "id": 30007,
+    "members": false,
+    "examine": "A sticky, green, sour-smelling substance.",
+    "value": 30,
+    "weight": 0.51
+}

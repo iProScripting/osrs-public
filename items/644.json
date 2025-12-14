@@ -1,0 +1,14 @@
+{
+    "name": "Turquoise robe top",
+    "id": 644,
+    "members": false,
+    "examine": "The ultimate in gnome design, now in turquoise!",
+    "value": 180,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "slot": "BODY"
+    }
+}

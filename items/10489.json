@@ -1,0 +1,8 @@
+{
+    "name": "Bar magnet",
+    "id": 10489,
+    "members": false,
+    "examine": "A magnet designed for undead chicken use.",
+    "value": 15,
+    "weight": 0.25
+}

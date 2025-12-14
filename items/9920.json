@@ -1,0 +1,11 @@
+{
+    "name": "Jack lantern mask",
+    "id": 9920,
+    "members": false,
+    "examine": "Better not light it!",
+    "value": 1,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

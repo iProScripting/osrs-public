@@ -1,0 +1,8 @@
+{
+    "name": "Alchemical hydra heads",
+    "id": 23077,
+    "members": false,
+    "examine": "Yuck! I could get it stuffed!",
+    "value": 50000,
+    "weight": 10.0
+}

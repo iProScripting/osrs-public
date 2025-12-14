@@ -1,0 +1,9 @@
+{
+    "name": "Old school bond",
+    "id": 13190,
+    "members": false,
+    "examine": "This bond can be redeemed for membership.",
+    "value": 2000000,
+    "weight": 0.003,
+    "buyLimit": 100
+}

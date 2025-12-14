@@ -1,0 +1,25 @@
+{
+    "name": "Ancient staff",
+    "id": 4675,
+    "members": false,
+    "examine": "A magical staff of ancient origin...",
+    "value": 100000,
+    "weight": 2.267,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": -1,
+        "crushAttack": 40,
+        "magicAttack": 15,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 15,
+        "strength": 50,
+        "prayerBonus": -1,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

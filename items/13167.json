@@ -1,0 +1,9 @@
+{
+    "name": "Bandos dragonhide set",
+    "id": 13167,
+    "members": false,
+    "examine": "A set containing a Bandos dragonhide coif, body, chaps and bracers.",
+    "value": 9500,
+    "weight": 0.05,
+    "buyLimit": 8
+}

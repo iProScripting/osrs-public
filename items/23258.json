@@ -1,0 +1,19 @@
+{
+    "name": "Gilded coif",
+    "id": 23258,
+    "members": false,
+    "examine": "Made with 100% golden dragonhide.",
+    "value": 2000,
+    "weight": 0.9,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -1,
+        "rangedAttack": 4,
+        "stabDefence": 4,
+        "slashDefence": 7,
+        "crushDefence": 8,
+        "magicDefence": 4,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

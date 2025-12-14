@@ -1,0 +1,11 @@
+{
+    "name": "Bunny feet",
+    "id": 13182,
+    "members": false,
+    "examine": "Bigger and softer than a rabbit's foot necklace.",
+    "value": 0,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

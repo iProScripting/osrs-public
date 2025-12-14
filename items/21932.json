@@ -1,0 +1,13 @@
+{
+    "name": "Opal dragon bolts (e)",
+    "id": 21932,
+    "members": false,
+    "examine": "Enchanted Dragon crossbow bolts, tipped with opal.",
+    "value": 580,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

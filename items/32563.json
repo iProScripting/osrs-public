@@ -1,0 +1,12 @@
+{
+    "name": "Crate of xerician fabrics",
+    "id": 32563,
+    "members": false,
+    "examine": "A cargo crate of xerician fabrics destined for Hosidius.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

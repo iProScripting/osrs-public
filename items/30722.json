@@ -1,0 +1,11 @@
+{
+    "name": "Carrot costume body",
+    "id": 30722,
+    "members": false,
+    "examine": "Smells earthy inside.",
+    "value": 40,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

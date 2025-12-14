@@ -1,0 +1,8 @@
+{
+    "name": "Brimhaven voucher",
+    "id": 29482,
+    "members": false,
+    "examine": "I can exchange these for items.",
+    "value": 1,
+    "weight": 0.0
+}

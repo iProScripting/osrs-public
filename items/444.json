@@ -1,0 +1,9 @@
+{
+    "name": "Gold ore",
+    "id": 444,
+    "members": false,
+    "examine": "This needs refining.",
+    "value": 150,
+    "weight": 2.267,
+    "buyLimit": 30000
+}

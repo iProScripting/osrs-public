@@ -1,0 +1,9 @@
+{
+    "name": "Bagged nice tree",
+    "id": 8419,
+    "members": false,
+    "examine": "You can plant this in your garden.",
+    "value": 2000,
+    "weight": 10.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Damp key",
+    "id": 25810,
+    "members": false,
+    "examine": "A damp key (Used in the A Kingdom Divided quest).",
+    "value": 30,
+    "weight": 0.01
+}

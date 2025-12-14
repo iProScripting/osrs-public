@@ -1,0 +1,11 @@
+{
+    "name": "Angler top",
+    "id": 13259,
+    "members": false,
+    "examine": "This will help with fishing.",
+    "value": 100,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

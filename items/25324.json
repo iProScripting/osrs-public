@@ -1,0 +1,11 @@
+{
+    "name": "20th anniversary top",
+    "id": 25324,
+    "members": false,
+    "examine": "Celebrating the 20th Anniversary of RuneScape.",
+    "value": 0,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

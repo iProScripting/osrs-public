@@ -1,0 +1,8 @@
+{
+    "name": "Rotten egg",
+    "id": 13205,
+    "members": false,
+    "examine": "A disconcertingly rotten egg.",
+    "value": 1,
+    "weight": 1.814
+}

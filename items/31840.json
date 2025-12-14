@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of dognose draught",
+    "id": 31840,
+    "members": false,
+    "examine": "This beer has an interesting bouquet that is completely imperceptible to humans.",
+    "value": 50,
+    "weight": 0.003
+}

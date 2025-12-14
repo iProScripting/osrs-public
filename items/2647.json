@@ -1,0 +1,12 @@
+{
+    "name": "Black headband",
+    "id": 2647,
+    "members": false,
+    "examine": "A minimalist's hat.",
+    "value": 40,
+    "weight": 0.04,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

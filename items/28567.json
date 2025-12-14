@@ -1,0 +1,8 @@
+{
+    "name": "Trinket of advanced weaponry",
+    "id": 28567,
+    "members": false,
+    "examine": "A magic rock! This one gives you a random corrupted weapon instead.",
+    "value": 10000,
+    "weight": 1.0
+}

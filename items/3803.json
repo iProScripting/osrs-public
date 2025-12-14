@@ -1,0 +1,9 @@
+{
+    "name": "Beer tankard",
+    "id": 3803,
+    "members": false,
+    "examine": "Frothy and alcoholic.",
+    "value": 20,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

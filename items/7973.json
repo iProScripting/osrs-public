@@ -1,0 +1,8 @@
+{
+    "name": "Beam",
+    "id": 7973,
+    "members": false,
+    "examine": "A wooden beam.",
+    "value": 5,
+    "weight": 0.01
+}

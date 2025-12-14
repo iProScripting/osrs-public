@@ -1,0 +1,8 @@
+{
+    "name": "Rellekka teleport",
+    "id": 11744,
+    "members": false,
+    "examine": "This tablet has been redirected to the Rellekka portal.",
+    "value": 1,
+    "weight": 0.0
+}

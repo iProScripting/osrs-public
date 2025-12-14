@@ -1,0 +1,19 @@
+{
+    "name": "Rune shield (h2)",
+    "id": 7342,
+    "members": false,
+    "examine": "A shield with a heraldic design",
+    "value": 54400,
+    "weight": 5.443,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 44,
+        "slashDefence": 48,
+        "crushDefence": 46,
+        "magicDefence": -1,
+        "rangedDefence": 46,
+        "slot": "SHIELD"
+    }
+}

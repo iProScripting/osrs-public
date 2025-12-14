@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Talk to the barber in the Falador barber shop",
+    "id": 12183,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

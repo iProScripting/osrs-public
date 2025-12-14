@@ -1,0 +1,14 @@
+{
+    "name": "Mithril staff of collection",
+    "id": 30605,
+    "members": false,
+    "examine": "A staff of collection, mithril tier.",
+    "value": 15,
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

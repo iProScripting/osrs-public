@@ -1,0 +1,24 @@
+{
+    "name": "Amulet of power (t)",
+    "id": 23354,
+    "members": false,
+    "examine": "An enchanted diamond amulet that looks good.",
+    "value": 4025,
+    "weight": 0.01,
+    "buyLimit": 5,
+    "equipment": {
+        "stabAttack": 6,
+        "slashAttack": 6,
+        "crushAttack": 6,
+        "magicAttack": 6,
+        "rangedAttack": 6,
+        "stabDefence": 6,
+        "slashDefence": 6,
+        "crushDefence": 6,
+        "magicDefence": 6,
+        "rangedDefence": 6,
+        "strength": 6,
+        "prayerBonus": 1,
+        "slot": "NECK"
+    }
+}

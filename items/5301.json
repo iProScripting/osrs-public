@@ -1,0 +1,9 @@
+{
+    "name": "Cadantine seed",
+    "id": 5301,
+    "members": false,
+    "examine": "A cadantine seed - plant in a herb patch.",
+    "value": 7,
+    "weight": 0.0,
+    "buyLimit": 200
+}

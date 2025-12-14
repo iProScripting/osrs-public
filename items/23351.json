@@ -1,0 +1,17 @@
+{
+    "name": "Cape of skulls",
+    "id": 23351,
+    "members": false,
+    "examine": "Lets the person behind you know that you mean business.",
+    "value": 5000,
+    "weight": 0.453,
+    "buyLimit": 8,
+    "equipment": {
+        "stabDefence": 9,
+        "slashDefence": 9,
+        "crushDefence": 9,
+        "magicDefence": 9,
+        "rangedDefence": 9,
+        "slot": "CAPE"
+    }
+}

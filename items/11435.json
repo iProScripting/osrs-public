@@ -1,0 +1,9 @@
+{
+    "name": "Antipoison mix",
+    "id": 11435,
+    "members": false,
+    "examine": "One dose of fishy antipoison potion.",
+    "value": 144,
+    "weight": 0.045,
+    "buyLimit": 2000
+}

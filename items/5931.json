@@ -1,0 +1,9 @@
+{
+    "name": "Jute fibre",
+    "id": 5931,
+    "members": false,
+    "examine": "I can weave this to make sacks.",
+    "value": 6,
+    "weight": 0.226,
+    "buyLimit": 13000
+}

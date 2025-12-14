@@ -1,0 +1,8 @@
+{
+    "name": "Armadyl armour ornament kit",
+    "id": 26713,
+    "members": false,
+    "examine": "Use on an armadyl armour piece to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5
+}

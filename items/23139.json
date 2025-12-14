@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Faerie",
+    "id": 23139,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

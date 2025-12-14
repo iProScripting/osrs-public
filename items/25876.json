@@ -1,0 +1,17 @@
+{
+    "name": "Blade of saeldor (c) (Cadarn)",
+    "id": 25876,
+    "members": false,
+    "examine": "A magical elven sword, corrupted through the addition of too many shards.",
+    "value": 5000000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 55,
+        "slashAttack": 94,
+        "strength": 89,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

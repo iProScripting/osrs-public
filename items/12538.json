@@ -1,0 +1,9 @@
+{
+    "name": "Dragon full helm ornament kit",
+    "id": 12538,
+    "members": false,
+    "examine": "Use on a dragon full helm to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Scarab mould",
+    "id": 26952,
+    "members": false,
+    "examine": "This could be used to make something.",
+    "value": 30,
+    "weight": 0.45
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Canopic jar",
+    "id": 4681,
+    "members": false,
+    "examine": "It has a lid shaped like a crocodile. Yuck! I think there are lungs inside.",
+    "value": 50,
+    "weight": 0.1
+}

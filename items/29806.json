@@ -1,0 +1,16 @@
+{
+    "name": "Aranea boots",
+    "id": 29806,
+    "members": false,
+    "examine": "Boots that are surrounded with spider folicles. Great web resistance!",
+    "value": 150000,
+    "weight": 1.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 5,
+        "rangedAttack": 6,
+        "strength": 4,
+        "prayerBonus": 1,
+        "slot": "FEET"
+    }
+}

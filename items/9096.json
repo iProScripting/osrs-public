@@ -1,0 +1,17 @@
+{
+    "name": "Lunar helm",
+    "id": 9096,
+    "members": false,
+    "examine": "A mystical helmet.",
+    "value": 100,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 3,
+        "rangedAttack": -2,
+        "stabDefence": 8,
+        "slashDefence": 7,
+        "crushDefence": 10,
+        "magicDefence": 2,
+        "slot": "HEAD"
+    }
+}

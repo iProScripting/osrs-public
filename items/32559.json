@@ -1,0 +1,12 @@
+{
+    "name": "Crate of yak hair",
+    "id": 32559,
+    "members": false,
+    "examine": "A cargo crate of yak hair destined for Etceteria.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

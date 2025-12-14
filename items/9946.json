@@ -1,0 +1,11 @@
+{
+    "name": "Cap and goggles",
+    "id": 9946,
+    "members": false,
+    "examine": "For better flying vision.",
+    "value": 1,
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

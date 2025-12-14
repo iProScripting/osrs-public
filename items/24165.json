@@ -1,0 +1,16 @@
+{
+    "name": "Decorative armour (magic hat)",
+    "id": 24165,
+    "members": false,
+    "examine": "Very decorative armour.",
+    "value": 45000,
+    "weight": 8.164,
+    "equipment": {
+        "stabDefence": 4,
+        "slashDefence": 4,
+        "crushDefence": 4,
+        "magicDefence": 4,
+        "rangedDefence": 4,
+        "slot": "HEAD"
+    }
+}

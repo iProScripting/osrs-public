@@ -1,0 +1,9 @@
+{
+    "name": "Venator shard",
+    "id": 27614,
+    "members": false,
+    "examine": "A broken shard of an ancient weapon.",
+    "value": 150000,
+    "weight": 0.0,
+    "buyLimit": 8
+}

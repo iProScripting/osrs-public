@@ -1,0 +1,9 @@
+{
+    "name": "Super restore mix",
+    "id": 11495,
+    "members": false,
+    "examine": "One dose of fishy super restore potion.",
+    "value": 120,
+    "weight": 0.045,
+    "buyLimit": 2000
+}

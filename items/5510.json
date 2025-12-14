@@ -1,0 +1,8 @@
+{
+    "name": "Medium pouch",
+    "id": 5510,
+    "members": false,
+    "examine": "A medium-sized pouch used for storing essence.",
+    "value": 300,
+    "weight": 1.0
+}

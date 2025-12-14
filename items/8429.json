@@ -1,0 +1,9 @@
+{
+    "name": "Bagged magic tree",
+    "id": 8429,
+    "members": false,
+    "examine": "You can plant this in your garden.",
+    "value": 50000,
+    "weight": 10.0,
+    "buyLimit": 10000
+}

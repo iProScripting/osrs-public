@@ -1,0 +1,9 @@
+{
+    "name": "Barley malt",
+    "id": 6008,
+    "members": false,
+    "examine": "A handful of barley malt.",
+    "value": 4,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

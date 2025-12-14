@@ -1,0 +1,19 @@
+{
+    "name": "Iron platebody (g)",
+    "id": 12235,
+    "members": false,
+    "examine": "Iron platebody with gold trim.",
+    "value": 560,
+    "weight": 9.979,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 21,
+        "slashDefence": 20,
+        "crushDefence": 12,
+        "magicDefence": -6,
+        "rangedDefence": 20,
+        "slot": "BODY"
+    }
+}

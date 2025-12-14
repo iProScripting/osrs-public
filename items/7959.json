@@ -1,0 +1,8 @@
+{
+    "name": "Heavy box",
+    "id": 7959,
+    "members": false,
+    "examine": "A box full of stolen Etceterian items.",
+    "value": 10,
+    "weight": 0.01
+}

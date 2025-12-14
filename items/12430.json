@@ -1,0 +1,12 @@
+{
+    "name": "Afro",
+    "id": 12430,
+    "members": false,
+    "examine": "Wild!",
+    "value": 684,
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

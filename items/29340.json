@@ -1,0 +1,8 @@
+{
+    "name": "Blessed bone statuette",
+    "id": 29340,
+    "members": false,
+    "examine": "A statuette carved from the finest blessed bone.",
+    "value": 2000,
+    "weight": 0.028
+}

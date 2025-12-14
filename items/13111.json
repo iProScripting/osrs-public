@@ -1,0 +1,20 @@
+{
+    "name": "Wilderness sword 4",
+    "id": 13111,
+    "members": false,
+    "examine": "A razor sharp sword.",
+    "value": 0,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 23,
+        "slashAttack": 18,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 24,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

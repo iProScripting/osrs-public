@@ -1,0 +1,11 @@
+{
+    "name": "Sinhaza shroud tier 2",
+    "id": 22496,
+    "members": false,
+    "examine": "A cape fit for those experienced in the Theatre.",
+    "value": 10,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

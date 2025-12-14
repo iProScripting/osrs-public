@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crate near the southern general store in Port Khazard",
+    "id": 3504,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cabbage rune",
+    "id": 13680,
+    "members": false,
+    "examine": "This small stone has been imbued with cruciferous energy.",
+    "value": 1,
+    "weight": 0.0
+}

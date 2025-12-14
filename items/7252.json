@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - When you get tired of fighting",
+    "id": 7252,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

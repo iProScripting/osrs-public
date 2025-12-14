@@ -1,0 +1,9 @@
+{
+    "name": "Spider on stick",
+    "id": 6297,
+    "members": false,
+    "examine": "A nicely roasted spider threaded onto a skewer stick.",
+    "value": 50,
+    "weight": 0.65,
+    "buyLimit": 6000
+}

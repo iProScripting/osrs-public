@@ -1,0 +1,9 @@
+{
+    "name": "Bottle of wine",
+    "id": 7919,
+    "members": false,
+    "examine": "A very good vintage.",
+    "value": 500,
+    "weight": 1.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Monkey wrench",
+    "id": 4018,
+    "members": false,
+    "examine": "For wrenching monkeys I'd guess.",
+    "value": 10,
+    "weight": 9.525
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Raw chompy",
+    "id": 2876,
+    "members": false,
+    "examine": "I need to cook this first.",
+    "value": 85,
+    "weight": 10.0,
+    "buyLimit": 13000
+}

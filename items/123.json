@@ -1,0 +1,9 @@
+{
+    "name": "Attack potion",
+    "id": 123,
+    "members": false,
+    "examine": "2 doses of Attack potion.",
+    "value": 9,
+    "weight": 0.025,
+    "buyLimit": 2000
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of battleaxes",
+    "id": 32766,
+    "members": false,
+    "examine": "A cargo crate of battleaxes destined for The Pandemonium.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

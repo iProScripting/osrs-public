@@ -1,0 +1,9 @@
+{
+    "name": "Oil lantern frame",
+    "id": 4540,
+    "members": false,
+    "examine": "Add the glass to complete.",
+    "value": 90,
+    "weight": 0.453,
+    "buyLimit": 10000
+}

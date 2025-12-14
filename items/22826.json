@@ -1,0 +1,9 @@
+{
+    "name": "Bluegill",
+    "id": 22826,
+    "members": false,
+    "examine": "A large Bluegill.",
+    "value": 3,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

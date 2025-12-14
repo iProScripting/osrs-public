@@ -1,0 +1,8 @@
+{
+    "name": "Iron sheet",
+    "id": 7941,
+    "members": false,
+    "examine": "A sturdy sheet of iron.",
+    "value": 30,
+    "weight": 1.814
+}

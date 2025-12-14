@@ -1,0 +1,12 @@
+{
+    "name": "Black skirt (g)",
+    "id": 12445,
+    "members": false,
+    "examine": "Leg covering favoured by women and wizards. With a colourful trim!",
+    "value": 2,
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

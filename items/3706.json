@@ -1,0 +1,8 @@
+{
+    "name": "Champions token",
+    "id": 3706,
+    "members": false,
+    "examine": "Shows the wearer is worthy of the Champions table.",
+    "value": 1,
+    "weight": 0.004
+}

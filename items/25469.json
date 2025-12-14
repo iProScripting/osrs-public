@@ -1,0 +1,11 @@
+{
+    "name": "Bronze coffin",
+    "id": 25469,
+    "members": false,
+    "examine": "Can store up to 3 shade remains.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

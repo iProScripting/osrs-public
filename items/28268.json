@@ -1,0 +1,8 @@
+{
+    "name": "Blood quartz",
+    "id": 28268,
+    "members": false,
+    "examine": "Made of condensed blood energy.",
+    "value": 100000,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Blessed crystal scarab",
+    "id": 27335,
+    "members": false,
+    "examine": "Restores a large amount of prayer over time.",
+    "value": 30,
+    "weight": 0.453
+}

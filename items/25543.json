@@ -1,0 +1,11 @@
+{
+    "name": "Celestial signet",
+    "id": 25543,
+    "members": false,
+    "examine": "A ring forged in the heart of a shooting star. It provides some useful mining boosts.",
+    "value": 2000,
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

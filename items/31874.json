@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of the endless night",
+    "id": 31874,
+    "members": false,
+    "examine": "A warning on the bottle reads: DO NOT MIX WITH THE ENDLESS DAY.",
+    "value": 50,
+    "weight": 0.003
+}

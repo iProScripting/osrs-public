@@ -1,0 +1,8 @@
+{
+    "name": "Baguette",
+    "id": 6961,
+    "members": false,
+    "examine": "A freshly baked baguette.",
+    "value": 25,
+    "weight": 0.02
+}

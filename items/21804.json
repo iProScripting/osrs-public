@@ -1,0 +1,9 @@
+{
+    "name": "Ancient crystal",
+    "id": 21804,
+    "members": false,
+    "examine": "An ancient crystal containing magical energy.",
+    "value": 250000,
+    "weight": 13.607,
+    "buyLimit": 250
+}

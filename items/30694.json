@@ -1,0 +1,12 @@
+{
+    "name": "Castle wars arrow",
+    "id": 30694,
+    "members": false,
+    "examine": "An arrow made using an imitation dragon's talon.",
+    "value": 10,
+    "weight": 0.016,
+    "equipment": {
+        "rangedStrength": 60,
+        "slot": "AMMO"
+    }
+}

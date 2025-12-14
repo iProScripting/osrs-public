@@ -1,0 +1,12 @@
+{
+    "name": "Adamant fire arrow",
+    "id": 2539,
+    "members": false,
+    "examine": "These adamant-headed arrows are ablaze with fire.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 31,
+        "slot": "AMMO"
+    }
+}

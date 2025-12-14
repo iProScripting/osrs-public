@@ -1,0 +1,9 @@
+{
+    "name": "Blue feather",
+    "id": 10089,
+    "members": false,
+    "examine": "A cool blue feather.",
+    "value": 16,
+    "weight": 0.0,
+    "buyLimit": 8000
+}

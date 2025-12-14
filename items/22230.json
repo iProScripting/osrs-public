@@ -1,0 +1,13 @@
+{
+    "name": "Barbed arrow",
+    "id": 22230,
+    "members": false,
+    "examine": "Arrows with barbed heads.",
+    "value": 1,
+    "weight": 0.0,
+    "equipment": {
+        "rangedAttack": 46,
+        "rangedStrength": 125,
+        "slot": "AMMO"
+    }
+}

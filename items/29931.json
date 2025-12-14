@@ -1,0 +1,11 @@
+{
+    "name": "Bird mask",
+    "id": 29931,
+    "members": false,
+    "examine": "A rather interesting mask of a bird.",
+    "value": 30,
+    "weight": 0.1,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

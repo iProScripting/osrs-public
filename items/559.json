@@ -1,0 +1,9 @@
+{
+    "name": "Body rune",
+    "id": 559,
+    "members": false,
+    "examine": "Used for curse spells.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

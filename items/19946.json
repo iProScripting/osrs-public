@@ -1,0 +1,12 @@
+{
+    "name": "Hosidius scarf",
+    "id": 19946,
+    "members": false,
+    "examine": "A green scarf adorned with an ornamental leaf.",
+    "value": 10000,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Amulet of torture (or)",
+    "id": 20366,
+    "members": false,
+    "examine": "A deep sense of torture burns within this powerful amulet.",
+    "value": 202000,
+    "weight": 0.01,
+    "equipment": {
+        "stabAttack": 15,
+        "slashAttack": 15,
+        "crushAttack": 15,
+        "strength": 10,
+        "prayerBonus": 2,
+        "slot": "NECK"
+    }
+}

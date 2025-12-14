@@ -1,0 +1,9 @@
+{
+    "name": "Cotton yarn",
+    "id": 31469,
+    "members": false,
+    "examine": "Spun from cotton bolls.",
+    "value": 120,
+    "weight": 0.1,
+    "buyLimit": 13000
+}

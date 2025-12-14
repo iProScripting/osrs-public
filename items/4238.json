@@ -1,0 +1,8 @@
+{
+    "name": "Puddle of slime",
+    "id": 4238,
+    "members": false,
+    "examine": "It's a puddle of slime.",
+    "value": 1,
+    "weight": 0.453
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Restore potion",
+    "id": 2430,
+    "members": false,
+    "examine": "4 doses of restore potion.",
+    "value": 110,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

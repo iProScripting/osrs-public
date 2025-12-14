@@ -1,0 +1,9 @@
+{
+    "name": "Premade c+t batta",
+    "id": 2223,
+    "members": false,
+    "examine": "A Premade Cheese and Tomato Batta.",
+    "value": 120,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

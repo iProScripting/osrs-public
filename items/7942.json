@@ -1,0 +1,8 @@
+{
+    "name": "Fresh monkfish",
+    "id": 7942,
+    "members": false,
+    "examine": "Freshly caught. Needs cooking.",
+    "value": 10,
+    "weight": 0.45
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of crystal clear vodka",
+    "id": 31893,
+    "members": false,
+    "examine": "You can see straight through it, but you don't know for how much longer.",
+    "value": 50,
+    "weight": 0.003
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Antisanta pantaloons",
+    "id": 12894,
+    "members": false,
+    "examine": "Keeps your bones warm.",
+    "value": 0,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

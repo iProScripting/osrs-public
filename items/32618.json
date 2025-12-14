@@ -1,0 +1,12 @@
+{
+    "name": "Crate of crab paste",
+    "id": 32618,
+    "members": false,
+    "examine": "A cargo crate of crab paste destined for Port Khazard.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

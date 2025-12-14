@@ -1,0 +1,8 @@
+{
+    "name": "Goblin symbol book",
+    "id": 5009,
+    "members": false,
+    "examine": "A book about the ancient goblin tribes.",
+    "value": 1,
+    "weight": 1.0
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Bag of salt",
+    "id": 4161,
+    "members": false,
+    "examine": "A bag of salt.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 8000
+}

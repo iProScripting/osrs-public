@@ -1,0 +1,9 @@
+{
+    "name": "Barbarian teleport (tablet)",
+    "id": 24955,
+    "members": false,
+    "examine": "A teleport to Barbarian Outpost.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

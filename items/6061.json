@@ -1,0 +1,13 @@
+{
+    "name": "Bronze bolts",
+    "id": 6061,
+    "members": false,
+    "examine": "Some poisoned bronze bolts.",
+    "value": 0,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 10,
+        "slot": "AMMO"
+    }
+}

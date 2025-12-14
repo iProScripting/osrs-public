@@ -1,0 +1,8 @@
+{
+    "name": "Raw beef (undead)",
+    "id": 4287,
+    "members": false,
+    "examine": "This raw beef is rancid.",
+    "value": 1,
+    "weight": 0.283
+}

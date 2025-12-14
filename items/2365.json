@@ -1,0 +1,8 @@
+{
+    "name": "'perfect' gold bar",
+    "id": 2365,
+    "members": false,
+    "examine": "It's a bar of 'perfect' gold.",
+    "value": 300,
+    "weight": 1.814
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Anchovy pizza",
+    "id": 2297,
+    "members": false,
+    "examine": "A pizza with anchovies.",
+    "value": 60,
+    "weight": 0.9,
+    "buyLimit": 10000
+}

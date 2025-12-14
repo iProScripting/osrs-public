@@ -1,0 +1,8 @@
+{
+    "name": "Waterlogged journal",
+    "id": 32396,
+    "members": false,
+    "examine": "A wizard's old notebook, tarnished by the seas, but somehow still legible.",
+    "value": 2,
+    "weight": 0.51
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Magic lamp (The Path of Glouphrie)",
+    "id": 28590,
+    "members": false,
+    "examine": "Give it a rub.",
+    "value": 1,
+    "weight": 0.1
+}

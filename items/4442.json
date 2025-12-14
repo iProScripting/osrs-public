@@ -1,0 +1,8 @@
+{
+    "name": "Breathing salts",
+    "id": 4442,
+    "members": false,
+    "examine": "An airtight pot with something inside, most likely breathing salts.",
+    "value": 1,
+    "weight": 0.001
+}

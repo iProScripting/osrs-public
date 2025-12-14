@@ -1,0 +1,9 @@
+{
+    "name": "Cadava berries",
+    "id": 753,
+    "members": false,
+    "examine": "Poisonous berries.",
+    "value": 1,
+    "weight": 0.007,
+    "buyLimit": 600
+}

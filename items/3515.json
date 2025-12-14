@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search for a crate in Varrock Castle",
+    "id": 3515,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Ensouled minotaur head",
+    "id": 13456,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
+    "value": 228,
+    "weight": 0.453
+}

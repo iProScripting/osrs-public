@@ -1,0 +1,13 @@
+{
+    "name": "Barbed bolts",
+    "id": 881,
+    "members": false,
+    "examine": "Great if you have a crossbow!",
+    "value": 200,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 12,
+        "slot": "AMMO"
+    }
+}

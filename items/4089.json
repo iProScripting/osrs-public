@@ -1,0 +1,14 @@
+{
+    "name": "Mystic hat",
+    "id": 4089,
+    "members": false,
+    "examine": "A magical hat.",
+    "value": 15000,
+    "weight": 0.453,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "slot": "HEAD"
+    }
+}

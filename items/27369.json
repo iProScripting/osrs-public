@@ -1,0 +1,8 @@
+{
+    "name": "Ancient key (Tombs of Amascut)",
+    "id": 27369,
+    "members": false,
+    "examine": "A key received from a camel.",
+    "value": 30,
+    "weight": 0.01
+}

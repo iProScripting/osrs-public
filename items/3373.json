@@ -1,0 +1,9 @@
+{
+    "name": "Fat snail meat",
+    "id": 3373,
+    "members": false,
+    "examine": "A succulently slimy slice of sumptuous snail.",
+    "value": 30,
+    "weight": 5.0,
+    "buyLimit": 6000
+}

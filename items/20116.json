@@ -1,0 +1,12 @@
+{
+    "name": "Hosidius hood",
+    "id": 20116,
+    "members": false,
+    "examine": "A rare hood from Hosidius.",
+    "value": 1,
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

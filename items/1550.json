@@ -1,0 +1,9 @@
+{
+    "name": "Garlic",
+    "id": 1550,
+    "members": false,
+    "examine": "A clove of garlic.",
+    "value": 3,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

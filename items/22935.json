@@ -1,0 +1,9 @@
+{
+    "name": "Celastrus bark",
+    "id": 22935,
+    "members": false,
+    "examine": "A length of celastrus wood, ready for fletching.",
+    "value": 450,
+    "weight": 1.0,
+    "buyLimit": 12000
+}

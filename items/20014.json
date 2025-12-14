@@ -1,0 +1,20 @@
+{
+    "name": "3rd age pickaxe",
+    "id": 20014,
+    "members": false,
+    "examine": "A beautifully crafted pickaxe, shaped by ancient smiths.",
+    "value": 97950,
+    "weight": 2.4,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": 38,
+        "slashAttack": -2,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

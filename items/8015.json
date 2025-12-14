@@ -1,0 +1,9 @@
+{
+    "name": "Bones to peaches (tablet)",
+    "id": 8015,
+    "members": false,
+    "examine": "A tablet containing a magic spell.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

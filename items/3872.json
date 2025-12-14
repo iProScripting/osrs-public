@@ -1,0 +1,8 @@
+{
+    "name": "Board game piece",
+    "id": 3872,
+    "members": false,
+    "examine": "A piece used in board games.",
+    "value": 1,
+    "weight": 2.0
+}

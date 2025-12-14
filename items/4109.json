@@ -1,0 +1,14 @@
+{
+    "name": "Mystic hat (light)",
+    "id": 4109,
+    "members": false,
+    "examine": "A bright magical hat.",
+    "value": 15000,
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Broken axe (adamant)",
+    "id": 504,
+    "members": false,
+    "examine": "Bob can fix this for me.",
+    "value": 1,
+    "weight": 1.133,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1
+    }
+}

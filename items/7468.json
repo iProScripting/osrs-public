@@ -1,0 +1,9 @@
+{
+    "name": "Pot of cornflour",
+    "id": 7468,
+    "members": false,
+    "examine": "It's cornflour in a pot.",
+    "value": 10,
+    "weight": 1.36,
+    "buyLimit": 15
+}

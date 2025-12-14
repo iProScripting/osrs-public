@@ -1,0 +1,21 @@
+{
+    "name": "Lovakengj banner",
+    "id": 20257,
+    "members": false,
+    "examine": "A lovakite banner bearing the Lovakengj sigil.",
+    "value": 70,
+    "weight": 2.267,
+    "buyLimit": 4,
+    "equipment": {
+        "stabAttack": 12,
+        "slashAttack": 12,
+        "crushAttack": 12,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "strength": 12,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "POLESTAFF"
+    }
+}

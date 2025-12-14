@@ -1,0 +1,18 @@
+{
+    "name": "Birthday cake",
+    "id": 23108,
+    "members": false,
+    "examine": "Totally jammin' with jam in.",
+    "value": 1,
+    "weight": 0.48,
+    "equipment": {
+        "stabAttack": -100,
+        "slashAttack": -100,
+        "crushAttack": -50,
+        "strength": -10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

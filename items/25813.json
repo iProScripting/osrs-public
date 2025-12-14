@@ -1,0 +1,8 @@
+{
+    "name": "Shielding potion",
+    "id": 25813,
+    "members": false,
+    "examine": "An enchanted potion.",
+    "value": 30,
+    "weight": 0.056
+}

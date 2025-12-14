@@ -1,0 +1,8 @@
+{
+    "name": "Book of arcane knowledge",
+    "id": 13513,
+    "members": false,
+    "examine": "Secrets you may benefit from learning.",
+    "value": 1,
+    "weight": 0.2
+}

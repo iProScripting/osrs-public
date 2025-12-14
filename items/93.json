@@ -1,0 +1,9 @@
+{
+    "name": "Marrentill potion (unf)",
+    "id": 93,
+    "members": false,
+    "examine": "I need another ingredient to finish this Marrentill potion.",
+    "value": 5,
+    "weight": 0.056,
+    "buyLimit": 10000
+}

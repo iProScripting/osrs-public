@@ -1,0 +1,13 @@
+{
+    "name": "Ghostly robe (bottom)",
+    "id": 6108,
+    "members": false,
+    "examine": "An unearthly set of robe bottoms.",
+    "value": 30,
+    "weight": 0.001,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "slot": "LEGS"
+    }
+}

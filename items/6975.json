@@ -1,0 +1,9 @@
+{
+    "name": "Sandstone",
+    "id": 6975,
+    "members": false,
+    "examine": "A medium-sized chunk of sandstone.",
+    "value": 1,
+    "weight": 5.0,
+    "buyLimit": 100
+}

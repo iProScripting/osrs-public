@@ -1,0 +1,8 @@
+{
+    "name": "Tome of the moon",
+    "id": 23504,
+    "members": false,
+    "examine": "Ancient literature detailing the religion of Ranul.",
+    "value": 1,
+    "weight": 1.0
+}

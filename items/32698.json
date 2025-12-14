@@ -1,0 +1,12 @@
+{
+    "name": "Crate of fruit",
+    "id": 32698,
+    "members": false,
+    "examine": "A cargo crate of fruit destined for Port Tyras.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

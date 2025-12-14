@@ -1,0 +1,12 @@
+{
+    "name": "Brass necklace",
+    "id": 1009,
+    "members": false,
+    "examine": "I'd prefer a gold one.",
+    "value": 30,
+    "weight": 0.01,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bob's red shirt",
+    "id": 10316,
+    "members": false,
+    "examine": "'Bob says: Never give your password out to anyone.'",
+    "value": 3,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

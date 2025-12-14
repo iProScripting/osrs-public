@@ -1,0 +1,25 @@
+{
+    "name": "Blood ancient sceptre",
+    "id": 28238,
+    "members": false,
+    "examine": "A very old and powerful stick, enhanced with the power of blood magic.",
+    "value": 1,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": -1,
+        "crushAttack": 50,
+        "magicAttack": 20,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 15,
+        "strength": 60,
+        "prayerBonus": -1,
+        "magicDamage": 5.0,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

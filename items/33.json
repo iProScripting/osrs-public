@@ -1,0 +1,8 @@
+{
+    "name": "Candle",
+    "id": 33,
+    "members": false,
+    "examine": "A lit candle.",
+    "value": 3,
+    "weight": 0.028
+}

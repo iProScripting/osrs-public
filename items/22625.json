@@ -1,0 +1,22 @@
+{
+    "name": "Statius's full helm (Deadman Mode)",
+    "id": 22625,
+    "members": false,
+    "examine": "A powerful helmet.",
+    "value": 250000,
+    "weight": 2.721,
+    "equipment": {
+        "stabAttack": 3,
+        "slashAttack": 3,
+        "crushAttack": 4,
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 65,
+        "slashDefence": 70,
+        "crushDefence": 63,
+        "magicDefence": -1,
+        "rangedDefence": 71,
+        "strength": 3,
+        "slot": "HEAD"
+    }
+}

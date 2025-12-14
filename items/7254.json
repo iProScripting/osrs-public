@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - If you look closely enough",
+    "id": 7254,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

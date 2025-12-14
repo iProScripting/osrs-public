@@ -1,0 +1,9 @@
+{
+    "name": "Bronze set (lg)",
+    "id": 12960,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, legs and kiteshield.",
+    "value": 200,
+    "weight": 6.0,
+    "buyLimit": 8
+}

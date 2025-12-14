@@ -1,0 +1,13 @@
+{
+    "name": "Mithril javelin",
+    "id": 5651,
+    "members": false,
+    "examine": "A mithril tipped javelin.",
+    "value": 64,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 85,
+        "slot": "AMMO"
+    }
+}

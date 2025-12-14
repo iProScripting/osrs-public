@@ -1,0 +1,12 @@
+{
+    "name": "Lightbearer",
+    "id": 25975,
+    "members": false,
+    "examine": "A heavy ring that glimmers with a strange power.",
+    "value": 1000000,
+    "weight": 0.05,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "RING"
+    }
+}

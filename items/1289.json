@@ -1,0 +1,21 @@
+{
+    "name": "Rune sword",
+    "id": 1289,
+    "members": false,
+    "examine": "A razor sharp sword.",
+    "value": 20800,
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 38,
+        "slashAttack": 26,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 39,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

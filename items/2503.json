@@ -1,0 +1,19 @@
+{
+    "name": "Black d'hide body",
+    "id": 2503,
+    "members": false,
+    "examine": "Made from 100% real dragonhide.",
+    "value": 13480,
+    "weight": 6.803,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": 30,
+        "stabDefence": 30,
+        "slashDefence": 38,
+        "crushDefence": 45,
+        "magicDefence": 45,
+        "rangedDefence": 50,
+        "slot": "BODY"
+    }
+}

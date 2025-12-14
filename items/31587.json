@@ -1,0 +1,8 @@
+{
+    "name": "Haemostatic poultice",
+    "id": 31587,
+    "members": false,
+    "examine": "A healing poultice, can be applied to cotton yarn to create a haemostatic dressing.",
+    "value": 170,
+    "weight": 0.03
+}

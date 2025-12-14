@@ -1,0 +1,9 @@
+{
+    "name": "Axeman's folly (keg)",
+    "id": 5825,
+    "members": false,
+    "examine": "This keg contains 4 pints of Axeman's Folly.",
+    "value": 1,
+    "weight": 0.028,
+    "buyLimit": 2000
+}

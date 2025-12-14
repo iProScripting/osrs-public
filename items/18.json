@@ -1,0 +1,8 @@
+{
+    "name": "Magic gold feather",
+    "id": 18,
+    "members": false,
+    "examine": "It will point the way for me.",
+    "value": 2,
+    "weight": 0.005
+}

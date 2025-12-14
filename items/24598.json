@@ -1,0 +1,9 @@
+{
+    "name": "Blighted super restore",
+    "id": 24598,
+    "members": false,
+    "examine": "4 doses of super restore potion, blighted so it can be used only in the Wilderness.",
+    "value": 40,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

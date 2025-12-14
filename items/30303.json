@@ -1,0 +1,11 @@
+{
+    "name": "Torva platebody (unobtainable item)",
+    "id": 30303,
+    "members": false,
+    "examine": "An ancient warrior's platebody.",
+    "value": 1,
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

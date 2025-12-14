@@ -1,0 +1,9 @@
+{
+    "name": "Odium shard 1",
+    "id": 11928,
+    "members": false,
+    "examine": "A broken shield piece.",
+    "value": 31000,
+    "weight": 0.907,
+    "buyLimit": 10000
+}

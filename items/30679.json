@@ -1,0 +1,8 @@
+{
+    "name": "Stockpiling charm",
+    "id": 30679,
+    "members": false,
+    "examine": "A magical, helpful charm.",
+    "value": 10000,
+    "weight": 1.0
+}

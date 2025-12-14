@@ -1,0 +1,17 @@
+{
+    "name": "Larupia legs",
+    "id": 10041,
+    "members": false,
+    "examine": "These should make me harder to spot in woodland and jungle areas.",
+    "value": 100,
+    "weight": 0.226,
+    "buyLimit": 150,
+    "equipment": {
+        "rangedAttack": -7,
+        "stabDefence": 11,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

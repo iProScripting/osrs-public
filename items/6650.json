@@ -1,0 +1,8 @@
+{
+    "name": "Blackened crystal",
+    "id": 6650,
+    "members": false,
+    "examine": "A blackened crystal sample.",
+    "value": 1,
+    "weight": 0.015
+}

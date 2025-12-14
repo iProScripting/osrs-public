@@ -1,0 +1,9 @@
+{
+    "name": "Ancient emblem",
+    "id": 21807,
+    "members": false,
+    "examine": "A mysterious artifact<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> of ancient times, of some value to emblem traders.",
+    "value": 500000,
+    "weight": 0.1,
+    "buyLimit": 250
+}

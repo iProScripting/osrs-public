@@ -1,0 +1,9 @@
+{
+    "name": "Red spiders' eggs",
+    "id": 223,
+    "members": false,
+    "examine": "Ewww!",
+    "value": 7,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bird feed",
+    "id": 422,
+    "members": false,
+    "examine": "Birds love this stuff!",
+    "value": 1,
+    "weight": 0.05
+}

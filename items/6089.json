@@ -1,0 +1,8 @@
+{
+    "name": "Blue toad",
+    "id": 6089,
+    "members": false,
+    "examine": "A blue dye filled toad.",
+    "value": 1,
+    "weight": 0.75
+}

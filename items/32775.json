@@ -1,0 +1,12 @@
+{
+    "name": "Crate of sea shells",
+    "id": 32775,
+    "members": false,
+    "examine": "A cargo crate of sea shells destined for the Pandemonium.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

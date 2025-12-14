@@ -1,0 +1,9 @@
+{
+    "name": "Charge dragonstone jewellery scroll",
+    "id": 20238,
+    "members": false,
+    "examine": "A scroll for charging dragonstone jewellery.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

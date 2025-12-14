@@ -1,0 +1,19 @@
+{
+    "name": "Bronze platebody",
+    "id": 1117,
+    "members": false,
+    "examine": "Provides excellent protection.",
+    "value": 160,
+    "weight": 9.979,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 15,
+        "slashDefence": 14,
+        "crushDefence": 9,
+        "magicDefence": -6,
+        "rangedDefence": 14,
+        "slot": "BODY"
+    }
+}

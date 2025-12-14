@@ -1,0 +1,9 @@
+{
+    "name": "Fishing bait",
+    "id": 313,
+    "members": false,
+    "examine": "For use with a fishing rod.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 8000
+}

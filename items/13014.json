@@ -1,0 +1,9 @@
+{
+    "name": "Adamant set (sk)",
+    "id": 13014,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
+    "value": 8000,
+    "weight": 6.0,
+    "buyLimit": 8
+}

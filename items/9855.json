@@ -1,0 +1,9 @@
+{
+    "name": "Carved teak magic wardrobe (flatpack)",
+    "id": 9855,
+    "members": false,
+    "examine": "Carved teak magic wardrobe.",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 500
+}

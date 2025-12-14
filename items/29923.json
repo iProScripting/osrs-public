@@ -1,0 +1,8 @@
+{
+    "name": "Chest key (Fancy chest)",
+    "id": 29923,
+    "members": false,
+    "examine": "A key stolen from Constantinius.",
+    "value": 1,
+    "weight": 0.01
+}

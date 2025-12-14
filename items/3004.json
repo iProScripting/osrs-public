@@ -1,0 +1,9 @@
+{
+    "name": "Snapdragon potion (unf)",
+    "id": 3004,
+    "members": false,
+    "examine": "I need another ingredient to finish this Snapdragon potion.",
+    "value": 59,
+    "weight": 0.056,
+    "buyLimit": 10000
+}

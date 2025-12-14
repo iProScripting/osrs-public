@@ -1,0 +1,8 @@
+{
+    "name": "A stone bowl",
+    "id": 2889,
+    "members": false,
+    "examine": "This is a stone bowl full of lava.",
+    "value": 1,
+    "weight": 0.226
+}

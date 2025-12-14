@@ -1,0 +1,9 @@
+{
+    "name": "Asgarnian ale(m)",
+    "id": 5739,
+    "members": false,
+    "examine": "This looks a good deal stronger than normal Asgarnian Ale.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

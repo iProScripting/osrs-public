@@ -1,0 +1,9 @@
+{
+    "name": "Lava rune",
+    "id": 4699,
+    "members": false,
+    "examine": "A combined Earth and Fire Rune.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

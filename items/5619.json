@@ -1,0 +1,13 @@
+{
+    "name": "Mithril arrow",
+    "id": 5619,
+    "members": false,
+    "examine": "Venomous-looking arrows.",
+    "value": 32,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 22,
+        "slot": "AMMO"
+    }
+}

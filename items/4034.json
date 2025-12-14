@@ -1,0 +1,8 @@
+{
+    "name": "Monkey skull",
+    "id": 4034,
+    "members": false,
+    "examine": "It's a very ancient skull from some kind of ape.",
+    "value": 1,
+    "weight": 0.5
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Echo home teleport scroll",
+    "id": 30453,
+    "members": false,
+    "examine": "A scroll which unlocks the Raging Echoes Home Teleport animation.",
+    "value": 25000,
+    "weight": 0.1
+}

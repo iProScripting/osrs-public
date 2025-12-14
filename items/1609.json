@@ -1,0 +1,9 @@
+{
+    "name": "Opal",
+    "id": 1609,
+    "members": false,
+    "examine": "A semi precious stone.",
+    "value": 100,
+    "weight": 0.002,
+    "buyLimit": 13000
+}

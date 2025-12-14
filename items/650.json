@@ -1,0 +1,14 @@
+{
+    "name": "Blue robe bottoms",
+    "id": 650,
+    "members": false,
+    "examine": "Made by Tree Gnomes with a thing for blue.",
+    "value": 180,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Ground seaweed",
+    "id": 6683,
+    "members": false,
+    "examine": "One of the ingredients for making fish food.",
+    "value": 2,
+    "weight": 0.056
+}

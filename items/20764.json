@@ -1,0 +1,11 @@
+{
+    "name": "Ardougne max hood",
+    "id": 20764,
+    "members": false,
+    "examine": "The hood worn by only the most experienced players.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

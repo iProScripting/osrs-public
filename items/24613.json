@@ -1,0 +1,9 @@
+{
+    "name": "Blighted entangle sack",
+    "id": 24613,
+    "members": false,
+    "examine": "Enough power for an Entangle, blighted so it can be used only in the Wilderness.",
+    "value": 30,
+    "weight": 0.0,
+    "buyLimit": 15000
+}

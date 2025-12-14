@@ -1,0 +1,8 @@
+{
+    "name": "Base plans",
+    "id": 30310,
+    "members": false,
+    "examine": "Some rolled-up plans.",
+    "value": 30,
+    "weight": 0.05
+}

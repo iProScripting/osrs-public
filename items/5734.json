@@ -1,0 +1,21 @@
+{
+    "name": "Black spear",
+    "id": 5734,
+    "members": false,
+    "examine": "A poisoned black tipped spear.",
+    "value": 750,
+    "weight": 2.267,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 15,
+        "slashAttack": 15,
+        "crushAttack": 15,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "strength": 16,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

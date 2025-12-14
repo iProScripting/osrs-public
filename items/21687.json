@@ -1,0 +1,8 @@
+{
+    "name": "Mushroom pie",
+    "id": 21687,
+    "members": false,
+    "examine": "Mmm half a mushroom pie.",
+    "value": 15,
+    "weight": 0.225
+}

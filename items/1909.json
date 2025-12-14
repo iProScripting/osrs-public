@@ -1,0 +1,9 @@
+{
+    "name": "Greenman's ale",
+    "id": 1909,
+    "members": false,
+    "examine": "A glass of frothy ale.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

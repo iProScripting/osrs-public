@@ -1,0 +1,12 @@
+{
+    "name": "Crate of bows",
+    "id": 32614,
+    "members": false,
+    "examine": "A cargo crate of bows destined for Port Khazard.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

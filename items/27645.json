@@ -1,0 +1,18 @@
+{
+    "name": "Mystic cards",
+    "id": 27645,
+    "members": false,
+    "examine": "You gotta really put your heart into throwing these things.",
+    "value": 50,
+    "weight": 0.1,
+    "equipment": {
+        "stabAttack": -100,
+        "slashAttack": -100,
+        "crushAttack": -50,
+        "strength": -20,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

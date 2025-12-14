@@ -1,0 +1,8 @@
+{
+    "name": "Blueberry muffin",
+    "id": 31128,
+    "members": false,
+    "examine": "A tasty treat that can't be beat.",
+    "value": 40,
+    "weight": 0.025
+}

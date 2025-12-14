@@ -1,0 +1,13 @@
+{
+    "name": "Moonlight antler bolts",
+    "id": 28878,
+    "members": false,
+    "examine": "Bolts made from the antlers of a moonlight antelope.",
+    "value": 31,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 60,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Black dragonhide",
+    "id": 1747,
+    "members": false,
+    "examine": "The scaly rough hide from a Black Dragon.",
+    "value": 150,
+    "weight": 3.175,
+    "buyLimit": 11000
+}

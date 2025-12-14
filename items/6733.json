@@ -1,0 +1,14 @@
+{
+    "name": "Archers ring",
+    "id": 6733,
+    "members": false,
+    "examine": "A fabled ring that improves the wearer's skill with a bow...",
+    "value": 10000,
+    "weight": 0.004,
+    "buyLimit": 8,
+    "equipment": {
+        "rangedAttack": 4,
+        "rangedDefence": 4,
+        "slot": "RING"
+    }
+}

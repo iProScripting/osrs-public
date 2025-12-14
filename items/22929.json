@@ -1,0 +1,9 @@
+{
+    "name": "Dragonfruit",
+    "id": 22929,
+    "members": false,
+    "examine": "A large ripe dragonfruit.",
+    "value": 95,
+    "weight": 0.2,
+    "buyLimit": 11000
+}

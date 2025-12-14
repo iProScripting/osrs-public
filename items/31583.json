@@ -1,0 +1,16 @@
+{
+    "name": "Rosewood blowpipe",
+    "id": 31583,
+    "members": false,
+    "examine": "Breath powered dart delivering system with a hint of rosewood.",
+    "value": 2500,
+    "weight": 0.5,
+    "equipment": {
+        "rangedAttack": 22,
+        "rangedStrength": 6,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 5,
+        "combatStyle": "THROWN"
+    }
+}

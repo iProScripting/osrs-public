@@ -1,0 +1,8 @@
+{
+    "name": "Burnt bread (cookout)",
+    "id": 26643,
+    "members": false,
+    "examine": "A burnt loaf of bread, oops. Made for the cookout.",
+    "value": 1,
+    "weight": 0.8
+}

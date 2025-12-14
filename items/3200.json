@@ -1,0 +1,22 @@
+{
+    "name": "Adamant halberd",
+    "id": 3200,
+    "members": false,
+    "examine": "An adamant halberd.",
+    "value": 6400,
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 28,
+        "slashAttack": 41,
+        "magicAttack": -4,
+        "stabDefence": -1,
+        "slashDefence": 3,
+        "crushDefence": 4,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 2,
+        "combatStyle": "POLEARM"
+    }
+}

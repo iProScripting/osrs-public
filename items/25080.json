@@ -1,0 +1,11 @@
+{
+    "name": "Graceful legs (Trailblazer)",
+    "id": 25080,
+    "members": false,
+    "examine": "You have graceful legs. How nice.",
+    "value": 60,
+    "weight": -6.0,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

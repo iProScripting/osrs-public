@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - Fossilised",
+    "id": 23180,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

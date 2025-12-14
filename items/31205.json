@@ -1,0 +1,8 @@
+{
+    "name": "Grid master altar icon scroll",
+    "id": 31205,
+    "members": false,
+    "examine": "Used to construct an icon to the iconic entrance into the world of Gielinor inside your Player owned house.",
+    "value": 2500000,
+    "weight": 0.1
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of fabrics",
+    "id": 32534,
+    "members": false,
+    "examine": "A cargo crate of fabrics destined for Deepfin Point.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Verac's flail",
+    "id": 4985,
+    "members": false,
+    "examine": "Verac the Defiled's flail.",
+    "value": 160000,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 68,
+        "slashAttack": -2,
+        "crushAttack": 82,
+        "strength": 72,
+        "prayerBonus": 6,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

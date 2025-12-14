@@ -1,0 +1,20 @@
+{
+    "name": "Eclipse moon helm",
+    "id": 29055,
+    "members": false,
+    "examine": "The helm of the Eclipse Moon.",
+    "value": 103000,
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": 8,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 14,
+        "magicDefence": 10,
+        "rangedDefence": 4,
+        "strength": 3,
+        "slot": "HEAD"
+    }
+}

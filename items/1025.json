@@ -1,0 +1,12 @@
+{
+    "name": "Right eye patch",
+    "id": 1025,
+    "members": false,
+    "examine": "A black piece of cloth on a string.",
+    "value": 2,
+    "weight": 0.006,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

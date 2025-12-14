@@ -1,0 +1,8 @@
+{
+    "name": "Arthur portrait",
+    "id": 7995,
+    "members": false,
+    "examine": "A portrait of King Arthur.",
+    "value": 1000,
+    "weight": 1.0
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of vegetables",
+    "id": 32576,
+    "members": false,
+    "examine": "A cargo crate of vegetables destined for Land's End.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

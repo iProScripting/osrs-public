@@ -1,0 +1,11 @@
+{
+    "name": "Amulet of the eye",
+    "id": 26994,
+    "members": false,
+    "examine": "An amulet in the shape of an eye.",
+    "value": 30,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

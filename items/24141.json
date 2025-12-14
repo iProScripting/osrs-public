@@ -1,0 +1,22 @@
+{
+    "name": "Adamant defender",
+    "id": 24141,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 13,
+        "slashAttack": 12,
+        "crushAttack": 11,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 13,
+        "slashDefence": 12,
+        "crushDefence": 11,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "strength": 4,
+        "slot": "SHIELD"
+    }
+}

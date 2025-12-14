@@ -1,0 +1,8 @@
+{
+    "name": "Bell bauble",
+    "id": 6848,
+    "members": false,
+    "examine": "A bauble shaped like a bell painted red.",
+    "value": 1,
+    "weight": 0.2
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Long kebbit spike",
+    "id": 10107,
+    "members": false,
+    "examine": "These bone spikes are both very tough and very sharp.",
+    "value": 150,
+    "weight": 0.04,
+    "buyLimit": 10000
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Zealot's robe bottom",
+    "id": 25436,
+    "members": false,
+    "examine": "A well fashioned robe with a strange aura emanating.",
+    "value": 24500,
+    "weight": 0.907,
+    "equipment": {
+        "prayerBonus": 6,
+        "slot": "LEGS"
+    }
+}

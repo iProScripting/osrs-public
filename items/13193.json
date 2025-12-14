@@ -1,0 +1,8 @@
+{
+    "name": "Bone bolt pack",
+    "id": 13193,
+    "members": false,
+    "examine": "A pack containing 100 bone crossbow bolts.",
+    "value": 350,
+    "weight": 0.453
+}

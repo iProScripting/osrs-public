@@ -1,0 +1,9 @@
+{
+    "name": "Dragon crossbow (u)",
+    "id": 21921,
+    "members": false,
+    "examine": "An unstrung dragon crossbow.",
+    "value": 30000,
+    "weight": 8.0,
+    "buyLimit": 10000
+}

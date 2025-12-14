@@ -1,0 +1,15 @@
+{
+    "name": "Saradomin mitre",
+    "id": 10452,
+    "members": false,
+    "examine": "A Saradomin mitre.",
+    "value": 5000,
+    "weight": 0.3,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "prayerBonus": 5,
+        "slot": "HEAD"
+    }
+}

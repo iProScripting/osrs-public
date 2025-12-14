@@ -1,0 +1,19 @@
+{
+    "name": "Adamant felling axe",
+    "id": 28211,
+    "members": false,
+    "examine": "A powerful felling axe.",
+    "value": 1280,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -3,
+        "slashAttack": 27,
+        "crushAttack": 24,
+        "slashDefence": 1,
+        "strength": 30,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

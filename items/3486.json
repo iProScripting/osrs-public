@@ -1,0 +1,19 @@
+{
+    "name": "Gilded full helm",
+    "id": 3486,
+    "members": false,
+    "examine": "Rune full helmet with gold plate.",
+    "value": 35200,
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 30,
+        "slashDefence": 32,
+        "crushDefence": 27,
+        "magicDefence": -1,
+        "rangedDefence": 30,
+        "slot": "HEAD"
+    }
+}

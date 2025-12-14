@@ -1,0 +1,13 @@
+{
+    "name": "Venator ring",
+    "id": 28310,
+    "members": false,
+    "examine": "An occult ring that grants immense dexterity.",
+    "value": 140000,
+    "weight": 0.012,
+    "equipment": {
+        "rangedAttack": 10,
+        "rangedStrength": 2,
+        "slot": "RING"
+    }
+}

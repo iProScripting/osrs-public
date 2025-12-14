@@ -1,0 +1,11 @@
+{
+    "name": "Chompy bird hat (expert dragon archer)",
+    "id": 2995,
+    "members": false,
+    "examine": "A symbol of your chompy bird hunting prowess: Expert Dragon Archer (4,000 kills)",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

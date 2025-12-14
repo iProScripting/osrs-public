@@ -1,0 +1,21 @@
+{
+    "name": "Belle's folly",
+    "id": 31248,
+    "members": false,
+    "examine": "A well balanced blade adorned with gold.",
+    "value": 45000,
+    "weight": 1.36,
+    "equipment": {
+        "stabAttack": 100,
+        "slashAttack": 78,
+        "crushAttack": -3,
+        "stabDefence": 20,
+        "slashDefence": 15,
+        "crushDefence": -9,
+        "strength": 102,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

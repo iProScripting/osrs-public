@@ -1,0 +1,11 @@
+{
+    "name": "Bunny legs",
+    "id": 13664,
+    "members": false,
+    "examine": "These look furry.",
+    "value": 1,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

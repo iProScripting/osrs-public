@@ -1,0 +1,16 @@
+{
+    "name": "Void melee helm (or)",
+    "id": 26477,
+    "members": false,
+    "examine": "A melee helm plucked from the shattered abyss.",
+    "value": 9851,
+    "weight": 0.453,
+    "equipment": {
+        "stabDefence": 6,
+        "slashDefence": 6,
+        "crushDefence": 6,
+        "magicDefence": 6,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

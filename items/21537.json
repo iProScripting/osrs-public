@@ -1,0 +1,8 @@
+{
+    "name": "Adamantite ore fragment",
+    "id": 21537,
+    "members": false,
+    "examine": "A broken up piece of Adamantite ore.",
+    "value": 1,
+    "weight": 0.0
+}

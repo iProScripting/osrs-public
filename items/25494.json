@@ -1,0 +1,17 @@
+{
+    "name": "Black d'hide vambraces (beta)",
+    "id": 25494,
+    "members": false,
+    "examine": "Vambraces made from 100% real dragonhide.",
+    "value": 1000,
+    "weight": 0.283,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 11,
+        "stabDefence": 4,
+        "slashDefence": 5,
+        "crushDefence": 5,
+        "magicDefence": 8,
+        "slot": "HANDS"
+    }
+}

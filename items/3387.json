@@ -1,0 +1,18 @@
+{
+    "name": "Splitbark body",
+    "id": 3387,
+    "members": false,
+    "examine": "Provides good protection.",
+    "value": 45000,
+    "weight": 4.535,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 10,
+        "rangedAttack": -10,
+        "stabDefence": 36,
+        "slashDefence": 26,
+        "crushDefence": 42,
+        "magicDefence": 15,
+        "slot": "BODY"
+    }
+}

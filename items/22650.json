@@ -1,0 +1,17 @@
+{
+    "name": "Zuriel's hood (Deadman Mode)",
+    "id": 22650,
+    "members": false,
+    "examine": "A powerful hood.",
+    "value": 250000,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 8,
+        "rangedAttack": -2,
+        "stabDefence": 20,
+        "slashDefence": 16,
+        "crushDefence": 22,
+        "magicDefence": 8,
+        "slot": "HEAD"
+    }
+}

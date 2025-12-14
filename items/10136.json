@@ -1,0 +1,9 @@
+{
+    "name": "Rainbow fish",
+    "id": 10136,
+    "members": false,
+    "examine": "Well, this would certainly add some colour to a meal.",
+    "value": 120,
+    "weight": 0.4,
+    "buyLimit": 6000
+}

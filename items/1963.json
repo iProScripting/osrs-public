@@ -1,0 +1,9 @@
+{
+    "name": "Banana",
+    "id": 1963,
+    "members": false,
+    "examine": "Mmm this looks tasty.",
+    "value": 2,
+    "weight": 0.028,
+    "buyLimit": 13000
+}

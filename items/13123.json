@@ -1,0 +1,16 @@
+{
+    "name": "Ardougne cloak 3",
+    "id": 13123,
+    "members": false,
+    "examine": "A shadowy Ardougne cloak.",
+    "value": 0,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 5,
+        "magicAttack": 5,
+        "stabDefence": 5,
+        "magicDefence": 5,
+        "prayerBonus": 5,
+        "slot": "CAPE"
+    }
+}

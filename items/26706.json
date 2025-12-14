@@ -1,0 +1,8 @@
+{
+    "name": "Scroll of imbuing",
+    "id": 26706,
+    "members": false,
+    "examine": "A magical scroll used to imbue a variety of items.",
+    "value": 100,
+    "weight": 0.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "5-gallon jug",
+    "id": 22764,
+    "members": false,
+    "examine": "A 5-gallon jug designed to hold coolant.",
+    "value": 30,
+    "weight": 0.453
+}

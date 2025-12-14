@@ -1,0 +1,19 @@
+{
+    "name": "Iron plateskirt (g)",
+    "id": 12239,
+    "members": false,
+    "examine": "Iron plateskirt with gold trim.",
+    "value": 280,
+    "weight": 8.164,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 11,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "magicDefence": -4,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Blank mind rune",
+    "id": 9696,
+    "members": false,
+    "examine": "A blank mind rune.",
+    "value": 1,
+    "weight": 0.01
+}

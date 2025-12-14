@@ -1,0 +1,9 @@
+{
+    "name": "Rock thrownhammer",
+    "id": 21754,
+    "members": false,
+    "examine": "Smash gargoyles from a distance.",
+    "value": 200,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

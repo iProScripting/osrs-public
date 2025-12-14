@@ -1,0 +1,9 @@
+{
+    "name": "Mort myre stem",
+    "id": 2972,
+    "members": false,
+    "examine": "A cutting from a budding branch.",
+    "value": 1,
+    "weight": 0.01,
+    "buyLimit": 13000
+}

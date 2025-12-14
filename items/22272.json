@@ -1,0 +1,22 @@
+{
+    "name": "Snakeskin shield",
+    "id": 22272,
+    "members": false,
+    "examine": "A solid willow shield covered in snakeskin leather.",
+    "value": 920,
+    "weight": 8.0,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -15,
+        "slashAttack": -15,
+        "crushAttack": -11,
+        "magicAttack": -10,
+        "rangedAttack": 3,
+        "stabDefence": 10,
+        "slashDefence": 9,
+        "crushDefence": 8,
+        "magicDefence": 7,
+        "rangedDefence": 10,
+        "slot": "SHIELD"
+    }
+}

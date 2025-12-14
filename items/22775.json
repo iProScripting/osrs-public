@@ -1,0 +1,8 @@
+{
+    "name": "Ancient letter",
+    "id": 22775,
+    "members": false,
+    "examine": "A copy of an ancient letter.",
+    "value": 1,
+    "weight": 0.003
+}

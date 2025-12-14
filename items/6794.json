@@ -1,0 +1,9 @@
+{
+    "name": "Choc-ice",
+    "id": 6794,
+    "members": false,
+    "examine": "Better eat this before it melts.",
+    "value": 30,
+    "weight": 0.001,
+    "buyLimit": 6000
+}

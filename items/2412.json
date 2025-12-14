@@ -1,0 +1,16 @@
+{
+    "name": "Saradomin cape",
+    "id": 2412,
+    "members": false,
+    "examine": "A cape from the almighty god Saradomin.",
+    "value": 10,
+    "weight": 0.453,
+    "equipment": {
+        "magicAttack": 10,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "crushDefence": 2,
+        "magicDefence": 10,
+        "slot": "CAPE"
+    }
+}

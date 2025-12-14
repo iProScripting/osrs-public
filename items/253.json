@@ -1,0 +1,9 @@
+{
+    "name": "Tarromin",
+    "id": 253,
+    "members": false,
+    "examine": "A useful herb.",
+    "value": 11,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Calamity chest",
+    "id": 26689,
+    "members": false,
+    "examine": "A chest piece used by the Calamity Coven, but it's broken.",
+    "value": 1,
+    "weight": 0.907,
+    "equipment": {
+        "stabAttack": 4,
+        "slashAttack": 4,
+        "crushAttack": 4,
+        "magicAttack": 8,
+        "rangedAttack": 11,
+        "stabDefence": 6,
+        "slashDefence": 7,
+        "crushDefence": 10,
+        "magicDefence": 12,
+        "rangedDefence": 10,
+        "slot": "BODY"
+    }
+}

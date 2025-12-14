@@ -1,0 +1,9 @@
+{
+    "name": "Broken dragon hasta",
+    "id": 22963,
+    "members": false,
+    "examine": "The item to make into a hasta.",
+    "value": 62400,
+    "weight": 0.01,
+    "buyLimit": 70
+}

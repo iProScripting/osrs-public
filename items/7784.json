@@ -1,0 +1,8 @@
+{
+    "name": "Agility tome",
+    "id": 7784,
+    "members": false,
+    "examine": "A tome of learning which focuses on Agility.",
+    "value": 5000,
+    "weight": 1.0
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Snowglobe helmet",
+    "id": 28788,
+    "members": false,
+    "examine": "Festive, functional, and fashionable!",
+    "value": 1,
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

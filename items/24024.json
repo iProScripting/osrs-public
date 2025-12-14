@@ -1,0 +1,11 @@
+{
+    "name": "Elven legwear",
+    "id": 24024,
+    "members": false,
+    "examine": "Clothing from the elven city of Prifddinas.",
+    "value": 5000,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

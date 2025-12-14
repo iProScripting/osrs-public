@@ -1,0 +1,9 @@
+{
+    "name": "Brass key",
+    "id": 983,
+    "members": false,
+    "examine": "Opens a door that leads into a dungeon (Edgeville Dungeon entrance).",
+    "value": 1,
+    "weight": 0.01,
+    "buyLimit": 15
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Soft clay",
+    "id": 1761,
+    "members": false,
+    "examine": "Clay soft enough to mould.",
+    "value": 2,
+    "weight": 0.907,
+    "buyLimit": 13000
+}

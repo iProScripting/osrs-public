@@ -1,0 +1,9 @@
+{
+    "name": "Potato with cheese",
+    "id": 6705,
+    "members": false,
+    "examine": "A baked potato with butter and cheese.",
+    "value": 8,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

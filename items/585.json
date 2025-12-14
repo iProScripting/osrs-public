@@ -1,0 +1,8 @@
+{
+    "name": "Bailing bucket",
+    "id": 585,
+    "members": false,
+    "examine": "It's a bailing bucket full of salty water.",
+    "value": 10,
+    "weight": 5.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Mining tome",
+    "id": 7791,
+    "members": false,
+    "examine": "A tome of learning which focuses on the Mining skill.",
+    "value": 5000,
+    "weight": 1.0
+}

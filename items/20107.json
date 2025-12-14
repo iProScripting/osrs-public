@@ -1,0 +1,12 @@
+{
+    "name": "Ankou socks",
+    "id": 20107,
+    "members": false,
+    "examine": "These socks will make your flesh transparent.",
+    "value": 1,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

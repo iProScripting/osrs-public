@@ -1,0 +1,9 @@
+{
+    "name": "Fire element staff crown",
+    "id": 30631,
+    "members": false,
+    "examine": "A missing piece from a magical staff.",
+    "value": 10000,
+    "weight": 2.267,
+    "buyLimit": 8
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Lantadyme seed",
+    "id": 5302,
+    "members": false,
+    "examine": "A lantadyme seed - plant in a herb patch.",
+    "value": 9,
+    "weight": 0.0,
+    "buyLimit": 200
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of light in the dark",
+    "id": 31843,
+    "members": false,
+    "examine": "Warnings on the bottle read: Flammable, inflammable, unstable, incendary, combustable, explosive. Best served in a low oxygen environment.",
+    "value": 50,
+    "weight": 0.003
+}

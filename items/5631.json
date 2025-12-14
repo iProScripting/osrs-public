@@ -1,0 +1,16 @@
+{
+    "name": "Black dart",
+    "id": 5631,
+    "members": false,
+    "examine": "A deadly poisoned dart with a black tip.",
+    "value": 18,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 6,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 3,
+        "combatStyle": "THROWN"
+    }
+}

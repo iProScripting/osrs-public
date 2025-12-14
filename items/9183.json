@@ -1,0 +1,16 @@
+{
+    "name": "Adamant crossbow",
+    "id": 9183,
+    "members": false,
+    "examine": "An adamantite crossbow.",
+    "value": 1767,
+    "weight": 6.0,
+    "buyLimit": 70,
+    "equipment": {
+        "rangedAttack": 78,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

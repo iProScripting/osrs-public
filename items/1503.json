@@ -1,0 +1,8 @@
+{
+    "name": "Warrant",
+    "id": 1503,
+    "members": false,
+    "examine": "A search warrant for a house in West Ardougne.",
+    "value": 5,
+    "weight": 0.01
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Steel scimitar",
+    "id": 1325,
+    "members": false,
+    "examine": "A vicious, curved sword.",
+    "value": 400,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 3,
+        "slashAttack": 15,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "strength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

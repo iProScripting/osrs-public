@@ -1,0 +1,12 @@
+{
+    "name": "Bucket helm",
+    "id": 19991,
+    "members": false,
+    "examine": "A helm made from a bucket.",
+    "value": 14000,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

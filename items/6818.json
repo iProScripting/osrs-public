@@ -1,0 +1,8 @@
+{
+    "name": "Bow-sword",
+    "id": 6818,
+    "members": false,
+    "examine": "A sharp sword that can also fire arrows.",
+    "value": 30,
+    "weight": 3.175
+}

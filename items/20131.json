@@ -1,0 +1,14 @@
+{
+    "name": "Robe top of darkness",
+    "id": 20131,
+    "members": false,
+    "examine": "A dark power is woven into this robe top.",
+    "value": 120000,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 20,
+        "magicDefence": 20,
+        "slot": "BODY"
+    }
+}

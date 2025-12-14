@@ -1,0 +1,13 @@
+{
+    "name": "Adamant arrow",
+    "id": 5626,
+    "members": false,
+    "examine": "Venomous-looking arrows.",
+    "value": 80,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 31,
+        "slot": "AMMO"
+    }
+}

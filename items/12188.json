@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the drawers in the house next to the Port Sarim mage shop",
+    "id": 12188,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

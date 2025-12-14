@@ -1,0 +1,8 @@
+{
+    "name": "Lit candle (unobtainable item)",
+    "id": 34,
+    "members": false,
+    "examine": "A lit candle.",
+    "value": 0,
+    "weight": 0.0
+}

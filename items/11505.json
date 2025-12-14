@@ -1,0 +1,9 @@
+{
+    "name": "Antifire mix",
+    "id": 11505,
+    "members": false,
+    "examine": "Two doses of fishy anti-firebreath potion.",
+    "value": 198,
+    "weight": 0.075,
+    "buyLimit": 2000
+}

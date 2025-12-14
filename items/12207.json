@@ -1,0 +1,19 @@
+{
+    "name": "Bronze platelegs (g)",
+    "id": 12207,
+    "members": false,
+    "examine": "Bronze platelegs with gold trim.",
+    "value": 80,
+    "weight": 9.071,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 8,
+        "slashDefence": 7,
+        "crushDefence": 6,
+        "magicDefence": -4,
+        "rangedDefence": 7,
+        "slot": "LEGS"
+    }
+}

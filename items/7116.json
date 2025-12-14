@@ -1,0 +1,12 @@
+{
+    "name": "Pirate leggings (beige)",
+    "id": 7116,
+    "members": false,
+    "examine": "A sea worthy pair of trousers.",
+    "value": 350,
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

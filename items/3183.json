@@ -1,0 +1,9 @@
+{
+    "name": "Monkey bones",
+    "id": 3183,
+    "members": false,
+    "examine": "These are small monkey bones.",
+    "value": 1,
+    "weight": 0.5,
+    "buyLimit": 3000
+}

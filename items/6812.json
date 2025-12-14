@@ -1,0 +1,9 @@
+{
+    "name": "Wyvern bones",
+    "id": 6812,
+    "members": false,
+    "examine": "Bones of a large flying creature!",
+    "value": 160,
+    "weight": 0.5,
+    "buyLimit": 7500
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Climbing boots (g)",
+    "id": 23413,
+    "members": false,
+    "examine": "Boots made for climbing. Nice trim!",
+    "value": 75000,
+    "weight": 0.34,
+    "buyLimit": 4,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "strength": 2,
+        "slot": "FEET"
+    }
+}

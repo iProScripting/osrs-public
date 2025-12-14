@@ -1,0 +1,11 @@
+{
+    "name": "Deadman's cape",
+    "id": 24191,
+    "members": false,
+    "examine": "Dark and sinister, just like a deadman.",
+    "value": 3,
+    "weight": 0.09,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

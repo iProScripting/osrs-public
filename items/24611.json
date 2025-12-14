@@ -1,0 +1,8 @@
+{
+    "name": "Blighted snare sack",
+    "id": 24611,
+    "members": false,
+    "examine": "Enough power for a Snare, blighted so it can be used only in the Wilderness.",
+    "value": 25,
+    "weight": 0.0
+}

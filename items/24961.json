@@ -1,0 +1,9 @@
+{
+    "name": "Catherby teleport (tablet)",
+    "id": 24961,
+    "members": false,
+    "examine": "A teleport to Catherby.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of mystery fruit cider",
+    "id": 31902,
+    "members": false,
+    "examine": "Made with 100% mystery fruit.",
+    "value": 50,
+    "weight": 0.003
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Carpenter's trousers",
+    "id": 24876,
+    "members": false,
+    "examine": "The trousers of a superior builder.",
+    "value": 340,
+    "weight": 0.71,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

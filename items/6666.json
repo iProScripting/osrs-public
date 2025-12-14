@@ -1,0 +1,16 @@
+{
+    "name": "Flippers",
+    "id": 6666,
+    "members": false,
+    "examine": "Strangely uncomfortable flippers.",
+    "value": 1,
+    "weight": 0.34,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": -2,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Blamish bark shell",
+    "id": 3353,
+    "members": false,
+    "examine": "A large bark coloured blamish snail shell, looks protective.",
+    "value": 150,
+    "weight": 10.0,
+    "buyLimit": 13000
+}

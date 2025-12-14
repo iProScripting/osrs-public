@@ -1,0 +1,20 @@
+{
+    "name": "Sanguine torva platelegs",
+    "id": 28258,
+    "members": false,
+    "examine": "An ancient warrior's platelegs.",
+    "value": 600000,
+    "weight": 9.071,
+    "equipment": {
+        "magicAttack": -24,
+        "rangedAttack": -11,
+        "stabDefence": 87,
+        "slashDefence": 78,
+        "crushDefence": 79,
+        "magicDefence": -9,
+        "rangedDefence": 102,
+        "strength": 4,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

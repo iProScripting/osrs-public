@@ -1,0 +1,13 @@
+{
+    "name": "Dizana's quiver",
+    "id": 28949,
+    "members": false,
+    "examine": "A quiver awarded to those who have proved their worth in the Colosseum.",
+    "value": 80000,
+    "weight": 0.453,
+    "equipment": {
+        "rangedAttack": 18,
+        "rangedStrength": 3,
+        "slot": "CAPE"
+    }
+}

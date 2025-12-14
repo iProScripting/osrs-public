@@ -1,0 +1,19 @@
+{
+    "name": "Dragon scimitar (or)",
+    "id": 20000,
+    "members": false,
+    "examine": "A vicious, curved and stylish sword.",
+    "value": 100000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 8,
+        "slashAttack": 67,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "strength": 66,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

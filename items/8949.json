@@ -1,0 +1,11 @@
+{
+    "name": "Pirate bandana (Trouble Brewing)",
+    "id": 8949,
+    "members": false,
+    "examine": "A blue bandana.",
+    "value": 1,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

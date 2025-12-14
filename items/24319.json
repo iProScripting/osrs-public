@@ -1,0 +1,11 @@
+{
+    "name": "Spookier skirt",
+    "id": 24319,
+    "members": false,
+    "examine": "A spooky skirt cut from a bedsheet!",
+    "value": 1,
+    "weight": 0.8,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

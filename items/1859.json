@@ -1,0 +1,9 @@
+{
+    "name": "Raw ugthanki meat",
+    "id": 1859,
+    "members": false,
+    "examine": "I need to cook this first.",
+    "value": 2,
+    "weight": 0.8,
+    "buyLimit": 11000
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Deep sea helmet (The Red Reef)",
+    "id": 31401,
+    "members": false,
+    "examine": "You'll look daft, but at least you won't drown!",
+    "value": 30,
+    "weight": 5.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

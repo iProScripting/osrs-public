@@ -1,0 +1,12 @@
+{
+    "name": "Light trousers",
+    "id": 19979,
+    "members": false,
+    "examine": "Light tuxedo trousers with matching stockings.",
+    "value": 6000,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

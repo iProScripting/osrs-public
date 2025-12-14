@@ -1,0 +1,8 @@
+{
+    "name": "Platinum token",
+    "id": 13204,
+    "members": false,
+    "examine": "Use it on a banker or bankbooth to exchange it for 1,000 coins per token.",
+    "value": 1000,
+    "weight": 0.0
+}

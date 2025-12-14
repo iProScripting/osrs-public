@@ -1,0 +1,19 @@
+{
+    "name": "Berserker helm",
+    "id": 3751,
+    "members": false,
+    "examine": "This helmet is worn by berserkers.",
+    "value": 60000,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -5,
+        "rangedAttack": -5,
+        "stabDefence": 31,
+        "slashDefence": 29,
+        "crushDefence": 33,
+        "rangedDefence": 30,
+        "strength": 3,
+        "slot": "HEAD"
+    }
+}

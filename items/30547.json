@@ -1,0 +1,11 @@
+{
+    "name": "Echo ahrim's robeskirt",
+    "id": 30547,
+    "members": false,
+    "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
+    "value": 47000,
+    "weight": 11.339,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

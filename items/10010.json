@@ -1,0 +1,15 @@
+{
+    "name": "Butterfly net",
+    "id": 10010,
+    "members": false,
+    "examine": "For catching butterflies...",
+    "value": 20,
+    "weight": 0.226,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

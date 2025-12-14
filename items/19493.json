@@ -1,0 +1,9 @@
+{
+    "name": "Zenyte",
+    "id": 19493,
+    "members": false,
+    "examine": "This looks valuable.",
+    "value": 75000,
+    "weight": 0.002,
+    "buyLimit": 11000
+}

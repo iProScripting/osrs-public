@@ -1,0 +1,15 @@
+{
+    "name": "Bandos stole",
+    "id": 12269,
+    "members": false,
+    "examine": "A Bandos stole.",
+    "value": 2500,
+    "weight": 0.01,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 2,
+        "magicDefence": 2,
+        "prayerBonus": 10,
+        "slot": "NECK"
+    }
+}

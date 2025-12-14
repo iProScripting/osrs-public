@@ -1,0 +1,20 @@
+{
+    "name": "Bandos kiteshield",
+    "id": 12488,
+    "members": false,
+    "examine": "Rune kiteshield in the colours of Bandos.",
+    "value": 54400,
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -2,
+        "stabDefence": 44,
+        "slashDefence": 48,
+        "crushDefence": 46,
+        "magicDefence": -1,
+        "rangedDefence": 46,
+        "prayerBonus": 1,
+        "slot": "SHIELD"
+    }
+}

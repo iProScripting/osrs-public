@@ -1,0 +1,9 @@
+{
+    "name": "Avantoe seed",
+    "id": 5298,
+    "members": false,
+    "examine": "An avantoe seed - plant in a herb patch.",
+    "value": 8,
+    "weight": 0.0,
+    "buyLimit": 200
+}

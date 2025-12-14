@@ -1,0 +1,11 @@
+{
+    "name": "Beekeeper's hat",
+    "id": 25129,
+    "members": false,
+    "examine": "Makes sure no bees get in your eyes!!",
+    "value": 1,
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

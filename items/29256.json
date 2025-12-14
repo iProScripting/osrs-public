@@ -1,0 +1,9 @@
+{
+    "name": "Perfected quetzal whistle blueprint",
+    "id": 29256,
+    "members": false,
+    "examine": "A perfected blueprint for a quetzal whistle.",
+    "value": 7500,
+    "weight": 0.004,
+    "buyLimit": 50
+}

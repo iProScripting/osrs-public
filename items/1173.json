@@ -1,0 +1,17 @@
+{
+    "name": "Bronze sq shield",
+    "id": 1173,
+    "members": false,
+    "examine": "A medium square shield.",
+    "value": 48,
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "stabDefence": 5,
+        "slashDefence": 6,
+        "crushDefence": 4,
+        "rangedDefence": 5,
+        "slot": "SHIELD"
+    }
+}

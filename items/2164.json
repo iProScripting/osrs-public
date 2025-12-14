@@ -1,0 +1,9 @@
+{
+    "name": "Batta tin",
+    "id": 2164,
+    "members": false,
+    "examine": "A deep tin used for baking gnome battas in.",
+    "value": 10,
+    "weight": 0.1,
+    "buyLimit": 40
+}

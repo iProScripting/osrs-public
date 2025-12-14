@@ -1,0 +1,8 @@
+{
+    "name": "Poisoned egg",
+    "id": 10535,
+    "members": false,
+    "examine": "A poisoned yellow egg; pass to the Attacker for spikes to be added!",
+    "value": 100,
+    "weight": 0.02
+}

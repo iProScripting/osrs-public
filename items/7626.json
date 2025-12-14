@@ -1,0 +1,8 @@
+{
+    "name": "Bucket of rubble",
+    "id": 7626,
+    "members": false,
+    "examine": "A bucket totally filled with rubble.",
+    "value": 1,
+    "weight": 2.5
+}

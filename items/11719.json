@@ -1,0 +1,19 @@
+{
+    "name": "Rune pickaxe (nz)",
+    "id": 11719,
+    "members": false,
+    "examine": "For use in the Nightmare Zone. Doesn't work for mining.",
+    "value": 0,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 26,
+        "slashAttack": -2,
+        "crushAttack": 24,
+        "slashDefence": 1,
+        "strength": 29,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cannon furnace (or)",
+    "id": 26526,
+    "members": false,
+    "examine": "The beating heart of a cannon plucked from the shattered abyss.",
+    "value": 187500,
+    "weight": 5.0
+}

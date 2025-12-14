@@ -1,0 +1,15 @@
+{
+    "name": "Ancient robe top",
+    "id": 12193,
+    "members": false,
+    "examine": "Ancient Vestments.",
+    "value": 7000,
+    "weight": 0.005,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "prayerBonus": 6,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Rod of ivandis",
+    "id": 7646,
+    "members": false,
+    "examine": "A partially charged rod.",
+    "value": 1000,
+    "weight": 0.001,
+    "equipment": {
+        "slashAttack": -1,
+        "crushAttack": 7,
+        "magicAttack": 4,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 4,
+        "strength": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

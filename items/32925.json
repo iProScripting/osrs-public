@@ -1,0 +1,12 @@
+{
+    "name": "Crate of clothes",
+    "id": 32925,
+    "members": false,
+    "examine": "A cargo crate of clothes destined for the Void Knights' Outpost.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

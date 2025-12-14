@@ -1,0 +1,9 @@
+{
+    "name": "Anglerfish",
+    "id": 13441,
+    "members": false,
+    "examine": "I hope this tastes better than it looks.",
+    "value": 450,
+    "weight": 0.4,
+    "buyLimit": 10000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Antipoison (+)",
+    "id": 25763,
+    "members": false,
+    "examine": "The potion purges the lizardmen's poison. It was mixed perfectly!",
+    "value": 40,
+    "weight": 0.02
+}

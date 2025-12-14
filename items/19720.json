@@ -1,0 +1,14 @@
+{
+    "name": "Occult necklace (or)",
+    "id": 19720,
+    "members": false,
+    "examine": "A smokey evil embodies this beautiful amulet.",
+    "value": 45000,
+    "weight": 0.005,
+    "equipment": {
+        "magicAttack": 12,
+        "prayerBonus": 2,
+        "magicDamage": 5.0,
+        "slot": "NECK"
+    }
+}

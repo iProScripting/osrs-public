@@ -1,0 +1,11 @@
+{
+    "name": "Fishbowl helmet",
+    "id": 7534,
+    "members": false,
+    "examine": "You'll look daft, but at least you won't drown!",
+    "value": 1,
+    "weight": 5.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

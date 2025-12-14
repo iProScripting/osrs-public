@@ -1,0 +1,18 @@
+{
+    "name": "Dragon full helm (g)",
+    "id": 12417,
+    "members": false,
+    "examine": "Protects your head and looks impressive too.",
+    "value": 150000,
+    "weight": 2.0,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 45,
+        "slashDefence": 48,
+        "crushDefence": 41,
+        "magicDefence": -1,
+        "rangedDefence": 46,
+        "slot": "HEAD"
+    }
+}

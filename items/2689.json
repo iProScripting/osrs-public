@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the drawers in one of Gertrude's bedrooms",
+    "id": 2689,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

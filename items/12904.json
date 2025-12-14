@@ -1,0 +1,22 @@
+{
+    "name": "Toxic staff of the dead",
+    "id": 12904,
+    "members": false,
+    "examine": "A ghastly weapon with evil origins, with a toxic fang attached.",
+    "value": 1000006,
+    "weight": 1.5,
+    "equipment": {
+        "stabAttack": 55,
+        "slashAttack": 70,
+        "magicAttack": 25,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "magicDefence": 17,
+        "strength": 72,
+        "magicDamage": 15.0,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLADED_STAFF"
+    }
+}

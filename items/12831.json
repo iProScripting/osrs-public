@@ -1,0 +1,18 @@
+{
+    "name": "Blessed spirit shield",
+    "id": 12831,
+    "members": false,
+    "examine": "An ethereal shield that has been blessed with holy powers.",
+    "value": 1200000,
+    "weight": 2.0,
+    "buyLimit": 8,
+    "equipment": {
+        "stabDefence": 53,
+        "slashDefence": 55,
+        "crushDefence": 73,
+        "magicDefence": 2,
+        "rangedDefence": 52,
+        "prayerBonus": 3,
+        "slot": "SHIELD"
+    }
+}

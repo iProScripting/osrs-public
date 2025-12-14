@@ -1,0 +1,9 @@
+{
+    "name": "Clay",
+    "id": 434,
+    "members": false,
+    "examine": "Some hard dry clay.",
+    "value": 1,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

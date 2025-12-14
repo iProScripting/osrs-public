@@ -1,0 +1,8 @@
+{
+    "name": "Musca-holos poison",
+    "id": 28350,
+    "members": false,
+    "examine": "A nasty fungal poison.",
+    "value": 200,
+    "weight": 0.05
+}

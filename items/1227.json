@@ -1,0 +1,21 @@
+{
+    "name": "Adamant dagger",
+    "id": 1227,
+    "members": false,
+    "examine": "A very dangerous poisoned dagger.",
+    "value": 800,
+    "weight": 0.51,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 15,
+        "slashAttack": 8,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Nickel ore",
+    "id": 31719,
+    "members": false,
+    "examine": "This needs refining.",
+    "value": 400,
+    "weight": 2.267
+}

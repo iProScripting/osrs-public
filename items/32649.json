@@ -1,0 +1,12 @@
+{
+    "name": "Crate of wine",
+    "id": 32649,
+    "members": false,
+    "examine": "A cargo crate of wine destined for Port Piscarilius.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

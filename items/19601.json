@@ -1,0 +1,9 @@
+{
+    "name": "Ballista spring",
+    "id": 19601,
+    "members": false,
+    "examine": "A spring-loaded mechanism.",
+    "value": 50000,
+    "weight": 0.25,
+    "buyLimit": 8
+}

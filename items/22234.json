@@ -1,0 +1,17 @@
+{
+    "name": "Dragon boots (g)",
+    "id": 22234,
+    "members": false,
+    "examine": "These fancy boots will protect my feet.",
+    "value": 20000,
+    "weight": 1.0,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 16,
+        "slashDefence": 17,
+        "crushDefence": 18,
+        "strength": 4,
+        "slot": "FEET"
+    }
+}

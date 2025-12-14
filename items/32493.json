@@ -1,0 +1,12 @@
+{
+    "name": "Crate of karambwans",
+    "id": 32493,
+    "members": false,
+    "examine": "A cargo crate of karambwans destined for Catherby.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

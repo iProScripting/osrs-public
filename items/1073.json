@@ -1,0 +1,19 @@
+{
+    "name": "Adamant platelegs",
+    "id": 1073,
+    "members": false,
+    "examine": "These look pretty heavy.",
+    "value": 6400,
+    "weight": 10.432,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 33,
+        "slashDefence": 31,
+        "crushDefence": 29,
+        "magicDefence": -4,
+        "rangedDefence": 31,
+        "slot": "LEGS"
+    }
+}

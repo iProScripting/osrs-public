@@ -1,0 +1,9 @@
+{
+    "name": "Amethyst arrowtips",
+    "id": 21350,
+    "members": false,
+    "examine": "I can make some arrows with these.",
+    "value": 245,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bucket of saltwater",
+    "id": 4693,
+    "members": false,
+    "examine": "It's a bucket of salty water.",
+    "value": 6,
+    "weight": 3.0
+}

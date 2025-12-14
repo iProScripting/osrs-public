@@ -1,0 +1,9 @@
+{
+    "name": "Bronze wire",
+    "id": 1794,
+    "members": false,
+    "examine": "Useful for Crafting items.",
+    "value": 20,
+    "weight": 0.005,
+    "buyLimit": 15
+}

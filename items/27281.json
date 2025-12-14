@@ -1,0 +1,8 @@
+{
+    "name": "Divine rune pouch",
+    "id": 27281,
+    "members": false,
+    "examine": "A vessel used to store runes that's been imbued with the powers of Elidinis.",
+    "value": 20000,
+    "weight": 0.878
+}

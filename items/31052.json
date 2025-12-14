@@ -1,0 +1,8 @@
+{
+    "name": "Bow string spool",
+    "id": 31052,
+    "members": false,
+    "examine": "A spool for holding many bow strings.",
+    "value": 2000,
+    "weight": 0.5
+}

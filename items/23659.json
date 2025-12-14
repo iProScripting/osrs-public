@@ -1,0 +1,8 @@
+{
+    "name": "Crystal sapling",
+    "id": 23659,
+    "members": false,
+    "examine": "This sapling is ready to be replanted in a Crystal tree patch.",
+    "value": 1,
+    "weight": 0.907
+}

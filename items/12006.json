@@ -1,0 +1,16 @@
+{
+    "name": "Abyssal tentacle",
+    "id": 12006,
+    "members": false,
+    "examine": "A weapon from the Abyss, embedded in a slimy tentacle.",
+    "value": 289800,
+    "weight": 0.453,
+    "equipment": {
+        "slashAttack": 90,
+        "strength": 86,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "WHIP"
+    }
+}

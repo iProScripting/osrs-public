@@ -1,0 +1,9 @@
+{
+    "name": "Teak stock",
+    "id": 9446,
+    "members": false,
+    "examine": "A teak crossbow stock.",
+    "value": 77,
+    "weight": 3.0,
+    "buyLimit": 10000
+}

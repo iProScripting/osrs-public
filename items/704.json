@@ -1,0 +1,8 @@
+{
+    "name": "Ground charcoal",
+    "id": 704,
+    "members": false,
+    "examine": "Charcoal - crushed to small pieces!",
+    "value": 1,
+    "weight": 0.008
+}

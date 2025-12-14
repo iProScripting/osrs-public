@@ -1,0 +1,9 @@
+{
+    "name": "Rosewood seed",
+    "id": 31551,
+    "members": false,
+    "examine": "Plant this in a plantpot of soil to grow a sapling.",
+    "value": 80,
+    "weight": 0.002,
+    "buyLimit": 200
+}

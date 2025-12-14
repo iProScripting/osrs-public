@@ -1,0 +1,9 @@
+{
+    "name": "Awakener's orb",
+    "id": 28334,
+    "members": false,
+    "examine": "A mysterious orb of unknown power. What could it do?",
+    "value": 75000,
+    "weight": 0.4,
+    "buyLimit": 50
+}

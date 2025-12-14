@@ -1,0 +1,12 @@
+{
+    "name": "Shayzien scarf",
+    "id": 19955,
+    "members": false,
+    "examine": "A red scarf adorned with a skull.",
+    "value": 10000,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

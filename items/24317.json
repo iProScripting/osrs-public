@@ -1,0 +1,11 @@
+{
+    "name": "Spookier robe",
+    "id": 24317,
+    "members": false,
+    "examine": "A spooky robe cut from a bedsheet!",
+    "value": 1,
+    "weight": 0.9,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

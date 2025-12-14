@@ -1,0 +1,18 @@
+{
+    "name": "Moonclan armour",
+    "id": 9070,
+    "members": false,
+    "examine": "Provides good protection.",
+    "value": 1000,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": 5,
+        "rangedAttack": -10,
+        "stabDefence": 5,
+        "slashDefence": 5,
+        "crushDefence": 5,
+        "magicDefence": 5,
+        "rangedDefence": -10,
+        "slot": "BODY"
+    }
+}

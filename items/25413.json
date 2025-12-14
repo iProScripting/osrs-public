@@ -1,0 +1,17 @@
+{
+    "name": "Bloodbark helm",
+    "id": 25413,
+    "members": false,
+    "examine": "A rather interesting smelling helmet.",
+    "value": 15000,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 5,
+        "stabDefence": 16,
+        "slashDefence": 14,
+        "crushDefence": 17,
+        "magicDefence": 6,
+        "magicDamage": 1.0,
+        "slot": "HEAD"
+    }
+}

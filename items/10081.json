@@ -1,0 +1,19 @@
+{
+    "name": "Blue spiky vambraces",
+    "id": 10081,
+    "members": false,
+    "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
+    "value": 3000,
+    "weight": 0.283,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 9,
+        "stabDefence": 4,
+        "slashDefence": 3,
+        "crushDefence": 5,
+        "magicDefence": 4,
+        "strength": 2,
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of snakeskin",
+    "id": 32706,
+    "members": false,
+    "examine": "A cargo crate of snakeskin destined for Port Tyras.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

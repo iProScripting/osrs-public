@@ -1,0 +1,8 @@
+{
+    "name": "Bark sample",
+    "id": 783,
+    "members": false,
+    "examine": "A sample of the bark from the Grand Tree.",
+    "value": 2,
+    "weight": 0.015
+}

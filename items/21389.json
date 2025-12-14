@@ -1,0 +1,8 @@
+{
+    "name": "Master scroll book",
+    "id": 21389,
+    "members": false,
+    "examine": "Holds all my teleport scrolls.",
+    "value": 5000,
+    "weight": 1.0
+}

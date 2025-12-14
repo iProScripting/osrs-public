@@ -1,0 +1,11 @@
+{
+    "name": "Alchemist gloves",
+    "id": 29986,
+    "members": false,
+    "examine": "No science is done without proper gloves.",
+    "value": 390,
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

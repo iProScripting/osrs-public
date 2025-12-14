@@ -1,0 +1,12 @@
+{
+    "name": "Crate of rope",
+    "id": 32745,
+    "members": false,
+    "examine": "A cargo crate of rope destined for Rellekka.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

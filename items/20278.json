@@ -1,0 +1,8 @@
+{
+    "name": "Gnomish firelighter",
+    "id": 20278,
+    "members": false,
+    "examine": "Fill it with firelighters to make pretty fire.",
+    "value": 1000,
+    "weight": 0.035
+}

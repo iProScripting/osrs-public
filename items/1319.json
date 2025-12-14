@@ -1,0 +1,21 @@
+{
+    "name": "Rune 2h sword",
+    "id": 1319,
+    "members": false,
+    "examine": "A two handed sword.",
+    "value": 64000,
+    "weight": 3.628,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 69,
+        "crushAttack": 50,
+        "magicAttack": -4,
+        "rangedDefence": -1,
+        "strength": 70,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

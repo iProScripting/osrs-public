@@ -1,0 +1,11 @@
+{
+    "name": "Hat of the eye",
+    "id": 26864,
+    "members": false,
+    "examine": "The perfect hat for runecrafting.",
+    "value": 400,
+    "weight": 0.4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

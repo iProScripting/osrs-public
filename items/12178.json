@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crates in the Dwarven mine",
+    "id": 12178,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

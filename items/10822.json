@@ -1,0 +1,18 @@
+{
+    "name": "Yak-hide armour (top)",
+    "id": 10822,
+    "members": false,
+    "examine": "Smelly yak body armour.",
+    "value": 500,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -5,
+        "stabDefence": 25,
+        "slashDefence": 20,
+        "crushDefence": 15,
+        "magicDefence": -2,
+        "rangedDefence": 25,
+        "slot": "BODY"
+    }
+}

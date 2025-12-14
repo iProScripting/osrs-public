@@ -1,0 +1,8 @@
+{
+    "name": "Beer glass (Player-owned house)",
+    "id": 7742,
+    "members": false,
+    "examine": "I need to fill this with beer.",
+    "value": 2,
+    "weight": 0.05
+}

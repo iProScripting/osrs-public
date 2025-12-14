@@ -1,0 +1,9 @@
+{
+    "name": "Maple stock",
+    "id": 9448,
+    "members": false,
+    "examine": "A maple crossbow stock.",
+    "value": 100,
+    "weight": 3.0,
+    "buyLimit": 10000
+}

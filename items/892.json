@@ -1,0 +1,13 @@
+{
+    "name": "Rune arrow",
+    "id": 892,
+    "members": false,
+    "examine": "Arrows with rune heads.",
+    "value": 400,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 49,
+        "slot": "AMMO"
+    }
+}

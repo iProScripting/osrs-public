@@ -1,0 +1,8 @@
+{
+    "name": "Clue geode (easy)",
+    "id": 20358,
+    "members": false,
+    "examine": "This geode seems to have some old paper inside.",
+    "value": 1,
+    "weight": 1.0
+}

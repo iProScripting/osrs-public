@@ -1,0 +1,11 @@
+{
+    "name": "Beige pumpkin",
+    "id": 30243,
+    "members": false,
+    "examine": "That pumpkin is not feeling anything.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

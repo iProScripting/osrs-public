@@ -1,0 +1,19 @@
+{
+    "name": "Spined body",
+    "id": 6133,
+    "members": false,
+    "examine": "A constant reminder that I'm above a Dagannoth in the food chain.",
+    "value": 7800,
+    "weight": 6.803,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": 15,
+        "stabDefence": 40,
+        "slashDefence": 32,
+        "crushDefence": 45,
+        "magicDefence": 20,
+        "rangedDefence": 40,
+        "slot": "BODY"
+    }
+}

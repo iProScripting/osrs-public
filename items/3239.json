@@ -1,0 +1,9 @@
+{
+    "name": "Bark",
+    "id": 3239,
+    "members": false,
+    "examine": "Bark from a hollow tree.",
+    "value": 1,
+    "weight": 1.0,
+    "buyLimit": 13000
+}

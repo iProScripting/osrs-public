@@ -1,0 +1,8 @@
+{
+    "name": "Blessed lava dragon bones",
+    "id": 29358,
+    "members": false,
+    "examine": "Bones blessed at an exposed altar.",
+    "value": 150,
+    "weight": 1.6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Herblore cape",
+    "id": 9774,
+    "members": false,
+    "examine": "The cape worn by the most skilled at the art of Herblore.",
+    "value": 99000,
+    "weight": 0.453,
+    "equipment": {
+        "stabDefence": 9,
+        "slashDefence": 9,
+        "crushDefence": 9,
+        "magicDefence": 9,
+        "rangedDefence": 9,
+        "slot": "CAPE"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Wood carving",
+    "id": 27536,
+    "members": false,
+    "examine": "A wood carving found in a ruin beneath the Ruins of Morra.",
+    "value": 30,
+    "weight": 0.05
+}

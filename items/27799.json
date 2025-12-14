@@ -1,0 +1,8 @@
+{
+    "name": "Gnome cake",
+    "id": 27799,
+    "members": false,
+    "examine": "The Gnome Child has done a fantastic job baking this!",
+    "value": 2,
+    "weight": 0.35
+}

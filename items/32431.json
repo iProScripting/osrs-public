@@ -1,0 +1,8 @@
+{
+    "name": "Book about lighthouses",
+    "id": 32431,
+    "members": false,
+    "examine": "Light reading.",
+    "value": 30,
+    "weight": 0.125
+}

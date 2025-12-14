@@ -1,0 +1,9 @@
+{
+    "name": "Grimy dwarf weed",
+    "id": 217,
+    "members": false,
+    "examine": "It needs cleaning.",
+    "value": 24,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

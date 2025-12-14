@@ -1,0 +1,9 @@
+{
+    "name": "Amethyst javelin tips",
+    "id": 21352,
+    "members": false,
+    "examine": "Needs a shaft.",
+    "value": 1520,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

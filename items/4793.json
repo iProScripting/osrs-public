@@ -1,0 +1,13 @@
+{
+    "name": "Mithril brutal",
+    "id": 4793,
+    "members": false,
+    "examine": "Blunt mithril arrow... ouch.",
+    "value": 50,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 34,
+        "slot": "AMMO"
+    }
+}

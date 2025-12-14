@@ -1,0 +1,8 @@
+{
+    "name": "Mourner letter",
+    "id": 6071,
+    "members": false,
+    "examine": "A letter of recommendation.",
+    "value": 1,
+    "weight": 0.01
+}

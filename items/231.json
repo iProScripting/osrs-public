@@ -1,0 +1,9 @@
+{
+    "name": "Snape grass",
+    "id": 231,
+    "members": false,
+    "examine": "Strange spiky grass.",
+    "value": 10,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

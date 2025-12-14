@@ -1,0 +1,19 @@
+{
+    "name": "Rapier",
+    "id": 7142,
+    "members": false,
+    "examine": "The very butcher of a silk button.",
+    "value": 25600,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 45,
+        "slashAttack": 7,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "strength": 44,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

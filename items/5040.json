@@ -1,0 +1,12 @@
+{
+    "name": "Trousers (blue)",
+    "id": 5040,
+    "members": false,
+    "examine": "A pair of long dwarven trousers... long for dwarves, of course.",
+    "value": 750,
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

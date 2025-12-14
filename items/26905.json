@@ -1,0 +1,8 @@
+{
+    "name": "Abyssal incantation",
+    "id": 26905,
+    "members": false,
+    "examine": "An abyssal teleportation incantation.",
+    "value": 30,
+    "weight": 0.05
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Wood carving",
+    "id": 27525,
+    "members": false,
+    "examine": "A wood carving found in a ruin beneath Lake Molch Island.",
+    "value": 30,
+    "weight": 0.05
+}

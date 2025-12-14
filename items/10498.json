@@ -1,0 +1,13 @@
+{
+    "name": "Ava's attractor",
+    "id": 10498,
+    "members": false,
+    "examine": "A bagged chicken ready to serve you, magnet in claw.",
+    "value": 769,
+    "weight": 4.535,
+    "equipment": {
+        "rangedAttack": 2,
+        "magicDefence": 2,
+        "slot": "CAPE"
+    }
+}

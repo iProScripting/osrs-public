@@ -1,0 +1,22 @@
+{
+    "name": "Corrupted body (attuned)",
+    "id": 23844,
+    "members": false,
+    "examine": "A sturdier piece of armour with some protection from corrupted creatures.",
+    "value": 1,
+    "weight": 9.979,
+    "equipment": {
+        "stabAttack": 12,
+        "slashAttack": 12,
+        "crushAttack": 4,
+        "magicAttack": 12,
+        "rangedAttack": 12,
+        "stabDefence": 102,
+        "slashDefence": 102,
+        "crushDefence": 102,
+        "magicDefence": 102,
+        "rangedDefence": 102,
+        "prayerBonus": 4,
+        "slot": "BODY"
+    }
+}

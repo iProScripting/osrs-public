@@ -1,0 +1,8 @@
+{
+    "name": "Bruma root",
+    "id": 20695,
+    "members": false,
+    "examine": "A bruma root, chopped from the bruma tree.",
+    "value": 1,
+    "weight": 2.0
+}

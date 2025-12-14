@@ -1,0 +1,9 @@
+{
+    "name": "Black set (lg)",
+    "id": 12988,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, legs and kiteshield.",
+    "value": 4500,
+    "weight": 6.0,
+    "buyLimit": 8
+}

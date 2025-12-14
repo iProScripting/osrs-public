@@ -1,0 +1,8 @@
+{
+    "name": "Burnt stew",
+    "id": 2005,
+    "members": false,
+    "examine": "Eew, it's horribly burnt.",
+    "value": 1,
+    "weight": 1.3
+}

@@ -1,0 +1,11 @@
+{
+    "name": "4th birthday hat",
+    "id": 21211,
+    "members": false,
+    "examine": "A celebration of 4 great years.",
+    "value": 0,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

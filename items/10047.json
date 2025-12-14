@@ -1,0 +1,17 @@
+{
+    "name": "Graahk legs",
+    "id": 10047,
+    "members": false,
+    "examine": "These should make me harder to spot in desert areas.",
+    "value": 150,
+    "weight": 0.226,
+    "buyLimit": 150,
+    "equipment": {
+        "rangedAttack": -7,
+        "stabDefence": 11,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Fishbowl (pet)",
+    "id": 6672,
+    "members": false,
+    "examine": "A fishbowl with a tiny spinefish in it.",
+    "value": 1,
+    "weight": 2.267
+}

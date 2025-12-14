@@ -1,0 +1,8 @@
+{
+    "name": "Ruined tetra",
+    "id": 25668,
+    "members": false,
+    "examine": "A tetra you ruined during preparation.",
+    "value": 1,
+    "weight": 0.12
+}

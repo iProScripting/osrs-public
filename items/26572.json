@@ -1,0 +1,8 @@
+{
+    "name": "Narogoshuun key",
+    "id": 26572,
+    "members": false,
+    "examine": "The key you stole from the Narogoshuun priest.",
+    "value": 30,
+    "weight": 0.001
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Barb bolttips",
+    "id": 47,
+    "members": false,
+    "examine": "I can make bolts with these.",
+    "value": 95,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

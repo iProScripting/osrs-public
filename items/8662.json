@@ -1,0 +1,14 @@
+{
+    "name": "Banner (HAM)",
+    "id": 8662,
+    "members": false,
+    "examine": "A banner with the symbol of the HAM cult.",
+    "value": 1,
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BANNER"
+    }
+}

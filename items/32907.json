@@ -1,0 +1,8 @@
+{
+    "name": "Ironwood logs",
+    "id": 32907,
+    "members": false,
+    "examine": "Logs cut from an ironwood tree.",
+    "value": 360,
+    "weight": 2.0
+}

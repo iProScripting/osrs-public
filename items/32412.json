@@ -1,0 +1,8 @@
+{
+    "name": "Small key (the onyx crest)",
+    "id": 32412,
+    "members": false,
+    "examine": "A small key dug up on the Onyx Crest.",
+    "value": 1,
+    "weight": 0.01
+}

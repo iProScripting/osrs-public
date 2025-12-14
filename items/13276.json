@@ -1,0 +1,8 @@
+{
+    "name": "Bludgeon axon",
+    "id": 13276,
+    "members": false,
+    "examine": "An axon from a deceased Abyssal Sire.",
+    "value": 230000,
+    "weight": 2.5
+}

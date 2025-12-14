@@ -1,0 +1,9 @@
+{
+    "name": "Monkey bar",
+    "id": 4014,
+    "members": false,
+    "examine": "It's a monkey bar. It looks highly nutritious.",
+    "value": 50,
+    "weight": 0.15,
+    "buyLimit": 6000
+}

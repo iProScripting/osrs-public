@@ -1,0 +1,8 @@
+{
+    "name": "Burnt beast meat",
+    "id": 9990,
+    "members": false,
+    "examine": "It's a bit over-cooked.",
+    "value": 1,
+    "weight": 2.0
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Dagon'hai hat",
+    "id": 24288,
+    "members": false,
+    "examine": "A hat worn by members of the Dagon'hai.",
+    "value": 17000,
+    "weight": 0.453,
+    "equipment": {
+        "magicAttack": 5,
+        "magicDefence": 5,
+        "prayerBonus": 2,
+        "magicDamage": 1.0,
+        "slot": "HEAD"
+    }
+}

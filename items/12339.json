@@ -1,0 +1,12 @@
+{
+    "name": "Pink elegant blouse",
+    "id": 12339,
+    "members": false,
+    "examine": "A well made elegant ladies' pink blouse.",
+    "value": 2000,
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Blue halloween mask",
+    "id": 1055,
+    "members": false,
+    "examine": "Aaaarrrghhh ... I'm a monster.",
+    "value": 15,
+    "weight": 0.34,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

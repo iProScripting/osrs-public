@@ -1,0 +1,9 @@
+{
+    "name": "Super antifire potion",
+    "id": 21987,
+    "members": false,
+    "examine": "1 dose of super anti-firebreath potion.",
+    "value": 680,
+    "weight": 0.02,
+    "buyLimit": 2000
+}

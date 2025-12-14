@@ -1,0 +1,8 @@
+{
+    "name": "Adamant chainshot cannonball",
+    "id": 31926,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 180,
+    "weight": 3.628
+}

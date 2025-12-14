@@ -1,0 +1,9 @@
+{
+    "name": "Nasturtium seed",
+    "id": 5098,
+    "members": false,
+    "examine": "A nasturtium seed - plant in a flower patch.",
+    "value": 11,
+    "weight": 0.0,
+    "buyLimit": 200
+}

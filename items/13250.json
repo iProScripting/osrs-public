@@ -1,0 +1,8 @@
+{
+    "name": "Plant pot pack",
+    "id": 13250,
+    "members": false,
+    "examine": "A pack containing 100 filled plant pots.",
+    "value": 100,
+    "weight": 0.453
+}

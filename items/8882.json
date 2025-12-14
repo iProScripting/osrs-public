@@ -1,0 +1,13 @@
+{
+    "name": "Bone bolts",
+    "id": 8882,
+    "members": false,
+    "examine": "Good if you have a bone crossbow!",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 49,
+        "slot": "AMMO"
+    }
+}

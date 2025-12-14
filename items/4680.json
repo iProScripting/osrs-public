@@ -1,0 +1,8 @@
+{
+    "name": "Canopic jar",
+    "id": 4680,
+    "members": false,
+    "examine": "It has a lid shaped like a bug. Disgusting! I think there's a stomach inside.",
+    "value": 50,
+    "weight": 0.1
+}

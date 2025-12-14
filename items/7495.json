@@ -1,0 +1,8 @@
+{
+    "name": "Yellow spice",
+    "id": 7495,
+    "members": false,
+    "examine": "Allows for equal distribution of spice.",
+    "value": 110,
+    "weight": 0.001
+}

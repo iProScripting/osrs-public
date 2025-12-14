@@ -1,0 +1,21 @@
+{
+    "name": "Berserker necklace (or)",
+    "id": 23240,
+    "members": false,
+    "examine": "Makes obsidian weapons even stronger and has a nice glow to boot!",
+    "value": 202000,
+    "weight": 0.01,
+    "equipment": {
+        "stabAttack": -10,
+        "slashAttack": -10,
+        "crushAttack": -10,
+        "stabDefence": -20,
+        "slashDefence": -20,
+        "crushDefence": -20,
+        "magicDefence": -20,
+        "rangedDefence": -20,
+        "strength": 7,
+        "prayerBonus": 3,
+        "slot": "NECK"
+    }
+}

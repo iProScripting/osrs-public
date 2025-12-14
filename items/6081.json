@@ -1,0 +1,8 @@
+{
+    "name": "Broken device",
+    "id": 6081,
+    "members": false,
+    "examine": "A strange broken device of gnomic design.",
+    "value": 10,
+    "weight": 4.0
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Castle wars bolts",
+    "id": 30696,
+    "members": false,
+    "examine": "Fake dragon crossbow bolts.",
+    "value": 10,
+    "weight": 0.018,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

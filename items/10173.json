@@ -1,0 +1,8 @@
+{
+    "name": "Bird book",
+    "id": 10173,
+    "members": false,
+    "examine": "The title reads 'William Oddity's Guide to the Avian.'",
+    "value": 1,
+    "weight": 0.01
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Crate of nickel ore",
+    "id": 32787,
+    "members": false,
+    "examine": "A cargo crate of nickel ore destined for The Summer Shore.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

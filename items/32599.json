@@ -1,0 +1,12 @@
+{
+    "name": "Crate of rotten bananas",
+    "id": 32599,
+    "members": false,
+    "examine": "A cargo crate of rotten bananas destined for Musa Point.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

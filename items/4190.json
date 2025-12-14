@@ -1,0 +1,8 @@
+{
+    "name": "Garden brush",
+    "id": 4190,
+    "members": false,
+    "examine": "A typical garden brush.",
+    "value": 1,
+    "weight": 0.8
+}

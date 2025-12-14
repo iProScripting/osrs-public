@@ -1,0 +1,8 @@
+{
+    "name": "Narwhal horn",
+    "id": 31954,
+    "members": false,
+    "examine": "The sharp horn of a narwhal.",
+    "value": 8000,
+    "weight": 1.5
+}

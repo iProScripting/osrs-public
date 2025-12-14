@@ -1,0 +1,12 @@
+{
+    "name": "Crate of khali brews",
+    "id": 32525,
+    "members": false,
+    "examine": "A cargo crate of khali brews destined for Corsair Cove.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

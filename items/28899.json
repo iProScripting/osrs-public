@@ -1,0 +1,9 @@
+{
+    "name": "Wyrmling bones",
+    "id": 28899,
+    "members": false,
+    "examine": "Ew it's a pile of bones.",
+    "value": 1,
+    "weight": 0.8,
+    "buyLimit": 3000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Storeroom key",
+    "id": 3269,
+    "members": false,
+    "examine": "The key to the Troll storeroom (Used in the Eadgar's Ruse quest).",
+    "value": 1,
+    "weight": 0.055
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Iron full helm (t)",
+    "id": 12231,
+    "members": false,
+    "examine": "Iron full helm with trim.",
+    "value": 160,
+    "weight": 2.721,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 6,
+        "slashDefence": 7,
+        "crushDefence": 5,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Anti-venom",
+    "id": 12905,
+    "members": false,
+    "examine": "4 doses of antivenom potion.",
+    "value": 440,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

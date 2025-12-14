@@ -1,0 +1,19 @@
+{
+    "name": "Black helm (h4)",
+    "id": 10312,
+    "members": false,
+    "examine": "A black helmet with a heraldic design.",
+    "value": 1056,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 12,
+        "slashDefence": 13,
+        "crushDefence": 10,
+        "magicDefence": -1,
+        "rangedDefence": 12,
+        "slot": "HEAD"
+    }
+}

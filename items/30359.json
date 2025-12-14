@@ -1,0 +1,8 @@
+{
+    "name": "Leprechaun's vault",
+    "id": 30359,
+    "members": false,
+    "examine": "Just how deep do the Leprechaun's pockets go?",
+    "value": 1,
+    "weight": 1.0
+}

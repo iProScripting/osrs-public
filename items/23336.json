@@ -1,0 +1,13 @@
+{
+    "name": "3rd age druidic robe top",
+    "id": 23336,
+    "members": false,
+    "examine": "A fabulously ancient woven robe top as worn by the druids of old.",
+    "value": 200000,
+    "weight": 1.5,
+    "buyLimit": 4,
+    "equipment": {
+        "prayerBonus": 8,
+        "slot": "BODY"
+    }
+}

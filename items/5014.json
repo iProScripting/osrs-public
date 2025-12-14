@@ -1,0 +1,19 @@
+{
+    "name": "Mining helmet",
+    "id": 5014,
+    "members": false,
+    "examine": "A helmet with an unlit lamp on it.",
+    "value": 600,
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 4,
+        "slashDefence": 5,
+        "crushDefence": 3,
+        "magicDefence": -1,
+        "rangedDefence": 4,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dragon thrownaxe",
+    "id": 20849,
+    "members": false,
+    "examine": "A razor sharp throwing axe.",
+    "value": 750,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedAttack": 36,
+        "rangedStrength": 47,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

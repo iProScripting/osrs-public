@@ -1,0 +1,8 @@
+{
+    "name": "Burnt spider",
+    "id": 6301,
+    "members": false,
+    "examine": "A badly burnt spider threaded onto a charred skewer stick.",
+    "value": 1,
+    "weight": 0.25
+}

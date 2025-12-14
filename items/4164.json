@@ -1,0 +1,12 @@
+{
+    "name": "Facemask",
+    "id": 4164,
+    "members": false,
+    "examine": "Stops me breathing in too much dust.",
+    "value": 200,
+    "weight": 0.113,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

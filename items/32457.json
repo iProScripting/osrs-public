@@ -1,0 +1,12 @@
+{
+    "name": "Crate of rabbit meat",
+    "id": 32457,
+    "members": false,
+    "examine": "A cargo crate of rabbit meat destined for Ardougne.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

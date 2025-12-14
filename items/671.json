@@ -1,0 +1,8 @@
+{
+    "name": "Animal skull",
+    "id": 671,
+    "members": false,
+    "examine": "A carefully-kept-safe skull sample.",
+    "value": 1,
+    "weight": 0.085
+}

@@ -1,0 +1,9 @@
+{
+    "name": "M. treasure chest (flatpack)",
+    "id": 9864,
+    "members": false,
+    "examine": "Mahogany treasure chest.",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 500
+}

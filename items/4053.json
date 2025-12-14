@@ -1,0 +1,8 @@
+{
+    "name": "Barricade",
+    "id": 4053,
+    "members": false,
+    "examine": "Use these to block enemy team movement.",
+    "value": 1,
+    "weight": 5.0
+}

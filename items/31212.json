@@ -1,0 +1,8 @@
+{
+    "name": "Combatant scroll",
+    "id": 31212,
+    "members": false,
+    "examine": "Use this to select three combat skills bond to together, and share gained experience points.",
+    "value": 1,
+    "weight": 0.01
+}

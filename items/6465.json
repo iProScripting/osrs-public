@@ -1,0 +1,11 @@
+{
+    "name": "Ring of charos",
+    "id": 6465,
+    "members": false,
+    "examine": "The power within this ring has been activated.",
+    "value": 1,
+    "weight": 0.005,
+    "equipment": {
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bakery storage key",
+    "id": 24442,
+    "members": false,
+    "examine": "Used to open the storage room.",
+    "value": 0,
+    "weight": 0.01
+}

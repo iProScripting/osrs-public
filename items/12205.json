@@ -1,0 +1,19 @@
+{
+    "name": "Bronze platebody (g)",
+    "id": 12205,
+    "members": false,
+    "examine": "Bronze platebody with gold trim.",
+    "value": 160,
+    "weight": 9.979,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 15,
+        "slashDefence": 14,
+        "crushDefence": 9,
+        "magicDefence": -6,
+        "rangedDefence": 14,
+        "slot": "BODY"
+    }
+}

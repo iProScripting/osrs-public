@@ -1,0 +1,17 @@
+{
+    "name": "Guthix halo",
+    "id": 20541,
+    "members": false,
+    "examine": "A broken halo with the protection of Guthix.",
+    "value": 1,
+    "weight": 0.3,
+    "equipment": {
+        "stabDefence": 11,
+        "slashDefence": 12,
+        "crushDefence": 10,
+        "magicDefence": 11,
+        "rangedDefence": -1,
+        "prayerBonus": 3,
+        "slot": "HEAD"
+    }
+}

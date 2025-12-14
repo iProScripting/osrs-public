@@ -1,0 +1,13 @@
+{
+    "name": "Book of darkness",
+    "id": 12612,
+    "members": false,
+    "examine": "The dark book of a forgotten god.",
+    "value": 200,
+    "weight": 1.0,
+    "equipment": {
+        "magicAttack": 10,
+        "prayerBonus": 5,
+        "slot": "SHIELD"
+    }
+}

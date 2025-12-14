@@ -1,0 +1,9 @@
+{
+    "name": "Blood essence",
+    "id": 26390,
+    "members": false,
+    "examine": "A blood-filled essence with magical properties.",
+    "value": 100000,
+    "weight": 0.0,
+    "buyLimit": 500
+}

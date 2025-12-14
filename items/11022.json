@@ -1,0 +1,11 @@
+{
+    "name": "Chicken legs",
+    "id": 11022,
+    "members": false,
+    "examine": "What's the matter, are you chicken?",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

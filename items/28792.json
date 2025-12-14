@@ -1,0 +1,18 @@
+{
+    "name": "Bone mace",
+    "id": 28792,
+    "members": false,
+    "examine": "A spiky mace hardened with Scurrius' spine.",
+    "value": 1,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 40,
+        "slashAttack": -2,
+        "crushAttack": 60,
+        "strength": 55,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

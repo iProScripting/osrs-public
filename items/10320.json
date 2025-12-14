@@ -1,0 +1,12 @@
+{
+    "name": "Bob's green shirt",
+    "id": 10320,
+    "members": false,
+    "examine": "'Bob says: Never trade in the wilderness!'",
+    "value": 3,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

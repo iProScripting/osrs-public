@@ -1,0 +1,8 @@
+{
+    "name": "Herb bowl (animation item)",
+    "id": 797,
+    "members": false,
+    "examine": "A bowl of herbs.",
+    "value": 1,
+    "weight": 0.453
+}

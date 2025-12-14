@@ -1,0 +1,16 @@
+{
+    "name": "Bronze dart",
+    "id": 5628,
+    "members": false,
+    "examine": "A deadly poisoned dart with a bronze tip.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 3,
+        "combatStyle": "THROWN"
+    }
+}

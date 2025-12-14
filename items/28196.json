@@ -1,0 +1,19 @@
+{
+    "name": "Bronze felling axe",
+    "id": 28196,
+    "members": false,
+    "examine": "A woodcutter's felling axe.",
+    "value": 16,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -3,
+        "slashAttack": 6,
+        "crushAttack": 3,
+        "slashDefence": 1,
+        "strength": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

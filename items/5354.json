@@ -1,0 +1,9 @@
+{
+    "name": "Filled plant pot",
+    "id": 5354,
+    "members": false,
+    "examine": "A plant pot filled with soil.",
+    "value": 1,
+    "weight": 0.907,
+    "buyLimit": 2000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Gull (pet)",
+    "id": 31285,
+    "members": false,
+    "examine": "Quite the scrongly little chicken.",
+    "value": 1,
+    "weight": 0.015
+}

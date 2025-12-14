@@ -1,0 +1,8 @@
+{
+    "name": "Barrel stand",
+    "id": 31733,
+    "members": false,
+    "examine": "Expertly crafted components that can be assembled into a stand, perfect for holding a barrel of alcohol.",
+    "value": 30,
+    "weight": 0.001
+}

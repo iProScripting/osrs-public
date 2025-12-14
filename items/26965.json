@@ -1,0 +1,8 @@
+{
+    "name": "Bottle of 'tonic'",
+    "id": 26965,
+    "members": false,
+    "examine": "Better not drink this...",
+    "value": 30,
+    "weight": 0.5
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Plundered salvage",
+    "id": 32855,
+    "members": false,
+    "examine": "Salvage collected from a pirate shipwreck.",
+    "value": 200,
+    "weight": 3.0
+}

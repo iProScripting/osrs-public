@@ -1,0 +1,23 @@
+{
+    "name": "Staff of water",
+    "id": 1383,
+    "members": false,
+    "examine": "A Magical staff.",
+    "value": 1500,
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slashAttack": -1,
+        "crushAttack": 7,
+        "magicAttack": 10,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 10,
+        "strength": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

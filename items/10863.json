@@ -1,0 +1,11 @@
+{
+    "name": "Builder's shirt",
+    "id": 10863,
+    "members": false,
+    "examine": "Very fetching.",
+    "value": 100,
+    "weight": 0.9,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

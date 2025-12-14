@@ -1,0 +1,8 @@
+{
+    "name": "Super hunter potion",
+    "id": 31635,
+    "members": false,
+    "examine": "1 dose of super hunter potion.",
+    "value": 40,
+    "weight": 0.03
+}

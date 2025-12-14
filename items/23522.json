@@ -1,0 +1,14 @@
+{
+    "name": "Mask of ranul",
+    "id": 23522,
+    "members": false,
+    "examine": "A creepy mask worn during a blood moon.",
+    "value": 5000,
+    "weight": 0.35,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 2,
+        "magicDefence": 2,
+        "slot": "HEAD"
+    }
+}

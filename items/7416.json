@@ -1,0 +1,9 @@
+{
+    "name": "Mole claw",
+    "id": 7416,
+    "members": false,
+    "examine": "A mole claw.",
+    "value": 600,
+    "weight": 0.001,
+    "buyLimit": 50
+}

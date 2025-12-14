@@ -1,0 +1,8 @@
+{
+    "name": "Jewel shard",
+    "id": 27605,
+    "members": false,
+    "examine": "A shard from some sort of jewel.",
+    "value": 30,
+    "weight": 0.025
+}

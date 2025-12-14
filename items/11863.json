@@ -1,0 +1,11 @@
+{
+    "name": "Rainbow partyhat",
+    "id": 11863,
+    "members": false,
+    "examine": "A colourful hat produced by Shanty Claws.",
+    "value": 1,
+    "weight": 0.056,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

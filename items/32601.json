@@ -1,0 +1,12 @@
+{
+    "name": "Crate of ship parts",
+    "id": 32601,
+    "members": false,
+    "examine": "A cargo crate of ship parts destined for Musa Point.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

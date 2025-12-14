@@ -1,0 +1,8 @@
+{
+    "name": "Bread (cookout)",
+    "id": 26641,
+    "members": false,
+    "examine": "A loaf of bread, made for the cookout.",
+    "value": 1,
+    "weight": 0.8
+}

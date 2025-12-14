@@ -1,0 +1,23 @@
+{
+    "name": "White halberd",
+    "id": 6599,
+    "members": false,
+    "examine": "A white halberd.",
+    "value": 1920,
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 19,
+        "slashAttack": 25,
+        "magicAttack": -4,
+        "stabDefence": -1,
+        "slashDefence": 2,
+        "crushDefence": 3,
+        "strength": 20,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 2,
+        "combatStyle": "POLEARM"
+    }
+}

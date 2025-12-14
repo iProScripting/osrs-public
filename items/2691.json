@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the drawers upstairs in Falador's shield shop",
+    "id": 2691,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Barley seed",
+    "id": 5305,
+    "members": false,
+    "examine": "A barley seed - plant in a hops patch.",
+    "value": 2,
+    "weight": 0.0,
+    "buyLimit": 2000
+}

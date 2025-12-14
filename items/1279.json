@@ -1,0 +1,21 @@
+{
+    "name": "Iron sword",
+    "id": 1279,
+    "members": false,
+    "examine": "A razor sharp sword.",
+    "value": 91,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 6,
+        "slashAttack": 4,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 7,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

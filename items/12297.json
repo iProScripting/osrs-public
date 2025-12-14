@@ -1,0 +1,20 @@
+{
+    "name": "Black pickaxe",
+    "id": 12297,
+    "members": false,
+    "examine": "Used for mining.",
+    "value": 145,
+    "weight": 0.01,
+    "buyLimit": 4,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": -2,
+        "crushAttack": 8,
+        "slashDefence": 1,
+        "strength": 11,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

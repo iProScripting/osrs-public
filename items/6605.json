@@ -1,0 +1,22 @@
+{
+    "name": "White sword",
+    "id": 6605,
+    "members": false,
+    "examine": "A razor sharp sword.",
+    "value": 624,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 14,
+        "slashAttack": 10,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 12,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

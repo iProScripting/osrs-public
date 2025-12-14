@@ -1,0 +1,23 @@
+{
+    "name": "Dramen staff",
+    "id": 772,
+    "members": false,
+    "examine": "Crafted from a Dramen tree branch.",
+    "value": 15,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -1,
+        "slashAttack": -1,
+        "crushAttack": 10,
+        "magicAttack": 10,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 10,
+        "strength": 10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

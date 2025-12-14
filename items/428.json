@@ -1,0 +1,13 @@
+{
+    "name": "Priest gown (bottom)",
+    "id": 428,
+    "members": false,
+    "examine": "Bottom half of a priest suit.",
+    "value": 5,
+    "weight": 1.814,
+    "buyLimit": 150,
+    "equipment": {
+        "prayerBonus": 3,
+        "slot": "LEGS"
+    }
+}

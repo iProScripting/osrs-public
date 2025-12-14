@@ -1,0 +1,8 @@
+{
+    "name": "Rotten apple",
+    "id": 1984,
+    "members": false,
+    "examine": "Rotten to the core!",
+    "value": 1,
+    "weight": 0.12
+}

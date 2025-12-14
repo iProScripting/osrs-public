@@ -1,0 +1,9 @@
+{
+    "name": "Prayer mix",
+    "id": 11465,
+    "members": false,
+    "examine": "Two doses of fishy Prayer potion.",
+    "value": 114,
+    "weight": 0.075,
+    "buyLimit": 2000
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Crystal crown (Iorwerth)",
+    "id": 23913,
+    "members": false,
+    "examine": "A crown fit for the most wealthy of elves.",
+    "value": 250000000,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Guam leaf",
+    "id": 249,
+    "members": false,
+    "examine": "A bitter green herb.",
+    "value": 3,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

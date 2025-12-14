@@ -1,0 +1,20 @@
+{
+    "name": "Blood moon tassets",
+    "id": 29025,
+    "members": false,
+    "examine": "The tassets of the Blood Moon.",
+    "value": 289910,
+    "weight": 4.082,
+    "buyLimit": 15,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -7,
+        "stabDefence": 30,
+        "slashDefence": 50,
+        "crushDefence": 49,
+        "magicDefence": 32,
+        "rangedDefence": 46,
+        "strength": 2,
+        "slot": "LEGS"
+    }
+}

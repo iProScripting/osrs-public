@@ -1,0 +1,8 @@
+{
+    "name": "Book on baxtorian",
+    "id": 292,
+    "members": false,
+    "examine": "A book on elven history in northern Gielinor.",
+    "value": 2,
+    "weight": 0.51
+}

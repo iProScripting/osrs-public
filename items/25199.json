@@ -1,0 +1,8 @@
+{
+    "name": "Bones (Soul Wars)",
+    "id": 25199,
+    "members": false,
+    "examine": "Warning: May contain bones.",
+    "value": 1000,
+    "weight": 0.05
+}

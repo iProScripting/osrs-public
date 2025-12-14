@@ -1,0 +1,22 @@
+{
+    "name": "Rune defender",
+    "id": 24142,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 65004,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": 19,
+        "crushAttack": 18,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 20,
+        "slashDefence": 19,
+        "crushDefence": 18,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "strength": 5,
+        "slot": "SHIELD"
+    }
+}

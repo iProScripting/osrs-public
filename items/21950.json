@@ -1,0 +1,13 @@
+{
+    "name": "Onyx dragon bolts (e)",
+    "id": 21950,
+    "members": false,
+    "examine": "Enchanted Dragon crossbow bolts, tipped with onyx.",
+    "value": 15800,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

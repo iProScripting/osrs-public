@@ -1,0 +1,9 @@
+{
+    "name": "Banana stew",
+    "id": 4016,
+    "members": false,
+    "examine": "It's a bowl full of mushy banana.",
+    "value": 300,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

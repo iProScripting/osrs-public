@@ -1,0 +1,8 @@
+{
+    "name": "Bull shark jaw",
+    "id": 32809,
+    "members": false,
+    "examine": "The jaw of a bull shark.",
+    "value": 100,
+    "weight": 0.8
+}

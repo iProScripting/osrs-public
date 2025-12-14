@@ -1,0 +1,9 @@
+{
+    "name": "Shrunk ogleroot",
+    "id": 11205,
+    "members": false,
+    "examine": "A shrunk ogleroot! How odd...",
+    "value": 2,
+    "weight": 0.0,
+    "buyLimit": 15
+}

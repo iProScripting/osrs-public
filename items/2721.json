@@ -1,0 +1,8 @@
+{
+    "name": "Casket (unobtainable item)",
+    "id": 2721,
+    "members": false,
+    "examine": "I hope there's treasure in it.",
+    "value": 50,
+    "weight": 0.0
+}

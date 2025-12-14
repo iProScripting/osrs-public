@@ -1,0 +1,12 @@
+{
+    "name": "Blue boater",
+    "id": 7325,
+    "members": false,
+    "examine": "Stylish!",
+    "value": 225,
+    "weight": 0.01,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

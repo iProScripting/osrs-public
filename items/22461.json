@@ -1,0 +1,9 @@
+{
+    "name": "Bastion potion",
+    "id": 22461,
+    "members": false,
+    "examine": "4 doses of bastion potion.",
+    "value": 360,
+    "weight": 0.135,
+    "buyLimit": 2000
+}

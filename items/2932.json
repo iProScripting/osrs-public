@@ -1,0 +1,14 @@
+{
+    "name": "Teal gloves",
+    "id": 2932,
+    "members": false,
+    "examine": "These will keep my hands warm!",
+    "value": 500,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 2,
+        "slot": "HANDS"
+    }
+}

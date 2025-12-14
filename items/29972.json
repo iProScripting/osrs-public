@@ -1,0 +1,8 @@
+{
+    "name": "Adept potion pack",
+    "id": 29972,
+    "members": false,
+    "examine": "A pack of potions made by an adept alchemist.",
+    "value": 200,
+    "weight": 5.15
+}

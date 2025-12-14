@@ -1,0 +1,22 @@
+{
+    "name": "Barrows gloves",
+    "id": 7462,
+    "members": false,
+    "examine": "A pair of very nice gloves.",
+    "value": 100000,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 12,
+        "slashAttack": 12,
+        "crushAttack": 12,
+        "magicAttack": 6,
+        "rangedAttack": 12,
+        "stabDefence": 12,
+        "slashDefence": 12,
+        "crushDefence": 12,
+        "magicDefence": 6,
+        "rangedDefence": 12,
+        "strength": 12,
+        "slot": "HANDS"
+    }
+}

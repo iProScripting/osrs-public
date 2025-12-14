@@ -1,0 +1,19 @@
+{
+    "name": "Dragon platebody",
+    "id": 21892,
+    "members": false,
+    "examine": "Provides excellent protection.",
+    "value": 2000000,
+    "weight": 11.339,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 109,
+        "slashDefence": 107,
+        "crushDefence": 97,
+        "magicDefence": -6,
+        "rangedDefence": 106,
+        "slot": "BODY"
+    }
+}

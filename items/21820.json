@@ -1,0 +1,9 @@
+{
+    "name": "Revenant ether",
+    "id": 21820,
+    "members": false,
+    "examine": "Ethereal essence of the revenants.",
+    "value": 250,
+    "weight": 0.0,
+    "buyLimit": 30000
+}

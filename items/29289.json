@@ -1,0 +1,20 @@
+{
+    "name": "Mixed hide cape",
+    "id": 29289,
+    "members": false,
+    "examine": "Made from the hide of a few different creatures.",
+    "value": 4000,
+    "weight": 3.0,
+    "buyLimit": 100,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": 5,
+        "stabDefence": 2,
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "magicDefence": 5,
+        "rangedDefence": 1,
+        "strength": 1,
+        "slot": "CAPE"
+    }
+}

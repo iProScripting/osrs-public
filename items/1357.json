@@ -1,0 +1,20 @@
+{
+    "name": "Adamant axe",
+    "id": 1357,
+    "members": false,
+    "examine": "A powerful axe.",
+    "value": 1280,
+    "weight": 1.587,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 17,
+        "crushAttack": 15,
+        "slashDefence": 1,
+        "strength": 19,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

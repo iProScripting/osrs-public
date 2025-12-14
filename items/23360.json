@@ -1,0 +1,15 @@
+{
+    "name": "Ham joint",
+    "id": 23360,
+    "members": false,
+    "examine": "A delicious joint of ham.",
+    "value": 1500,
+    "weight": 2.0,
+    "buyLimit": 100,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

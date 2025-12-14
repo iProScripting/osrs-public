@@ -1,0 +1,20 @@
+{
+    "name": "Bandos tassets (or)",
+    "id": 26719,
+    "members": false,
+    "examine": "A sturdy pair of tassets.",
+    "value": 289910,
+    "weight": 8.0,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -7,
+        "stabDefence": 71,
+        "slashDefence": 63,
+        "crushDefence": 66,
+        "magicDefence": -4,
+        "rangedDefence": 93,
+        "strength": 2,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

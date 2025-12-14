@@ -1,0 +1,20 @@
+{
+    "name": "Guthix coif",
+    "id": 10382,
+    "members": false,
+    "examine": "Guthix blessed dragonhide coif.",
+    "value": 2000,
+    "weight": 0.9,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -1,
+        "rangedAttack": 7,
+        "stabDefence": 4,
+        "slashDefence": 7,
+        "crushDefence": 10,
+        "magicDefence": 4,
+        "rangedDefence": 8,
+        "prayerBonus": 1,
+        "slot": "HEAD"
+    }
+}

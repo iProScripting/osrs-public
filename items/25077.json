@@ -1,0 +1,11 @@
+{
+    "name": "Graceful top (Trailblazer)",
+    "id": 25077,
+    "members": false,
+    "examine": "A sign of your grace while trailblazing.",
+    "value": 55,
+    "weight": -5.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

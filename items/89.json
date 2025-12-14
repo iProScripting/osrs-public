@@ -1,0 +1,14 @@
+{
+    "name": "Boots of lightness",
+    "id": 89,
+    "members": false,
+    "examine": "Magic boots that make you lighter than normal.",
+    "value": 6,
+    "weight": -4.535,
+    "equipment": {
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "FEET"
+    }
+}

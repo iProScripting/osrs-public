@@ -1,0 +1,9 @@
+{
+    "name": "Adamantite bar",
+    "id": 2361,
+    "members": false,
+    "examine": "It's a bar of adamantite.",
+    "value": 640,
+    "weight": 2.041,
+    "buyLimit": 10000
+}

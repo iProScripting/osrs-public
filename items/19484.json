@@ -1,0 +1,13 @@
+{
+    "name": "Dragon javelin",
+    "id": 19484,
+    "members": false,
+    "examine": "A dragon tipped javelin.",
+    "value": 450,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 150,
+        "slot": "AMMO"
+    }
+}

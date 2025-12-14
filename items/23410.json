@@ -1,0 +1,12 @@
+{
+    "name": "Wolf cloak",
+    "id": 23410,
+    "members": false,
+    "examine": "A very warm wolf cloak.",
+    "value": 1000,
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

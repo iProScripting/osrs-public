@@ -1,0 +1,15 @@
+{
+    "name": "Salve amulet(ei)",
+    "id": 26782,
+    "members": false,
+    "examine": "Increases melee, ranged and magic damage & accuracy by 20% against the undead.",
+    "value": 300,
+    "weight": 0.007,
+    "equipment": {
+        "stabDefence": 3,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "prayerBonus": 3,
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Mahogany repair kit",
+    "id": 31973,
+    "members": false,
+    "examine": "A strong boat repair kit made from mahogany.",
+    "value": 2500,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

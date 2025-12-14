@@ -1,0 +1,15 @@
+{
+    "name": "Drygore blowpipe",
+    "id": 30373,
+    "members": false,
+    "examine": "Fires darts with utmost precision.",
+    "value": 50000,
+    "weight": 0.5,
+    "equipment": {
+        "rangedAttack": 50,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 6,
+        "combatStyle": "THROWN"
+    }
+}

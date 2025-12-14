@@ -1,0 +1,11 @@
+{
+    "name": "Achievement diary hood",
+    "id": 13070,
+    "members": false,
+    "examine": "Achievement diary cape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

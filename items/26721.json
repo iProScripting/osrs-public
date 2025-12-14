@@ -1,0 +1,18 @@
+{
+    "name": "Centurion cuirass",
+    "id": 26721,
+    "members": false,
+    "examine": "A chest piece worn by the mightiest warriors of the arena.",
+    "value": 79006,
+    "weight": 6.0,
+    "equipment": {
+        "magicAttack": -40,
+        "stabDefence": 72,
+        "slashDefence": 91,
+        "crushDefence": 70,
+        "magicDefence": -10,
+        "rangedDefence": 7,
+        "strength": 4,
+        "slot": "BODY"
+    }
+}

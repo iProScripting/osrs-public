@@ -1,0 +1,11 @@
+{
+    "name": "Chompy bird hat (ogre dragon archer)",
+    "id": 2992,
+    "members": false,
+    "examine": "A symbol of your chompy bird hunting prowess: Ogre Dragon Archer (1,700 kills)",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

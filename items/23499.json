@@ -1,0 +1,9 @@
+{
+    "name": "Grubby key",
+    "id": 23499,
+    "members": false,
+    "examine": "It looks like the key to a chest (Used to open the grubby chest in Forthos Dungeon).",
+    "value": 32,
+    "weight": 0.001,
+    "buyLimit": 11000
+}

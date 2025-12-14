@@ -1,0 +1,17 @@
+{
+    "name": "Corrupted tumeken's shadow",
+    "id": 28547,
+    "members": false,
+    "examine": "An ancient staff created using a higher power.",
+    "value": 250000,
+    "weight": 5.0,
+    "equipment": {
+        "magicAttack": 35,
+        "magicDefence": 20,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 8,
+        "combatStyle": "POWERED_STAFF"
+    }
+}

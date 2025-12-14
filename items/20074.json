@@ -1,0 +1,9 @@
+{
+    "name": "Saradomin godsword ornament kit",
+    "id": 20074,
+    "members": false,
+    "examine": "Use on a Saradomin godsword to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

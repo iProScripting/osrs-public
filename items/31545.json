@@ -1,0 +1,9 @@
+{
+    "name": "Cotton seed",
+    "id": 31545,
+    "members": false,
+    "examine": "A cotton plant seed - plant in a hops patch.",
+    "value": 5,
+    "weight": 0.001,
+    "buyLimit": 2000
+}

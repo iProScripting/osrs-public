@@ -1,0 +1,8 @@
+{
+    "name": "Cat",
+    "id": 1564,
+    "members": false,
+    "examine": "This cat definitely likes you.",
+    "value": 1,
+    "weight": 1.5
+}

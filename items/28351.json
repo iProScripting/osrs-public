@@ -1,0 +1,8 @@
+{
+    "name": "Arder-musca poison",
+    "id": 28351,
+    "members": false,
+    "examine": "A nasty fungal poison.",
+    "value": 200,
+    "weight": 0.05
+}

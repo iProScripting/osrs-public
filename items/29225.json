@@ -1,0 +1,8 @@
+{
+    "name": "Swamp lizard claw",
+    "id": 29225,
+    "members": false,
+    "examine": "The oversized claw of a swamp lizard.",
+    "value": 10,
+    "weight": 1.0
+}

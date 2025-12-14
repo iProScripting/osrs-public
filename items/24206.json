@@ -1,0 +1,17 @@
+{
+    "name": "Brassica halo",
+    "id": 24206,
+    "members": false,
+    "examine": "Halo with the protection of a healthy diet and the smell of flatulence.",
+    "value": 1000,
+    "weight": 0.3,
+    "equipment": {
+        "stabDefence": 11,
+        "slashDefence": 12,
+        "crushDefence": 10,
+        "magicDefence": 11,
+        "rangedDefence": -1,
+        "prayerBonus": 3,
+        "slot": "HEAD"
+    }
+}

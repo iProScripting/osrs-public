@@ -1,0 +1,11 @@
+{
+    "name": "20th anniversary boots",
+    "id": 25328,
+    "members": false,
+    "examine": "Celebrating the 20th Anniversary of RuneScape.",
+    "value": 0,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

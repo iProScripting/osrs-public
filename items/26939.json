@@ -1,0 +1,11 @@
+{
+    "name": "Crate ring",
+    "id": 26939,
+    "members": false,
+    "examine": "This would be pretty good for a sneaking mission.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "RING"
+    }
+}

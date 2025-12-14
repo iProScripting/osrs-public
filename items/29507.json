@@ -1,0 +1,11 @@
+{
+    "name": "Rainbow crown shirt",
+    "id": 29507,
+    "members": false,
+    "examine": "A humble shirt with a rainbow crown motif on the back!",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

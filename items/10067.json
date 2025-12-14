@@ -1,0 +1,8 @@
+{
+    "name": "Polar camo legs",
+    "id": 10067,
+    "members": false,
+    "examine": "These should make me harder to spot in polar areas.",
+    "value": 20,
+    "weight": 0.226
+}
