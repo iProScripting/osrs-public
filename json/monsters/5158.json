@@ -1,0 +1,33 @@
+{
+    "name": "H.A.M. Mage",
+    "id": 5158,
+    "isMembersOnly": false,
+    "examine": "He bristles with arcane power.",
+    "releaseDate": "24 April 2007",
+    "combatLevel": 30,
+    "hitpoints": 35,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "attackBonuses": {
+        "magic": 8
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 10,
+    "size": 1
+}

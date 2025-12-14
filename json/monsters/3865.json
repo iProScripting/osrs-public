@@ -1,0 +1,24 @@
+{
+    "name": "Wilson",
+    "id": 3865,
+    "isMembersOnly": false,
+    "examine": "A pirate.",
+    "releaseDate": "24 July 2006",
+    "combatLevel": 37,
+    "hitpoints": 50,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 27,
+    "strengthLevel": 31,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

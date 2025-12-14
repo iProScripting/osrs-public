@@ -1,0 +1,34 @@
+{
+    "name": "Hobgoblin",
+    "id": 3287,
+    "isMembersOnly": false,
+    "examine": "An ugly, smelly creature.",
+    "releaseDate": "26 September 2005",
+    "versionAnchor": "Hobgoblin (grey)",
+    "combatLevel": 28,
+    "hitpoints": 29,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 29.0,
+    "slayerCategory": [
+        "Hobgoblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 24,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

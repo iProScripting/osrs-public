@@ -1,0 +1,46 @@
+{
+    "name": "King Scorpion",
+    "id": 3027,
+    "isMembersOnly": false,
+    "examine": "Wow! Scorpions shouldn't grow that big.",
+    "releaseDate": "6 April 2001",
+    "combatLevel": 32,
+    "hitpoints": 30,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 30.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 29,
+    "defenceLevel": 23,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 15,
+        "crush": 15,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

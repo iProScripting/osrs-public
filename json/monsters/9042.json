@@ -1,0 +1,27 @@
+{
+    "name": "Corrupted Bat",
+    "id": 9042,
+    "isMembersOnly": false,
+    "examine": "They'll be gone when the morning comes.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 48,
+    "hitpoints": 14,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 36,
+    "strengthLevel": 102,
+    "defenceLevel": 2,
+    "magicLevel": 2,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

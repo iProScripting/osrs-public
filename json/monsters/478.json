@@ -1,0 +1,27 @@
+{
+    "name": "Big frog",
+    "id": 478,
+    "isMembersOnly": false,
+    "examine": "It didn't get that big eating flies.",
+    "releaseDate": "14 March 2005",
+    "versionAnchor": "Level 24",
+    "combatLevel": 24,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 20,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Air elemental",
+    "id": 1369,
+    "isMembersOnly": false,
+    "examine": "An air elemental.",
+    "releaseDate": "2 June 2004",
+    "combatLevel": 34,
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 20,
+    "defenceLevel": 30,
+    "rangedLevel": 20,
+    "magicLevel": 40,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

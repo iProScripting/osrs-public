@@ -1,0 +1,51 @@
+{
+    "name": "Night beast",
+    "id": 7409,
+    "isMembersOnly": false,
+    "examine": "I don't want to ever visit that darker dimension...",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 374,
+    "hitpoints": 550,
+    "maxHit": [
+        "31"
+    ],
+    "slayerLevel": 90,
+    "slayerExperience": 6462.0,
+    "slayerCategory": [
+        "Dark Beasts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 270,
+    "strengthLevel": 290,
+    "defenceLevel": 220,
+    "rangedLevel": 1,
+    "magicLevel": 300,
+    "defenceBonuses": {
+        "stab": 75,
+        "slash": 80,
+        "crush": 200,
+        "magic": 190,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 17.5,
+    "size": 4
+}

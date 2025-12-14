@@ -1,0 +1,36 @@
+{
+    "name": "Jungle horror",
+    "id": 1044,
+    "isMembersOnly": false,
+    "examine": "A horrible, emaciated ape like creature with beady green eyes.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Warrior",
+    "combatLevel": 70,
+    "hitpoints": 45,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 45.0,
+    "slayerCategory": [
+        "Jungle Horrors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 55,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

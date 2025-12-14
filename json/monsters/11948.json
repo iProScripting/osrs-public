@@ -1,0 +1,39 @@
+{
+    "name": "White Knight",
+    "id": 11948,
+    "isMembersOnly": false,
+    "examine": "Shiny armour!",
+    "releaseDate": "9 November 2022",
+    "versionAnchor": "Initiate (f)",
+    "combatLevel": 36,
+    "hitpoints": 52,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 27,
+    "strengthLevel": 29,
+    "defenceLevel": 21,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 83,
+        "slash": 76,
+        "crush": 70,
+        "magic": -11,
+        "ranged": 74,
+        "lightRanged": 74,
+        "standardRanged": 74,
+        "heavyRanged": 54
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

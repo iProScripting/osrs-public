@@ -1,0 +1,36 @@
+{
+    "name": "Uodai",
+    "id": 5262,
+    "isMembersOnly": false,
+    "examine": "A large ninja monkey wielding two scimitars.",
+    "releaseDate": "6 December 2004",
+    "combatLevel": 149,
+    "hitpoints": 130,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 130.0,
+    "slayerCategory": [
+        "Monkeys"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 130,
+    "rangedLevel": 1,
+    "magicLevel": 130,
+    "attackBonuses": {
+        "melee": 50
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

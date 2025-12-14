@@ -1,0 +1,28 @@
+{
+    "name": "Bouncer (Nightmare Zone)",
+    "id": 6355,
+    "isMembersOnly": false,
+    "examine": "Postie Pete's worst nightmare.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 137,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 116,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

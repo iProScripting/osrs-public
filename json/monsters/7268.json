@@ -1,0 +1,35 @@
+{
+    "name": "Possessed pickaxe",
+    "id": 7268,
+    "isMembersOnly": false,
+    "examine": "How does it move of its own accord?",
+    "releaseDate": "21 December 2004",
+    "versionAnchor": "Catacombs of Kourend",
+    "combatLevel": 50,
+    "hitpoints": 40,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 55,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

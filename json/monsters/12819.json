@@ -1,0 +1,42 @@
+{
+    "name": "Shockwave Colossus",
+    "id": 12819,
+    "isMembersOnly": false,
+    "examine": "If he had a theme song, it'd probably go with everything.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 239,
+    "hitpoints": 125,
+    "maxHit": [
+        "56"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 190,
+    "defenceLevel": 150,
+    "rangedLevel": 220,
+    "magicLevel": 350,
+    "attackBonuses": {
+        "magic": 55,
+        "magicDamage": 35
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15,
+        "magic": 5,
+        "ranged": 35,
+        "lightRanged": 35,
+        "standardRanged": 35,
+        "heavyRanged": 35
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 3
+}

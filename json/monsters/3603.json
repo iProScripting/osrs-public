@@ -1,0 +1,24 @@
+{
+    "name": "Swordchick",
+    "id": 3603,
+    "isMembersOnly": false,
+    "examine": "Definitely not a chicken or a swordfish.",
+    "releaseDate": "19 February 2007",
+    "combatLevel": 46,
+    "hitpoints": 35,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 41,
+    "strengthLevel": 42,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

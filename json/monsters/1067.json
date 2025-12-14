@@ -1,0 +1,29 @@
+{
+    "name": "Confusion beast",
+    "id": 1067,
+    "isMembersOnly": false,
+    "examine": "What on Gielinor is that?!?",
+    "releaseDate": "3 April 2006",
+    "versionAnchor": "Level 43 (stab)",
+    "combatLevel": 43,
+    "hitpoints": 28,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 42,
+    "strengthLevel": 41,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

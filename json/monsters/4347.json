@@ -1,0 +1,37 @@
+{
+    "name": "Sir Pelleas",
+    "id": 4347,
+    "isMembersOnly": false,
+    "examine": "One of the Knights of the Round Table.",
+    "releaseDate": "24 July 2007",
+    "combatLevel": 112,
+    "hitpoints": 99,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 99,
+    "defenceLevel": 98,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 22
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": -5,
+        "crush": 5
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 1
+}

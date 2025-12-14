@@ -1,0 +1,53 @@
+{
+    "name": "Iron dragon",
+    "id": 273,
+    "isMembersOnly": false,
+    "examine": "Its scales seem to be made of iron.",
+    "releaseDate": "17 January 2005",
+    "versionAnchor": "Standard",
+    "combatLevel": 189,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 165,
+    "maxHit": [
+        "17 (Melee)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 173.2,
+    "slayerCategory": [
+        "Metal Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 165,
+    "strengthLevel": 165,
+    "defenceLevel": 165,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "slash": 70,
+        "crush": 70,
+        "magic": 30,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

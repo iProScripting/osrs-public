@@ -1,0 +1,51 @@
+{
+    "name": "Bloodthirsty Night beast",
+    "id": 12580,
+    "isMembersOnly": false,
+    "examine": "I don't want to ever visit that darker dimension...",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 561,
+    "hitpoints": 825,
+    "maxHit": [
+        "44"
+    ],
+    "slayerLevel": 90,
+    "slayerExperience": 10312.4,
+    "slayerCategory": [
+        "Dark Beasts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 405,
+    "strengthLevel": 435,
+    "defenceLevel": 220,
+    "rangedLevel": 1,
+    "magicLevel": 450,
+    "defenceBonuses": {
+        "stab": 75,
+        "slash": 80,
+        "crush": 200,
+        "magic": 190,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 25.0,
+    "size": 4
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Nazastarool",
+    "id": 5355,
+    "isMembersOnly": false,
+    "examine": "A giant ghost of huge strength and devastating power.",
+    "releaseDate": "27 January 2003",
+    "versionAnchor": "Ghost",
+    "combatLevel": 93,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 20
+}

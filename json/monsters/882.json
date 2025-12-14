@@ -1,0 +1,46 @@
+{
+    "name": "Slash Bash",
+    "id": 882,
+    "isMembersOnly": false,
+    "examine": "A powerful looking Zogre.",
+    "releaseDate": "17 May 2005",
+    "combatLevel": 111,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "13"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 120,
+    "defenceLevel": 60,
+    "rangedLevel": 100,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 3
+}

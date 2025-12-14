@@ -1,0 +1,34 @@
+{
+    "name": "Strangled",
+    "id": 12268,
+    "isMembersOnly": false,
+    "examine": "A victim of the Strangler.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Strangled 1",
+    "combatLevel": 138,
+    "hitpoints": 40,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 50,
+    "defenceLevel": 30,
+    "magicLevel": 50,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 20,
+        "crush": 30,
+        "magic": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Typeless"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Reanimated giant",
+    "id": 7027,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 35,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Hill Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 22,
+    "defenceLevel": 26,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 18,
+        "strength": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

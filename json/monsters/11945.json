@@ -1,0 +1,40 @@
+{
+    "name": "Guard",
+    "id": 11945,
+    "isMembersOnly": false,
+    "examine": "She tries to keep order around here.",
+    "releaseDate": "9 November 2022",
+    "versionAnchor": "Falador (crossbow, 2)",
+    "combatLevel": 22,
+    "hitpoints": 22,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 15,
+    "defenceLevel": 16,
+    "rangedLevel": 26,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 6,
+        "strength": 10,
+        "rangedStrength": 10
+    },
+    "defenceBonuses": {
+        "stab": 13,
+        "slash": 17,
+        "crush": 14,
+        "magic": -4,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

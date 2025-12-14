@@ -1,0 +1,23 @@
+{
+    "name": "Ravager",
+    "id": 1704,
+    "isMembersOnly": false,
+    "examine": "Worse than termites!",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Level 36",
+    "combatLevel": 36,
+    "hitpoints": 23,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 27,
+    "strengthLevel": 57,
+    "defenceLevel": 13,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Kamil (Nightmare Zone)",
+    "id": 1129,
+    "isMembersOnly": false,
+    "examine": "Ice warrior.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 273,
+    "hitpoints": 255,
+    "maxHit": [
+        "43 (Melee)",
+        "5x2 (Magic)"
+    ],
+    "slayerExperience": 312.0,
+    "slayerCategory": [
+        "Ice Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 380,
+    "strengthLevel": 160,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 60,
+        "crush": 35
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 22.5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 10
+}

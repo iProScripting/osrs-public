@@ -1,0 +1,47 @@
+{
+    "name": "Muttadile",
+    "id": 7562,
+    "isMembersOnly": false,
+    "examine": "A mutated guardian of Xeric.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Small",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 250,
+    "maxHit": [
+        "28 (Melee)",
+        "30 (Ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 138,
+    "rangedLevel": 150,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 83,
+        "melee": 71,
+        "strength": 48,
+        "rangedStrength": 56,
+        "magicDamage": -8
+    },
+    "defenceBonuses": {
+        "stab": -5,
+        "slash": 72,
+        "crush": 50,
+        "magic": 60
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 12.5,
+    "size": 3
+}

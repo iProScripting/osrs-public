@@ -1,0 +1,51 @@
+{
+    "name": "Fire giant",
+    "id": 2078,
+    "isMembersOnly": false,
+    "examine": "A very large elemental adversary.",
+    "releaseDate": "8 May 2002",
+    "versionAnchor": "Level 86",
+    "combatLevel": 86,
+    "attributes": [
+        "fiery"
+    ],
+    "hitpoints": 111,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 111.0,
+    "slayerCategory": [
+        "Fire Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 65,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 29,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

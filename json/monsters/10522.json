@@ -1,0 +1,41 @@
+{
+    "name": "Wolf (Soul Wars)",
+    "id": 10522,
+    "isMembersOnly": false,
+    "examine": "Not man's best friend.",
+    "releaseDate": "6 January 2021",
+    "combatLevel": 79,
+    "hitpoints": 80,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 75,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

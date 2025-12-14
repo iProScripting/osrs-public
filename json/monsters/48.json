@@ -1,0 +1,42 @@
+{
+    "name": "Zombie (Wilderness)",
+    "id": 48,
+    "isMembersOnly": false,
+    "examine": "Dead woman walking.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Level 18, 4",
+    "combatLevel": 18,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 24,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 24.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 13,
+    "strengthLevel": 13,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

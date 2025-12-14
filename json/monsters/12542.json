@@ -1,0 +1,40 @@
+{
+    "name": "Bloodthirsty twisted banshee",
+    "id": 12542,
+    "isMembersOnly": false,
+    "examine": "A tortured, twisted and screaming soul.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 144,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 220,
+    "slayerLevel": 15,
+    "slayerCategory": [
+        "Banshees"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 103,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Double agent",
+    "id": 7312,
+    "isMembersOnly": false,
+    "examine": "He's playing both sides!",
+    "releaseDate": "6 July 2016",
+    "versionAnchor": "Level 141",
+    "combatLevel": 141,
+    "hitpoints": 160,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 105,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 95,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

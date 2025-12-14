@@ -1,0 +1,62 @@
+{
+    "name": "Tormented Demon",
+    "id": 13599,
+    "isMembersOnly": false,
+    "examine": "Lucien must be incredibly powerful if he can bind such demons to his will.",
+    "releaseDate": "10 July 2024",
+    "versionAnchor": "1",
+    "combatLevel": 450,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 600,
+    "maxHit": [
+        "<div class=\"plainlist \" >\n*31 (auto)\n*45 (special)\n</div>"
+    ],
+    "slayerExperience": 1065.0,
+    "slayerCategory": [
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 150,
+    "rangedLevel": 255,
+    "magicLevel": 255,
+    "attackBonuses": {
+        "magic": 300,
+        "ranged": 300,
+        "melee": 400,
+        "strength": 10,
+        "rangedStrength": 5,
+        "magicDamage": 5
+    },
+    "defenceBonuses": {
+        "stab": 75,
+        "slash": 175,
+        "crush": 68,
+        "magic": 5,
+        "ranged": 150,
+        "lightRanged": 140,
+        "standardRanged": 150,
+        "heavyRanged": 90
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "All"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 77.5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 30
+}

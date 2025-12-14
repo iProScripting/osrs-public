@@ -1,0 +1,43 @@
+{
+    "name": "Flawed Golem",
+    "id": 10695,
+    "isMembersOnly": false,
+    "examine": "How long has it dwelled down here?",
+    "releaseDate": "14 April 2021",
+    "versionAnchor": "Golem",
+    "combatLevel": 13,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 7,
+    "strengthLevel": 12,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "magic": 2,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "flatArmour": 1,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Experiment",
+    "id": 1273,
+    "isMembersOnly": false,
+    "examine": "It has a key hanging from its collar.",
+    "releaseDate": "31 January 2005",
+    "versionAnchor": "Level 51",
+    "combatLevel": 51,
+    "hitpoints": 40,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

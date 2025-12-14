@@ -1,0 +1,33 @@
+{
+    "name": "Death spawn",
+    "id": 10,
+    "isMembersOnly": false,
+    "examine": "An evil death spawn.",
+    "releaseDate": "26 January 2005",
+    "combatLevel": 46,
+    "hitpoints": 60,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 67,
+    "strengthLevel": 7,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Typeless Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

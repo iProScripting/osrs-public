@@ -1,0 +1,24 @@
+{
+    "name": "Earth Warrior Champion",
+    "id": 3328,
+    "isMembersOnly": false,
+    "examine": "Champion of the earth warriors.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 102,
+    "hitpoints": 108,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 84,
+    "strengthLevel": 84,
+    "defenceLevel": 84,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

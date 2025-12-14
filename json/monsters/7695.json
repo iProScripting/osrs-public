@@ -1,0 +1,49 @@
+{
+    "name": "Jal-AkRek-Xil",
+    "id": 7695,
+    "isMembersOnly": false,
+    "examine": "It might be smaller, but I still don't want to be near that thing.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 70,
+    "hitpoints": 15,
+    "maxHit": [
+        "18"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 95,
+    "rangedLevel": 120,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 25,
+        "rangedStrength": 25
+    },
+    "defenceBonuses": {
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Bloodveld",
+    "id": 484,
+    "isMembersOnly": false,
+    "examine": "The tongue of evil.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Normal",
+    "combatLevel": 76,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 50,
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Bloodveld"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 45,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

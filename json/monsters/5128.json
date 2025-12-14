@@ -1,0 +1,35 @@
+{
+    "name": "Mouse",
+    "id": 5128,
+    "isMembersOnly": false,
+    "examine": "A huge mouse. It looks hungry...",
+    "releaseDate": "4 June 2007",
+    "versionAnchor": "Dark",
+    "combatLevel": 95,
+    "hitpoints": 70,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 80,
+    "defenceLevel": 86,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 55,
+        "crush": 65,
+        "magic": 50,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

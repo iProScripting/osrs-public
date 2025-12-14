@@ -1,0 +1,32 @@
+{
+    "name": "Elder Chaos druid",
+    "id": 6607,
+    "isMembersOnly": false,
+    "examine": "An elder, more dangerous kind of druid.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 129,
+    "hitpoints": 150,
+    "maxHit": [
+        "17"
+    ],
+    "slayerExperience": 150.0,
+    "slayerCategory": [
+        "Chaos Druids"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 98,
+    "strengthLevel": 98,
+    "defenceLevel": 65,
+    "rangedLevel": 1,
+    "magicLevel": 110,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

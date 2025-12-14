@@ -1,0 +1,44 @@
+{
+    "name": "Bloodthirsty mutated Bloodveld",
+    "id": 12569,
+    "isMembersOnly": false,
+    "examine": "I wouldn't want to get near that tongue.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 417,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 615,
+    "maxHit": [
+        "27+"
+    ],
+    "slayerLevel": 50,
+    "slayerExperience": 6150.0,
+    "slayerCategory": [
+        "Bloodveld"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 375,
+    "strengthLevel": 285,
+    "defenceLevel": 130,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

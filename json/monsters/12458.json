@@ -1,0 +1,43 @@
+{
+    "name": "Sulphur Lizard (Deadman)",
+    "id": 12458,
+    "isMembersOnly": false,
+    "examine": "A cold-blooded creature, partial to warmth.",
+    "releaseDate": "23 August 2023",
+    "combatLevel": 257,
+    "hitpoints": 500,
+    "maxHit": [
+        "21"
+    ],
+    "slayerCategory": [
+        "Lizards"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 200,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 25,
+        "crush": 25,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

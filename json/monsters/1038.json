@@ -1,0 +1,34 @@
+{
+    "name": "Monkey (monster)",
+    "id": 1038,
+    "isMembersOnly": false,
+    "examine": "Perhaps our oldest relatives?",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Mos Le'Harmless",
+    "combatLevel": 3,
+    "hitpoints": 6,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 6.0,
+    "slayerCategory": [
+        "Monkeys"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 3,
+    "defenceLevel": 2,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

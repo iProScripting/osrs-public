@@ -1,0 +1,41 @@
+{
+    "name": "Forgotten Soul",
+    "id": 10545,
+    "isMembersOnly": false,
+    "examine": "All that they once were has been lost to time.",
+    "releaseDate": "6 January 2021",
+    "versionAnchor": "2",
+    "combatLevel": 20,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

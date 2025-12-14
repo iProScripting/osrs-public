@@ -1,0 +1,37 @@
+{
+    "name": "Sergeant Grimspike",
+    "id": 2218,
+    "isMembersOnly": false,
+    "examine": "A battle-honed goblin.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 142,
+    "hitpoints": 146,
+    "maxHit": [
+        "21"
+    ],
+    "slayerExperience": 146.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 132,
+    "rangedLevel": 150,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "ranged": 20,
+        "rangedStrength": 20
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

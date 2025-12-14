@@ -1,0 +1,32 @@
+{
+    "name": "Soldier (tier 2)",
+    "id": 6906,
+    "isMembersOnly": false,
+    "examine": "Not a very high rank.",
+    "releaseDate": "7 January 2016",
+    "combatLevel": 48,
+    "hitpoints": 50,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 25,
+        "strength": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

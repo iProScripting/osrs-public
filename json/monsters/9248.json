@@ -1,0 +1,44 @@
+{
+    "name": "Arianwyn (Nightmare Zone)",
+    "id": 9248,
+    "isMembersOnly": false,
+    "examine": "A concerned looking elf.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 212,
+    "hitpoints": 300,
+    "maxHit": [
+        "38",
+        "47 (special attack)"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 102,
+    "rangedLevel": 368,
+    "magicLevel": 102,
+    "attackBonuses": {
+        "ranged": 84
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 80,
+        "crush": 80,
+        "magic": 260,
+        "ranged": 180,
+        "lightRanged": 180,
+        "standardRanged": 180,
+        "heavyRanged": 180
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 2.5,
+    "size": 1
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Revenant hellhound",
+    "id": 7935,
+    "isMembersOnly": false,
+    "examine": "The ghost of a hellhound slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 90,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 86.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 76,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 80,
+    "magicLevel": 104,
+    "attackBonuses": {
+        "magic": 30,
+        "melee": 38,
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "stab": 98,
+        "slash": 140,
+        "crush": 142,
+        "magic": 62,
+        "ranged": 140,
+        "lightRanged": 110,
+        "standardRanged": 140,
+        "heavyRanged": 140
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

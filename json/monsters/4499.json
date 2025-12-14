@@ -1,0 +1,55 @@
+{
+    "name": "Skeleton fremennik",
+    "id": 4499,
+    "isMembersOnly": false,
+    "examine": "He seems a little underweight.",
+    "releaseDate": "10 April 2007",
+    "versionAnchor": "Level 60",
+    "combatLevel": 60,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 54,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 13
+    },
+    "defenceBonuses": {
+        "stab": 14,
+        "slash": 18,
+        "crush": 15,
+        "magic": -4,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

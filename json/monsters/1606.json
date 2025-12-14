@@ -1,0 +1,28 @@
+{
+    "name": "Kolodion",
+    "id": 1606,
+    "isMembersOnly": false,
+    "examine": "He's a shape-shifter.",
+    "releaseDate": "22 September 2003",
+    "versionAnchor": "Ogre",
+    "poisonous": true,
+    "hitpoints": 65,
+    "maxHit": [
+        "20"
+    ],
+    "slayerCategory": [
+        "No"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 55,
+    "strengthLevel": 70,
+    "defenceLevel": 72,
+    "rangedLevel": 1,
+    "magicLevel": 50,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

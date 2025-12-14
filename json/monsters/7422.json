@@ -1,0 +1,25 @@
+{
+    "name": "Zamorak mage",
+    "id": 7422,
+    "isMembersOnly": false,
+    "examine": "A mage of Zamorak.",
+    "releaseDate": "13 October 2016",
+    "versionAnchor": "Level 84",
+    "combatLevel": 84,
+    "hitpoints": 50,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 78,
+    "strengthLevel": 81,
+    "defenceLevel": 82,
+    "rangedLevel": 1,
+    "magicLevel": 85,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

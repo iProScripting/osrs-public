@@ -1,0 +1,49 @@
+{
+    "name": "Great Olm",
+    "id": 7553,
+    "isMembersOnly": false,
+    "examine": "It grips very tightly.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Right claw (Challenge Mode)",
+    "combatLevel": 549,
+    "attributes": [
+        "dragon",
+        "xerician"
+    ],
+    "hitpoints": 600,
+    "maxHit": [
+        "0"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 375,
+    "strengthLevel": 375,
+    "defenceLevel": 262,
+    "rangedLevel": 375,
+    "magicLevel": 130,
+    "attackBonuses": {
+        "magic": 60,
+        "ranged": 60
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 200,
+        "crush": 200,
+        "magic": 50,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

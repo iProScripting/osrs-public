@@ -1,0 +1,32 @@
+{
+    "name": "Crystalline Bear",
+    "id": 9032,
+    "isMembersOnly": false,
+    "examine": "That is one big bear.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 172,
+    "hitpoints": 100,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 98,
+    "strengthLevel": 98,
+    "defenceLevel": 98,
+    "rangedLevel": 98,
+    "magicLevel": 98,
+    "attackBonuses": {
+        "melee": 54,
+        "strength": 106
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Yt-MejKot",
+    "id": 3124,
+    "isMembersOnly": false,
+    "examine": "Holy reptile...",
+    "releaseDate": "4 October 2005",
+    "versionAnchor": "Spawn point",
+    "combatLevel": 180,
+    "hitpoints": 80,
+    "maxHit": [
+        "25"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 240,
+    "defenceLevel": 120,
+    "rangedLevel": 240,
+    "magicLevel": 120,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

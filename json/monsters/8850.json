@@ -1,0 +1,39 @@
+{
+    "name": "Paladin (Song of the Elves)",
+    "id": 8850,
+    "isMembersOnly": false,
+    "examine": "A holy warrior.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "Level 121",
+    "combatLevel": 121,
+    "hitpoints": 82,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 54,
+    "strengthLevel": 126,
+    "defenceLevel": 64,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 87,
+        "slash": 84,
+        "crush": 76,
+        "magic": -10,
+        "ranged": 79,
+        "lightRanged": 79,
+        "standardRanged": 79,
+        "heavyRanged": 79
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

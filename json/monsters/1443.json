@@ -1,0 +1,39 @@
+{
+    "name": "Jungle Demon",
+    "id": 1443,
+    "isMembersOnly": false,
+    "examine": "A Greater Jungle Demon. A magical aura emanates from its hide.",
+    "releaseDate": "6 December 2004",
+    "combatLevel": 195,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 170,
+    "maxHit": [
+        "32"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 170,
+    "strengthLevel": 170,
+    "defenceLevel": 170,
+    "rangedLevel": 1,
+    "magicLevel": 170,
+    "attackBonuses": {
+        "melee": 50,
+        "strength": 50
+    },
+    "defenceBonuses": {
+        "slash": 50,
+        "magic": 50
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

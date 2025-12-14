@@ -1,0 +1,32 @@
+{
+    "name": "Gang boss",
+    "id": 6900,
+    "isMembersOnly": false,
+    "examine": "She directs various nefarious activities around Kourend.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Female",
+    "combatLevel": 83,
+    "hitpoints": 80,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 50,
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "crush": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

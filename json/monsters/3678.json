@@ -1,0 +1,24 @@
+{
+    "name": "Halla (Miscellania)",
+    "id": 3678,
+    "isMembersOnly": false,
+    "examine": "A subject of Miscellania.",
+    "releaseDate": "29 November 2004",
+    "combatLevel": 1,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

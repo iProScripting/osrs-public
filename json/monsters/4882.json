@@ -1,0 +1,47 @@
+{
+    "name": "Karamel",
+    "id": 4882,
+    "isMembersOnly": false,
+    "examine": "Pure evil lightly whipped with a juicy cherry on top.",
+    "releaseDate": "15 March 2006",
+    "combatLevel": 136,
+    "hitpoints": 250,
+    "maxHit": [
+        "7x2 (Magic)",
+        "20 (Ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 100,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 134,
+        "rangedStrength": 55
+    },
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 150,
+        "crush": 150,
+        "magic": 150,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

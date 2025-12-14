@@ -1,0 +1,44 @@
+{
+    "name": "Monkey Zombie",
+    "id": 5283,
+    "isMembersOnly": false,
+    "examine": "A recently deceased monkey. Its flesh seems to be worse for the wear.",
+    "releaseDate": "6 December 2004",
+    "versionAnchor": "Level 82",
+    "combatLevel": 82,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Monkeys",
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "melee": 15
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

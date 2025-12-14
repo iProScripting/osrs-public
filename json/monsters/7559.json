@@ -1,0 +1,35 @@
+{
+    "name": "Deathly ranger",
+    "id": 7559,
+    "isMembersOnly": false,
+    "examine": "They wouldn't enjoy the circus.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 180,
+    "maxHit": [
+        "99"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 232,
+    "rangedLevel": 315,
+    "magicLevel": 232,
+    "attackBonuses": {
+        "ranged": 120,
+        "rangedStrength": 70
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

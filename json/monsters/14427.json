@@ -1,0 +1,48 @@
+{
+    "name": "Skeleton",
+    "id": 14427,
+    "isMembersOnly": false,
+    "examine": "Could do with gaining a few pounds.",
+    "releaseDate": "23 July 2025",
+    "versionAnchor": "2 (Plain)",
+    "combatLevel": 29,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 24,
+    "strengthLevel": 24,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": -5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Jal-MejJak",
+    "id": 7708,
+    "isMembersOnly": false,
+    "examine": "A lava born creature with healing powers.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 250,
+    "hitpoints": 75,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Area of effect"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Dharok the Wretched (Deadman)",
+    "id": 12447,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 666,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "29"
+    ],
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": -58,
+        "ranged": -18,
+        "strength": 105
+    },
+    "defenceBonuses": {
+        "stab": 252,
+        "slash": 250,
+        "crush": 244,
+        "magic": -11,
+        "ranged": 249,
+        "lightRanged": 249,
+        "standardRanged": 249,
+        "heavyRanged": 249
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 2
+}

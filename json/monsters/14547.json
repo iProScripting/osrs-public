@@ -1,0 +1,27 @@
+{
+    "name": "Ocelot",
+    "id": 14547,
+    "isMembersOnly": false,
+    "examine": "Its intricate patterns make it the most beautiful cat in all of Varlamore.",
+    "releaseDate": "23 July 2025",
+    "versionAnchor": "Grey",
+    "combatLevel": 35,
+    "hitpoints": 40,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 25,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 10
+}

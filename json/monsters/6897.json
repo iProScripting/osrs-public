@@ -1,0 +1,32 @@
+{
+    "name": "Gangster",
+    "id": 6897,
+    "isMembersOnly": false,
+    "examine": "He's up to no good.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Level 45 (2)",
+    "combatLevel": 45,
+    "hitpoints": 40,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 30,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "crush": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Crab",
+    "id": 4819,
+    "isMembersOnly": false,
+    "examine": "Nice claw!",
+    "releaseDate": "15 March 2006",
+    "versionAnchor": "Level 23",
+    "combatLevel": 23,
+    "hitpoints": 19,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 19.0,
+    "slayerCategory": [
+        "Crabs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 19,
+    "strengthLevel": 20,
+    "defenceLevel": 26,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Disciple of Iban",
+    "id": 8997,
+    "isMembersOnly": false,
+    "examine": "A dark magic user.",
+    "releaseDate": "3 March 2003",
+    "combatLevel": 13,
+    "hitpoints": 20,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

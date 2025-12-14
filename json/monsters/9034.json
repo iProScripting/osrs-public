@@ -1,0 +1,32 @@
+{
+    "name": "Crystalline Dark Beast",
+    "id": 9034,
+    "isMembersOnly": false,
+    "examine": "It doesn't look so dark with all those crystals.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 172,
+    "hitpoints": 100,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 98,
+    "strengthLevel": 98,
+    "defenceLevel": 98,
+    "rangedLevel": 98,
+    "magicLevel": 98,
+    "attackBonuses": {
+        "ranged": 54,
+        "rangedStrength": 106
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

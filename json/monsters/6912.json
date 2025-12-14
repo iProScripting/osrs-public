@@ -1,0 +1,32 @@
+{
+    "name": "Soldier (tier 5)",
+    "id": 6912,
+    "isMembersOnly": false,
+    "examine": "The elite.",
+    "releaseDate": "7 January 2016",
+    "combatLevel": 99,
+    "hitpoints": 90,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 85,
+    "defenceLevel": 86,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 5
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

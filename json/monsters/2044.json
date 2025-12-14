@@ -1,0 +1,51 @@
+{
+    "name": "Zulrah",
+    "id": 2044,
+    "isMembersOnly": false,
+    "examine": "The turquoise hooded serpent of the poison waste.",
+    "releaseDate": "8 January 2015",
+    "versionAnchor": "Tanzanite",
+    "combatLevel": 725,
+    "hitpoints": 500,
+    "maxHit": [
+        "41"
+    ],
+    "slayerExperience": 500.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 300,
+    "rangedLevel": 300,
+    "magicLevel": 300,
+    "attackBonuses": {
+        "magic": 50,
+        "ranged": 50,
+        "rangedStrength": 20,
+        "magicDamage": 20
+    },
+    "defenceBonuses": {
+        "magic": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "size": 5,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

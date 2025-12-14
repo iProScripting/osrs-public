@@ -1,0 +1,41 @@
+{
+    "name": "Ram",
+    "id": 1262,
+    "isMembersOnly": false,
+    "examine": "White and fluffy.",
+    "releaseDate": "10 April 2006",
+    "versionAnchor": "1",
+    "combatLevel": 2,
+    "hitpoints": 8,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -15,
+        "strength": -15
+    },
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

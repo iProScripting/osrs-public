@@ -1,0 +1,47 @@
+{
+    "name": "Ice spider",
+    "id": 13798,
+    "isMembersOnly": false,
+    "examine": "I think this spider has been genetically modified.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Ruins of Tapoyauik",
+    "combatLevel": 61,
+    "hitpoints": 65,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 65.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 55,
+    "defenceLevel": 43,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 17,
+        "crush": 12,
+        "magic": 13,
+        "ranged": 13,
+        "lightRanged": 13,
+        "standardRanged": 13,
+        "heavyRanged": 13
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

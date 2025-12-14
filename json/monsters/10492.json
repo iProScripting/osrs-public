@@ -1,0 +1,44 @@
+{
+    "name": "Headless Beast (Nightmare Zone)",
+    "id": 10492,
+    "isMembersOnly": false,
+    "examine": "Looks like it might have been a bear once.",
+    "releaseDate": "25 November 2020",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 233,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 320,
+    "maxHit": [
+        "25 (Melee)",
+        "16 (Special attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 240,
+    "defenceLevel": 42,
+    "rangedLevel": 1,
+    "magicLevel": 42,
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 18,
+        "crush": 18,
+        "magic": 6,
+        "ranged": 52,
+        "lightRanged": 52,
+        "standardRanged": 52
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

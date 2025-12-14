@@ -1,0 +1,26 @@
+{
+    "name": "Jaguar cub",
+    "id": 12977,
+    "isMembersOnly": false,
+    "examine": "The most ambitious cat in all of Varlamore.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 31,
+    "hitpoints": 40,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 22,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 10
+}

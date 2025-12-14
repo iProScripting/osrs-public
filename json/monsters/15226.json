@@ -1,0 +1,31 @@
+{
+    "name": "Frigatebird",
+    "id": 15226,
+    "isMembersOnly": false,
+    "examine": "A magnificent sea bird, effortlessly soaring in the sky.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 70,
+    "hitpoints": 85,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

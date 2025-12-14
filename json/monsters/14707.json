@@ -1,0 +1,55 @@
+{
+    "name": "Doom of Mokhaiotl",
+    "id": 14707,
+    "isMembersOnly": false,
+    "examine": "A demonic digger.",
+    "releaseDate": "23 July 2025",
+    "versionAnchor": "Deep Delve",
+    "combatLevel": 908,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 625,
+    "maxHit": [
+        "65 <br/>99 (charge)"
+    ],
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 190,
+    "defenceLevel": 90,
+    "rangedLevel": 110,
+    "magicLevel": 275,
+    "attackBonuses": {
+        "magic": 125,
+        "ranged": 120,
+        "melee": 210,
+        "strength": 45,
+        "rangedStrength": 50,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "stab": 300,
+        "slash": 300,
+        "crush": 60,
+        "magic": 160,
+        "ranged": 160,
+        "lightRanged": 160,
+        "standardRanged": 160,
+        "heavyRanged": 160
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 62.5,
+    "size": 5
+}

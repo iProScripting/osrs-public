@@ -1,0 +1,46 @@
+{
+    "name": "Jungle spider",
+    "id": 3020,
+    "isMembersOnly": false,
+    "examine": "A barely visible deadly jungle spider.",
+    "releaseDate": "23 October 2002",
+    "combatLevel": 44,
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 37,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 10,
+        "magic": 17,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

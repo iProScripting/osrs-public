@@ -1,0 +1,50 @@
+{
+    "name": "Essyllt (Nightmare Zone)",
+    "id": 9247,
+    "isMembersOnly": false,
+    "examine": "The ferocious henchman of Lord Iorwerth.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 395,
+    "hitpoints": 320,
+    "maxHit": [
+        "60 (melee)",
+        "75 (ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 408,
+    "strengthLevel": 408,
+    "defenceLevel": 104,
+    "rangedLevel": 512,
+    "magicLevel": 104,
+    "attackBonuses": {
+        "ranged": 168,
+        "melee": 14,
+        "strength": 28,
+        "rangedStrength": 28
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 40,
+        "crush": 20,
+        "magic": 30,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 1
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Scorpia",
+    "id": 6615,
+    "isMembersOnly": false,
+    "examine": "Queen of the Scorpions.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 225,
+    "hitpoints": 200,
+    "maxHit": [
+        "16"
+    ],
+    "slayerExperience": 260.0,
+    "slayerCategory": [
+        "Bosses",
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 180,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60
+    },
+    "defenceBonuses": {
+        "stab": 246,
+        "slash": 284,
+        "crush": 284,
+        "magic": 44,
+        "ranged": 284,
+        "lightRanged": 284,
+        "standardRanged": 284,
+        "heavyRanged": 284
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 30.0,
+    "size": 5,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

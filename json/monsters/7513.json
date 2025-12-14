@@ -1,0 +1,45 @@
+{
+    "name": "Derwen",
+    "id": 7513,
+    "isMembersOnly": false,
+    "examine": "An ancient Guthixian Ent.",
+    "releaseDate": "8 February 2018",
+    "combatLevel": 235,
+    "hitpoints": 320,
+    "maxHit": [
+        "43 (magic)",
+        "16 (melee)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "magic": 180,
+        "magicDamage": 80
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 200,
+        "crush": 200,
+        "magic": -60,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 20.0,
+    "size": 3
+}

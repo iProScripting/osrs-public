@@ -1,0 +1,39 @@
+{
+    "name": "Jail guard",
+    "id": 4276,
+    "isMembersOnly": false,
+    "examine": "A dangerous looking guard.",
+    "releaseDate": "28 February 2001",
+    "versionAnchor": "1",
+    "combatLevel": 26,
+    "hitpoints": 32,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 19,
+    "strengthLevel": 23,
+    "defenceLevel": 21,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 9,
+        "crush": 10,
+        "magic": 4,
+        "ranged": 9,
+        "lightRanged": 9,
+        "standardRanged": 9,
+        "heavyRanged": 9
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Blood spawn",
+    "id": 10821,
+    "isMembersOnly": false,
+    "examine": "The power of blood.",
+    "releaseDate": "7 June 2018",
+    "versionAnchor": "Entry",
+    "combatLevel": 55,
+    "hitpoints": 7,
+    "maxHit": [
+        "1 (does not attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "rangedLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

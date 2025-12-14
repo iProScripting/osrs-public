@@ -1,0 +1,53 @@
+{
+    "name": "Aberrant spectre",
+    "id": 6,
+    "isMembersOnly": false,
+    "examine": "A very smelly ghost.",
+    "releaseDate": "26 January 2005",
+    "combatLevel": 96,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 90,
+    "maxHit": [
+        "8",
+        "14 (without Nose peg)"
+    ],
+    "slayerLevel": 60,
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "Aberrant Spectres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 105,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "ranged": -15,
+        "lightRanged": 15,
+        "standardRanged": -15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

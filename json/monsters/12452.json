@@ -1,0 +1,46 @@
+{
+    "name": "Giant goblin",
+    "id": 12452,
+    "isMembersOnly": false,
+    "examine": "An ugly green creature.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 347,
+    "hitpoints": 750,
+    "maxHit": [
+        "27"
+    ],
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 120,
+        "strength": 43
+    },
+    "defenceBonuses": {
+        "stab": -15,
+        "slash": -15,
+        "crush": -15,
+        "magic": -15,
+        "ranged": -15,
+        "lightRanged": -15,
+        "standardRanged": -15,
+        "heavyRanged": -15
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,29 @@
+{
+    "name": "The Everlasting (Nightmare Zone)",
+    "id": 6351,
+    "isMembersOnly": false,
+    "examine": "Can you endure long enough?",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 223,
+    "hitpoints": 230,
+    "maxHit": [
+        "24"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 187,
+    "strengthLevel": 231,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 3
+}

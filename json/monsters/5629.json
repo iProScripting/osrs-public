@@ -1,0 +1,27 @@
+{
+    "name": "Giant snail",
+    "id": 5629,
+    "isMembersOnly": false,
+    "examine": "Euew.",
+    "releaseDate": "28 March 2006",
+    "versionAnchor": "Level 109",
+    "combatLevel": 109,
+    "hitpoints": 150,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 75,
+    "rangedLevel": 110,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 45
+}

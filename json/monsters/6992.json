@@ -1,0 +1,35 @@
+{
+    "name": "Woman",
+    "id": 6992,
+    "isMembersOnly": false,
+    "examine": "One of Gielinor's many citizens.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "3",
+    "combatLevel": 2,
+    "hitpoints": 7,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Totem (Phosani's Nightmare)",
+    "id": 9438,
+    "isMembersOnly": false,
+    "examine": "An old totem of eastern origin. It's ready to be charged.",
+    "releaseDate": "30 June 2021",
+    "hitpoints": 200,
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 70
+}

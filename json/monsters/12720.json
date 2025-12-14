@@ -1,0 +1,49 @@
+{
+    "name": "Armoured zombie (Zemouregal's Base)",
+    "id": 12720,
+    "isMembersOnly": false,
+    "examine": "This is a rotten one.<br/>This one sure looks grave.<br/>It hasn't quite got round to dying.",
+    "releaseDate": "21 February 2024",
+    "versionAnchor": "Melee",
+    "combatLevel": 82,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 75,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 73,
+    "strengthLevel": 72,
+    "defenceLevel": 68,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": 1,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

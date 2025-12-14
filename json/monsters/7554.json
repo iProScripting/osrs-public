@@ -1,0 +1,51 @@
+{
+    "name": "Great Olm",
+    "id": 7554,
+    "isMembersOnly": false,
+    "examine": "Ferocious. It's unnerving.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Head (Challenge Mode)",
+    "combatLevel": 1043,
+    "poisonous": true,
+    "attributes": [
+        "dragon",
+        "xerician"
+    ],
+    "hitpoints": 800,
+    "maxHit": [
+        "38 (phases 1 and 2) <br/> 39 <br/> 41 (phase 4)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 375,
+    "strengthLevel": 375,
+    "defenceLevel": 225,
+    "rangedLevel": 375,
+    "magicLevel": 375,
+    "attackBonuses": {
+        "magic": 60,
+        "ranged": 60
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 200,
+        "crush": 200,
+        "magic": 200,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

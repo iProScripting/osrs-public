@@ -1,0 +1,47 @@
+{
+    "name": "Giant bat",
+    "id": 6824,
+    "isMembersOnly": false,
+    "examine": "An annoying flappy thing.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Arceuus",
+    "combatLevel": 27,
+    "hitpoints": 32,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 32.0,
+    "slayerCategory": [
+        "Bats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 22,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 12,
+        "magic": 10,
+        "ranged": 8,
+        "lightRanged": 8,
+        "standardRanged": 8,
+        "heavyRanged": 8
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 10
+}

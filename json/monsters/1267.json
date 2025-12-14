@@ -1,0 +1,40 @@
+{
+    "name": "Vulture",
+    "id": 1267,
+    "isMembersOnly": false,
+    "examine": "If you see them circling: run.",
+    "releaseDate": "10 April 2006",
+    "versionAnchor": "Landed",
+    "combatLevel": 31,
+    "hitpoints": 10,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 20
+}

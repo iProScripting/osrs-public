@@ -1,0 +1,28 @@
+{
+    "name": "Growthling",
+    "id": 8194,
+    "isMembersOnly": false,
+    "examine": "Off-shoots of evil.",
+    "releaseDate": "3 May 2018",
+    "combatLevel": 37,
+    "hitpoints": 10,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 38,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

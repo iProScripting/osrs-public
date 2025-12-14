@@ -1,0 +1,48 @@
+{
+    "name": "Jal-AkRek-Ket",
+    "id": 7696,
+    "isMembersOnly": false,
+    "examine": "It might be smaller, but I still don't want to be near that thing.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 70,
+    "hitpoints": 15,
+    "maxHit": [
+        "18"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 95,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 25
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 25
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

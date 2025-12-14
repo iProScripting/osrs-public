@@ -1,0 +1,43 @@
+{
+    "name": "Treus Dayth (Nightmare Zone)",
+    "id": 6298,
+    "isMembersOnly": false,
+    "examine": "Eeek! A big ghost!",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 194,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 240,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 168,
+    "strengthLevel": 168,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 5,
+        "magic": -5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "immunities": {
+        "poison": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 25
+}

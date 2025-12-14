@@ -1,0 +1,31 @@
+{
+    "name": "Tanglefoot (Nightmare Zone)",
+    "id": 6291,
+    "isMembersOnly": false,
+    "examine": "A walking thorn bush!",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 199,
+    "hitpoints": 204,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 194,
+    "strengthLevel": 194,
+    "defenceLevel": 91,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

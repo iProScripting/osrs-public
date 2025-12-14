@@ -1,0 +1,25 @@
+{
+    "name": "Witch's experiment (Nightmare Zone)",
+    "id": 6336,
+    "isMembersOnly": false,
+    "examine": "Looks unnatural.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Wolf (Hard Mode)",
+    "combatLevel": 103,
+    "hitpoints": 113,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 88,
+    "defenceLevel": 49,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

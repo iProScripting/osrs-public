@@ -1,0 +1,38 @@
+{
+    "name": "Bandit (Shayzien)",
+    "id": 11064,
+    "isMembersOnly": false,
+    "examine": "A bandit hiding within the Shayzia Ruin.",
+    "releaseDate": "16 June 2021",
+    "combatLevel": 22,
+    "hitpoints": 27,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 17,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 11,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "stab": 4,
+        "slash": 8,
+        "crush": 5,
+        "magic": 1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Redeyes",
+    "id": 11299,
+    "isMembersOnly": false,
+    "examine": "A goblin high priest, back from the grave.",
+    "releaseDate": "9 February 2022",
+    "combatLevel": 121,
+    "hitpoints": 160,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 160.0,
+    "slayerCategory": [
+        "Goblins",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 70,
+    "attackBonuses": {
+        "magic": 36,
+        "melee": 36,
+        "strength": 46,
+        "magicDamage": 46
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

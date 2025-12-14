@@ -1,0 +1,41 @@
+{
+    "name": "Emissary Conjurer",
+    "id": 13777,
+    "isMembersOnly": false,
+    "examine": "A fierce mage of the Twilight Emissaries.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "1",
+    "combatLevel": 71,
+    "hitpoints": 40,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 40,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 70,
+    "attackBonuses": {
+        "magicDamage": 40
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 10,
+        "magic": 15,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

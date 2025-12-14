@@ -1,0 +1,39 @@
+{
+    "name": "TzHaar-Xil",
+    "id": 2169,
+    "isMembersOnly": false,
+    "examine": "Doesn't look very social.",
+    "releaseDate": "19 September 2005",
+    "versionAnchor": "Ring",
+    "combatLevel": 133,
+    "hitpoints": 120,
+    "maxHit": [
+        "11",
+        "16 (Ranged)"
+    ],
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 120,
+    "magicLevel": 40,
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

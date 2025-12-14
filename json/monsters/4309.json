@@ -1,0 +1,28 @@
+{
+    "name": "Sea troll",
+    "id": 4309,
+    "isMembersOnly": false,
+    "examine": "An aquatic troll.",
+    "releaseDate": "2 May 2006",
+    "versionAnchor": "Level 65",
+    "combatLevel": 65,
+    "hitpoints": 80,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -90.0,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 15
+}

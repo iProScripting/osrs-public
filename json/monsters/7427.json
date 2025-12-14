@@ -1,0 +1,24 @@
+{
+    "name": "Zamorak crafter",
+    "id": 7427,
+    "isMembersOnly": false,
+    "examine": "A Z.M.I. runecrafter.",
+    "releaseDate": "13 October 2016",
+    "combatLevel": 19,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 15,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 20,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Bloodthirsty Shadow Wyrm",
+    "id": 12585,
+    "isMembersOnly": false,
+    "examine": "Is it wyrm in here or is it just me?",
+    "releaseDate": "15 November 2023",
+    "versionAnchor": "Attacking",
+    "combatLevel": 400,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 480,
+    "maxHit": [
+        "41"
+    ],
+    "slayerLevel": 62,
+    "slayerExperience": 5520.0,
+    "slayerCategory": [
+        "Wyrms"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 450,
+    "strengthLevel": 270,
+    "defenceLevel": 125,
+    "rangedLevel": 187,
+    "magicLevel": 240,
+    "attackBonuses": {
+        "strength": 30,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 100,
+        "crush": 100,
+        "magic": 50,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Jal-ImKot",
+    "id": 7697,
+    "isMembersOnly": false,
+    "examine": "Those are some powerful claws.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 240,
+    "hitpoints": 75,
+    "maxHit": [
+        "49"
+    ],
+    "slayerExperience": 81.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 210,
+    "strengthLevel": 290,
+    "defenceLevel": 120,
+    "rangedLevel": 220,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "stab": 65,
+        "slash": 65,
+        "crush": 65,
+        "magic": 30,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

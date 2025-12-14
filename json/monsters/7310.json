@@ -1,0 +1,24 @@
+{
+    "name": "Brassican Mage",
+    "id": 7310,
+    "isMembersOnly": false,
+    "examine": "Rather old and smells of cabbage.",
+    "releaseDate": "6 July 2016",
+    "combatLevel": 140,
+    "hitpoints": 150,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 80,
+    "rangedLevel": 140,
+    "magicLevel": 170,
+    "attackStyle": [
+        "Typeless Magic"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

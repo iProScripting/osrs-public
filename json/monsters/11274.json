@@ -1,0 +1,55 @@
+{
+    "name": "Snothead",
+    "id": 11274,
+    "isMembersOnly": false,
+    "examine": "A goblin high priest, back from the grave.",
+    "releaseDate": "9 February 2022",
+    "combatLevel": 32,
+    "hitpoints": 50,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Goblins",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 15,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 15,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

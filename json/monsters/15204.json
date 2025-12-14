@@ -1,0 +1,32 @@
+{
+    "name": "Orca",
+    "id": 15204,
+    "isMembersOnly": false,
+    "examine": "A real killer of a whale (though arguably, not a whale at all).",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 173,
+    "hitpoints": 265,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 165,
+    "strengthLevel": 125,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 85,
+        "lightRanged": 85,
+        "standardRanged": 85,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

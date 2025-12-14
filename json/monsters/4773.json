@@ -1,0 +1,38 @@
+{
+    "name": "Fortress Guard",
+    "id": 4773,
+    "isMembersOnly": false,
+    "examine": "A generic evil henchman.",
+    "releaseDate": "7 August 2006",
+    "combatLevel": 20,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 6
+    },
+    "defenceBonuses": {
+        "stab": 14,
+        "slash": 18,
+        "crush": 14,
+        "magic": -4,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

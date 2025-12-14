@@ -1,0 +1,54 @@
+{
+    "name": "Locust rider",
+    "id": 796,
+    "isMembersOnly": false,
+    "examine": "A mounted archer.",
+    "releaseDate": "10 January 2007",
+    "versionAnchor": "Ranger",
+    "combatLevel": 98,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 90,
+    "maxHit": [
+        "22"
+    ],
+    "slayerExperience": 92.5,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 90,
+    "defenceLevel": 50,
+    "rangedLevel": 90,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 80,
+        "rangedStrength": 80
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 90,
+        "crush": 50,
+        "magic": 34,
+        "ranged": 66,
+        "lightRanged": 66,
+        "standardRanged": 66,
+        "heavyRanged": 66
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "flatArmour": -2,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

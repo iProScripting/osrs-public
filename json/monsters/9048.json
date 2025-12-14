@@ -1,0 +1,32 @@
+{
+    "name": "Corrupted Dark Beast",
+    "id": 9048,
+    "isMembersOnly": false,
+    "examine": "It doesn't look so dark with all those crystals.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 258,
+    "hitpoints": 100,
+    "maxHit": [
+        "48"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 147,
+    "strengthLevel": 147,
+    "defenceLevel": 98,
+    "rangedLevel": 147,
+    "magicLevel": 98,
+    "attackBonuses": {
+        "ranged": 81,
+        "rangedStrength": 132
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

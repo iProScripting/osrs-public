@@ -1,0 +1,52 @@
+{
+    "name": "Greater Nechryael",
+    "id": 11240,
+    "isMembersOnly": false,
+    "examine": "An evil death demon.",
+    "releaseDate": "3 February 2022",
+    "versionAnchor": "Wilderness Slayer Cave",
+    "combatLevel": 200,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 205,
+    "maxHit": [
+        "21"
+    ],
+    "slayerLevel": 80,
+    "slayerExperience": 210.0,
+    "slayerCategory": [
+        "Nechryael"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 197,
+    "strengthLevel": 197,
+    "defenceLevel": 85,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1
+}

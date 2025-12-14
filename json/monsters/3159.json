@@ -1,0 +1,49 @@
+{
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "isMembersOnly": false,
+    "examine": "Warrior of Zamorak.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Zamorak",
+    "combatLevel": 115,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "11"
+    ],
+    "slayerLevel": 68,
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 110
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

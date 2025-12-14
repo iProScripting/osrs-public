@@ -1,0 +1,49 @@
+{
+    "name": "Giant Scarab",
+    "id": 798,
+    "isMembersOnly": false,
+    "examine": "A huge scarab.",
+    "releaseDate": "10 January 2007",
+    "combatLevel": 191,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 130,
+    "maxHit": [
+        "20"
+    ],
+    "slayerExperience": 137.0,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 169,
+    "strengthLevel": 190,
+    "defenceLevel": 169,
+    "rangedLevel": 190,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 99,
+        "crush": 99,
+        "magic": 159,
+        "ranged": 103,
+        "lightRanged": 149,
+        "standardRanged": 103,
+        "heavyRanged": 149
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Dad (Nightmare Zone)",
+    "id": 6330,
+    "isMembersOnly": false,
+    "examine": "An unusually large troll.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 201,
+    "hitpoints": 240,
+    "maxHit": [
+        "57"
+    ],
+    "slayerExperience": 264.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 132,
+    "strengthLevel": 264,
+    "defenceLevel": 50,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 70
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 40,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 8,
+    "experienceBonus": 10.0,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

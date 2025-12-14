@@ -1,0 +1,57 @@
+{
+    "name": "Ancient Wyvern",
+    "id": 7795,
+    "isMembersOnly": false,
+    "examine": "Looks old enough to be fossilised.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 210,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 300,
+    "maxHit": [
+        "10 (Magic)",
+        "16 (Melee)",
+        "44 (Icy breath)",
+        "10 (Icy breath with Elemental shield equipped)"
+    ],
+    "slayerLevel": 82,
+    "slayerExperience": 315.0,
+    "slayerCategory": [
+        "Fossil Island Wyverns"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 150,
+    "rangedLevel": 90,
+    "magicLevel": 90,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 70,
+        "magic": 170,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 90
+    },
+    "attackStyle": [
+        "Slash",
+        "Typeless Magic",
+        "Icy breath"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 5,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

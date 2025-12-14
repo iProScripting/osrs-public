@@ -1,0 +1,38 @@
+{
+    "name": "Abyssal walker (The Scar)",
+    "id": 12394,
+    "isMembersOnly": false,
+    "examine": "Apparently walks the Abyss.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 90",
+    "combatLevel": 90,
+    "hitpoints": 120,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 150,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 75,
+        "slash": 75,
+        "crush": 10,
+        "magic": 75,
+        "ranged": 75,
+        "lightRanged": 75,
+        "standardRanged": 75,
+        "heavyRanged": 75
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

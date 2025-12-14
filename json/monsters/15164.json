@@ -1,0 +1,37 @@
+{
+    "name": "Drink troll",
+    "id": 15164,
+    "isMembersOnly": false,
+    "examine": "Likes drink... hates people.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 14,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 1.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 9,
+    "strengthLevel": 9,
+    "defenceLevel": 9,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 1
+}

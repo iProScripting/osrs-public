@@ -1,0 +1,33 @@
+{
+    "name": "Barbarian Warlord",
+    "id": 10989,
+    "isMembersOnly": false,
+    "examine": "A fearsome fighter!",
+    "releaseDate": "16 June 2021",
+    "combatLevel": 91,
+    "hitpoints": 80,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 20,
+        "crush": 15,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

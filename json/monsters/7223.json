@@ -1,0 +1,40 @@
+{
+    "name": "Giant rat (Scurrius)",
+    "id": 7223,
+    "isMembersOnly": false,
+    "examine": "Overgrown vermin.",
+    "releaseDate": "24 January 2024",
+    "combatLevel": 46,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 15,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 25,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 68,
+        "strength": 5
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

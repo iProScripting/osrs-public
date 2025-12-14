@@ -1,0 +1,31 @@
+{
+    "name": "Osprey",
+    "id": 15222,
+    "isMembersOnly": false,
+    "examine": "A large and powerful bird of prey circling the oceans.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 55,
+    "hitpoints": 80,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 50,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

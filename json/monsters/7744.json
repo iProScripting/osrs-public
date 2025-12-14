@@ -1,0 +1,56 @@
+{
+    "name": "Lizardman shaman",
+    "id": 7744,
+    "isMembersOnly": false,
+    "examine": "A mystic from a race created during the darker days of Kourend.",
+    "releaseDate": "21 January 2016",
+    "versionAnchor": "Standard",
+    "combatLevel": 150,
+    "hitpoints": 150,
+    "maxHit": [
+        "31 (Melee)",
+        "21 (Ranged)"
+    ],
+    "slayerExperience": 157.5,
+    "slayerCategory": [
+        "Lizardmen"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 140,
+    "rangedLevel": 120,
+    "magicLevel": 130,
+    "attackBonuses": {
+        "ranged": 45,
+        "melee": 45,
+        "strength": 38,
+        "rangedStrength": 38
+    },
+    "defenceBonuses": {
+        "stab": -20,
+        "slash": 40,
+        "crush": 30,
+        "magic": 50,
+        "lightRanged": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 3
+}

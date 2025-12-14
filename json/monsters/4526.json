@@ -1,0 +1,32 @@
+{
+    "name": "Guard (H.A.M. Storerooms)",
+    "id": 4526,
+    "isMembersOnly": false,
+    "examine": "A guard for the 'Humans Against Monsters' group.",
+    "releaseDate": "21 June 2006",
+    "combatLevel": 22,
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 16,
+    "strengthLevel": 20,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 7,
+        "slash": 7,
+        "ranged": 7,
+        "lightRanged": 7,
+        "standardRanged": 7,
+        "heavyRanged": 7
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

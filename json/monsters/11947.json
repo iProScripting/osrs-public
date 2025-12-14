@@ -1,0 +1,39 @@
+{
+    "name": "Guard",
+    "id": 11947,
+    "isMembersOnly": false,
+    "examine": "She tries to keep order around here.",
+    "releaseDate": "9 November 2022",
+    "versionAnchor": "Falador (longbow, 1)",
+    "combatLevel": 22,
+    "hitpoints": 22,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 15,
+    "defenceLevel": 16,
+    "rangedLevel": 26,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 6,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 5,
+        "magic": -4,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

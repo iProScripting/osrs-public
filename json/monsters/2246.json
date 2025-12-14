@@ -1,0 +1,35 @@
+{
+    "name": "Goblin (God Wars Dungeon)",
+    "id": 2246,
+    "isMembersOnly": false,
+    "examine": "A warrior for Bandos.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 12",
+    "combatLevel": 12,
+    "hitpoints": 15,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 12,
+    "strengthLevel": 6,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

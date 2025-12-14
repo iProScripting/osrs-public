@@ -1,0 +1,60 @@
+{
+    "name": "Guardian Drake",
+    "id": 10400,
+    "isMembersOnly": false,
+    "examine": "It's really winging the whole dragon thing, isn't it?",
+    "releaseDate": "23 July 2020",
+    "combatLevel": 376,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 590,
+    "maxHit": [
+        "35 (melee)",
+        "39+ (spec)"
+    ],
+    "slayerLevel": 84,
+    "slayerExperience": 7087.0,
+    "slayerCategory": [
+        "Drakes"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 270,
+    "strengthLevel": 280,
+    "defenceLevel": 200,
+    "rangedLevel": 240,
+    "magicLevel": 300,
+    "attackBonuses": {
+        "ranged": 40,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 100,
+        "crush": 100,
+        "magic": 20,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": 3,
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

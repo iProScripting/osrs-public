@@ -1,0 +1,27 @@
+{
+    "name": "Corrupted Wolf",
+    "id": 9045,
+    "isMembersOnly": false,
+    "examine": "A little too scary to be man's best friend.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 102,
+    "hitpoints": 52,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 159,
+    "strengthLevel": 99,
+    "defenceLevel": 22,
+    "magicLevel": 22,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bull shark",
+    "id": 15194,
+    "isMembersOnly": false,
+    "examine": "A predator of the sea.",
+    "releaseDate": "5 November 2025",
+    "combatLevel": 63,
+    "hitpoints": 90,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 45,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 15
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4
+}

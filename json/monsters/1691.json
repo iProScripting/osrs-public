@@ -1,0 +1,24 @@
+{
+    "name": "Splatter",
+    "id": 1691,
+    "isMembersOnly": false,
+    "examine": "Don't burst its bubble!",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Level 44",
+    "combatLevel": 44,
+    "hitpoints": 33,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 27,
+    "strengthLevel": 27,
+    "defenceLevel": 73,
+    "magicLevel": 27,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

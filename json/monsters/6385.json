@@ -1,0 +1,41 @@
+{
+    "name": "Slagilith (Nightmare Zone)",
+    "id": 6385,
+    "isMembersOnly": false,
+    "examine": "This monster totally rocks!",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 92,
+    "hitpoints": 60,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 120,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 3.0,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

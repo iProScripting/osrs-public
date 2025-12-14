@@ -1,0 +1,32 @@
+{
+    "name": "Penance Ranger",
+    "id": 5759,
+    "isMembersOnly": false,
+    "examine": "Shooty-shooty.",
+    "releaseDate": "4 January 2007",
+    "versionAnchor": "Wave 3",
+    "combatLevel": 32,
+    "attributes": [
+        "penance"
+    ],
+    "hitpoints": 29,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 1,
+    "defenceLevel": 33,
+    "rangedLevel": 34,
+    "magicLevel": 1,
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 1
+}

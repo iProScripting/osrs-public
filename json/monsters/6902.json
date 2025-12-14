@@ -1,0 +1,32 @@
+{
+    "name": "Gang boss",
+    "id": 6902,
+    "isMembersOnly": false,
+    "examine": "He directs various nefarious activities around Kourend.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Male",
+    "combatLevel": 76,
+    "hitpoints": 80,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "rangedLevel": 80,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 50,
+        "rangedStrength": 30
+    },
+    "defenceBonuses": {
+        "crush": 10
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

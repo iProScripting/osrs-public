@@ -1,0 +1,36 @@
+{
+    "name": "Nylocas Hagios",
+    "id": 10785,
+    "isMembersOnly": false,
+    "examine": "One of Verzik's pets.",
+    "releaseDate": "7 June 2018",
+    "versionAnchor": "Big (Entry mode)",
+    "combatLevel": 82,
+    "hitpoints": 3,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "defenceLevel": 6,
+    "rangedLevel": 100,
+    "magicLevel": 6,
+    "attackBonuses": {
+        "magic": 400,
+        "rangedStrength": -6,
+        "magicDamage": 360
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 3,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

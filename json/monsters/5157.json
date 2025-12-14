@@ -1,0 +1,30 @@
+{
+    "name": "H.A.M. Archer",
+    "id": 5157,
+    "isMembersOnly": false,
+    "examine": "He looks pretty skilled with that bow.",
+    "releaseDate": "24 April 2007",
+    "combatLevel": 30,
+    "hitpoints": 35,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 30,
+    "rangedLevel": 30,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 10,
+    "size": 1
+}

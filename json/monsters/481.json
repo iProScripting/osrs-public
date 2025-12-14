@@ -1,0 +1,48 @@
+{
+    "name": "Cave bug",
+    "id": 481,
+    "isMembersOnly": false,
+    "examine": "A nasty crawling critter.",
+    "releaseDate": "14 March 2005",
+    "versionAnchor": "Level 6",
+    "combatLevel": 6,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "slayerLevel": 7,
+    "slayerExperience": 5.0,
+    "slayerCategory": [
+        "Cave Bugs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 6,
+    "strengthLevel": 5,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Shadow Rift",
+    "id": 11485,
+    "isMembersOnly": false,
+    "examine": "A rift of shadows.",
+    "releaseDate": "27 April 2022",
+    "hitpoints": 20,
+    "maxHit": [
+        "0 (~48 if not defeated)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

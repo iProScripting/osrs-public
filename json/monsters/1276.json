@@ -1,0 +1,43 @@
+{
+    "name": "Loar Shade",
+    "id": 1276,
+    "isMembersOnly": false,
+    "examine": "A shadowy sort of entity, kind of creepy looking.",
+    "releaseDate": "18 October 2004",
+    "versionAnchor": "Shadow",
+    "combatLevel": 40,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 38,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 38.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 30,
+    "defenceLevel": 26,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

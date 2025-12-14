@@ -1,0 +1,28 @@
+{
+    "name": "Kolodion",
+    "id": 1605,
+    "isMembersOnly": false,
+    "examine": "'''In the Mage Arena cave:''' Runs the Mage Arena.<br/>'''In battle:''' He's a shape-shifter.",
+    "releaseDate": "22 September 2003",
+    "versionAnchor": "Human",
+    "poisonous": true,
+    "hitpoints": 3,
+    "maxHit": [
+        "20"
+    ],
+    "slayerCategory": [
+        "No"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 10,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 15,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

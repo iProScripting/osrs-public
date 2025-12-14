@@ -1,0 +1,56 @@
+{
+    "name": "Elder custodian stalker",
+    "id": 14704,
+    "isMembersOnly": false,
+    "examine": "Overgrown.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 142,
+    "hitpoints": 250,
+    "maxHit": [
+        "10 (melee)",
+        "5 (special attack)"
+    ],
+    "slayerLevel": 76,
+    "slayerExperience": 250.0,
+    "slayerCategory": [
+        "Custodian Stalker"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 90,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 75,
+    "attackBonuses": {
+        "magic": 25
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": -10,
+        "crush": 50,
+        "magic": 35,
+        "ranged": 5,
+        "lightRanged": 30,
+        "standardRanged": 5,
+        "heavyRanged": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic",
+        "Bleed"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Monkey Zombie",
+    "id": 5282,
+    "isMembersOnly": false,
+    "examine": "A large and lumbering undead monkey stands here, blocking the way.",
+    "releaseDate": "6 December 2004",
+    "versionAnchor": "Level 129",
+    "combatLevel": 129,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 90,
+    "maxHit": [
+        "12"
+    ],
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "Monkeys",
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 110,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "melee": 35
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

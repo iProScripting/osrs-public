@@ -1,0 +1,32 @@
+{
+    "name": "Dolphin",
+    "id": 15234,
+    "isMembersOnly": false,
+    "examine": "A bottlenose dolphin.",
+    "releaseDate": "5 November 2025",
+    "combatLevel": 25,
+    "hitpoints": 50,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 10,
+    "defenceLevel": 5,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 5
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

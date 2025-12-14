@@ -1,0 +1,31 @@
+{
+    "name": "Sand Snake (Nightmare Zone)",
+    "id": 7894,
+    "isMembersOnly": false,
+    "examine": "Doesn't look friendly.",
+    "releaseDate": "9 November 2017",
+    "versionAnchor": "Hard",
+    "combatLevel": 154,
+    "hitpoints": 180,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 180,
+    "strengthLevel": 140,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

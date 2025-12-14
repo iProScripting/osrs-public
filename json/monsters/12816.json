@@ -1,0 +1,44 @@
+{
+    "name": "Fremennik warband berserker",
+    "id": 12816,
+    "isMembersOnly": false,
+    "examine": "A warrior from a faraway land, come to test their skills.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 103,
+    "hitpoints": 48,
+    "maxHit": [
+        "29"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "rangedLevel": 110,
+    "magicLevel": 110,
+    "attackBonuses": {
+        "magic": 150,
+        "melee": 150,
+        "strength": 90
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "ranged": 75,
+        "lightRanged": 75,
+        "standardRanged": 75,
+        "heavyRanged": 75
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 10.0,
+    "size": 1
+}

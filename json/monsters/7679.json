@@ -1,0 +1,37 @@
+{
+    "name": "TzHaar-Ket",
+    "id": 7679,
+    "isMembersOnly": false,
+    "examine": "One of the stronger guards of Mor Ul Rek.",
+    "releaseDate": "1 June 2017",
+    "versionAnchor": "Level 221",
+    "combatLevel": 221,
+    "hitpoints": 200,
+    "maxHit": [
+        "19"
+    ],
+    "slayerExperience": 200.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 180,
+    "defenceLevel": 190,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

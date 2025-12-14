@@ -1,0 +1,40 @@
+{
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "isMembersOnly": false,
+    "examine": "The twisted tongue of evil.",
+    "releaseDate": "9 June 2016",
+    "combatLevel": 123,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 170,
+    "maxHit": [
+        "12"
+    ],
+    "slayerLevel": 50,
+    "slayerExperience": 170.0,
+    "slayerCategory": [
+        "Bloodveld"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 115,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

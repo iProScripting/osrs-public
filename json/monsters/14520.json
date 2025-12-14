@@ -1,0 +1,52 @@
+{
+    "name": "Ancient Custodian",
+    "id": 14520,
+    "isMembersOnly": false,
+    "examine": "Old as...",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 239,
+    "hitpoints": 330,
+    "maxHit": [
+        "19"
+    ],
+    "slayerLevel": 76,
+    "slayerExperience": 3382.0,
+    "slayerCategory": [
+        "Custodian Stalker"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE"
+    ],
+    "attackLevel": 240,
+    "strengthLevel": 180,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "magic": 45
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": -30,
+        "crush": 80,
+        "ranged": 5,
+        "lightRanged": -10,
+        "standardRanged": 5,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

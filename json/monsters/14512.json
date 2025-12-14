@@ -1,0 +1,26 @@
+{
+    "name": "Black jaguar (Scrambled!)",
+    "id": 14512,
+    "isMembersOnly": false,
+    "examine": "The most intimidating cat in all of Varlamore.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 88,
+    "hitpoints": 85,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

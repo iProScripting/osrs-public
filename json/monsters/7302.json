@@ -1,0 +1,37 @@
+{
+    "name": "Lucky impling",
+    "id": 7302,
+    "isMembersOnly": false,
+    "examine": "An impling who has done a lot of treasure trails.",
+    "releaseDate": "6 July 2016",
+    "versionAnchor": "Puro-Puro",
+    "hitpoints": 10,
+    "maxHit": [
+        "N/A"
+    ],
+    "usesSkill": [
+    ],
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -10,
+        "strength": -10
+    },
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": -10,
+        "crush": -10,
+        "magic": 50,
+        "ranged": -10,
+        "lightRanged": -10,
+        "standardRanged": -10,
+        "heavyRanged": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "N/A"
+    ]
+}

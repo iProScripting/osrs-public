@@ -1,0 +1,63 @@
+{
+    "name": "Revenant knight",
+    "id": 7939,
+    "isMembersOnly": false,
+    "examine": "The ghost of a knight slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 126,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 143,
+    "maxHit": [
+        "27"
+    ],
+    "slayerExperience": 168.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 119,
+    "defenceLevel": 80,
+    "rangedLevel": 146,
+    "magicLevel": 146,
+    "attackBonuses": {
+        "magic": 55,
+        "ranged": 55,
+        "melee": 69,
+        "strength": 71,
+        "rangedStrength": 45,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "stab": 145,
+        "slash": 200,
+        "crush": 180,
+        "magic": 95,
+        "ranged": 190,
+        "lightRanged": 190,
+        "standardRanged": 190,
+        "heavyRanged": 150
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 17.5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

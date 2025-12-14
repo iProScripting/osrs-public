@@ -1,0 +1,25 @@
+{
+    "name": "Chaotic death spawn",
+    "id": 7649,
+    "isMembersOnly": false,
+    "examine": "A chaotic death spawn.",
+    "releaseDate": "15 September 2016",
+    "versionAnchor": "Magic",
+    "combatLevel": 215,
+    "hitpoints": 50,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 380,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "rangedLevel": 380,
+    "magicLevel": 380,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

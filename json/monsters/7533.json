@@ -1,0 +1,40 @@
+{
+    "name": "Abyssal portal",
+    "id": 7533,
+    "isMembersOnly": false,
+    "examine": "A portal has opened into the Abyss!",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 370,
+    "maxHit": [
+        "0"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 264,
+    "rangedLevel": 1,
+    "magicLevel": 264,
+    "defenceBonuses": {
+        "magic": 60,
+        "ranged": 140,
+        "lightRanged": 140,
+        "standardRanged": 140,
+        "heavyRanged": 110
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": 2,
+    "size": 4,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

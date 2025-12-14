@@ -1,0 +1,51 @@
+{
+    "name": "Zombie (Kourend)",
+    "id": 7486,
+    "isMembersOnly": false,
+    "examine": "Why don't zombies ever wash?",
+    "releaseDate": "24 November 2016",
+    "versionAnchor": "Level 56",
+    "combatLevel": 56,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 47,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

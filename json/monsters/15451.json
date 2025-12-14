@@ -1,0 +1,30 @@
+{
+    "name": "Captain Cotus",
+    "id": 15451,
+    "isMembersOnly": false,
+    "examine": "A captain with a grudge against the crown.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 91,
+    "hitpoints": 100,
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "defenceLevel": 65,
+    "rangedLevel": 90,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 13,
+        "ranged": 100,
+        "strength": 43
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 11,
+        "crush": 40,
+        "magic": 70
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

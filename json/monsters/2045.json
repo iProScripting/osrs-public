@@ -1,0 +1,43 @@
+{
+    "name": "Snakeling",
+    "id": 2045,
+    "isMembersOnly": false,
+    "examine": "Spawn of Zulrah.",
+    "releaseDate": "8 January 2015",
+    "versionAnchor": "Melee",
+    "combatLevel": 90,
+    "hitpoints": 1,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 138,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 120
+    },
+    "defenceBonuses": {
+        "stab": -40,
+        "slash": -40,
+        "crush": -40,
+        "magic": -40,
+        "ranged": -40,
+        "lightRanged": -40,
+        "standardRanged": -40,
+        "heavyRanged": -40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 2.5,
+    "size": 1
+}

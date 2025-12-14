@@ -1,0 +1,53 @@
+{
+    "name": "Lizardman",
+    "id": 6916,
+    "isMembersOnly": false,
+    "examine": "'''Normal:''' From a race created during the darker days of Kourend.<br/>'''Battlefront:''' Scaly.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Level 62",
+    "combatLevel": 62,
+    "hitpoints": 60,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Lizardmen"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 53,
+    "strengthLevel": 53,
+    "defenceLevel": 52,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 28,
+        "melee": 28,
+        "strength": 25,
+        "rangedStrength": 25
+    },
+    "defenceBonuses": {
+        "stab": -20,
+        "slash": 20,
+        "crush": 5,
+        "lightRanged": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Enormous Tentacle",
+    "id": 5535,
+    "isMembersOnly": false,
+    "examine": "We'll fight, until world's end.",
+    "releaseDate": "10 April 2014",
+    "versionAnchor": "Enormous Tentacle",
+    "combatLevel": 112,
+    "hitpoints": 120,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 87,
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 150,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magicDamage": 40
+    },
+    "defenceBonuses": {
+        "magic": -15,
+        "ranged": 270,
+        "lightRanged": 270,
+        "standardRanged": 270,
+        "heavyRanged": 270
+    },
+    "attackStyle": [
+        "Typeless Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

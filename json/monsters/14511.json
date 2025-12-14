@@ -1,0 +1,41 @@
+{
+    "name": "Red dragon (Scrambled!)",
+    "id": 14511,
+    "isMembersOnly": false,
+    "examine": "Not fully grown, but still rather dangerous.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 106,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 70,
+        "crush": 70,
+        "magic": 60,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

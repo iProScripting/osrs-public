@@ -1,0 +1,19 @@
+{
+    "name": "Golem (unused NPC)",
+    "id": 2836,
+    "isMembersOnly": false,
+    "examine": "A creature made from clay.",
+    "releaseDate": "29 March 2004",
+    "combatLevel": 55,
+    "hitpoints": 70,
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 60,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+    ],
+    "size": 2
+}

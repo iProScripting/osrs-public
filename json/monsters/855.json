@@ -1,0 +1,36 @@
+{
+    "name": "Icelord",
+    "id": 855,
+    "isMembersOnly": false,
+    "examine": "Sturdy cold being.",
+    "releaseDate": "29 January 2007",
+    "versionAnchor": "Melee, 1",
+    "combatLevel": 51,
+    "hitpoints": 60,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Ice Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

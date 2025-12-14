@@ -1,0 +1,31 @@
+{
+    "name": "Jogre",
+    "id": 2094,
+    "isMembersOnly": false,
+    "examine": "An aggressive humanoid.",
+    "releaseDate": "23 October 2002",
+    "versionAnchor": "Normal",
+    "combatLevel": 53,
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 43,
+    "strengthLevel": 43,
+    "defenceLevel": 43,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

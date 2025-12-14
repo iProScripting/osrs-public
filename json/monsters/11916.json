@@ -1,0 +1,39 @@
+{
+    "name": "Guard",
+    "id": 11916,
+    "isMembersOnly": false,
+    "examine": "She tries to keep order around here. Her bizarre uniform isn't helping.",
+    "releaseDate": "9 November 2022",
+    "versionAnchor": "Varrock 6",
+    "combatLevel": 21,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 19,
+    "strengthLevel": 18,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 24,
+        "slash": 30,
+        "crush": 25,
+        "magic": -9,
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

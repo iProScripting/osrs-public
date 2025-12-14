@@ -1,0 +1,43 @@
+{
+    "name": "Riyl Shade",
+    "id": 1281,
+    "isMembersOnly": false,
+    "examine": "A shadowy sort of entity, kind of creepy looking.",
+    "releaseDate": "18 October 2004",
+    "versionAnchor": "Shadow",
+    "combatLevel": 80,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 76,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 76.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 88,
+    "strengthLevel": 55,
+    "defenceLevel": 60,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Tree spirit (Lost City)",
+    "id": 1163,
+    "isMembersOnly": false,
+    "examine": "Guardian of the dramen tree.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 101,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 85,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 85.0,
+    "slayerCategory": [
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 95,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

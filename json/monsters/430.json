@@ -1,0 +1,48 @@
+{
+    "name": "Turoth",
+    "id": 430,
+    "isMembersOnly": false,
+    "examine": "It's one small leg short!",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Level 83",
+    "combatLevel": 83,
+    "attributes": [
+        "leafy"
+    ],
+    "hitpoints": 76,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 55,
+    "slayerExperience": 76.0,
+    "slayerCategory": [
+        "Turoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE"
+    ],
+    "attackLevel": 53,
+    "strengthLevel": 83,
+    "defenceLevel": 83,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 20,
+        "crush": 20
+    },
+    "immunities": {
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Snake (Varlamore)",
+    "id": 13002,
+    "isMembersOnly": false,
+    "examine": "A slithering serpent.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 5,
+    "hitpoints": 6,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 4,
+    "strengthLevel": 5,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

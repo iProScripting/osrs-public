@@ -1,0 +1,55 @@
+{
+    "name": "Deranged archaeologist",
+    "id": 7806,
+    "isMembersOnly": false,
+    "examine": "He's seen things that people wouldn't believe.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 276,
+    "hitpoints": 200,
+    "maxHit": [
+        "25 (melee)",
+        "25 (range)",
+        "56 (special direct hit)",
+        "18+ (special indirect hit)"
+    ],
+    "slayerExperience": 275.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 280,
+    "strengthLevel": 160,
+    "defenceLevel": 280,
+    "rangedLevel": 320,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 90,
+        "melee": 280,
+        "strength": 30,
+        "rangedStrength": -10
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 50,
+        "magic": 300,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 37.5,
+    "size": 1
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Butterfly ray",
+    "id": 15217,
+    "isMembersOnly": false,
+    "examine": "Disappointingly free of pretty patterns. Also free of lifesigns.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "Defeated",
+    "combatLevel": 61,
+    "hitpoints": 70,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 35,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

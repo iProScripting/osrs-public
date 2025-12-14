@@ -1,0 +1,42 @@
+{
+    "name": "Vitreous Chilled Jelly",
+    "id": 15501,
+    "isMembersOnly": false,
+    "examine": "I don't think you're ready for this jelly.",
+    "releaseDate": "5 November 2025",
+    "combatLevel": 241,
+    "hitpoints": 220,
+    "maxHit": [
+        "19"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 2200.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 180,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

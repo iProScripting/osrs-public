@@ -1,0 +1,51 @@
+{
+    "name": "Giant spider",
+    "id": 2477,
+    "isMembersOnly": false,
+    "examine": "I think this spider has been genetically modified.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 50",
+    "combatLevel": 50,
+    "hitpoints": 50,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 41,
+    "strengthLevel": 51,
+    "defenceLevel": 31,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

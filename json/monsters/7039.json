@@ -1,0 +1,38 @@
+{
+    "name": "Reanimated dragon",
+    "id": 7039,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "8 (Melee)",
+        "50 (Dragonfire)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 68,
+    "defenceLevel": 68,
+    "rangedLevel": 1,
+    "magicLevel": 68,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 40,
+        "crush": 40,
+        "magic": 30,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Skeletal miner",
+    "id": 3615,
+    "isMembersOnly": false,
+    "examine": "I don't think the pickaxe is for hitting rocks.",
+    "releaseDate": "21 December 2004",
+    "combatLevel": 42,
+    "hitpoints": 39,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 39.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 37,
+    "defenceLevel": 38,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 11,
+        "crush": -2,
+        "magic": 1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

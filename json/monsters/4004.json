@@ -1,0 +1,34 @@
+{
+    "name": "Shadow (Temple of Light)",
+    "id": 4004,
+    "isMembersOnly": false,
+    "examine": "A shadow.",
+    "releaseDate": "17 October 2005",
+    "combatLevel": 73,
+    "hitpoints": 15,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 120,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 90,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 30,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Minotaur (Meat and Greet)",
+    "id": 13815,
+    "isMembersOnly": false,
+    "examine": "The least milkable cow I've ever seen.",
+    "releaseDate": "25 September 2024",
+    "combatLevel": 193,
+    "hitpoints": 240,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 110,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 300,
+        "melee": 60,
+        "strength": 10,
+        "magicDamage": 5
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 20,
+        "crush": 50,
+        "magic": 80,
+        "ranged": 140,
+        "lightRanged": 140,
+        "standardRanged": 140,
+        "heavyRanged": 140
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 2
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Soldier (tier 3)",
+    "id": 6908,
+    "isMembersOnly": false,
+    "examine": "Ascending the ranks.",
+    "releaseDate": "7 January 2016",
+    "combatLevel": 58,
+    "hitpoints": 55,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 8
+    },
+    "defenceBonuses": {
+        "ranged": -1,
+        "lightRanged": -1,
+        "standardRanged": -1,
+        "heavyRanged": -1
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

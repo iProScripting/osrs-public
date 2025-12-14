@@ -1,0 +1,52 @@
+{
+    "name": "Zebak",
+    "id": 11732,
+    "isMembersOnly": false,
+    "examine": "He seems a tad upset.",
+    "releaseDate": "24 August 2022",
+    "versionAnchor": "Enraged",
+    "combatLevel": 371,
+    "hitpoints": 580,
+    "maxHit": [
+        "38 (Melee)",
+        "16 (Magic)",
+        "16 (Ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 140,
+    "defenceLevel": 70,
+    "rangedLevel": 120,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 215,
+        "ranged": 220,
+        "melee": 160,
+        "strength": 100,
+        "rangedStrength": 16,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "stab": 160,
+        "slash": 160,
+        "crush": 260,
+        "magic": 200,
+        "ranged": 110,
+        "lightRanged": 110,
+        "standardRanged": 110,
+        "heavyRanged": 110
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 9
+}

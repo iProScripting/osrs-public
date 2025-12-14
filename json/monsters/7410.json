@@ -1,0 +1,54 @@
+{
+    "name": "Greater abyssal demon",
+    "id": 7410,
+    "isMembersOnly": false,
+    "examine": "A greater denizen of the Abyss.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 342,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 400,
+    "maxHit": [
+        "27"
+    ],
+    "slayerLevel": 85,
+    "slayerExperience": 4200.0,
+    "slayerCategory": [
+        "Abyssal Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 260,
+    "defenceLevel": 240,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

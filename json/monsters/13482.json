@@ -1,0 +1,41 @@
+{
+    "name": "Surok Magis",
+    "id": 13482,
+    "isMembersOnly": false,
+    "examine": "The leader of the Dagon'hai, also known as the Dark Squall.",
+    "releaseDate": "10 July 2024",
+    "combatLevel": 265,
+    "hitpoints": 450,
+    "maxHit": [
+        "45+ (Special)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 160,
+    "rangedLevel": 1,
+    "magicLevel": 160,
+    "attackBonuses": {
+        "magic": 85,
+        "magicDamage": 105
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 20,
+        "crush": 40,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Kalphite Worker",
+    "id": 956,
+    "isMembersOnly": false,
+    "examine": "I don't think insect repellent will work...",
+    "releaseDate": "7 September 2004",
+    "combatLevel": 28,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Kalphite"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 1,
+        "magic": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

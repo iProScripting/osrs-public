@@ -1,0 +1,38 @@
+{
+    "name": "The Draugen",
+    "id": 3922,
+    "isMembersOnly": false,
+    "examine": "A fearful spirit of the drowned.",
+    "releaseDate": "2 November 2004",
+    "combatLevel": 69,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100,
+        "magic": 500,
+        "ranged": 500,
+        "lightRanged": 500,
+        "standardRanged": 500,
+        "heavyRanged": 500
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Keef",
+    "id": 7105,
+    "isMembersOnly": false,
+    "examine": "Head of the city guard.",
+    "releaseDate": "6 May 2016",
+    "combatLevel": 178,
+    "hitpoints": 180,
+    "maxHit": [
+        "47"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 165,
+    "strengthLevel": 120,
+    "defenceLevel": 165,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 190,
+        "strength": 170
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": -95.0,
+    "size": 2
+}

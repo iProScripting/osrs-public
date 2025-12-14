@@ -1,0 +1,24 @@
+{
+    "name": "Thrantax the Mighty",
+    "id": 3518,
+    "isMembersOnly": false,
+    "examine": "A terrifying spirit.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 92,
+    "hitpoints": 80,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

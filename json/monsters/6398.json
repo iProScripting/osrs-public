@@ -1,0 +1,23 @@
+{
+    "name": "Nazastarool (Nightmare Zone)",
+    "id": 6398,
+    "isMembersOnly": false,
+    "examine": "A giant zombie of huge strength and devastating power.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Zombie (Normal Mode)",
+    "combatLevel": 91,
+    "hitpoints": 70,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

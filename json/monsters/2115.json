@@ -1,0 +1,23 @@
+{
+    "name": "Thing under the bed",
+    "id": 2115,
+    "isMembersOnly": false,
+    "examine": "It's just like that dream I use<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> to have when I was little!",
+    "releaseDate": "6 June 2005",
+    "hitpoints": 25,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

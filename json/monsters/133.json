@@ -1,0 +1,37 @@
+{
+    "name": "Troll (Construction)",
+    "id": 133,
+    "isMembersOnly": false,
+    "examine": "A pet Troll.",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 91,
+    "hitpoints": 120,
+    "maxHit": [
+        "23"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 100,
+    "defenceLevel": 50,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 70
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 40,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

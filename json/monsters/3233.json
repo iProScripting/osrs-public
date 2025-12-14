@@ -1,0 +1,24 @@
+{
+    "name": "Leech",
+    "id": 3233,
+    "isMembersOnly": false,
+    "examine": "Yuck! It's all slimy!",
+    "releaseDate": "14 October 2004",
+    "combatLevel": 52,
+    "hitpoints": 45,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 20,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

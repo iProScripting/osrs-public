@@ -1,0 +1,14 @@
+{
+    "name": "Goblin (historical)",
+    "id": 3047,
+    "isMembersOnly": false,
+    "examine": "An ugly green creature.",
+    "releaseDate": "22 February 2005",
+    "versionAnchor": "Red (updated)",
+    "combatLevel": 5,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

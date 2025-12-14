@@ -1,0 +1,50 @@
+{
+    "name": "Chaos Fanatic",
+    "id": 6619,
+    "isMembersOnly": false,
+    "examine": "Someone should get out of the lab once in a while...",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 202,
+    "hitpoints": 225,
+    "maxHit": [
+        "31"
+    ],
+    "slayerExperience": 253.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 220,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "ranged": 75,
+        "rangedStrength": -20
+    },
+    "defenceBonuses": {
+        "stab": 260,
+        "slash": 260,
+        "crush": 250,
+        "magic": 280,
+        "ranged": 50,
+        "lightRanged": 80,
+        "standardRanged": 50,
+        "heavyRanged": 80
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 2,
+    "experienceBonus": 12.5,
+    "size": 1
+}

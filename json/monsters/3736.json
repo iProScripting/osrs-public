@@ -1,0 +1,32 @@
+{
+    "name": "Vanstrom Klause",
+    "id": 3736,
+    "isMembersOnly": false,
+    "examine": "An evil vampyre.",
+    "releaseDate": "4 September 2006",
+    "combatLevel": 169,
+    "attributes": [
+        "vampyre3"
+    ],
+    "hitpoints": 155,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 136,
+    "defenceLevel": 150,
+    "rangedLevel": 150,
+    "magicLevel": 150,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 8,
+    "size": 1
+}

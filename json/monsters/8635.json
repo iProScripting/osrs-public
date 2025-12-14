@@ -1,0 +1,39 @@
+{
+    "name": "Third Age Warrior",
+    "id": 8635,
+    "isMembersOnly": false,
+    "examine": "A reanimated warrior wearing the garb of ancient times.",
+    "releaseDate": "11 April 2019",
+    "combatLevel": 83,
+    "hitpoints": 40,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 75,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 105,
+        "strength": 75
+    },
+    "defenceBonuses": {
+        "stab": 96,
+        "slash": 108,
+        "crush": 113,
+        "magic": -4,
+        "ranged": 97,
+        "lightRanged": 97,
+        "standardRanged": 97,
+        "heavyRanged": 97
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 7.5,
+    "size": 1
+}

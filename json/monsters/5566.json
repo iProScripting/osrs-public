@@ -1,0 +1,43 @@
+{
+    "name": "Ferocious barbarian spirit",
+    "id": 5566,
+    "isMembersOnly": false,
+    "examine": "He looks a tad upset.",
+    "releaseDate": "3 July 2007",
+    "combatLevel": 166,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 190,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "slash": 73,
+        "crush": 72,
+        "magic": -3,
+        "ranged": 30,
+        "lightRanged": 72,
+        "standardRanged": 30,
+        "heavyRanged": 72
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 10
+}

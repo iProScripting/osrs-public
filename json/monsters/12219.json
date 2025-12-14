@@ -1,0 +1,58 @@
+{
+    "name": "The Leviathan",
+    "id": 12219,
+    "isMembersOnly": false,
+    "examine": "An unfathomably huge sea creature.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Quest",
+    "combatLevel": 593,
+    "hitpoints": 720,
+    "maxHit": [
+        "34"
+    ],
+    "slayerExperience": 720.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 270,
+    "defenceLevel": 200,
+    "rangedLevel": 130,
+    "magicLevel": 130,
+    "attackBonuses": {
+        "magic": 130,
+        "ranged": 230,
+        "melee": 170,
+        "strength": 14,
+        "rangedStrength": 10,
+        "magicDamage": 36
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 150,
+        "crush": 180,
+        "magic": 220,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 25
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged",
+        "Magic"
+    ],
+    "experienceBonus": 62.5,
+    "size": 7
+}

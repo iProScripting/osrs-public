@@ -1,0 +1,32 @@
+{
+    "name": "Penance Fighter",
+    "id": 1667,
+    "isMembersOnly": false,
+    "examine": "What on Gielinor is that?",
+    "releaseDate": "4 January 2007",
+    "versionAnchor": "Wave 1",
+    "combatLevel": 30,
+    "attributes": [
+        "penance"
+    ],
+    "hitpoints": 28,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 26,
+    "strengthLevel": 26,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 1
+}

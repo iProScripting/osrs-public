@@ -1,0 +1,40 @@
+{
+    "name": "Giant Roc",
+    "id": 763,
+    "isMembersOnly": false,
+    "examine": "A very, very large mountain-dwelling bird.",
+    "releaseDate": "23 October 2006",
+    "combatLevel": 172,
+    "hitpoints": 250,
+    "maxHit": [
+        "14 (Melee)",
+        "20 (Ranged)"
+    ],
+    "slayerExperience": 250.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 100,
+    "rangedLevel": 130,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 150
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 5,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

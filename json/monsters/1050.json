@@ -1,0 +1,38 @@
+{
+    "name": "Cave horror",
+    "id": 1050,
+    "isMembersOnly": false,
+    "examine": "A horrible, emaciated ape like creature with beady red eyes.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Small guard",
+    "combatLevel": 80,
+    "hitpoints": 55,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 58,
+    "slayerExperience": 55.0,
+    "slayerCategory": [
+        "Cave Horrors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 77,
+    "defenceLevel": 62,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

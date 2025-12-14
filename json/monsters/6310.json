@@ -1,0 +1,48 @@
+{
+    "name": "Karamel (Nightmare Zone)",
+    "id": 6310,
+    "isMembersOnly": false,
+    "examine": "Pure evil lightly whipped with a juicy cherry on top.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 186,
+    "hitpoints": 255,
+    "maxHit": [
+        "7x2 (Magic)",
+        "57 (Ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 200,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 268,
+        "rangedStrength": 110
+    },
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 150,
+        "crush": 150,
+        "magic": 150,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

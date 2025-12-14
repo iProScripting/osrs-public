@@ -1,0 +1,44 @@
+{
+    "name": "Reanimated elf",
+    "id": 7029,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 35,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Elves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 95,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 20,
+        "crush": 40,
+        "magic": 60,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

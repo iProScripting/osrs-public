@@ -1,0 +1,25 @@
+{
+    "name": "Corsair Traitor",
+    "id": 7949,
+    "isMembersOnly": false,
+    "examine": "A Corsair gone bad.",
+    "releaseDate": "7 December 2017",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 35,
+    "hitpoints": 55,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

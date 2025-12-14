@@ -1,0 +1,28 @@
+{
+    "name": "Ungadulu",
+    "id": 3958,
+    "isMembersOnly": false,
+    "examine": "The Kharazi tribe's elusive shaman; something doesn't look quite right with him.",
+    "releaseDate": "20 August 2003",
+    "versionAnchor": "Possessed",
+    "combatLevel": 169,
+    "hitpoints": 150,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 147,
+    "strengthLevel": 147,
+    "defenceLevel": 147,
+    "attackBonuses": {
+        "strength": 3,
+        "rangedStrength": 7
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

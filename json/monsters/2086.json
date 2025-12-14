@@ -1,0 +1,44 @@
+{
+    "name": "Ice giant",
+    "id": 2086,
+    "isMembersOnly": false,
+    "examine": "He's got icicles in his beard.",
+    "releaseDate": "6 April 2001",
+    "versionAnchor": "2",
+    "combatLevel": 53,
+    "hitpoints": 70,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Ice Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 29,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

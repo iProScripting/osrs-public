@@ -1,0 +1,44 @@
+{
+    "name": "Goblin",
+    "id": 3046,
+    "isMembersOnly": false,
+    "examine": "These goblins have grown strong.",
+    "releaseDate": "3 March 2003",
+    "versionAnchor": "Level 13",
+    "combatLevel": 13,
+    "hitpoints": 16,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 16.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 12,
+    "strengthLevel": 13,
+    "defenceLevel": 7,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 4,
+        "slash": 6,
+        "crush": 8,
+        "magic": 4,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

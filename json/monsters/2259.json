@@ -1,0 +1,49 @@
+{
+    "name": "Dagannoth (Waterbirth Island)",
+    "id": 2259,
+    "isMembersOnly": false,
+    "examine": "A spiney horror from the ocean depths...",
+    "releaseDate": "1 August 2005",
+    "versionAnchor": "Level 88",
+    "combatLevel": 88,
+    "hitpoints": 85,
+    "maxHit": [
+        "20"
+    ],
+    "slayerExperience": 85.0,
+    "slayerCategory": [
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 75,
+    "rangedLevel": 100,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 90,
+        "magic": 200,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

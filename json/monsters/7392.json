@@ -1,0 +1,40 @@
+{
+    "name": "Giant rockslug",
+    "id": 7392,
+    "isMembersOnly": false,
+    "examine": "The slime of greater evil.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 86,
+    "hitpoints": 77,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 20,
+    "slayerExperience": 770.0,
+    "slayerCategory": [
+        "Rockslugs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 77,
+    "defenceLevel": 77,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": 2,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

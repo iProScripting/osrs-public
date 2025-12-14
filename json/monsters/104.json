@@ -1,0 +1,43 @@
+{
+    "name": "Hellhound",
+    "id": 104,
+    "isMembersOnly": false,
+    "examine": "Hello, nice doggy...",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Level 122",
+    "combatLevel": 122,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 116,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 116.0,
+    "slayerCategory": [
+        "Hellhounds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 104,
+    "defenceLevel": 102,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

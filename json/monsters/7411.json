@@ -1,0 +1,54 @@
+{
+    "name": "Nechryarch",
+    "id": 7411,
+    "isMembersOnly": false,
+    "examine": "The arch demon of death.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 300,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 320,
+    "maxHit": [
+        "27"
+    ],
+    "slayerLevel": 80,
+    "slayerExperience": 3280.0,
+    "slayerCategory": [
+        "Nechryael"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 310,
+    "strengthLevel": 260,
+    "defenceLevel": 140,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 2
+}

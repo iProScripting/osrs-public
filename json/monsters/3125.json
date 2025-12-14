@@ -1,0 +1,42 @@
+{
+    "name": "Ket-Zek",
+    "id": 3125,
+    "isMembersOnly": false,
+    "examine": "Good doggy-lizard-thing...",
+    "releaseDate": "4 October 2005",
+    "versionAnchor": "Standard",
+    "combatLevel": 360,
+    "hitpoints": 160,
+    "maxHit": [
+        "52 (Magic)",
+        "55 (Melee)"
+    ],
+    "slayerExperience": 160.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 320,
+    "strengthLevel": 480,
+    "defenceLevel": 240,
+    "rangedLevel": 480,
+    "magicLevel": 240,
+    "attackBonuses": {
+        "magic": 60
+    },
+    "attackStyle": [
+        "Magic",
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

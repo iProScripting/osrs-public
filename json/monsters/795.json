@@ -1,0 +1,48 @@
+{
+    "name": "Locust rider",
+    "id": 795,
+    "isMembersOnly": false,
+    "examine": "A mounted lancer.",
+    "releaseDate": "10 January 2007",
+    "versionAnchor": "Lancer",
+    "combatLevel": 106,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 90,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 92.5,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "stab": 90,
+        "slash": 90,
+        "crush": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "flatArmour": -2,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

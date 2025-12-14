@@ -1,0 +1,34 @@
+{
+    "name": "Tentacle (Abyssal Sire)",
+    "id": 5912,
+    "isMembersOnly": false,
+    "examine": "The tentacle is controlled by the Sire.",
+    "releaseDate": "1 October 2015",
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 255,
+    "maxHit": [
+        "31"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 50,
+        "strength": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Typeless Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 9
+}

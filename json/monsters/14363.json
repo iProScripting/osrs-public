@@ -1,0 +1,42 @@
+{
+    "name": "Lucius",
+    "id": 14363,
+    "isMembersOnly": false,
+    "examine": "A fierce mage of the Twilight Emissaries.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 160,
+    "hitpoints": 180,
+    "maxHit": [
+        "24 (magic)",
+        "34 (special attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 60,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "magic": 120,
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 90,
+        "slash": 120,
+        "crush": 120,
+        "magic": 200,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

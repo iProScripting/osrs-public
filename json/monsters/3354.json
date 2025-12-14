@@ -1,0 +1,24 @@
+{
+    "name": "Hobgoblin Champion",
+    "id": 3354,
+    "isMembersOnly": false,
+    "examine": "Champion of the hobgoblins.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 56,
+    "hitpoints": 58,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 44,
+    "strengthLevel": 48,
+    "defenceLevel": 48,
+    "rangedLevel": 44,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

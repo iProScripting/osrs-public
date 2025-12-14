@@ -1,0 +1,39 @@
+{
+    "name": "Bloodthirsty spectre",
+    "id": 12573,
+    "isMembersOnly": false,
+    "examine": "I'd smell better after completing 3145 laps of an agility course dressed as a monkey.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 253,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 250,
+    "slayerLevel": 60,
+    "slayerCategory": [
+        "Aberrant Spectres"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 180,
+    "rangedLevel": 1,
+    "magicLevel": 300,
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

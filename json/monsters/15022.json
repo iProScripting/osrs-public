@@ -1,0 +1,18 @@
+{
+    "name": "Pirate (The Red Reef)",
+    "id": 15022,
+    "isMembersOnly": false,
+    "examine": "Avast ye scurvy land lubbers!",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "2",
+    "combatLevel": 52,
+    "hitpoints": 38,
+    "usesSkill": [
+    ],
+    "attackLevel": 54,
+    "defenceLevel": 35,
+    "magicLevel": 10,
+    "attackStyle": [
+    ],
+    "size": 1
+}

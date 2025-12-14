@@ -1,0 +1,38 @@
+{
+    "name": "Baby Roc",
+    "id": 762,
+    "isMembersOnly": false,
+    "examine": "A mountain-dwelling bird. Cute, but vicious.",
+    "releaseDate": "23 October 2006",
+    "combatLevel": 75,
+    "hitpoints": 50,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 150
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Strangled Lynx",
+    "id": 12290,
+    "isMembersOnly": false,
+    "examine": "Who's an infected kitty?",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 182,
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "magicLevel": 60,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 20,
+        "crush": 30,
+        "magic": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Typeless"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Brine rat",
+    "id": 4501,
+    "isMembersOnly": false,
+    "examine": "Eww, a bald rat!",
+    "releaseDate": "10 April 2007",
+    "combatLevel": 70,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 47,
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Brine Rats",
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 79,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

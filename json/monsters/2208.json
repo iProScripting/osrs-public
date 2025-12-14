@@ -1,0 +1,38 @@
+{
+    "name": "Bree",
+    "id": 2208,
+    "isMembersOnly": false,
+    "examine": "Champion of truth.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 146,
+    "hitpoints": 162,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 80,
+    "defenceLevel": 130,
+    "rangedLevel": 150,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 14,
+        "magic": 18,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 2
+}

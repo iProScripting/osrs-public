@@ -1,0 +1,61 @@
+{
+    "name": "Kroy",
+    "id": 9560,
+    "isMembersOnly": false,
+    "examine": "He looks a little worse for wear.",
+    "releaseDate": "4 June 2020",
+    "combatLevel": 133,
+    "attributes": [
+        "vampyre1"
+    ],
+    "hitpoints": 209,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 252.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "magic": 36,
+        "melee": 36,
+        "strength": 42,
+        "magicDamage": 42
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 15.0,
+    "size": 1
+}

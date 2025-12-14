@@ -1,0 +1,50 @@
+{
+    "name": "Sotetseg",
+    "id": 10868,
+    "isMembersOnly": false,
+    "examine": "An intruder from the Shadow Realm, corrupted through haemalchemy.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Hard",
+    "combatLevel": 1195,
+    "hitpoints": 4000,
+    "maxHit": [
+        "45 (Melee)",
+        "50 (Ranged)",
+        "50 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 350,
+    "strengthLevel": 250,
+    "defenceLevel": 200,
+    "rangedLevel": 250,
+    "magicLevel": 250,
+    "attackBonuses": {
+        "magic": -10,
+        "ranged": -10,
+        "strength": 48,
+        "rangedStrength": 60,
+        "magicDamage": 60
+    },
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 70,
+        "crush": 70,
+        "magic": 30,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 40.0,
+    "size": 5
+}

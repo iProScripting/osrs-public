@@ -1,0 +1,14 @@
+{
+    "name": "Emissary Forebearer (unused)",
+    "id": 13757,
+    "isMembersOnly": false,
+    "examine": "A leading member of the Twilight Emissaries.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "6",
+    "combatLevel": 131,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Shipyard worker",
+    "id": 5729,
+    "isMembersOnly": false,
+    "examine": "Builds ships for a living.",
+    "releaseDate": "12 December 2002",
+    "versionAnchor": "2",
+    "combatLevel": 11,
+    "hitpoints": 10,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "attackBonuses": {
+        "melee": 6,
+        "strength": 6
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

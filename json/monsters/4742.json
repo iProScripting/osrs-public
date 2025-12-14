@@ -1,0 +1,38 @@
+{
+    "name": "Black golem",
+    "id": 4742,
+    "isMembersOnly": false,
+    "examine": "An animated clay statue.",
+    "releaseDate": "5 December 2005",
+    "combatLevel": 75,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 30,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 300,
+        "slash": 300,
+        "crush": 1,
+        "magic": 300,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

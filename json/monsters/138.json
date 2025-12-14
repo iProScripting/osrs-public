@@ -1,0 +1,35 @@
+{
+    "name": "Kalphite soldier (Construction)",
+    "id": 138,
+    "isMembersOnly": false,
+    "examine": "I don't think insect repellent will work...",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 85,
+    "poisonous": true,
+    "hitpoints": 90,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 5,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

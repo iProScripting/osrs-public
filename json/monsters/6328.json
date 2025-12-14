@@ -1,0 +1,32 @@
+{
+    "name": "King Roald (Nightmare Zone)",
+    "id": 6328,
+    "isMembersOnly": false,
+    "examine": "Varrock's resident monarch. He looks strangely evil!",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 188,
+    "hitpoints": 150,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 120,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": -21
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

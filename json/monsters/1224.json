@@ -1,0 +1,39 @@
+{
+    "name": "Bouncer",
+    "id": 1224,
+    "isMembersOnly": false,
+    "examine": "Postie Pete's worst nightmare.",
+    "releaseDate": "23 July 2002",
+    "combatLevel": 137,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 116,
+    "maxHit": [
+        "13"
+    ],
+    "slayerExperience": 116.0,
+    "slayerCategory": [
+        "Hellhounds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Leon d'Cour",
+    "id": 3360,
+    "isMembersOnly": false,
+    "examine": "Champion of Champions!",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 141,
+    "hitpoints": 123,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 123,
+    "strengthLevel": 123,
+    "defenceLevel": 123,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

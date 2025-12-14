@@ -1,0 +1,24 @@
+{
+    "name": "Enraged Boar",
+    "id": 11227,
+    "isMembersOnly": false,
+    "examine": "That's one nasty and angry looking piggy.",
+    "releaseDate": "6 October 2021",
+    "combatLevel": 12,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 7,
+    "strengthLevel": 7,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Healing totem",
+    "id": 12825,
+    "isMembersOnly": false,
+    "examine": "Good for your health.",
+    "releaseDate": "20 March 2024",
+    "hitpoints": 1,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

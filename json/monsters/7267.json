@@ -1,0 +1,37 @@
+{
+    "name": "King Sand Crab",
+    "id": 7267,
+    "isMembersOnly": false,
+    "examine": "A sandy boulder.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Hidden",
+    "combatLevel": 107,
+    "hitpoints": 200,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 200.0,
+    "slayerCategory": [
+        "Crabs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 15
+}

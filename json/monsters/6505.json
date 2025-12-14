@@ -1,0 +1,48 @@
+{
+    "name": "Chaos Elemental (PvM Arena)",
+    "id": 6505,
+    "isMembersOnly": false,
+    "examine": "pUre A cHaOs of crEatuRe!",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 305,
+    "hitpoints": 250,
+    "maxHit": [
+        "28"
+    ],
+    "slayerExperience": 268.75,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 270,
+    "strengthLevel": 270,
+    "defenceLevel": 270,
+    "rangedLevel": 270,
+    "magicLevel": 270,
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 70,
+        "crush": 70,
+        "magic": 70,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged",
+        "Melee (Crush?)"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3
+}

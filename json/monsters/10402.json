@@ -1,0 +1,51 @@
+{
+    "name": "Colossal Hydra",
+    "id": 10402,
+    "isMembersOnly": false,
+    "examine": "Don't forget to hydra-te.",
+    "releaseDate": "23 July 2020",
+    "combatLevel": 309,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 750,
+    "maxHit": [
+        "34"
+    ],
+    "slayerLevel": 95,
+    "slayerExperience": 8625.0,
+    "slayerCategory": [
+        "Hydras"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 250,
+    "magicLevel": 250,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 200,
+        "crush": 200,
+        "magic": 200,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 5
+}

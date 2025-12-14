@@ -1,0 +1,39 @@
+{
+    "name": "Skogre",
+    "id": 872,
+    "isMembersOnly": false,
+    "examine": "It's falling apart!",
+    "releaseDate": "17 May 2005",
+    "versionAnchor": "1",
+    "combatLevel": 44,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 71,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 71.0,
+    "slayerCategory": [
+        "Ogres",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "VANNAKA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 36,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

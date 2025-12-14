@@ -1,0 +1,41 @@
+{
+    "name": "Small scarab",
+    "id": 14126,
+    "isMembersOnly": false,
+    "examine": "This dung beetle has mistaken you for its staple diet.",
+    "releaseDate": "6 November 2024",
+    "combatLevel": 41,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 55,
+    "strengthLevel": 1,
+    "defenceLevel": 55,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

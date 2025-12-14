@@ -1,0 +1,28 @@
+{
+    "name": "The Illusive",
+    "id": 3476,
+    "isMembersOnly": false,
+    "examine": "What if you don't know how to win?",
+    "releaseDate": "15 May 2007",
+    "combatLevel": 108,
+    "hitpoints": 144,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 71,
+    "defenceLevel": 105,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

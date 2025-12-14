@@ -1,0 +1,26 @@
+{
+    "name": "Locust",
+    "id": 11585,
+    "isMembersOnly": false,
+    "examine": "An obnoxious, overgrown insect.",
+    "releaseDate": "26 April 2005",
+    "combatLevel": 18,
+    "hitpoints": 27,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Lava Strykewyrm",
+    "id": 15500,
+    "isMembersOnly": false,
+    "examine": "Lava runs down its body.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 116,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "12"
+    ],
+    "slayerLevel": 62,
+    "slayerExperience": 154.0,
+    "slayerCategory": [
+        "Wyrms"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 50,
+    "rangedLevel": 110,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "ranged": 40,
+        "melee": 30
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 60,
+        "crush": 70,
+        "magic": 40,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

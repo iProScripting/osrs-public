@@ -1,0 +1,29 @@
+{
+    "name": "Salarin the twisted",
+    "id": 304,
+    "isMembersOnly": false,
+    "examine": "Twisted by name, twisted by nature.",
+    "releaseDate": "12 December 2002",
+    "combatLevel": 70,
+    "hitpoints": 70,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Chaos Druids"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 58,
+    "strengthLevel": 58,
+    "defenceLevel": 62,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

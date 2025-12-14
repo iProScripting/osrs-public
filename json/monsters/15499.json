@@ -1,0 +1,24 @@
+{
+    "name": "Reef snake",
+    "id": 15499,
+    "isMembersOnly": false,
+    "examine": "A very big piece of angry spaghetti.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 147,
+    "hitpoints": 160,
+    "usesSkill": [
+    ],
+    "defenceLevel": 100,
+    "rangedLevel": 170,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "stab": 120,
+        "slash": 120,
+        "crush": 120,
+        "magic": 100
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 5,
+    "size": 2
+}

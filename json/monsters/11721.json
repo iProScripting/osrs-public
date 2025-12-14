@@ -1,0 +1,46 @@
+{
+    "name": "Kephri",
+    "id": 11721,
+    "isMembersOnly": false,
+    "examine": "The cursed mother.",
+    "releaseDate": "24 August 2022",
+    "versionAnchor": "Aggressive",
+    "combatLevel": 341,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "24"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 80,
+    "magicLevel": 125,
+    "attackBonuses": {
+        "magic": 125,
+        "magicDamage": 50
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 300,
+        "crush": 100,
+        "magic": 200,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 5,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

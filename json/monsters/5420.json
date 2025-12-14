@@ -1,0 +1,34 @@
+{
+    "name": "Watchman",
+    "id": 5420,
+    "isMembersOnly": false,
+    "examine": "Watches stuff. But who watches him?",
+    "releaseDate": "7 May 2003",
+    "combatLevel": 33,
+    "hitpoints": 22,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 31,
+    "strengthLevel": 31,
+    "defenceLevel": 31,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 24,
+        "slash": 14,
+        "crush": 19,
+        "magic": -4,
+        "ranged": 16,
+        "lightRanged": 16,
+        "standardRanged": 16,
+        "heavyRanged": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

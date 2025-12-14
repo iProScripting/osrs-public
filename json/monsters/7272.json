@@ -1,0 +1,50 @@
+{
+    "name": "Twisted Banshee",
+    "id": 7272,
+    "isMembersOnly": false,
+    "examine": "A tortured screaming soul.",
+    "releaseDate": "9 June 2016",
+    "combatLevel": 89,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 15,
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Banshees"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 85,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 25
+}

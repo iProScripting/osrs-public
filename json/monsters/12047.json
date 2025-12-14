@@ -1,0 +1,41 @@
+{
+    "name": "Evelot",
+    "id": 12047,
+    "isMembersOnly": false,
+    "examine": "A member of the Khazard Army.",
+    "releaseDate": "11 January 2023",
+    "combatLevel": 148,
+    "hitpoints": 160,
+    "maxHit": [
+        "34"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 150,
+    "defenceLevel": 120,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 60,
+        "crush": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

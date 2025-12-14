@@ -1,0 +1,40 @@
+{
+    "name": "Moss Giant (Iorwerth Dungeon)",
+    "id": 8736,
+    "isMembersOnly": false,
+    "examine": "Bigger than your average moss giant.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 84,
+    "hitpoints": 120,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Moss Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 66,
+        "strength": 62
+    },
+    "attackStyle": [
+        "Melee",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

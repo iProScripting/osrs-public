@@ -1,0 +1,55 @@
+{
+    "name": "Kalphite Soldier",
+    "id": 958,
+    "isMembersOnly": false,
+    "examine": "I don't think insect repellent will work...",
+    "releaseDate": "23 January 2014",
+    "versionAnchor": "Kalphite Cave (task only)",
+    "combatLevel": 85,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 90,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "Kalphite"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 5,
+        "magic": 50,
+        "ranged": 30,
+        "lightRanged": 50,
+        "standardRanged": 30,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Vanguard",
+    "id": 7528,
+    "isMembersOnly": false,
+    "examine": "Formerly a member of Xeric's elite tactical unit.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Ranged",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 180,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 160,
+    "rangedLevel": 150,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "ranged": 40,
+        "rangedStrength": 25
+    },
+    "defenceBonuses": {
+        "stab": 55,
+        "slash": 60,
+        "crush": 100,
+        "magic": 400,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 3
+}

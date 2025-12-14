@@ -1,0 +1,35 @@
+{
+    "name": "Dinky the drink troll",
+    "id": 15171,
+    "isMembersOnly": false,
+    "examine": "Likes drink... hates people stepping on him.",
+    "releaseDate": "19 November 2025",
+    "hitpoints": 140,
+    "maxHit": [
+        "51+"
+    ],
+    "slayerExperience": 4.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 140,
+    "defenceLevel": 40,
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 0
+}

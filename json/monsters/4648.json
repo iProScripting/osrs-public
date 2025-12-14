@@ -1,0 +1,36 @@
+{
+    "name": "Shantay Guard",
+    "id": 4648,
+    "isMembersOnly": false,
+    "examine": "He patrols the Shantay Pass.",
+    "releaseDate": "14 April 2003",
+    "combatLevel": 22,
+    "hitpoints": 32,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 16,
+    "defenceLevel": 16,
+    "attackBonuses": {
+        "melee": 11,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 15,
+        "crush": 18,
+        "magic": 6,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Skeleton",
+    "id": 82,
+    "isMembersOnly": false,
+    "examine": "Could do with gaining a few pounds.",
+    "releaseDate": "23 September 2001",
+    "versionAnchor": "1 (Armed)",
+    "combatLevel": 45,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 59,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 59.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 35,
+    "defenceLevel": 36,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 11,
+        "crush": -2,
+        "magic": 1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

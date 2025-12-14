@@ -1,0 +1,31 @@
+{
+    "name": "Nezikchened",
+    "id": 3962,
+    "isMembersOnly": false,
+    "examine": "An ancient, powerful demon of the underworld.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 187,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "18 (Melee & Magic)",
+        "~20 (Dark Dagger)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 165,
+    "strengthLevel": 168,
+    "defenceLevel": 167,
+    "rangedLevel": 160,
+    "magicLevel": 160,
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 10
+}

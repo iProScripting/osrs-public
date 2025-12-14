@@ -1,0 +1,47 @@
+{
+    "name": "Vyrewatch",
+    "id": 8258,
+    "isMembersOnly": false,
+    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> An evil, bloodsucking vampyre. <br/><span style=\"user-select:none;\">'''&bull;'''</span> A thirsty-looking, airborne bloodsucker! ''(when flying)''",
+    "releaseDate": "24 May 2018",
+    "versionAnchor": "Level 87",
+    "combatLevel": 87,
+    "attributes": [
+        "vampyre3"
+    ],
+    "hitpoints": 75,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 75,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 75,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 8,
+    "size": 1
+}

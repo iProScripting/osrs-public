@@ -1,0 +1,45 @@
+{
+    "name": "Cursed Baboon",
+    "id": 11717,
+    "isMembersOnly": false,
+    "examine": "An undead cursed baboon.",
+    "releaseDate": "24 August 2022",
+    "combatLevel": 77,
+    "hitpoints": 20,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 20,
+    "rangedLevel": 60,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 25,
+        "ranged": 25,
+        "melee": 25
+    },
+    "defenceBonuses": {
+        "stab": 900,
+        "slash": 900,
+        "crush": 900,
+        "magic": -60,
+        "ranged": -50,
+        "lightRanged": -50,
+        "standardRanged": -50,
+        "heavyRanged": -50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

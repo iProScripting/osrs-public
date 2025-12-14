@@ -1,0 +1,49 @@
+{
+    "name": "Parasite (Phosani's Nightmare)",
+    "id": 9468,
+    "isMembersOnly": false,
+    "examine": "A fully grown parasite.",
+    "releaseDate": "5 March 2020",
+    "versionAnchor": "Regular",
+    "combatLevel": 129,
+    "hitpoints": 55,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 60,
+    "rangedLevel": 60,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 84,
+        "ranged": 84,
+        "rangedStrength": 142,
+        "magicDamage": 142
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 80,
+        "crush": 20,
+        "magic": 120,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

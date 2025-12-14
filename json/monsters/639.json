@@ -1,0 +1,38 @@
+{
+    "name": "Tyras guard",
+    "id": 639,
+    "isMembersOnly": false,
+    "examine": "One of King Tyras's men.",
+    "releaseDate": "20 September 2004",
+    "combatLevel": 110,
+    "hitpoints": 110,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 95,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "stab": 87,
+        "slash": 84,
+        "crush": 76,
+        "magic": -10,
+        "ranged": 79,
+        "lightRanged": 79,
+        "standardRanged": 79,
+        "heavyRanged": 79
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 1
+}

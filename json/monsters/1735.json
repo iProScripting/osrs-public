@@ -1,0 +1,23 @@
+{
+    "name": "Brawler",
+    "id": 1735,
+    "isMembersOnly": false,
+    "examine": "Mind your toes!",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Level 76",
+    "combatLevel": 76,
+    "hitpoints": 83,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 37,
+    "strengthLevel": 82,
+    "defenceLevel": 67,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

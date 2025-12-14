@@ -1,0 +1,29 @@
+{
+    "name": "Bandit (Bandit Camp)",
+    "id": 690,
+    "isMembersOnly": false,
+    "examine": "A tough-looking criminal.",
+    "releaseDate": "18 April 2005",
+    "versionAnchor": "Level 74",
+    "combatLevel": 74,
+    "hitpoints": 65,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 65,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

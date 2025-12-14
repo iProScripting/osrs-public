@@ -1,0 +1,24 @@
+{
+    "name": "Black unicorn Foal",
+    "id": 3911,
+    "isMembersOnly": false,
+    "examine": "Cute but evil.",
+    "releaseDate": "2 November 2004",
+    "combatLevel": 22,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

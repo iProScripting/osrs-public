@@ -1,0 +1,45 @@
+{
+    "name": "Essyllt",
+    "id": 8950,
+    "isMembersOnly": false,
+    "examine": "The ferocious henchman of Lord Iorwerth.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 236,
+    "hitpoints": 320,
+    "maxHit": [
+        "40 (melee)",
+        "51 (ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 268,
+    "strengthLevel": 268,
+    "defenceLevel": 104,
+    "rangedLevel": 342,
+    "magicLevel": 104,
+    "attackBonuses": {
+        "strength": 28,
+        "rangedStrength": 28
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 40,
+        "crush": 20,
+        "magic": 30,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

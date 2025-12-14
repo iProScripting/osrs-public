@@ -1,0 +1,45 @@
+{
+    "name": "Harpie Bug Swarm",
+    "id": 464,
+    "isMembersOnly": false,
+    "examine": "A swarm of bugs.",
+    "releaseDate": "30 January 2006",
+    "combatLevel": 46,
+    "hitpoints": 25,
+    "maxHit": [
+        "6"
+    ],
+    "slayerLevel": 33,
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Harpie Bug Swarms"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 54,
+    "strengthLevel": 46,
+    "defenceLevel": 32,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 5,
+        "crush": 10,
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

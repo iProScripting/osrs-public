@@ -1,0 +1,63 @@
+{
+    "name": "Revenant demon",
+    "id": 7936,
+    "isMembersOnly": false,
+    "examine": "The ghost of a demon slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 98,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 86.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 83,
+    "strengthLevel": 76,
+    "defenceLevel": 80,
+    "rangedLevel": 80,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "magic": 50,
+        "ranged": 40,
+        "melee": 30,
+        "strength": 50,
+        "rangedStrength": 30,
+        "magicDamage": 24
+    },
+    "defenceBonuses": {
+        "stab": 124,
+        "slash": 118,
+        "crush": 130,
+        "magic": 85,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 90
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

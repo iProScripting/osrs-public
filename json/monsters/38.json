@@ -1,0 +1,41 @@
+{
+    "name": "Zombie",
+    "id": 38,
+    "isMembersOnly": false,
+    "examine": "Dead man walking.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Level 13, 10",
+    "combatLevel": 13,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 9,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

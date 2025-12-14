@@ -1,0 +1,46 @@
+{
+    "name": "Bloodthirsty Infernal pyrelord",
+    "id": 12564,
+    "isMembersOnly": false,
+    "examine": "A huge demonic being of fire.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 201,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 276,
+    "slayerLevel": 30,
+    "slayerCategory": [
+        "Pyrefiends"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 186,
+    "strengthLevel": 144,
+    "defenceLevel": 68,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 18,
+        "crush": 18,
+        "ranged": 18,
+        "lightRanged": 18,
+        "standardRanged": 18,
+        "heavyRanged": 18
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

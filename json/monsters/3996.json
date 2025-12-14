@@ -1,0 +1,25 @@
+{
+    "name": "Witch's experiment",
+    "id": 3996,
+    "isMembersOnly": false,
+    "examine": "Looks unnatural.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Skavid",
+    "combatLevel": 19,
+    "hitpoints": 21,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 10,
+    "defenceLevel": 19,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

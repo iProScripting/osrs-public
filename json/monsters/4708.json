@@ -1,0 +1,31 @@
+{
+    "name": "The Shaikahan",
+    "id": 4708,
+    "isMembersOnly": false,
+    "examine": "A huge beast, resembling in some ways a lion, but mostly a twisted nightmare.",
+    "releaseDate": "14 September 2004",
+    "combatLevel": 83,
+    "hitpoints": 100,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 10000,
+        "ranged": 10000,
+        "lightRanged": 10000,
+        "standardRanged": 10000,
+        "heavyRanged": 10000
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

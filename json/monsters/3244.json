@@ -1,0 +1,29 @@
+{
+    "name": "Farmer",
+    "id": 3244,
+    "isMembersOnly": false,
+    "examine": "He grows the crops in this area.",
+    "releaseDate": "22 February 2005",
+    "versionAnchor": "Khaki shirt, bracers",
+    "combatLevel": 7,
+    "hitpoints": 12,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 3,
+    "strengthLevel": 4,
+    "defenceLevel": 8,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 6
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

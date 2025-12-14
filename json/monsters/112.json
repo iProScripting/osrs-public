@@ -1,0 +1,35 @@
+{
+    "name": "Wild dog",
+    "id": 112,
+    "isMembersOnly": false,
+    "examine": "Looks like it's got Rabies!<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "releaseDate": "17 January 2005",
+    "versionAnchor": "Normal",
+    "combatLevel": 63,
+    "hitpoints": 62,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 62.0,
+    "slayerCategory": [
+        "Dogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 53,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

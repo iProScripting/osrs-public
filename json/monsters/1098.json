@@ -1,0 +1,35 @@
+{
+    "name": "Sea Snake Hatchling",
+    "id": 1098,
+    "isMembersOnly": false,
+    "examine": "A baby sea snake. Snaaaaaaake!",
+    "releaseDate": "22 May 2006",
+    "combatLevel": 62,
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "slayerLevel": 40,
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Sea Snakes"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 55,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

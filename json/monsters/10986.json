@@ -1,0 +1,38 @@
+{
+    "name": "Barbarian (Barbarian Camp)",
+    "id": 10986,
+    "isMembersOnly": false,
+    "examine": "A mighty archer.",
+    "releaseDate": "16 June 2021",
+    "versionAnchor": "Level 15",
+    "combatLevel": 15,
+    "hitpoints": 24,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 3,
+    "defenceLevel": 10,
+    "rangedLevel": 15,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2,
+        "magic": -3,
+        "ranged": 2,
+        "lightRanged": 2,
+        "standardRanged": 2,
+        "heavyRanged": 2
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

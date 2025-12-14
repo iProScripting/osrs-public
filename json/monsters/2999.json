@@ -1,0 +1,38 @@
+{
+    "name": "Tortured soul",
+    "id": 2999,
+    "isMembersOnly": false,
+    "examine": "This poor soul cannot understand why it has not passed to the next world.",
+    "releaseDate": "15 February 2005",
+    "combatLevel": 59,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 51,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 51.0,
+    "slayerCategory": [
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 52,
+    "strengthLevel": 62,
+    "defenceLevel": 38,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

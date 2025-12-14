@@ -1,0 +1,48 @@
+{
+    "name": "Ice troll",
+    "id": 705,
+    "isMembersOnly": false,
+    "examine": "Brrrrr...he must be cold!",
+    "releaseDate": "5 January 2005",
+    "versionAnchor": "Level 121",
+    "combatLevel": 121,
+    "hitpoints": 90,
+    "maxHit": [
+        "23"
+    ],
+    "slayerExperience": 97.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 60
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 60,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

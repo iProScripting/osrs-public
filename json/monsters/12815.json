@@ -1,0 +1,38 @@
+{
+    "name": "Fremennik warband seer",
+    "id": 12815,
+    "isMembersOnly": false,
+    "examine": "A seer from a faraway land, come to test their skills.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 104,
+    "hitpoints": 50,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "rangedLevel": 110,
+    "magicLevel": 110,
+    "attackBonuses": {
+        "magic": 150
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

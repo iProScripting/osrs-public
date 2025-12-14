@@ -1,0 +1,49 @@
+{
+    "name": "Bloodthirsty Hydra",
+    "id": 12588,
+    "isMembersOnly": false,
+    "examine": "Don't forget to hydra-te.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 501,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 1125,
+    "maxHit": [
+        "38"
+    ],
+    "slayerLevel": 95,
+    "slayerCategory": [
+        "Hydras"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 375,
+    "magicLevel": 375,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 200,
+        "crush": 200,
+        "magic": 200,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 5
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Rock Crab",
+    "id": 102,
+    "isMembersOnly": false,
+    "examine": "No one likes crabs...",
+    "releaseDate": "2 November 2004",
+    "versionAnchor": "Active",
+    "combatLevel": 13,
+    "hitpoints": 50,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Crabs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

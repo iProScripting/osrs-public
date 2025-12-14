@@ -1,0 +1,39 @@
+{
+    "name": "Tok-Xil",
+    "id": 2193,
+    "isMembersOnly": false,
+    "examine": "I don't like the look of those spines...",
+    "releaseDate": "19 September 2005",
+    "versionAnchor": "Standard",
+    "combatLevel": 90,
+    "hitpoints": 40,
+    "maxHit": [
+        "13 (Melee)",
+        "14 (Ranged approx.)"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 120,
+    "defenceLevel": 60,
+    "rangedLevel": 120,
+    "magicLevel": 60,
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

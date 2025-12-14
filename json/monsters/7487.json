@@ -1,0 +1,51 @@
+{
+    "name": "Zombie (Kourend)",
+    "id": 7487,
+    "isMembersOnly": false,
+    "examine": "A disgusting zombie.",
+    "releaseDate": "24 November 2016",
+    "versionAnchor": "Level 76",
+    "combatLevel": 76,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 71,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 71.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 69,
+    "strengthLevel": 65,
+    "defenceLevel": 62,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

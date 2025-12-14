@@ -1,0 +1,25 @@
+{
+    "name": "Ghoul Champion",
+    "id": 3330,
+    "isMembersOnly": false,
+    "examine": "Champion of the ghouls.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 85,
+    "hitpoints": 100,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 80,
+    "defenceLevel": 60,
+    "rangedLevel": 60,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Skeleton (Tarn's Lair)",
+    "id": 6468,
+    "isMembersOnly": false,
+    "examine": "Cross bones.",
+    "releaseDate": "22 January 2007",
+    "versionAnchor": "Level 87",
+    "combatLevel": 87,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 92,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 92.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 80,
+    "defenceLevel": 55,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

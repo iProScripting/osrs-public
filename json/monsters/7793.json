@@ -1,0 +1,56 @@
+{
+    "name": "Taloned Wyvern",
+    "id": 7793,
+    "isMembersOnly": false,
+    "examine": "Spikey death with bad breath.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 147,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "10 (Magic)",
+        "12 (Melee)",
+        "55 (Icy breath)"
+    ],
+    "slayerLevel": 66,
+    "slayerExperience": 205.0,
+    "slayerCategory": [
+        "Fossil Island Wyverns"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 110,
+    "defenceLevel": 90,
+    "rangedLevel": 90,
+    "magicLevel": 90,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 70,
+        "magic": 140,
+        "ranged": 70,
+        "lightRanged": 120,
+        "standardRanged": 70,
+        "heavyRanged": 120
+    },
+    "attackStyle": [
+        "Slash",
+        "Typeless Magic",
+        "Icy breath"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

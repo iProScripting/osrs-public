@@ -1,0 +1,40 @@
+{
+    "name": "Stranger",
+    "id": 685,
+    "isMembersOnly": false,
+    "examine": "Very mysterious looking...",
+    "releaseDate": "18 April 2005",
+    "combatLevel": 95,
+    "poisonous": true,
+    "hitpoints": 80,
+    "maxHit": [
+        "115% of targeted player's max hit'\"`UNIQ--ref-000000D3-QINU`\"'"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": 1,
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "stab": 81,
+        "slash": 93,
+        "crush": 98,
+        "magic": 1,
+        "ranged": 82,
+        "lightRanged": 82,
+        "standardRanged": 82,
+        "heavyRanged": 82
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

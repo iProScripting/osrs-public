@@ -1,0 +1,32 @@
+{
+    "name": "Hobgoblin guard",
+    "id": 132,
+    "isMembersOnly": false,
+    "examine": "He doesn't look very welcoming.",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 54,
+    "hitpoints": 62,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 43,
+    "defenceLevel": 43,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 1,
+        "slash": 1
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Basilisk",
+    "id": 417,
+    "isMembersOnly": false,
+    "examine": "The eyes of evil.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Normal",
+    "combatLevel": 61,
+    "hitpoints": 75,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 40,
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Basilisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 45,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "magic": 20
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

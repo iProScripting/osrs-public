@@ -1,0 +1,77 @@
+{
+    "name": "Vorkath",
+    "id": 8060,
+    "isMembersOnly": false,
+    "examine": "This won't be fun.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Dragon Slayer II",
+    "combatLevel": 392,
+    "attributes": [
+        "dragon",
+        "undead",
+        "fiery"
+    ],
+    "hitpoints": 460,
+    "maxHit": [
+        "30 (Magic)",
+        "28 (Ranged)",
+        "32 (Melee)",
+        "72 (Dragonfire)",
+        "121 (Dragonfire Bomb/Special)"
+    ],
+    "slayerExperience": 460.0,
+    "slayerCategory": [
+        "Blue Dragons",
+        "Zombies",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 560,
+    "strengthLevel": 268,
+    "defenceLevel": 164,
+    "rangedLevel": 268,
+    "magicLevel": 148,
+    "attackBonuses": {
+        "magic": 148,
+        "ranged": 96,
+        "melee": 14
+    },
+    "defenceBonuses": {
+        "stab": 66,
+        "slash": 126,
+        "crush": 126,
+        "magic": 204,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic",
+        "Ranged",
+        "Dragonfire"
+    ],
+    "attackSpeed": 5,
+    "size": 7,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Jelly",
+    "id": 438,
+    "isMembersOnly": false,
+    "examine": "Doesn't look so tough...",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Grey",
+    "combatLevel": 78,
+    "hitpoints": 75,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 45,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 45,
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

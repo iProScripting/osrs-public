@@ -1,0 +1,33 @@
+{
+    "name": "Strangled Boar",
+    "id": 12289,
+    "isMembersOnly": false,
+    "examine": "That's one infected looking piggy.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 166,
+    "hitpoints": 40,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "magicLevel": 60,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 20,
+        "crush": 30,
+        "magic": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Typeless"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

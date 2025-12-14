@@ -1,0 +1,35 @@
+{
+    "name": "Emissary Archer",
+    "id": 14407,
+    "isMembersOnly": false,
+    "examine": "A fierce archer of the Twilight Emissaries.",
+    "releaseDate": "23 July 2025",
+    "versionAnchor": "1",
+    "combatLevel": 71,
+    "hitpoints": 40,
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 40,
+    "defenceLevel": 70,
+    "rangedLevel": 70,
+    "magicLevel": 15,
+    "attackBonuses": {
+        "ranged": 60
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 20,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

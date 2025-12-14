@@ -1,0 +1,44 @@
+{
+    "name": "Urium Shade",
+    "id": 10589,
+    "isMembersOnly": false,
+    "examine": "The shadowy remains of a long departed soul.",
+    "releaseDate": "27 January 2021",
+    "versionAnchor": "Shade",
+    "combatLevel": 140,
+    "attributes": [
+        "shade",
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 130,
+    "maxHit": [
+        "13"
+    ],
+    "slayerExperience": 130.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 138,
+    "strengthLevel": 116,
+    "defenceLevel": 100,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

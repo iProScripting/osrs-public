@@ -1,0 +1,33 @@
+{
+    "name": "Moss Guardian (Nightmare Zone)",
+    "id": 6325,
+    "isMembersOnly": false,
+    "examine": "Bigger than your average moss giant.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 182,
+    "hitpoints": 240,
+    "maxHit": [
+        "34"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 165,
+    "strengthLevel": 165,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 66,
+        "strength": 62
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic melee"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

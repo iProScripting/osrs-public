@@ -1,0 +1,45 @@
+{
+    "name": "Ogress Warrior",
+    "id": 7989,
+    "isMembersOnly": false,
+    "examine": "A large angry ogre lady.",
+    "releaseDate": "7 December 2017",
+    "versionAnchor": "1",
+    "combatLevel": 82,
+    "hitpoints": 82,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 82.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 82,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 12,
+        "crush": 12,
+        "magic": 14,
+        "ranged": 16,
+        "lightRanged": 16,
+        "standardRanged": 16,
+        "heavyRanged": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

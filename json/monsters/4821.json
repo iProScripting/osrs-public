@@ -1,0 +1,27 @@
+{
+    "name": "Mudskipper",
+    "id": 4821,
+    "isMembersOnly": false,
+    "examine": "Not the most beautiful fish in the sea.",
+    "releaseDate": "15 March 2006",
+    "versionAnchor": "Level 31",
+    "combatLevel": 31,
+    "hitpoints": 20,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 29,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

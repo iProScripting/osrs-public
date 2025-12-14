@@ -1,0 +1,35 @@
+{
+    "name": "Dire Wolf",
+    "id": 9181,
+    "isMembersOnly": false,
+    "examine": "An albino direwolf; its fur is as white as snow and its eyes are the colour of blood.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "Level 72",
+    "combatLevel": 72,
+    "hitpoints": 74,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 74.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 61,
+    "defenceLevel": 62,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

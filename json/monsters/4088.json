@@ -1,0 +1,37 @@
+{
+    "name": "Soldier (Burthorpe)",
+    "id": 4088,
+    "isMembersOnly": false,
+    "examine": "A soldier of the Imperial Guard.",
+    "releaseDate": "9 August 2004",
+    "combatLevel": 48,
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 11,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 23,
+        "crush": 21,
+        "magic": 6,
+        "ranged": 14,
+        "lightRanged": 14,
+        "standardRanged": 14,
+        "heavyRanged": 14
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Guard (Prifddinas)",
+    "id": 9182,
+    "isMembersOnly": false,
+    "examine": "A keeper of peace within the crystal city of Prifddinas.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "1",
+    "combatLevel": 108,
+    "hitpoints": 105,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 107.5,
+    "slayerCategory": [
+        "Elves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 95,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 70,
+        "magic": 60,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Zombified Spawn",
+    "id": 8062,
+    "isMembersOnly": false,
+    "examine": "Nasty looking thing.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Dragon Slayer II",
+    "combatLevel": 55,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 8,
+    "maxHit": [
+        "30"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 4,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 3,
+        "crush": 3,
+        "magic": -100,
+        "ranged": 3,
+        "lightRanged": 3,
+        "standardRanged": 3,
+        "heavyRanged": 3
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": -1,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Sourhog (A Porcine of Interest)",
+    "id": 10436,
+    "isMembersOnly": false,
+    "examine": "This piggy really did go to market.",
+    "releaseDate": "10 September 2020",
+    "combatLevel": 37,
+    "hitpoints": 40,
+    "maxHit": [
+        "6",
+        "30 (without Reinforced goggles)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 30,
+    "defenceLevel": 25,
+    "rangedLevel": 35,
+    "magicLevel": 25,
+    "attackBonuses": {
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "slash": 30,
+        "crush": 10,
+        "magic": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 3
+}

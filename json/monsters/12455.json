@@ -1,0 +1,50 @@
+{
+    "name": "Jal-ImKot (Deadman)",
+    "id": 12455,
+    "isMembersOnly": false,
+    "examine": "Those are some powerful claws.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 240,
+    "hitpoints": 750,
+    "maxHit": [
+        "49"
+    ],
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 210,
+    "strengthLevel": 290,
+    "defenceLevel": 120,
+    "rangedLevel": 220,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "stab": 65,
+        "slash": 65,
+        "crush": 65,
+        "magic": 30,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

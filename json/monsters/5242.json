@@ -1,0 +1,42 @@
+{
+    "name": "Scorpion",
+    "id": 5242,
+    "isMembersOnly": false,
+    "examine": "It's an extremely dangerous looking scorpion.",
+    "releaseDate": "6 December 2004",
+    "versionAnchor": "Level 38",
+    "combatLevel": 38,
+    "hitpoints": 15,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "attackBonuses": {
+        "melee": 100,
+        "strength": 100
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

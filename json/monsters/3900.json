@@ -1,0 +1,23 @@
+{
+    "name": "Koschei the deathless",
+    "id": 3900,
+    "isMembersOnly": false,
+    "examine": "He just keeps on going.",
+    "releaseDate": "2 November 2004",
+    "hitpoints": 255,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 5,
+    "defenceLevel": 255,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 1,
+    "size": 1
+}

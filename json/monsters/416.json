@@ -1,0 +1,51 @@
+{
+    "name": "Abyssal demon",
+    "id": 416,
+    "isMembersOnly": false,
+    "examine": "A denizen of the Abyss!",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Standard",
+    "combatLevel": 124,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "8"
+    ],
+    "slayerLevel": 85,
+    "slayerExperience": 150.0,
+    "slayerCategory": [
+        "Abyssal Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 97,
+    "strengthLevel": 67,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

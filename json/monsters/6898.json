@@ -1,0 +1,32 @@
+{
+    "name": "Gangster",
+    "id": 6898,
+    "isMembersOnly": false,
+    "examine": "He'd never let his personal morality stand in the way of profit.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Level 50 (1)",
+    "combatLevel": 50,
+    "hitpoints": 45,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 35,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "crush": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

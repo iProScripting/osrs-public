@@ -1,0 +1,45 @@
+{
+    "name": "Aviansie",
+    "id": 3174,
+    "isMembersOnly": false,
+    "examine": "Graceful, bird-like creature.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 97 (1)",
+    "combatLevel": 97,
+    "attributes": [
+        "flying"
+    ],
+    "hitpoints": 98,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 98.0,
+    "slayerCategory": [
+        "Aviansie"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 99,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "lightRanged": -20
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 45
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Shifter",
+    "id": 1703,
+    "isMembersOnly": false,
+    "examine": "Nippy little thing!",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Level 104",
+    "combatLevel": 104,
+    "hitpoints": 83,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 83,
+    "defenceLevel": 83,
+    "magicLevel": 60,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

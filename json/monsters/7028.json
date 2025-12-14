@@ -1,0 +1,35 @@
+{
+    "name": "Reanimated ogre",
+    "id": 7028,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 35,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 43,
+    "strengthLevel": 43,
+    "defenceLevel": 43,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

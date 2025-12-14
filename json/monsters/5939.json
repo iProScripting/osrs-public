@@ -1,0 +1,38 @@
+{
+    "name": "Wallasalki",
+    "id": 5939,
+    "isMembersOnly": false,
+    "examine": "A fearsome magical water creature.",
+    "releaseDate": "7 November 2005",
+    "versionAnchor": "2",
+    "combatLevel": 98,
+    "hitpoints": 120,
+    "maxHit": [
+        "30"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 150,
+        "crush": 175,
+        "magic": 250,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

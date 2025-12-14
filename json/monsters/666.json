@@ -1,0 +1,39 @@
+{
+    "name": "Goblin (Goblin Village)",
+    "id": 666,
+    "isMembersOnly": false,
+    "examine": "An ugly goblin... bleurgh!",
+    "releaseDate": "17 July 2006",
+    "versionAnchor": "Green",
+    "combatLevel": 5,
+    "hitpoints": 12,
+    "maxHit": [
+        "1"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 12.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 3,
+    "strengthLevel": 1,
+    "defenceLevel": 4,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 12,
+        "strength": 12
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Vampyre kraken",
+    "id": 15212,
+    "isMembersOnly": false,
+    "examine": "Well, that's just terrifying.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "In combat",
+    "combatLevel": 189,
+    "hitpoints": 225,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 115,
+    "rangedLevel": 1,
+    "magicLevel": 215,
+    "defenceBonuses": {
+        "magic": -63,
+        "ranged": 25,
+        "lightRanged": 50,
+        "standardRanged": 25,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

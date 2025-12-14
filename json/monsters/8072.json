@@ -1,0 +1,53 @@
+{
+    "name": "Skeleton (Shayzien Crypts)",
+    "id": 8072,
+    "isMembersOnly": false,
+    "examine": "It's got a bone to pick with you.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Magic",
+    "combatLevel": 132,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 54,
+    "maxHit": [
+        "19"
+    ],
+    "slayerExperience": 54.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 1,
+    "defenceLevel": 62,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "attackBonuses": {
+        "magic": 20
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 30,
+        "crush": 35,
+        "magic": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Head (Temple Trekking)",
+    "id": 5644,
+    "isMembersOnly": false,
+    "examine": "I'm glad I can't see the rest of it!",
+    "releaseDate": "28 March 2006",
+    "versionAnchor": "Visible",
+    "combatLevel": 140,
+    "hitpoints": 150,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 73,
+    "strengthLevel": 186,
+    "defenceLevel": 75,
+    "rangedLevel": 50,
+    "magicLevel": 50,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 10,
+    "size": 1
+}

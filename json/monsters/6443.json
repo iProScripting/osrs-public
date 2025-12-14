@@ -1,0 +1,48 @@
+{
+    "name": "Skeleton (Tarn's Lair)",
+    "id": 6443,
+    "isMembersOnly": false,
+    "examine": "Look: another skeleton.",
+    "releaseDate": "22 January 2007",
+    "versionAnchor": "Level 81",
+    "combatLevel": 81,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 71,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 71.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 64,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Sir Bedivere",
+    "id": 4345,
+    "isMembersOnly": false,
+    "examine": "One of the Knights of the Round Table.",
+    "releaseDate": "24 July 2007",
+    "combatLevel": 110,
+    "hitpoints": 90,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 99,
+    "strengthLevel": 95,
+    "defenceLevel": 99,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 20
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "crush": 190
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 1
+}

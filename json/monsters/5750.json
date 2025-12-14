@@ -1,0 +1,24 @@
+{
+    "name": "Penance Runner",
+    "id": 5750,
+    "isMembersOnly": false,
+    "examine": "He's making a run for it!",
+    "releaseDate": "4 January 2007",
+    "versionAnchor": "Wave 3",
+    "hitpoints": 5,
+    "maxHit": [
+        "0"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

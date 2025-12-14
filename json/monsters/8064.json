@@ -1,0 +1,41 @@
+{
+    "name": "Stone Guardian",
+    "id": 8064,
+    "isMembersOnly": false,
+    "examine": "An ancient stone automaton.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Melee",
+    "combatLevel": 124,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 62,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 148,
+    "defenceLevel": 138,
+    "rangedLevel": 1,
+    "magicLevel": 118,
+    "attackBonuses": {
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 15,
+        "magic": 10,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

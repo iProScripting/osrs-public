@@ -1,0 +1,50 @@
+{
+    "name": "Stick",
+    "id": 926,
+    "isMembersOnly": false,
+    "examine": "A big, bad troll.",
+    "releaseDate": "9 August 2004",
+    "combatLevel": 104,
+    "hitpoints": 135,
+    "maxHit": [
+        "27"
+    ],
+    "slayerExperience": 141.5,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 110,
+    "defenceLevel": 60,
+    "attackBonuses": {
+        "melee": 50,
+        "strength": 80
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 50,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 5.0,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

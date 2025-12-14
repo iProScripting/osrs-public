@@ -1,0 +1,50 @@
+{
+    "name": "Dagannoth Rex (Deadman)",
+    "id": 12439,
+    "isMembersOnly": false,
+    "examine": "Firstborn of the legendary dagannoth kings.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 417,
+    "hitpoints": 750,
+    "maxHit": [
+        "26"
+    ],
+    "slayerCategory": [
+        "Bosses",
+        "Dagannoth"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 255,
+    "rangedLevel": 255,
+    "defenceBonuses": {
+        "stab": 255,
+        "slash": 255,
+        "crush": 255,
+        "magic": 10,
+        "ranged": 255,
+        "lightRanged": 255,
+        "standardRanged": 255,
+        "heavyRanged": 255
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

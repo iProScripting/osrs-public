@@ -1,0 +1,40 @@
+{
+    "name": "Mourner",
+    "id": 9013,
+    "isMembersOnly": false,
+    "examine": "A Mourner, or plague healer.",
+    "releaseDate": "19 July 2005",
+    "versionAnchor": "level 11",
+    "combatLevel": 11,
+    "hitpoints": 19,
+    "maxHit": [
+        "2"
+    ],
+    "slayerCategory": [
+        "None"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 8,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 6,
+        "strength": 2
+    },
+    "defenceBonuses": {
+        "stab": 6,
+        "slash": 6,
+        "crush": 9
+    },
+    "immunities": {
+        "poison": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

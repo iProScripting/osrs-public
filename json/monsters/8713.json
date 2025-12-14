@@ -1,0 +1,60 @@
+{
+    "name": "Sarachnis",
+    "id": 8713,
+    "isMembersOnly": false,
+    "examine": "I'm going to need a really big newspaper...",
+    "releaseDate": "4 July 2019",
+    "combatLevel": 318,
+    "hitpoints": 400,
+    "maxHit": [
+        "31"
+    ],
+    "slayerExperience": 430.0,
+    "slayerCategory": [
+        "Spiders",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 240,
+    "defenceLevel": 150,
+    "rangedLevel": 300,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "ranged": 15,
+        "melee": 30,
+        "rangedStrength": 15
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 40,
+        "crush": 10,
+        "magic": 150,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 5,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

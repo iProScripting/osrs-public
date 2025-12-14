@@ -1,0 +1,39 @@
+{
+    "name": "Cave abomination",
+    "id": 7401,
+    "isMembersOnly": false,
+    "examine": "An extremely dangerous, emaciated ape like creature with beady red eyes.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 206,
+    "hitpoints": 130,
+    "maxHit": [
+        "24"
+    ],
+    "slayerLevel": 58,
+    "slayerExperience": 1300.0,
+    "slayerCategory": [
+        "Cave Horrors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 195,
+    "defenceLevel": 142,
+    "rangedLevel": 1,
+    "magicLevel": 230,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Goblin guard",
+    "id": 5369,
+    "isMembersOnly": false,
+    "examine": "He doesn't look like he'd trust his own mother.",
+    "releaseDate": "17 March 2003",
+    "combatLevel": 42,
+    "hitpoints": 43,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 43.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 37,
+    "defenceLevel": 37,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 4,
+        "slash": 6,
+        "crush": 6
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

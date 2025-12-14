@@ -1,0 +1,50 @@
+{
+    "name": "Grimy Lizard",
+    "id": 13029,
+    "isMembersOnly": false,
+    "examine": "An ecosystem of a creature.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 50,
+    "hitpoints": 75,
+    "maxHit": [
+        "3"
+    ],
+    "slayerLevel": 44,
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Lizard"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 25,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 25,
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 15,
+        "crush": 50,
+        "magic": 50,
+        "ranged": 35,
+        "lightRanged": 35,
+        "standardRanged": 35,
+        "heavyRanged": 35
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 2
+}

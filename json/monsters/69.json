@@ -1,0 +1,37 @@
+{
+    "name": "Summoned Zombie",
+    "id": 69,
+    "isMembersOnly": false,
+    "examine": "The living dead.",
+    "releaseDate": "28 May 2002",
+    "combatLevel": 13,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 22,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 9,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

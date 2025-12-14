@@ -1,0 +1,40 @@
+{
+    "name": "Zombie swab",
+    "id": 622,
+    "isMembersOnly": false,
+    "examine": "He talks a good fight.",
+    "releaseDate": "31 October 2005",
+    "versionAnchor": "4",
+    "combatLevel": 55,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

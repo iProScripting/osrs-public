@@ -1,0 +1,36 @@
+{
+    "name": "Albino bat",
+    "id": 1039,
+    "isMembersOnly": false,
+    "examine": "It's all white by me.",
+    "releaseDate": "4 July 2006",
+    "combatLevel": 52,
+    "hitpoints": 33,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 33.0,
+    "slayerCategory": [
+        "Bats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 57,
+    "strengthLevel": 57,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

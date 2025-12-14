@@ -1,0 +1,41 @@
+{
+    "name": "Chimalli",
+    "id": 14362,
+    "isMembersOnly": false,
+    "examine": "A fierce ranger of the Twilight Emissaries.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 160,
+    "hitpoints": 180,
+    "maxHit": [
+        "24"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 200,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "ranged": 120,
+        "rangedStrength": 10
+    },
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 80,
+        "crush": 80,
+        "magic": 120,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

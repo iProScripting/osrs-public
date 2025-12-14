@@ -1,0 +1,37 @@
+{
+    "name": "Knight of Varlamore (Twilight's Promise)",
+    "id": 12916,
+    "isMembersOnly": false,
+    "examine": "A knight in fancy armour.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 81,
+    "hitpoints": 100,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 20,
+    "defenceBonuses": {
+        "stab": 28,
+        "slash": 26,
+        "crush": 10,
+        "magic": 5,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

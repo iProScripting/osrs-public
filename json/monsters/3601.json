@@ -1,0 +1,24 @@
+{
+    "name": "Unicow",
+    "id": 3601,
+    "isMembersOnly": false,
+    "examine": "Half unicorn, half cow.",
+    "releaseDate": "19 February 2007",
+    "combatLevel": 25,
+    "hitpoints": 24,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 26,
+    "defenceLevel": 22,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

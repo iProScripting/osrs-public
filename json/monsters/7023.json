@@ -1,0 +1,33 @@
+{
+    "name": "Reanimated bear",
+    "id": 7023,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 15,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Bears"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

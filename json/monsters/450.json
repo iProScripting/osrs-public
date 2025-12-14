@@ -1,0 +1,39 @@
+{
+    "name": "Crawling Hand",
+    "id": 450,
+    "isMembersOnly": false,
+    "examine": "Gimmie five.  Actually, don't.",
+    "releaseDate": "4 June 2020",
+    "versionAnchor": "Level 7",
+    "combatLevel": 7,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 15,
+    "maxHit": [
+        "1"
+    ],
+    "slayerLevel": 5,
+    "slayerExperience": 12.0,
+    "slayerCategory": [
+        "Crawling Hands"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 7,
+    "strengthLevel": 3,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

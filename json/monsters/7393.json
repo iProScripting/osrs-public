@@ -1,0 +1,43 @@
+{
+    "name": "Cockathrice",
+    "id": 7393,
+    "isMembersOnly": false,
+    "examine": "Careful where he puts that beak!",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 89,
+    "hitpoints": 95,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 25,
+    "slayerExperience": 950.0,
+    "slayerCategory": [
+        "Cockatrice"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 63,
+    "strengthLevel": 78,
+    "defenceLevel": 78,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "magic": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

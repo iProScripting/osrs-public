@@ -1,0 +1,24 @@
+{
+    "name": "Black unicorn",
+    "id": 2849,
+    "isMembersOnly": false,
+    "examine": "A unicorn with a blackened heart.",
+    "releaseDate": "18 March 2002",
+    "combatLevel": 27,
+    "hitpoints": 29,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 21,
+    "strengthLevel": 23,
+    "defenceLevel": 23,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

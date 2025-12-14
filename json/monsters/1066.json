@@ -1,0 +1,25 @@
+{
+    "name": "Fear reaper",
+    "id": 1066,
+    "isMembersOnly": false,
+    "examine": "AHHHHH!",
+    "releaseDate": "3 April 2006",
+    "versionAnchor": "Level 42",
+    "combatLevel": 42,
+    "hitpoints": 25,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 39,
+    "strengthLevel": 41,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

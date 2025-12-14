@@ -1,0 +1,45 @@
+{
+    "name": "Crypt spider",
+    "id": 1683,
+    "isMembersOnly": false,
+    "examine": "Incey wincey.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 56,
+    "hitpoints": 60,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 45.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 47,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 10,
+        "magic": 17,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

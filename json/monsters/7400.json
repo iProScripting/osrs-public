@@ -1,0 +1,41 @@
+{
+    "name": "Vitreous Warped Jelly",
+    "id": 7400,
+    "isMembersOnly": false,
+    "examine": "I don't think you're ready for this jelly.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 241,
+    "hitpoints": 220,
+    "maxHit": [
+        "19"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 2200.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 180,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

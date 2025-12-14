@@ -1,0 +1,42 @@
+{
+    "name": "Justiciar Zachariah (Deadman)",
+    "id": 12449,
+    "isMembersOnly": false,
+    "examine": "A powerful Saradominist justiciar.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 348,
+    "hitpoints": 320,
+    "usesSkill": [
+    ],
+    "attackLevel": 500,
+    "strengthLevel": 250,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "attackBonuses": {
+        "magic": 80,
+        "melee": 200,
+        "magicDamage": 80
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 200,
+        "crush": 200,
+        "magic": -60,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "size": 3
+}

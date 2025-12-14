@@ -1,0 +1,40 @@
+{
+    "name": "Ork",
+    "id": 2240,
+    "isMembersOnly": false,
+    "examine": "Ugly, fierce and with a bad attitude.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 107,
+    "hitpoints": 110,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 19,
+        "strength": 4
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 13,
+        "magic": 5,
+        "ranged": 13,
+        "lightRanged": 13,
+        "standardRanged": 13,
+        "heavyRanged": 13
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 15
+}

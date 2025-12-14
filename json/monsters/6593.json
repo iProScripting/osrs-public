@@ -1,0 +1,51 @@
+{
+    "name": "Lava dragon",
+    "id": 6593,
+    "isMembersOnly": false,
+    "examine": "It's dripping with molten lava.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 252,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 230,
+    "maxHit": [
+        "23 (Melee)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 248.0,
+    "slayerCategory": [
+        "Lava Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 240,
+    "strengthLevel": 220,
+    "defenceLevel": 220,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 90,
+        "crush": 90,
+        "magic": 80,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

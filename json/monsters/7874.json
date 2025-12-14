@@ -1,0 +1,45 @@
+{
+    "name": "Black demon",
+    "id": 7874,
+    "isMembersOnly": false,
+    "examine": "A big, scary, jet-black demon.",
+    "releaseDate": "23 November 2017",
+    "versionAnchor": "Level 188",
+    "combatLevel": 188,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "17"
+    ],
+    "slayerExperience": 200.0,
+    "slayerCategory": [
+        "Black Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 145,
+    "strengthLevel": 165,
+    "defenceLevel": 152,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Treus Dayth",
+    "id": 3616,
+    "isMembersOnly": false,
+    "examine": "Eeek! A big ghost!",
+    "releaseDate": "21 December 2004",
+    "combatLevel": 95,
+    "attributes": [
+        "spectral",
+        "undead"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "15 (Ranged)",
+        "8 (Crush)"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 5,
+        "magic": -5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "immunities": {
+        "poison": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 25
+}

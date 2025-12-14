@@ -1,0 +1,27 @@
+{
+    "name": "Crystalline Unicorn",
+    "id": 9029,
+    "isMembersOnly": false,
+    "examine": "A crystal formed horse with a crystal formed horn.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 48,
+    "hitpoints": 44,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 48,
+    "defenceLevel": 24,
+    "magicLevel": 24,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

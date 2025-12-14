@@ -1,0 +1,52 @@
+{
+    "name": "Thermonuclear smoke devil",
+    "id": 499,
+    "isMembersOnly": false,
+    "examine": "Woah.",
+    "releaseDate": "10 April 2014",
+    "combatLevel": 301,
+    "hitpoints": 240,
+    "maxHit": [
+        "8"
+    ],
+    "slayerLevel": 93,
+    "slayerExperience": 240.0,
+    "slayerCategory": [
+        "Bosses",
+        "Smoke Devils"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 220,
+    "defenceLevel": 360,
+    "rangedLevel": 310,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 11,
+        "slash": 4,
+        "crush": 9,
+        "magic": 800,
+        "ranged": 900,
+        "lightRanged": 900,
+        "standardRanged": 900,
+        "heavyRanged": 900
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Typeless Magical ranged"
+    ],
+    "attackSpeed": 2,
+    "size": 4,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 20
+}

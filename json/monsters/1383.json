@@ -1,0 +1,28 @@
+{
+    "name": "Camp dweller",
+    "id": 1383,
+    "isMembersOnly": false,
+    "examine": "One of the inhabitants of the camp.",
+    "releaseDate": "7 March 2005",
+    "versionAnchor": "Level 25",
+    "combatLevel": 25,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 25,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

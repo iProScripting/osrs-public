@@ -1,0 +1,55 @@
+{
+    "name": "Guthan the Infested",
+    "id": 1674,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 115,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "24"
+    ],
+    "slayerExperience": 115.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": -50,
+        "ranged": -19,
+        "strength": 75
+    },
+    "defenceBonuses": {
+        "stab": 259,
+        "slash": 257,
+        "crush": 241,
+        "magic": -11,
+        "ranged": 250,
+        "lightRanged": 250,
+        "standardRanged": 250,
+        "heavyRanged": 250
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 15.0,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

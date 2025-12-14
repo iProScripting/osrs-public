@@ -1,0 +1,26 @@
+{
+    "name": "Tormented Warrior",
+    "id": 3959,
+    "isMembersOnly": false,
+    "examine": "A Kharazi warrior, tormented by evil spirits.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 90,
+    "hitpoints": 90,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 76,
+    "strengthLevel": 76,
+    "defenceLevel": 76,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

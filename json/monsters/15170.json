@@ -1,0 +1,38 @@
+{
+    "name": "Angry tortugan",
+    "id": 15170,
+    "isMembersOnly": false,
+    "examine": "Mad, and its tortally your fault.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 81,
+    "hitpoints": 75,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 65,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackBonuses": {
+        "melee": 20
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 80,
+        "crush": 50,
+        "magic": 30,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 1
+}

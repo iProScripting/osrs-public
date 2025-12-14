@@ -1,0 +1,37 @@
+{
+    "name": "Fire Warrior of Lesarkus",
+    "id": 3448,
+    "isMembersOnly": false,
+    "examine": "Intimidating!",
+    "releaseDate": "17 June 2002",
+    "combatLevel": 84,
+    "hitpoints": 59,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 78,
+    "strengthLevel": 78,
+    "defenceLevel": 78,
+    "rangedLevel": 1,
+    "magicLevel": 62,
+    "attackBonuses": {
+        "melee": -12
+    },
+    "defenceBonuses": {
+        "stab": 34,
+        "slash": 37,
+        "crush": 35,
+        "magic": -7,
+        "ranged": 35,
+        "lightRanged": 35,
+        "standardRanged": 35,
+        "heavyRanged": 35
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

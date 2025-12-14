@@ -1,0 +1,35 @@
+{
+    "name": "Goblin (God Wars Dungeon)",
+    "id": 2247,
+    "isMembersOnly": false,
+    "examine": "A soldier to the death.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 12 (banner)",
+    "combatLevel": 12,
+    "hitpoints": 3,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 3.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 6,
+    "defenceLevel": 19,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

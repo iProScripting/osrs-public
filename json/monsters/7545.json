@@ -1,0 +1,43 @@
+{
+    "name": "Tekton",
+    "id": 7545,
+    "isMembersOnly": false,
+    "examine": "Xeric's former artisan.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Normal (Challenge Mode)",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 450,
+    "maxHit": [
+        "78"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 585,
+    "strengthLevel": 585,
+    "defenceLevel": 246,
+    "rangedLevel": 1,
+    "magicLevel": 246,
+    "attackBonuses": {
+        "melee": 64,
+        "strength": 20
+    },
+    "defenceBonuses": {
+        "stab": 155,
+        "slash": 165,
+        "crush": 105
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Slash",
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 50.0,
+    "size": 4
+}

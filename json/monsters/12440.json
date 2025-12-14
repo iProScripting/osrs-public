@@ -1,0 +1,47 @@
+{
+    "name": "King Black Dragon (Deadman)",
+    "id": 12440,
+    "isMembersOnly": false,
+    "examine": "One of the biggest, meanest dragons around.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 278,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 250,
+    "maxHit": [
+        "25"
+    ],
+    "slayerCategory": [
+        "Black Dragons",
+        "Bosses"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 240,
+    "strengthLevel": 240,
+    "defenceLevel": 240,
+    "rangedLevel": 1,
+    "magicLevel": 240,
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 90,
+        "crush": 90,
+        "magic": 80,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

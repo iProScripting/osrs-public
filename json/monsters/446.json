@@ -1,0 +1,36 @@
+{
+    "name": "Infernal Mage",
+    "id": 446,
+    "isMembersOnly": false,
+    "examine": "An evil magic user.",
+    "releaseDate": "26 January 2005",
+    "combatLevel": 66,
+    "hitpoints": 60,
+    "maxHit": [
+        "8"
+    ],
+    "slayerLevel": 45,
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Infernal Mages"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 75,
+    "defenceBonuses": {
+        "magic": 40
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

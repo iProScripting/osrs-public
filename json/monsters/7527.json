@@ -1,0 +1,46 @@
+{
+    "name": "Vanguard",
+    "id": 7527,
+    "isMembersOnly": false,
+    "examine": "Formerly a member of Xeric's elite tactical unit.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Melee",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 180,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 160,
+    "rangedLevel": 150,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 150,
+        "crush": 150,
+        "magic": 20,
+        "ranged": 400,
+        "lightRanged": 400,
+        "standardRanged": 400,
+        "heavyRanged": 400
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3
+}

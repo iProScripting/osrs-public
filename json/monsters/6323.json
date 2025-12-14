@@ -1,0 +1,41 @@
+{
+    "name": "Giant Roc (Nightmare Zone)",
+    "id": 6323,
+    "isMembersOnly": false,
+    "examine": "A very, very large mountain-dwelling bird.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 257,
+    "hitpoints": 255,
+    "maxHit": [
+        "27 (Melee)",
+        "20 (Ranged)"
+    ],
+    "slayerExperience": 255.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 260,
+    "strengthLevel": 260,
+    "defenceLevel": 100,
+    "rangedLevel": 260,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 150
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 5,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

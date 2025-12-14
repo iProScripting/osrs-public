@@ -1,0 +1,53 @@
+{
+    "name": "Steel dragon",
+    "id": 274,
+    "isMembersOnly": false,
+    "examine": "Its scales seem to be made of steel.",
+    "releaseDate": "17 January 2005",
+    "versionAnchor": "Level 246",
+    "combatLevel": 246,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 210,
+    "maxHit": [
+        "22 (Melee)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 220.5,
+    "slayerCategory": [
+        "Metal Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 215,
+    "strengthLevel": 215,
+    "defenceLevel": 215,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "slash": 70,
+        "crush": 70,
+        "magic": 30,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

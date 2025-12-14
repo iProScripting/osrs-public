@@ -1,0 +1,44 @@
+{
+    "name": "Jal-Zek",
+    "id": 7699,
+    "isMembersOnly": false,
+    "examine": "Goodness, gracious, great balls of fire!",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 490,
+    "hitpoints": 220,
+    "maxHit": [
+        "70 (Magic)",
+        "52 (Melee)"
+    ],
+    "slayerExperience": 220.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 370,
+    "strengthLevel": 510,
+    "defenceLevel": 260,
+    "rangedLevel": 510,
+    "magicLevel": 300,
+    "attackBonuses": {
+        "magic": 80
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

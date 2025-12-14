@@ -1,0 +1,23 @@
+{
+    "name": "Reanimated unicorn",
+    "id": 7024,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 15,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 13,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

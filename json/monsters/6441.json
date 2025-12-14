@@ -1,0 +1,52 @@
+{
+    "name": "Skeleton (mage)",
+    "id": 6441,
+    "isMembersOnly": false,
+    "examine": "A skeleton in a dress!",
+    "releaseDate": "22 January 2007",
+    "combatLevel": 94,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 85,
+    "maxHit": [
+        "12 (Magic)",
+        "7 (Melee)"
+    ],
+    "slayerExperience": 85.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 60,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 110,
+    "attackBonuses": {
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

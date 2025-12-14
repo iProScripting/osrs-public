@@ -1,0 +1,25 @@
+{
+    "name": "Woman (West Ardougne)",
+    "id": 1139,
+    "isMembersOnly": false,
+    "examine": "One of Gielinor's many citizens.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Level 4 (2)",
+    "combatLevel": 4,
+    "hitpoints": 13,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Stone Guardian",
+    "id": 8065,
+    "isMembersOnly": false,
+    "examine": "An ancient stone automaton.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Ranged",
+    "combatLevel": 124,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 62,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 138,
+    "rangedLevel": 128,
+    "magicLevel": 118,
+    "attackBonuses": {
+        "ranged": 10,
+        "rangedStrength": 10,
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "magic": 55,
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

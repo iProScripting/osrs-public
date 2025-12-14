@@ -1,0 +1,43 @@
+{
+    "name": "Werewolf",
+    "id": 3135,
+    "isMembersOnly": false,
+    "examine": "Down, fang!",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "God Wars Dungeon (1)",
+    "combatLevel": 93,
+    "hitpoints": 92,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Werewolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 77,
+    "strengthLevel": 76,
+    "defenceLevel": 85,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

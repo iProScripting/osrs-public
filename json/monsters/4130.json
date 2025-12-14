@@ -1,0 +1,50 @@
+{
+    "name": "Dad",
+    "id": 4130,
+    "isMembersOnly": false,
+    "examine": "An unusually large troll.",
+    "releaseDate": "24 August 2004",
+    "combatLevel": 101,
+    "hitpoints": 120,
+    "maxHit": [
+        "27"
+    ],
+    "slayerExperience": 126.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 120,
+    "defenceLevel": 50,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 70
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 40,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 8,
+    "experienceBonus": 5.0,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

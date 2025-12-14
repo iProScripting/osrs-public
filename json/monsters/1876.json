@@ -1,0 +1,49 @@
+{
+    "name": "Ice troll female",
+    "id": 1876,
+    "isMembersOnly": false,
+    "examine": "An ice troll with a bag of rocks.",
+    "releaseDate": "6 February 2007",
+    "versionAnchor": "Variant 2",
+    "combatLevel": 82,
+    "hitpoints": 80,
+    "maxHit": [
+        "17"
+    ],
+    "slayerExperience": 84.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 60
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 60,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

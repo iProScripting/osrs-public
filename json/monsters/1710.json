@@ -1,0 +1,24 @@
+{
+    "name": "Spinner",
+    "id": 1710,
+    "isMembersOnly": false,
+    "examine": "Eeewww!",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Level 55",
+    "combatLevel": 55,
+    "hitpoints": 53,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 68,
+    "magicLevel": 52,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

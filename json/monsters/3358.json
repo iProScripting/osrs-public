@@ -1,0 +1,29 @@
+{
+    "name": "Skeleton Champion",
+    "id": 3358,
+    "isMembersOnly": false,
+    "examine": "Champion of the skeletons.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 40,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 58,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 34,
+    "rangedLevel": 36,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

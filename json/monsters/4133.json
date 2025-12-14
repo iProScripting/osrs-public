@@ -1,0 +1,49 @@
+{
+    "name": "Twig",
+    "id": 4133,
+    "isMembersOnly": false,
+    "examine": "He's guarding the cells.",
+    "releaseDate": "24 August 2004",
+    "versionAnchor": "Sleeping",
+    "combatLevel": 71,
+    "hitpoints": 90,
+    "maxHit": [
+        "13 (approx)"
+    ],
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "KONAR_QUO_MATEN",
+        "DURADEL"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 90,
+    "defenceLevel": 25,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 20
+    },
+    "defenceBonuses": {
+        "crush": 10,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,53 @@
+{
+    "name": "K'ril Tsutsaroth (Deadman)",
+    "id": 12446,
+    "isMembersOnly": false,
+    "examine": "A servant of the god Zamorak.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 650,
+    "hitpoints": 1000,
+    "maxHit": [
+        "46 (melee)"
+    ],
+    "slayerCategory": [
+        "Bosses",
+        "Greater Demons"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 340,
+    "strengthLevel": 300,
+    "defenceLevel": 270,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "melee": 160,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 80,
+        "crush": 80,
+        "magic": 130,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "size": 5
+}

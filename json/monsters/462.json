@@ -1,0 +1,40 @@
+{
+    "name": "Small Lizard",
+    "id": 462,
+    "isMembersOnly": false,
+    "examine": "A small cold-blooded creature, partial to warmth.",
+    "releaseDate": "24 October 2005",
+    "versionAnchor": "Green",
+    "combatLevel": 12,
+    "hitpoints": 15,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 22,
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Lizards"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 5,
+        "crush": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

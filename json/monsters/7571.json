@@ -1,0 +1,38 @@
+{
+    "name": "Guardian (Chambers of Xeric)",
+    "id": 7571,
+    "isMembersOnly": false,
+    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span>A guardian statue carved from the rock. <br/><span style=\"user-select:none;\">'''&bull;'''</span>A demolished statue.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Normal",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 250,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 20
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 180,
+        "crush": -10
+    },
+    "immunities": {
+        "thrall": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5
+}

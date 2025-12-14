@@ -1,0 +1,37 @@
+{
+    "name": "Sir Lucan",
+    "id": 4342,
+    "isMembersOnly": false,
+    "examine": "One of the Knights of the Round Table.",
+    "releaseDate": "24 July 2007",
+    "combatLevel": 120,
+    "hitpoints": 105,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 110,
+    "defenceLevel": 99,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "stab": 275,
+        "slash": 65,
+        "crush": 45
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 1
+}

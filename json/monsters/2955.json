@@ -1,0 +1,34 @@
+{
+    "name": "Saradomin wizard",
+    "id": 2955,
+    "isMembersOnly": false,
+    "examine": "A follower of Saradomin.",
+    "releaseDate": "26 October 2004",
+    "combatLevel": 108,
+    "hitpoints": 120,
+    "maxHit": [
+        "14 (Melee)",
+        "20 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "magic": 30
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1
+}

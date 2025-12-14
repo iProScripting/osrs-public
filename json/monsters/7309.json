@@ -1,0 +1,30 @@
+{
+    "name": "Ancient Wizard",
+    "id": 7309,
+    "isMembersOnly": false,
+    "examine": "He may be old, but you made him mad.",
+    "releaseDate": "6 July 2016",
+    "versionAnchor": "Melee",
+    "combatLevel": 112,
+    "hitpoints": 80,
+    "maxHit": [
+        "36"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 150,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "melee": 80,
+        "strength": 80
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

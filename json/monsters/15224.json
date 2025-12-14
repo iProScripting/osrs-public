@@ -1,0 +1,28 @@
+{
+    "name": "Albatross",
+    "id": 15224,
+    "isMembersOnly": false,
+    "examine": "Albatross!",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 93,
+    "hitpoints": 125,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

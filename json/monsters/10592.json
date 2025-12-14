@@ -1,0 +1,38 @@
+{
+    "name": "Undead Zealot",
+    "id": 10592,
+    "isMembersOnly": false,
+    "examine": "A zealot who has succumbed to a grizzly undeath.",
+    "releaseDate": "27 January 2021",
+    "versionAnchor": "2",
+    "combatLevel": 34,
+    "hitpoints": 28,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 28,
+    "defenceLevel": 38,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

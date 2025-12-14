@@ -1,0 +1,24 @@
+{
+    "name": "White jaguar",
+    "id": 12979,
+    "isMembersOnly": false,
+    "examine": "The rarest cat in all of Varlamore.",
+    "releaseDate": "25 September 2024",
+    "combatLevel": 67,
+    "hitpoints": 80,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 55,
+    "strengthLevel": 50,
+    "defenceLevel": 55,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

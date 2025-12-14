@@ -1,0 +1,61 @@
+{
+    "name": "Artio",
+    "id": 11992,
+    "isMembersOnly": false,
+    "examine": "She looks mad that her forest has died.",
+    "releaseDate": "25 January 2023",
+    "combatLevel": 320,
+    "hitpoints": 450,
+    "maxHit": [
+        "35 (Crush)",
+        "50 (Magic)",
+        "17 (Ranged)"
+    ],
+    "slayerExperience": 518.0,
+    "slayerCategory": [
+        "Bears",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 270,
+    "defenceLevel": 150,
+    "rangedLevel": 120,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "ranged": 60,
+        "rangedStrength": 18
+    },
+    "defenceBonuses": {
+        "stab": 125,
+        "slash": 110,
+        "crush": 110,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 15.0,
+    "size": 3
+}

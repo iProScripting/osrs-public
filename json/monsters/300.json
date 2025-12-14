@@ -1,0 +1,29 @@
+{
+    "name": "Jailer",
+    "id": 300,
+    "isMembersOnly": false,
+    "examine": "Guards prisoners for the black knights.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 47,
+    "hitpoints": 47,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 79,
+        "slash": 63,
+        "crush": 47
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

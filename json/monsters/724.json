@@ -1,0 +1,30 @@
+{
+    "name": "Mummy (Ancient Pyramid sarcophagus)",
+    "id": 724,
+    "isMembersOnly": false,
+    "examine": "Highly flammable!",
+    "releaseDate": "18 April 2005",
+    "versionAnchor": "Level 98",
+    "combatLevel": 98,
+    "hitpoints": 10,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 2,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

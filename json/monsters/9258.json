@@ -1,0 +1,60 @@
+{
+    "name": "Basilisk Sentinel",
+    "id": 9258,
+    "isMembersOnly": false,
+    "examine": "Even phoenix tears won't help here.",
+    "releaseDate": "26 September 2019",
+    "combatLevel": 358,
+    "hitpoints": 520,
+    "maxHit": [
+        "28 (normal)",
+        "74+ (special attack)"
+    ],
+    "slayerLevel": 60,
+    "slayerExperience": 5590.0,
+    "slayerCategory": [
+        "Basilisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 274,
+    "strengthLevel": 274,
+    "defenceLevel": 274,
+    "rangedLevel": 1,
+    "magicLevel": 274,
+    "attackBonuses": {
+        "melee": 12,
+        "magicDamage": 12
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 10,
+        "magic": 50,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

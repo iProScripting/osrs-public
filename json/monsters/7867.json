@@ -1,0 +1,43 @@
+{
+    "name": "Lesser demon",
+    "id": 7867,
+    "isMembersOnly": false,
+    "examine": "Lesser, but still pretty big.",
+    "releaseDate": "23 November 2017",
+    "versionAnchor": "Level 94 (Wilderness Slayer Cave)",
+    "combatLevel": 94,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 110,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Lesser Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 85,
+    "defenceLevel": 71,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

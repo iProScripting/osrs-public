@@ -1,0 +1,44 @@
+{
+    "name": "Guard (Cave goblin)",
+    "id": 2316,
+    "isMembersOnly": false,
+    "examine": "He keeps order in the city.",
+    "releaseDate": "20 March 2007",
+    "versionAnchor": "Bone club",
+    "combatLevel": 26,
+    "hitpoints": 26,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 26.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 18,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 1,
+        "slash": 16,
+        "crush": 19,
+        "magic": -3,
+        "ranged": 12,
+        "lightRanged": 12,
+        "standardRanged": 12,
+        "heavyRanged": 12
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

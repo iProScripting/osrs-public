@@ -1,0 +1,24 @@
+{
+    "name": "Snake (Mos Le'Harmless)",
+    "id": 1037,
+    "isMembersOnly": false,
+    "examine": "Snake! Snaaaaake!",
+    "releaseDate": "4 July 2006",
+    "combatLevel": 35,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

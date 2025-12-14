@@ -1,0 +1,27 @@
+{
+    "name": "Tar Monster",
+    "id": 7804,
+    "isMembersOnly": false,
+    "examine": "Icky sticky flicky.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 132,
+    "hitpoints": 200,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 80,
+    "defenceLevel": 70,
+    "rangedLevel": 100,
+    "magicLevel": 1,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Typeless Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

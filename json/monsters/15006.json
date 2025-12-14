@@ -1,0 +1,12 @@
+{
+    "name": "Elder Root",
+    "id": 15006,
+    "isMembersOnly": false,
+    "examine": "A tortugan elder responsible for the eggs on the Little Pearl.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "Standard",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ]
+}

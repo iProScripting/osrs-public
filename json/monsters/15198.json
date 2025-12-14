@@ -1,0 +1,31 @@
+{
+    "name": "Tiger shark",
+    "id": 15198,
+    "isMembersOnly": false,
+    "examine": "A practitioner of tiger style.",
+    "releaseDate": "5 November 2025",
+    "combatLevel": 97,
+    "hitpoints": 125,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 85,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 35
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

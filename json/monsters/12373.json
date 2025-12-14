@@ -1,0 +1,33 @@
+{
+    "name": "Scarred greater demon",
+    "id": 12373,
+    "isMembersOnly": false,
+    "examine": "The power of the Abyss has taken its toll on them.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 113",
+    "combatLevel": 113,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 180,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

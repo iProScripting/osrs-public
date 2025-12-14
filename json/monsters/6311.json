@@ -1,0 +1,39 @@
+{
+    "name": "Dessourt (Nightmare Zone)",
+    "id": 6311,
+    "isMembersOnly": false,
+    "examine": "Bad for your teeth...and the rest of your body too.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 217,
+    "hitpoints": 255,
+    "maxHit": [
+        "37 (Melee)",
+        "5 (Magic)",
+        "5 (Ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 198,
+    "strengthLevel": 198,
+    "defenceLevel": 99,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 50,
+        "strength": 50
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 150,
+        "crush": 150
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 20.0,
+    "size": 1
+}

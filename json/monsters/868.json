@@ -1,0 +1,38 @@
+{
+    "name": "Zogre",
+    "id": 868,
+    "isMembersOnly": false,
+    "examine": "A partially decomposing zombie ogre.",
+    "releaseDate": "17 May 2005",
+    "combatLevel": 44,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 71,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 71.0,
+    "slayerCategory": [
+        "Ogres",
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "VANNAKA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 36,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Skeleton (Tarn's Lair)",
+    "id": 6445,
+    "isMembersOnly": false,
+    "examine": "He needs a tan.",
+    "releaseDate": "22 January 2007",
+    "versionAnchor": "Level 59",
+    "combatLevel": 59,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 53,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 53.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 46,
+    "defenceLevel": 62,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

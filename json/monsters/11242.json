@@ -1,0 +1,42 @@
+{
+    "name": "Jelly",
+    "id": 11242,
+    "isMembersOnly": false,
+    "examine": "Doesn't look so tough...",
+    "releaseDate": "3 February 2022",
+    "versionAnchor": "Grey (w)",
+    "combatLevel": 78,
+    "hitpoints": 75,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 45,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 45,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

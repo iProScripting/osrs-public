@@ -1,0 +1,48 @@
+{
+    "name": "Skeleton (Tarn's Lair)",
+    "id": 6446,
+    "isMembersOnly": false,
+    "examine": "How do you know if a skeleton's male or female?",
+    "releaseDate": "22 January 2007",
+    "versionAnchor": "Level 42 (Hammer)",
+    "combatLevel": 42,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 42,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 42.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 36,
+    "strengthLevel": 38,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

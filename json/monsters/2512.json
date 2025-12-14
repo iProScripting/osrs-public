@@ -1,0 +1,37 @@
+{
+    "name": "Giant rat",
+    "id": 2512,
+    "isMembersOnly": false,
+    "examine": "Overgrown vermin.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 26",
+    "combatLevel": 26,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 23,
+    "defenceLevel": 22,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

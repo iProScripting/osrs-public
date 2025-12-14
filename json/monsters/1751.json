@@ -1,0 +1,31 @@
+{
+    "name": "Portal (Pest Control)",
+    "id": 1751,
+    "isMembersOnly": false,
+    "examine": "The Void Knight will soon weaken the shield.",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Purple, Novice (shielded)",
+    "hitpoints": 200,
+    "maxHit": [
+        "0 (Does not attack)"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 120,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100,
+        "magic": 100
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "flatArmour": -2,
+    "size": 3
+}

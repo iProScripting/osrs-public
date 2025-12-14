@@ -1,0 +1,43 @@
+{
+    "name": "Magic axe",
+    "id": 7269,
+    "isMembersOnly": false,
+    "examine": "A magic axe with a mind of its own.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Catacombs of Kourend",
+    "combatLevel": 42,
+    "hitpoints": 44,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 44.0,
+    "slayerCategory": [
+        "Magic Axes"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 38,
+    "defenceLevel": 29,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 5,
+        "crush": 15,
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

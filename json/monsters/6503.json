@@ -1,0 +1,55 @@
+{
+    "name": "Callisto (PvM Arena)",
+    "id": 6503,
+    "isMembersOnly": false,
+    "examine": "I wouldn't want to eat his Porridge.",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 470,
+    "hitpoints": 255,
+    "maxHit": [
+        "50 (Crush)",
+        "60 (Special)"
+    ],
+    "slayerExperience": 312.0,
+    "slayerCategory": [
+        "Bears",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 350,
+    "strengthLevel": 370,
+    "defenceLevel": 440,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 135,
+        "slash": 104,
+        "crush": 175,
+        "magic": 900,
+        "ranged": 230,
+        "lightRanged": 230,
+        "standardRanged": 230,
+        "heavyRanged": 230
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 22.5,
+    "size": 5
+}

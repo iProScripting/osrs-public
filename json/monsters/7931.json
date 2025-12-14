@@ -1,0 +1,62 @@
+{
+    "name": "Revenant goblin",
+    "id": 7931,
+    "isMembersOnly": false,
+    "examine": "The ghost of a goblin slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 15,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 14,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 14.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 13,
+    "strengthLevel": 14,
+    "defenceLevel": 14,
+    "rangedLevel": 15,
+    "magicLevel": 12,
+    "attackBonuses": {
+        "magic": 37,
+        "ranged": 21,
+        "melee": 6,
+        "strength": 8,
+        "rangedStrength": 12,
+        "magicDamage": 12
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 28,
+        "crush": 31,
+        "magic": 1,
+        "ranged": 31,
+        "lightRanged": 31,
+        "standardRanged": 31,
+        "heavyRanged": 31
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

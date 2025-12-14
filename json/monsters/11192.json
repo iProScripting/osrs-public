@@ -1,0 +1,45 @@
+{
+    "name": "Hespori (A Night at the Theatre)",
+    "id": 11192,
+    "isMembersOnly": false,
+    "examine": "A big angry plant.",
+    "releaseDate": "28 July 2021",
+    "combatLevel": 302,
+    "hitpoints": 360,
+    "maxHit": [
+        "8 (x2) (Ranged)",
+        "14 (Magic)",
+        "40+ (special)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 120,
+    "rangedLevel": 150,
+    "magicLevel": 126,
+    "attackBonuses": {
+        "magic": 150,
+        "ranged": 150
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 20,
+        "crush": 60,
+        "magic": 80,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 3
+}

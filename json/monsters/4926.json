@@ -1,0 +1,33 @@
+{
+    "name": "Pirate Guard",
+    "id": 4926,
+    "isMembersOnly": false,
+    "examine": "A morally ambiguous guard.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 19,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 16,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 16
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 39,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

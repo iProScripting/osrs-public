@@ -1,0 +1,37 @@
+{
+    "name": "Sir Gawain",
+    "id": 4356,
+    "isMembersOnly": false,
+    "examine": "One of the Knights of the Round Table.",
+    "releaseDate": "24 July 2007",
+    "combatLevel": 122,
+    "hitpoints": 110,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 105,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 45
+    },
+    "defenceBonuses": {
+        "stab": 65,
+        "slash": 90,
+        "crush": 300
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 1
+}

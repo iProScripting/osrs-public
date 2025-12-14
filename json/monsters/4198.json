@@ -1,0 +1,38 @@
+{
+    "name": "Apparition",
+    "id": 4198,
+    "isMembersOnly": false,
+    "examine": "Are they even real?",
+    "releaseDate": "26 April 2005",
+    "versionAnchor": "Crondis",
+    "combatLevel": 75,
+    "hitpoints": 60,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15,
+        "magic": 70,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Magic",
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

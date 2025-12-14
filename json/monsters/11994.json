@@ -1,0 +1,59 @@
+{
+    "name": "Calvar'ion",
+    "id": 11994,
+    "isMembersOnly": false,
+    "examine": "ONLY THE TRUE LORD & KING OF THE LANDS CAN LIFT HIS BURDEN!",
+    "releaseDate": "25 January 2023",
+    "versionAnchor": "Enraged",
+    "combatLevel": 264,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "26"
+    ],
+    "slayerExperience": 322.5,
+    "slayerCategory": [
+        "Skeletons",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 250,
+    "defenceLevel": 225,
+    "rangedLevel": 1,
+    "magicLevel": 178,
+    "defenceBonuses": {
+        "stab": 130,
+        "slash": 128,
+        "crush": -10,
+        "magic": 198,
+        "ranged": 211,
+        "lightRanged": 211,
+        "standardRanged": 211,
+        "heavyRanged": 211
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 7.5,
+    "size": 3
+}

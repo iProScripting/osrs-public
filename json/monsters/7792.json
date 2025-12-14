@@ -1,0 +1,56 @@
+{
+    "name": "Long-tailed Wyvern",
+    "id": 7792,
+    "isMembersOnly": false,
+    "examine": "Not a wyvern to get on the wrong end of.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 152,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "13 (Melee)",
+        "10 (Magic)",
+        "10 (Icy breath with Elemental shield)"
+    ],
+    "slayerLevel": 66,
+    "slayerExperience": 205.0,
+    "slayerCategory": [
+        "Fossil Island Wyverns"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 125,
+    "strengthLevel": 120,
+    "defenceLevel": 90,
+    "rangedLevel": 90,
+    "magicLevel": 90,
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 70,
+        "crush": 70,
+        "magic": 140,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Slash",
+        "Typeless Magic",
+        "Icy breath"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 25
+}

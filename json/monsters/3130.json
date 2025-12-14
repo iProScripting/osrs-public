@@ -1,0 +1,45 @@
+{
+    "name": "Tstanon Karlak",
+    "id": 3130,
+    "isMembersOnly": false,
+    "examine": "Destroyer of 1000 planes!",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 145,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 142,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 142.0,
+    "slayerCategory": [
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 124,
+    "strengthLevel": 118,
+    "defenceLevel": 125,
+    "rangedLevel": 50,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "magic": -5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

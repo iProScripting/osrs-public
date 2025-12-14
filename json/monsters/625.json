@@ -1,0 +1,29 @@
+{
+    "name": "Evil spirit",
+    "id": 625,
+    "isMembersOnly": false,
+    "examine": "The pun was intended.",
+    "releaseDate": "31 October 2005",
+    "combatLevel": 150,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 90,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 170,
+    "strengthLevel": 146,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

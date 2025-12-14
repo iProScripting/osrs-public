@@ -1,0 +1,54 @@
+{
+    "name": "Crazy archaeologist",
+    "id": 6618,
+    "isMembersOnly": false,
+    "examine": "When academics go bad...",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 204,
+    "hitpoints": 225,
+    "maxHit": [
+        "14 (standard)",
+        "24 (special)"
+    ],
+    "slayerExperience": 275.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 90,
+    "defenceLevel": 240,
+    "rangedLevel": 180,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 75,
+        "melee": 250,
+        "strength": 25,
+        "rangedStrength": -15
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 30,
+        "magic": 250,
+        "ranged": 250,
+        "lightRanged": 250,
+        "standardRanged": 250,
+        "heavyRanged": 250
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 25.0,
+    "size": 1
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Armoured Foe",
+    "id": 7750,
+    "isMembersOnly": false,
+    "examine": "A very dangerous and armoured foe.",
+    "releaseDate": "24 August 2017",
+    "combatLevel": 820,
+    "hitpoints": 1500,
+    "usesSkill": [
+    ],
+    "attackLevel": 500,
+    "strengthLevel": 420,
+    "defenceLevel": 500,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+    ],
+    "size": 5
+}

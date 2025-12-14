@@ -1,0 +1,50 @@
+{
+    "name": "Dusk",
+    "id": 7889,
+    "isMembersOnly": false,
+    "examine": "The Guardian of Dusk, he's alive!<br/>The crack of Dusk. (''upon death'')",
+    "releaseDate": "26 October 2017",
+    "versionAnchor": "Second form",
+    "combatLevel": 328,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 450,
+    "maxHit": [
+        "26",
+        "65 (special attack)"
+    ],
+    "slayerLevel": 75,
+    "slayerExperience": 1350.0,
+    "slayerCategory": [
+        "Bosses",
+        "Gargoyles"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 250,
+    "defenceLevel": 150,
+    "rangedLevel": 250,
+    "magicLevel": 250,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 6,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

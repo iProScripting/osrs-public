@@ -1,0 +1,24 @@
+{
+    "name": "Passionate Supporter",
+    "id": 12833,
+    "isMembersOnly": false,
+    "examine": "He's a little too keen for my liking.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 7,
+    "hitpoints": 10,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

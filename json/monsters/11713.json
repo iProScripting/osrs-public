@@ -1,0 +1,45 @@
+{
+    "name": "Baboon Thrower",
+    "id": 11713,
+    "isMembersOnly": false,
+    "examine": "An undead baboon thrower.",
+    "releaseDate": "24 August 2022",
+    "versionAnchor": "Level 68",
+    "combatLevel": 68,
+    "hitpoints": 35,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 20,
+    "rangedLevel": 40,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 25,
+        "ranged": 25,
+        "melee": 25
+    },
+    "defenceBonuses": {
+        "stab": -50,
+        "slash": -50,
+        "crush": -50,
+        "magic": 900,
+        "ranged": 900,
+        "lightRanged": 900,
+        "standardRanged": 900,
+        "heavyRanged": 900
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Culinaromancer",
+    "id": 4878,
+    "isMembersOnly": false,
+    "examine": "A demented evil wizard who specialises in food spells.",
+    "releaseDate": "15 March 2006",
+    "combatLevel": 75,
+    "hitpoints": 150,
+    "maxHit": [
+        "25 (Magic)",
+        "11 (Crush)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 100,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": -10,
+        "crush": -10,
+        "magic": -10,
+        "ranged": -10,
+        "lightRanged": -10,
+        "standardRanged": -10,
+        "heavyRanged": -10
+    },
+    "attackStyle": [
+        "Melee",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

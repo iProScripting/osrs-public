@@ -1,0 +1,41 @@
+{
+    "name": "Bandit",
+    "id": 1026,
+    "isMembersOnly": false,
+    "examine": "A wilderness outlaw.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Level 22",
+    "combatLevel": 22,
+    "hitpoints": 27,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 29.0,
+    "slayerCategory": [
+        "Bandits"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 17,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 11,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

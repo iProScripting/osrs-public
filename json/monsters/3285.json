@@ -1,0 +1,34 @@
+{
+    "name": "Anja",
+    "id": 3285,
+    "isMembersOnly": false,
+    "examine": "A citizen of Rimmington.",
+    "releaseDate": "26 September 2005",
+    "combatLevel": 2,
+    "hitpoints": 7,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

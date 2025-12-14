@@ -1,0 +1,64 @@
+{
+    "name": "Revenant maledictus",
+    "id": 11246,
+    "isMembersOnly": false,
+    "examine": "One ghost to rule them all.",
+    "releaseDate": "2 February 2022",
+    "combatLevel": 397,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 1250,
+    "maxHit": [
+        "30"
+    ],
+    "slayerExperience": 920.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 106,
+    "strengthLevel": 126,
+    "defenceLevel": 90,
+    "rangedLevel": 130,
+    "magicLevel": 130,
+    "attackBonuses": {
+        "magic": 60,
+        "ranged": 265,
+        "melee": 72,
+        "strength": 78,
+        "rangedStrength": 60,
+        "magicDamage": 60
+    },
+    "defenceBonuses": {
+        "stab": 201,
+        "slash": 206,
+        "crush": 188,
+        "magic": 101,
+        "ranged": 231,
+        "lightRanged": 231,
+        "standardRanged": 231,
+        "heavyRanged": 231
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 65.0,
+    "size": 5
+}

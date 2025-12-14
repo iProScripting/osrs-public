@@ -1,0 +1,44 @@
+{
+    "name": "Flockleader Geerin",
+    "id": 3164,
+    "isMembersOnly": false,
+    "examine": "Graceful, bird-like creature.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 149,
+    "attributes": [
+        "flying"
+    ],
+    "hitpoints": 132,
+    "maxHit": [
+        "25"
+    ],
+    "slayerExperience": 132.5,
+    "slayerCategory": [
+        "Aviansie"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 175,
+    "rangedLevel": 150,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "ranged": 60,
+        "rangedStrength": 35
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

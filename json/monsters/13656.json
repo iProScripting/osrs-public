@@ -1,0 +1,50 @@
+{
+    "name": "Vardorvis (Deadman)",
+    "id": 13656,
+    "isMembersOnly": false,
+    "examine": "How does he suck blood now?",
+    "releaseDate": "10 April 2014",
+    "combatLevel": 296,
+    "hitpoints": 500,
+    "maxHit": [
+        "30"
+    ],
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 250,
+    "defenceLevel": 100,
+    "magicLevel": 300,
+    "attackBonuses": {
+        "melee": 200,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 65,
+        "crush": 85,
+        "magic": 400,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

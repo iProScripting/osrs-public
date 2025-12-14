@@ -1,0 +1,43 @@
+{
+    "name": "Jaguar warrior",
+    "id": 12810,
+    "isMembersOnly": false,
+    "examine": "A furry with a score to settle.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 234,
+    "hitpoints": 125,
+    "maxHit": [
+        "47 (x3)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 330,
+    "defenceLevel": 125,
+    "rangedLevel": 160,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "strength": 25
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 15,
+        "ranged": 45,
+        "lightRanged": 45,
+        "standardRanged": 45,
+        "heavyRanged": 45
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 2
+}

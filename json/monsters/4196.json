@@ -1,0 +1,34 @@
+{
+    "name": "Apparition",
+    "id": 4196,
+    "isMembersOnly": false,
+    "examine": "Are they even real?",
+    "releaseDate": "26 April 2005",
+    "versionAnchor": "Apmeken",
+    "combatLevel": 75,
+    "hitpoints": 70,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 85,
+    "defenceBonuses": {
+        "stab": 65,
+        "slash": 65,
+        "crush": 65,
+        "magic": 50
+    },
+    "attackStyle": [
+        "Magic",
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

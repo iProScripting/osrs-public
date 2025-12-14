@@ -1,0 +1,38 @@
+{
+    "name": "Barbarian",
+    "id": 3065,
+    "isMembersOnly": false,
+    "examine": "Acelin, a guard in the Barbarian Village.",
+    "releaseDate": "20 February 2006",
+    "versionAnchor": "Level 10 (Acelin)",
+    "combatLevel": 10,
+    "hitpoints": 18,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 7,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2,
+        "magic": -3,
+        "ranged": 2,
+        "lightRanged": 2,
+        "standardRanged": 2,
+        "heavyRanged": 2
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Wighted Leech",
+    "id": 12335,
+    "isMembersOnly": false,
+    "examine": "I should avoid this at all costs.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 96,
+    "hitpoints": 5,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Typeless Melee"
+    ],
+    "attackSpeed": 2,
+    "size": 1
+}

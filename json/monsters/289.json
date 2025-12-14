@@ -1,0 +1,33 @@
+{
+    "name": "Ghoul",
+    "id": 289,
+    "isMembersOnly": false,
+    "examine": "It's totally savage.",
+    "releaseDate": "14 October 2004",
+    "combatLevel": 42,
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Ghouls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 40,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

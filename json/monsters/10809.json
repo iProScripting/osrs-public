@@ -1,0 +1,40 @@
+{
+    "name": "Nylocas Vasilias",
+    "id": 10809,
+    "isMembersOnly": false,
+    "examine": "One of Verzik's rather large pets.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Hard",
+    "combatLevel": 800,
+    "hitpoints": 2500,
+    "maxHit": [
+        "105"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 400,
+    "strengthLevel": 350,
+    "defenceLevel": 50,
+    "rangedLevel": 350,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "magic": 600,
+        "strength": 60,
+        "rangedStrength": 60,
+        "magicDamage": 600
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 20.0,
+    "size": 4,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

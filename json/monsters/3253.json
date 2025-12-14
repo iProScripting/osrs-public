@@ -1,0 +1,24 @@
+{
+    "name": "Thief",
+    "id": 3253,
+    "isMembersOnly": false,
+    "examine": "Known for his light-fingered qualities.",
+    "releaseDate": "26 September 2005",
+    "versionAnchor": "Port Sarim",
+    "combatLevel": 16,
+    "hitpoints": 17,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 13,
+    "defenceLevel": 12,
+    "rangedLevel": 2,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

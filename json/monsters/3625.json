@@ -1,0 +1,50 @@
+{
+    "name": "Haze",
+    "id": 3625,
+    "isMembersOnly": false,
+    "examine": "Eeek! A ghost!",
+    "releaseDate": "21 December 2004",
+    "combatLevel": 29,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 30.0,
+    "slayerCategory": [
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 23,
+    "strengthLevel": 23,
+    "defenceLevel": 28,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 5,
+        "magic": -5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

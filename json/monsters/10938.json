@@ -1,0 +1,52 @@
+{
+    "name": "Judge of Yama (A Kingdom Divided)",
+    "id": 10938,
+    "isMembersOnly": false,
+    "examine": "In the name of Yama, you will be judged.",
+    "releaseDate": "16 June 2021",
+    "combatLevel": 168,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 260,
+    "maxHit": [
+        "12"
+    ],
+    "slayerExperience": 266.5,
+    "slayerCategory": [
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 186,
+    "strengthLevel": 112,
+    "defenceLevel": 84,
+    "magicLevel": 84,
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 40,
+        "crush": 40,
+        "magic": 600,
+        "ranged": 600,
+        "lightRanged": 600,
+        "standardRanged": 600,
+        "heavyRanged": 600
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic (Fire Waves)",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Hespori",
+    "id": 8583,
+    "isMembersOnly": false,
+    "examine": "A big angry plant.",
+    "releaseDate": "10 January 2019",
+    "combatLevel": 284,
+    "hitpoints": 300,
+    "maxHit": [
+        "8x2 (Ranged)",
+        "14 (Magic)",
+        "40+ (special)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 120,
+    "rangedLevel": 150,
+    "magicLevel": 126,
+    "attackBonuses": {
+        "magic": 150,
+        "ranged": 150
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 20,
+        "crush": 60,
+        "magic": 80,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Al Kharid warrior",
+    "id": 3292,
+    "isMembersOnly": false,
+    "examine": "Part of Al Kharid's elite fighting force.",
+    "releaseDate": "21 January 2001",
+    "combatLevel": 9,
+    "hitpoints": 19,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 7,
+    "strengthLevel": 5,
+    "defenceLevel": 4,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 9
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 15,
+        "crush": 10,
+        "magic": -1,
+        "ranged": 12,
+        "lightRanged": 12,
+        "standardRanged": 12,
+        "heavyRanged": 12
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

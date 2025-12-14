@@ -1,0 +1,45 @@
+{
+    "name": "Goblin (Vault of War)",
+    "id": 2488,
+    "isMembersOnly": false,
+    "examine": "These goblins have grown strong.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 25",
+    "combatLevel": 25,
+    "hitpoints": 26,
+    "maxHit": [
+        "3"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 26.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 23,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 14,
+        "slash": 16,
+        "crush": 18,
+        "magic": 14,
+        "ranged": 14,
+        "lightRanged": 14,
+        "standardRanged": 14,
+        "heavyRanged": 14
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

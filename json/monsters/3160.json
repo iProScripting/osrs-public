@@ -1,0 +1,46 @@
+{
+    "name": "Spiritual ranger",
+    "id": 3160,
+    "isMembersOnly": false,
+    "examine": "Defender of Zamorak.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Zamorak",
+    "combatLevel": 118,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "15"
+    ],
+    "slayerLevel": 63,
+    "slayerExperience": 106.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 80,
+    "rangedLevel": 140,
+    "magicLevel": 1,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

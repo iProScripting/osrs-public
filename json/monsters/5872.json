@@ -1,0 +1,39 @@
+{
+    "name": "Baby green dragon",
+    "id": 5872,
+    "isMembersOnly": false,
+    "examine": "Young but still dangerous.",
+    "releaseDate": "10 September 2015",
+    "versionAnchor": "2",
+    "combatLevel": 48,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 50,
+        "crush": 50,
+        "magic": 40,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

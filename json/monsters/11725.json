@@ -1,0 +1,51 @@
+{
+    "name": "Spitting Scarab",
+    "id": 11725,
+    "isMembersOnly": false,
+    "examine": "One of Kephri's false children.",
+    "releaseDate": "24 August 2022",
+    "combatLevel": 89,
+    "poisonous": true,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 95,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 250,
+        "ranged": 350,
+        "strength": 55,
+        "magicDamage": 65
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 250,
+        "crush": 30,
+        "magic": 250,
+        "ranged": 125,
+        "lightRanged": 125,
+        "standardRanged": 125,
+        "heavyRanged": 125
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Giant lobster (The Red Reef)",
+    "id": 15034,
+    "isMembersOnly": false,
+    "examine": "An extremely vicious lobster.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 112,
+    "hitpoints": 100,
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "defenceLevel": 60,
+    "magicLevel": 20,
+    "attackStyle": [
+    ],
+    "size": 3
+}

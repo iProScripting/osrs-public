@@ -1,0 +1,32 @@
+{
+    "name": "Corrupted Dragon",
+    "id": 9047,
+    "isMembersOnly": false,
+    "examine": "Whatever it breathes, I don't want to get in the way of it.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 258,
+    "hitpoints": 100,
+    "maxHit": [
+        "48"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 147,
+    "strengthLevel": 147,
+    "defenceLevel": 98,
+    "rangedLevel": 147,
+    "magicLevel": 98,
+    "attackBonuses": {
+        "magic": 146,
+        "magicDamage": 226
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

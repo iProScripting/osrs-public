@@ -1,0 +1,54 @@
+{
+    "name": "Frost Nagua",
+    "id": 13787,
+    "isMembersOnly": false,
+    "examine": "Brittle, cold and shimmering with frost magic.",
+    "releaseDate": "25 September 2024",
+    "combatLevel": 104,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "12 total",
+        "6+6"
+    ],
+    "slayerLevel": 48,
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Lesser Nagua"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "magic": 70,
+        "magicDamage": 15
+    },
+    "defenceBonuses": {
+        "slash": 50,
+        "crush": 10,
+        "magic": 60,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "flatArmour": -4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Flower",
+    "id": 8584,
+    "isMembersOnly": false,
+    "examine": "The open flower of a nasty creeping plant.",
+    "releaseDate": "10 January 2019",
+    "hitpoints": 10,
+    "maxHit": [
+        "0 (Does not attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

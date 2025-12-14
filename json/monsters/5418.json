@@ -1,0 +1,39 @@
+{
+    "name": "Guard",
+    "id": 5418,
+    "isMembersOnly": false,
+    "examine": "Keeps the peace... kind of.",
+    "releaseDate": "30 April 2002",
+    "versionAnchor": "Ardougne 1",
+    "combatLevel": 20,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 24,
+        "slash": 14,
+        "crush": 19,
+        "magic": 4,
+        "ranged": 16,
+        "lightRanged": 16,
+        "standardRanged": 16,
+        "heavyRanged": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

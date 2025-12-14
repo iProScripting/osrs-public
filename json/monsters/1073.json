@@ -1,0 +1,27 @@
+{
+    "name": "Hopeless creature",
+    "id": 1073,
+    "isMembersOnly": false,
+    "examine": "A hopeless poor creature.",
+    "releaseDate": "3 April 2006",
+    "versionAnchor": "Level 40",
+    "combatLevel": 40,
+    "hitpoints": 25,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 36,
+    "defenceLevel": 39,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

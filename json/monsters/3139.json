@@ -1,0 +1,50 @@
+{
+    "name": "Pyrefiend",
+    "id": 3139,
+    "isMembersOnly": false,
+    "examine": "A small fire demon.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 48",
+    "combatLevel": 48,
+    "attributes": [
+        "fiery",
+        "demon"
+    ],
+    "hitpoints": 48,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 30,
+    "slayerExperience": 45.0,
+    "slayerCategory": [
+        "Pyrefiends"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 36,
+    "defenceLevel": 22,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

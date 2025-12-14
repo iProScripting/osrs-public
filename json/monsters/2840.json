@@ -1,0 +1,42 @@
+{
+    "name": "Earth warrior",
+    "id": 2840,
+    "isMembersOnly": false,
+    "examine": "A strange, inhuman, elemental warrior.",
+    "releaseDate": "12 December 2002",
+    "combatLevel": 51,
+    "hitpoints": 54,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 54.0,
+    "slayerCategory": [
+        "Earth Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 42,
+    "strengthLevel": 42,
+    "defenceLevel": 42,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 40,
+        "crush": 20,
+        "magic": 10,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

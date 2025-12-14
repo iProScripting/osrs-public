@@ -1,0 +1,25 @@
+{
+    "name": "Me (Nightmare Zone)",
+    "id": 6320,
+    "isMembersOnly": false,
+    "examine": "It's like looking in the mirror.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 201,
+    "hitpoints": 135,
+    "maxHit": [
+        "24"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 225,
+    "strengthLevel": 234,
+    "defenceLevel": 74,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

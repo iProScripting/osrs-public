@@ -1,0 +1,13 @@
+{
+    "name": "Yrsa (Miscellania)",
+    "id": 3679,
+    "isMembersOnly": false,
+    "examine": "A subject of Miscellania.",
+    "releaseDate": "29 November 2004",
+    "combatLevel": 1,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

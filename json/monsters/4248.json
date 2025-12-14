@@ -1,0 +1,36 @@
+{
+    "name": "Head Thief",
+    "id": 4248,
+    "isMembersOnly": false,
+    "examine": "The head of the treacherous blanket stealing gang.",
+    "releaseDate": "28 May 2002",
+    "combatLevel": 26,
+    "hitpoints": 37,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 24,
+    "strengthLevel": 18,
+    "defenceLevel": 16,
+    "rangedLevel": 2,
+    "attackBonuses": {
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 14,
+        "crush": 15,
+        "magic": 4,
+        "ranged": 9,
+        "lightRanged": 9,
+        "standardRanged": 9,
+        "heavyRanged": 9
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

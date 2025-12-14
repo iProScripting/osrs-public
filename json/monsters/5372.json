@@ -1,0 +1,40 @@
+{
+    "name": "Grave scorpion",
+    "id": 5372,
+    "isMembersOnly": false,
+    "examine": "A vicious, little, stinging thing.",
+    "releaseDate": "17 March 2003",
+    "combatLevel": 12,
+    "hitpoints": 7,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 7.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 12,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 3
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Hobgoblin (The Slug Menace)",
+    "id": 4805,
+    "isMembersOnly": false,
+    "examine": "An ugly, smelly creature wielding a spear.",
+    "releaseDate": "20 September 2006",
+    "combatLevel": 28,
+    "hitpoints": 29,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 29.0,
+    "slayerCategory": [
+        "Hobgoblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 24,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

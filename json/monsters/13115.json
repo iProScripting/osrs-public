@@ -1,0 +1,39 @@
+{
+    "name": "Knight of Varlamore",
+    "id": 13115,
+    "isMembersOnly": false,
+    "examine": "A knight in fancy armour.",
+    "releaseDate": "20 March 2024",
+    "versionAnchor": "2",
+    "combatLevel": 46,
+    "hitpoints": 52,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 40,
+    "defenceLevel": 31,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 39,
+        "slash": 40,
+        "crush": 36,
+        "magic": -11,
+        "ranged": 36,
+        "lightRanged": 36,
+        "standardRanged": 36,
+        "heavyRanged": 36
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

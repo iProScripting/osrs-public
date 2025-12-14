@@ -1,0 +1,45 @@
+{
+    "name": "Shadow warrior",
+    "id": 2853,
+    "isMembersOnly": false,
+    "examine": "A fighter from the supernatural world. He's a shadow of his former self.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 48,
+    "hitpoints": 67,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 67.0,
+    "slayerCategory": [
+        "Shadow Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 36,
+    "strengthLevel": 33,
+    "defenceLevel": 36,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 26
+    },
+    "defenceBonuses": {
+        "stab": 43,
+        "slash": 31,
+        "crush": 19,
+        "magic": 15,
+        "ranged": 38,
+        "lightRanged": 38,
+        "standardRanged": 38,
+        "heavyRanged": 38
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

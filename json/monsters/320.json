@@ -1,0 +1,35 @@
+{
+    "name": "Dark energy core",
+    "id": 320,
+    "isMembersOnly": false,
+    "examine": "A small being of dark energy.",
+    "releaseDate": "16 October 2014",
+    "combatLevel": 75,
+    "hitpoints": 25,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": -5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": 2,
+    "size": 1
+}

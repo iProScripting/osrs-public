@@ -1,0 +1,46 @@
+{
+    "name": "Menaphite Akh",
+    "id": 11492,
+    "isMembersOnly": false,
+    "examine": "A servant of the Devourer.",
+    "releaseDate": "27 April 2022",
+    "combatLevel": 351,
+    "hitpoints": 480,
+    "maxHit": [
+        "80 (lightning)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 140,
+    "rangedLevel": 150,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "magic": 46,
+        "ranged": 46,
+        "melee": 46,
+        "strength": 24
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 30,
+        "crush": 30,
+        "magic": 280,
+        "ranged": 180,
+        "lightRanged": 180,
+        "standardRanged": 180,
+        "heavyRanged": 180
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

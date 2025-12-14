@@ -1,0 +1,28 @@
+{
+    "name": "Dark wizard",
+    "id": 512,
+    "isMembersOnly": false,
+    "examine": "He works evil magic.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Level 7",
+    "combatLevel": 7,
+    "hitpoints": 12,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 2,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 6,
+    "defenceBonuses": {
+        "magic": 3
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Bee Swarm (Deadman)",
+    "id": 13658,
+    "isMembersOnly": false,
+    "examine": "Not the bees!",
+    "releaseDate": "19 July 2024",
+    "combatLevel": 357,
+    "hitpoints": 750,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 400,
+    "strengthLevel": 100,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 200
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 1,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Spiritual mage",
+    "id": 11292,
+    "isMembersOnly": false,
+    "examine": "A dangerous looking spirit.",
+    "releaseDate": "5 January 2022",
+    "versionAnchor": "Zaros",
+    "combatLevel": 182,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 125,
+    "maxHit": [
+        "38"
+    ],
+    "slayerLevel": 83,
+    "slayerExperience": 137.5,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "magic": 52,
+        "magicDamage": 52
+    },
+    "defenceBonuses": {
+        "stab": 420,
+        "slash": 400,
+        "crush": 420,
+        "magic": 200
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 200
+}

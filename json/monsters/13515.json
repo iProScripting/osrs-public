@@ -1,0 +1,40 @@
+{
+    "name": "Assassin (While Guthix Sleeps)",
+    "id": 13515,
+    "isMembersOnly": false,
+    "examine": "An assassin, failing to be disguised as a druid.",
+    "releaseDate": "10 July 2024",
+    "versionAnchor": "2",
+    "combatLevel": 167,
+    "hitpoints": 275,
+    "maxHit": [
+        "20 (normal)",
+        "105+ (special attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 110,
+    "magicLevel": 30,
+    "attackBonuses": {
+        "ranged": 90
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 15,
+        "magic": 30,
+        "ranged": 20,
+        "lightRanged": 60,
+        "standardRanged": 20,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Ranged",
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

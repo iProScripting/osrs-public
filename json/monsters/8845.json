@@ -1,0 +1,35 @@
+{
+    "name": "Mourner (Song of the Elves)",
+    "id": 8845,
+    "isMembersOnly": false,
+    "examine": "A mourner, or plague healer.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "Level 51",
+    "combatLevel": 51,
+    "hitpoints": 29,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 50,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 40,
+        "crush": 40,
+        "magic": 30,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

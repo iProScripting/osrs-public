@@ -1,0 +1,31 @@
+{
+    "name": "Maniacal Monkey Archer",
+    "id": 7119,
+    "isMembersOnly": false,
+    "examine": "It looks like someone has tampered with its mind.",
+    "releaseDate": "6 May 2016",
+    "combatLevel": 132,
+    "hitpoints": 60,
+    "maxHit": [
+        "24"
+    ],
+    "slayerCategory": [
+        "Monkeys"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 200,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

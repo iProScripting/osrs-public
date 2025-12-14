@@ -1,0 +1,25 @@
+{
+    "name": "Zamorak ranger",
+    "id": 7420,
+    "isMembersOnly": false,
+    "examine": "A ranger of Zamorak.",
+    "releaseDate": "13 October 2016",
+    "versionAnchor": "Level 81",
+    "combatLevel": 81,
+    "hitpoints": 50,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 80,
+    "rangedLevel": 80,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

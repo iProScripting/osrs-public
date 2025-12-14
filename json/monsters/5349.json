@@ -1,0 +1,42 @@
+{
+    "name": "Undead one",
+    "id": 5349,
+    "isMembersOnly": false,
+    "examine": "The animated dead; one of Rashiliyia's minions.",
+    "releaseDate": "27 January 2003",
+    "versionAnchor": "Level 73",
+    "combatLevel": 73,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 59,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 59.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 65,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 5
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

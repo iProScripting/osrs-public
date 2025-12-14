@@ -1,0 +1,51 @@
+{
+    "name": "Kurask",
+    "id": 411,
+    "isMembersOnly": false,
+    "examine": "Larger, heavier, with sharper things attached to its head.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Big",
+    "combatLevel": 106,
+    "attributes": [
+        "leafy"
+    ],
+    "hitpoints": 97,
+    "maxHit": [
+        "11"
+    ],
+    "slayerLevel": 70,
+    "slayerExperience": 97.0,
+    "slayerCategory": [
+        "Kurask"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 67,
+    "strengthLevel": 105,
+    "defenceLevel": 105,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 20,
+        "crush": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

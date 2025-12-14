@@ -1,0 +1,24 @@
+{
+    "name": "Guard dog (Construction)",
+    "id": 131,
+    "isMembersOnly": false,
+    "examine": "Beware of the dog!",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 44,
+    "hitpoints": 49,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 36,
+    "defenceLevel": 37,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

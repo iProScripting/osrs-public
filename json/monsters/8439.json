@@ -1,0 +1,33 @@
+{
+    "name": "Don't Know What",
+    "id": 8439,
+    "isMembersOnly": false,
+    "examine": "A troll of Weiss.",
+    "releaseDate": "6 September 2018",
+    "combatLevel": 163,
+    "hitpoints": 220,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 90,
+    "defenceLevel": 160,
+    "rangedLevel": 115,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "rangedStrength": 40
+    },
+    "defenceBonuses": {
+        "magic": 200
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

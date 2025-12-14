@@ -1,0 +1,25 @@
+{
+    "name": "Zamorak warrior",
+    "id": 7418,
+    "isMembersOnly": false,
+    "examine": "A warrior of Zamorak.",
+    "releaseDate": "13 October 2016",
+    "versionAnchor": "Level 84",
+    "combatLevel": 84,
+    "hitpoints": 45,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 70,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Black bear",
+    "id": 2839,
+    "isMembersOnly": false,
+    "examine": "Eek! A bear!",
+    "releaseDate": "4 January 2001",
+    "combatLevel": 19,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Bears"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 16,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Flambeed (Nightmare Zone)",
+    "id": 6370,
+    "isMembersOnly": false,
+    "examine": "Will give you a beating as well as indigestion.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 149,
+    "hitpoints": 210,
+    "maxHit": [
+        "13 (melee)",
+        "? (magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 100
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 30,
+        "lightRanged": 50,
+        "standardRanged": 30,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Thief",
+    "id": 5219,
+    "isMembersOnly": false,
+    "examine": "Known for her light-fingered qualities.",
+    "releaseDate": "29 May 2007",
+    "versionAnchor": "Varrock Gang, 3",
+    "combatLevel": 16,
+    "hitpoints": 17,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 13,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

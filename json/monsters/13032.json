@@ -1,0 +1,56 @@
+{
+    "name": "Wyrmling",
+    "id": 13032,
+    "isMembersOnly": false,
+    "examine": "Don't let it wyrm its way in.",
+    "releaseDate": "20 March 2024",
+    "versionAnchor": "Attacking",
+    "combatLevel": 55,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 65,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 62,
+    "slayerExperience": 65.0,
+    "slayerCategory": [
+        "Wyrms"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 30,
+    "defenceLevel": 40,
+    "rangedLevel": 15,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "strength": 10,
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 50,
+        "crush": 50,
+        "magic": 50,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Revenant ork",
+    "id": 7937,
+    "isMembersOnly": false,
+    "examine": "The ghost of an ork slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 105,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 105,
+    "maxHit": [
+        "20"
+    ],
+    "slayerExperience": 115.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 99,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "rangedLevel": 130,
+    "magicLevel": 110,
+    "attackBonuses": {
+        "ranged": 50,
+        "melee": 60,
+        "strength": 55
+    },
+    "defenceBonuses": {
+        "stab": 118,
+        "slash": 150,
+        "crush": 146,
+        "magic": 50,
+        "ranged": 148,
+        "lightRanged": 148,
+        "standardRanged": 148,
+        "heavyRanged": 118
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

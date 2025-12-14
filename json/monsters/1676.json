@@ -1,0 +1,54 @@
+{
+    "name": "Torag the Corrupted",
+    "id": 1676,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 115,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "23"
+    ],
+    "slayerExperience": 112.5,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": -33,
+        "ranged": -11,
+        "strength": 72
+    },
+    "defenceBonuses": {
+        "stab": 221,
+        "slash": 235,
+        "crush": 222,
+        "ranged": 221,
+        "lightRanged": 221,
+        "standardRanged": 221,
+        "heavyRanged": 221
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 12.5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

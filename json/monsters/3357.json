@@ -1,0 +1,31 @@
+{
+    "name": "Lesser Demon Champion",
+    "id": 3357,
+    "isMembersOnly": false,
+    "examine": "Champion of the lesser demons.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 162,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 148,
+    "maxHit": [
+        "15 (melee)",
+        "14 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 136,
+    "strengthLevel": 140,
+    "defenceLevel": 142,
+    "rangedLevel": 1,
+    "magicLevel": 136,
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

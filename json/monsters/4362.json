@@ -1,0 +1,43 @@
+{
+    "name": "Ogre chieftain",
+    "id": 4362,
+    "isMembersOnly": false,
+    "examine": "Tough-looking.",
+    "releaseDate": "7 May 2003",
+    "combatLevel": 81,
+    "hitpoints": 60,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 71,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 21,
+        "crush": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Zakl'n Gritch",
+    "id": 3131,
+    "isMembersOnly": false,
+    "examine": "Scourge of the Light.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 142,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "21"
+    ],
+    "slayerExperience": 150.0,
+    "slayerCategory": [
+        "Lesser Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 83,
+    "strengthLevel": 76,
+    "defenceLevel": 127,
+    "rangedLevel": 150,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "ranged": 20,
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "magic": -5
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

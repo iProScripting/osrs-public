@@ -1,0 +1,37 @@
+{
+    "name": "Wolf",
+    "id": 2490,
+    "isMembersOnly": false,
+    "examine": "Not man's best friend.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 14",
+    "combatLevel": 14,
+    "hitpoints": 15,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 15,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

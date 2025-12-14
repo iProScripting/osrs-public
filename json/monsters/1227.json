@@ -1,0 +1,23 @@
+{
+    "name": "Arzinian Avatar of Strength",
+    "id": 1227,
+    "isMembersOnly": false,
+    "examine": "It is the avatar of the Arzinian Being of Bordanzan, representing strength.",
+    "releaseDate": "21 March 2005",
+    "versionAnchor": "Invincible",
+    "hitpoints": 200,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 130,
+    "defenceLevel": 120,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

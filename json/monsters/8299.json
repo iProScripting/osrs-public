@@ -1,0 +1,47 @@
+{
+    "name": "Swamp Crab",
+    "id": 8299,
+    "isMembersOnly": false,
+    "examine": "A bit of decaying wood.",
+    "releaseDate": "24 May 2018",
+    "versionAnchor": "Hidden",
+    "combatLevel": 55,
+    "hitpoints": 75,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Crabs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 50,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100,
+        "magic": 100,
+        "ranged": -55,
+        "lightRanged": -55,
+        "standardRanged": -55,
+        "heavyRanged": -55
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

@@ -1,0 +1,49 @@
+{
+    "name": "King kurask",
+    "id": 7405,
+    "isMembersOnly": false,
+    "examine": "Head honcho for the Kurask.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 295,
+    "attributes": [
+        "leafy"
+    ],
+    "hitpoints": 270,
+    "maxHit": [
+        "33"
+    ],
+    "slayerLevel": 70,
+    "slayerExperience": 2767.4,
+    "slayerCategory": [
+        "Kurask"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 320,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 50,
+        "crush": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 5
+}

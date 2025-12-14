@@ -1,0 +1,23 @@
+{
+    "name": "Portal (wighted leech)",
+    "id": 12334,
+    "isMembersOnly": false,
+    "examine": "Nothing friendly will come out of this...",
+    "releaseDate": "26 July 2023",
+    "hitpoints": 30,
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "size": 1
+}

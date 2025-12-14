@@ -1,0 +1,62 @@
+{
+    "name": "Adamant dragon",
+    "id": 8030,
+    "isMembersOnly": false,
+    "examine": "Its scales seem to be made of adamantite.",
+    "releaseDate": "4 January 2018",
+    "combatLevel": 338,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 295,
+    "maxHit": [
+        "29 (Melee)",
+        "20 (Ranged)",
+        "20 (Magic)",
+        "50 (Dragonfire)",
+        "25 (Poison special)"
+    ],
+    "slayerExperience": 324.5,
+    "slayerCategory": [
+        "Metal Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 280,
+    "strengthLevel": 280,
+    "defenceLevel": 272,
+    "rangedLevel": 186,
+    "magicLevel": 186,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 110,
+        "crush": 85,
+        "magic": 30,
+        "ranged": 95,
+        "lightRanged": 95,
+        "standardRanged": 95,
+        "heavyRanged": 65
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

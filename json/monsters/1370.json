@@ -1,0 +1,26 @@
+{
+    "name": "Water elemental",
+    "id": 1370,
+    "isMembersOnly": false,
+    "examine": "A water elemental.",
+    "releaseDate": "2 June 2004",
+    "combatLevel": 34,
+    "hitpoints": 30,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 30,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Evil Creature",
+    "id": 1247,
+    "isMembersOnly": false,
+    "examine": "What is that thing!",
+    "releaseDate": "15 August 2006",
+    "versionAnchor": "Standard",
+    "combatLevel": 1,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

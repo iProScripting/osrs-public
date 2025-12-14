@@ -1,0 +1,35 @@
+{
+    "name": "Enormous Tentacle",
+    "id": 5534,
+    "isMembersOnly": false,
+    "examine": "Something's lurking beneath the water.",
+    "releaseDate": "10 April 2014",
+    "versionAnchor": "Whirlpool",
+    "hitpoints": 120,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 87,
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 150,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magicDamage": 40
+    },
+    "defenceBonuses": {
+        "magic": -15,
+        "ranged": 270,
+        "lightRanged": 270,
+        "standardRanged": 270,
+        "heavyRanged": 270
+    },
+    "attackStyle": [
+        "Typeless Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

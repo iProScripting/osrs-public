@@ -1,0 +1,40 @@
+{
+    "name": "Gnome troop",
+    "id": 5967,
+    "isMembersOnly": false,
+    "examine": "It's a tree gnome trooper.",
+    "releaseDate": "23 July 2002",
+    "versionAnchor": "Level 3",
+    "combatLevel": 3,
+    "hitpoints": 3,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 5,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 2,
+        "strength": 3,
+        "rangedStrength": 2
+    },
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 4,
+        "crush": 5,
+        "magic": 2,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

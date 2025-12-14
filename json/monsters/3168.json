@@ -1,0 +1,57 @@
+{
+    "name": "Spiritual mage",
+    "id": 3168,
+    "isMembersOnly": false,
+    "examine": "A mage who serves Armadyl above all else - even death.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Armadyl",
+    "combatLevel": 123,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 86,
+    "maxHit": [
+        "17"
+    ],
+    "slayerLevel": 83,
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 111,
+    "rangedLevel": 1,
+    "magicLevel": 150,
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 12,
+        "crush": 5,
+        "magic": 45,
+        "ranged": 28,
+        "lightRanged": 28,
+        "standardRanged": 28,
+        "heavyRanged": 28
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 10.0,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

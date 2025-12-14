@@ -1,0 +1,37 @@
+{
+    "name": "Cyclops",
+    "id": 2466,
+    "isMembersOnly": false,
+    "examine": "A one-eyed woman eater.",
+    "releaseDate": "13 June 2006",
+    "versionAnchor": "Level 76",
+    "combatLevel": 76,
+    "hitpoints": 100,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Hill Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "burn": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

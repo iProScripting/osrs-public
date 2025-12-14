@@ -1,0 +1,34 @@
+{
+    "name": "Othainian",
+    "id": 8994,
+    "isMembersOnly": false,
+    "examine": "One of the guardians of Iban.",
+    "releaseDate": "3 March 2003",
+    "combatLevel": 91,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 87,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 76,
+    "strengthLevel": 78,
+    "defenceLevel": 77,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -75.0,
+    "size": 3
+}

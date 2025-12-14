@@ -1,0 +1,38 @@
+{
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "isMembersOnly": false,
+    "examine": "A valiant knight.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 101",
+    "combatLevel": 101,
+    "hitpoints": 108,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 90,
+    "defenceLevel": 82,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "melee": 13,
+        "strength": 11
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 13,
+        "ranged": 13,
+        "lightRanged": 13,
+        "standardRanged": 13,
+        "heavyRanged": 13
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

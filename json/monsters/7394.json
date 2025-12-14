@@ -1,0 +1,52 @@
+{
+    "name": "Flaming pyrelord",
+    "id": 7394,
+    "isMembersOnly": false,
+    "examine": "A large demonic being of fire.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 97,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 125,
+    "maxHit": [
+        "7"
+    ],
+    "slayerLevel": 30,
+    "slayerExperience": 1250.0,
+    "slayerCategory": [
+        "Pyrefiends"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 98,
+    "strengthLevel": 65,
+    "defenceLevel": 52,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 18,
+        "crush": 18,
+        "ranged": 18,
+        "lightRanged": 18,
+        "standardRanged": 18,
+        "heavyRanged": 18
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

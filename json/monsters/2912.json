@@ -1,0 +1,23 @@
+{
+    "name": "Black chinchompa (Hunter)",
+    "id": 2912,
+    "isMembersOnly": false,
+    "examine": "Volatile and dangerous, yet so cute.",
+    "releaseDate": "27 March 2014",
+    "combatLevel": 2,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 2,
+    "rangedLevel": 2,
+    "magicLevel": 2,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4
+}

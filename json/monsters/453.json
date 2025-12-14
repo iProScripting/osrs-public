@@ -1,0 +1,39 @@
+{
+    "name": "Crawling Hand",
+    "id": 453,
+    "isMembersOnly": false,
+    "examine": "Now THAT's handy.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Level 12 (1)",
+    "combatLevel": 12,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 19,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 5,
+    "slayerExperience": 19.0,
+    "slayerCategory": [
+        "Crawling Hands"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 7,
+    "defenceLevel": 7,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

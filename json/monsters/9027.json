@@ -1,0 +1,27 @@
+{
+    "name": "Crystalline Spider",
+    "id": 9027,
+    "isMembersOnly": false,
+    "examine": "It must spin some pretty webs.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 22,
+    "hitpoints": 12,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 26,
+    "defenceLevel": 4,
+    "magicLevel": 4,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

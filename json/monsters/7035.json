@@ -1,0 +1,33 @@
+{
+    "name": "Reanimated TzHaar",
+    "id": 7035,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 35,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 140,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

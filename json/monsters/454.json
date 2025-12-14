@@ -1,0 +1,39 @@
+{
+    "name": "Crawling Hand",
+    "id": 454,
+    "isMembersOnly": false,
+    "examine": "I'm glad its<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> just the hand I can see...",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Level 12 (2)",
+    "combatLevel": 12,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 19,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 5,
+    "slayerExperience": 19.0,
+    "slayerCategory": [
+        "Crawling Hands"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 7,
+    "defenceLevel": 7,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

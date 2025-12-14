@@ -1,0 +1,27 @@
+{
+    "name": "Crystalline Rat",
+    "id": 9026,
+    "isMembersOnly": false,
+    "examine": "I wonder if he knows any crystalline turtles?",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 24,
+    "hitpoints": 14,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 32,
+    "defenceLevel": 6,
+    "magicLevel": 6,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

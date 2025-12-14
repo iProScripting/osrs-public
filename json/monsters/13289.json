@@ -1,0 +1,38 @@
+{
+    "name": "Bandit (Varlamore)",
+    "id": 13289,
+    "isMembersOnly": false,
+    "examine": "A deadly outlaw.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 23,
+    "hitpoints": 27,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 22,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 11,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "stab": 4,
+        "slash": 8,
+        "crush": 5,
+        "magic": 1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

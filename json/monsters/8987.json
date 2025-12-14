@@ -1,0 +1,42 @@
+{
+    "name": "Sir Jerro",
+    "id": 8987,
+    "isMembersOnly": false,
+    "examine": "A mighty-looking warrior.",
+    "releaseDate": "3 March 2003",
+    "combatLevel": 62,
+    "hitpoints": 57,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 54,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 22
+    },
+    "defenceBonuses": {
+        "stab": 87,
+        "slash": 84,
+        "crush": 76,
+        "magic": -10,
+        "ranged": 79,
+        "lightRanged": 79,
+        "standardRanged": 79,
+        "heavyRanged": 79
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": -75.0,
+    "size": 1
+}

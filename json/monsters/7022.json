@@ -1,0 +1,38 @@
+{
+    "name": "Reanimated scorpion",
+    "id": 7022,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 15,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 12,
+    "defenceLevel": 11,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 15,
+        "crush": 15,
+        "magic": 5
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

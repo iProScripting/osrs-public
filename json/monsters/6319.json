@@ -1,0 +1,30 @@
+{
+    "name": "Tree spirit (Nightmare Zone)",
+    "id": 6319,
+    "isMembersOnly": false,
+    "examine": "Guardian of the dramen tree.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 199,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 187,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 209,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

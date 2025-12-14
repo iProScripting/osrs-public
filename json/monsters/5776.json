@@ -1,0 +1,28 @@
+{
+    "name": "Queen spawn",
+    "id": 5776,
+    "isMembersOnly": false,
+    "examine": "What's it looking at?",
+    "releaseDate": "4 January 2007",
+    "combatLevel": 63,
+    "hitpoints": 45,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 62,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 1
+}

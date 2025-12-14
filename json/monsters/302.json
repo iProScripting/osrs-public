@@ -1,0 +1,41 @@
+{
+    "name": "Donny the lad",
+    "id": 302,
+    "isMembersOnly": false,
+    "examine": "Has a fearsome posture.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 34,
+    "hitpoints": 37,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 37.0,
+    "slayerCategory": [
+        "Bandits"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 26,
+    "defenceLevel": 27,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 9
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 8,
+        "crush": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

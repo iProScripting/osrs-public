@@ -1,0 +1,41 @@
+{
+    "name": "Pirate",
+    "id": 523,
+    "isMembersOnly": false,
+    "examine": "This one's had too much to drink!",
+    "releaseDate": "6 April 2001",
+    "versionAnchor": "Asgarnian Ice Dungeon",
+    "combatLevel": 26,
+    "hitpoints": 23,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 20.0,
+    "slayerCategory": [
+        "Pirates"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 23,
+    "strengthLevel": 23,
+    "defenceLevel": 23,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 2
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

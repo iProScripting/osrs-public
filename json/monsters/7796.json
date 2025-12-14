@@ -1,0 +1,46 @@
+{
+    "name": "Lobstrosity",
+    "id": 7796,
+    "isMembersOnly": false,
+    "examine": "An extremely vicious lobster type thing.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 68,
+    "hitpoints": 50,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 80,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 50,
+        "crush": 15,
+        "magic": 99,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

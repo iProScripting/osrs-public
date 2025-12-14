@@ -1,0 +1,42 @@
+{
+    "name": "Bat",
+    "id": 14042,
+    "isMembersOnly": false,
+    "examine": "An annoying flappy thing.",
+    "releaseDate": "14 October 2004",
+    "combatLevel": 6,
+    "hitpoints": 8,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 8.0,
+    "slayerCategory": [
+        "Bats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 2,
+        "slash": 2,
+        "crush": 5,
+        "magic": 2
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

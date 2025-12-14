@@ -1,0 +1,47 @@
+{
+    "name": "JalTok-Jad",
+    "id": 10623,
+    "isMembersOnly": false,
+    "examine": "Large, destructive, enthralling.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 900,
+    "hitpoints": 350,
+    "maxHit": [
+        "113"
+    ],
+    "slayerExperience": 350.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 750,
+    "strengthLevel": 1020,
+    "defenceLevel": 480,
+    "rangedLevel": 1020,
+    "magicLevel": 510,
+    "attackBonuses": {
+        "magic": 100,
+        "ranged": 80,
+        "magicDamage": 75
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic",
+        "Stab"
+    ],
+    "attackSpeed": 8,
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

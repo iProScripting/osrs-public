@@ -1,0 +1,43 @@
+{
+    "name": "Sourhog",
+    "id": 10435,
+    "isMembersOnly": false,
+    "examine": "This piggy really did go to market.",
+    "releaseDate": "10 September 2020",
+    "combatLevel": 37,
+    "hitpoints": 40,
+    "maxHit": [
+        "6",
+        "20-30 (without Reinforced goggles)"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Sourhogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 30,
+    "defenceLevel": 25,
+    "rangedLevel": 35,
+    "magicLevel": 25,
+    "attackBonuses": {
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "slash": 30,
+        "crush": 10,
+        "magic": 30
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 3
+}

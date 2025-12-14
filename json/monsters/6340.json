@@ -1,0 +1,39 @@
+{
+    "name": "Cow (Nightmare Zone)",
+    "id": 6340,
+    "isMembersOnly": false,
+    "examine": "How did this get in here?",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 170,
+    "hitpoints": 160,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -15,
+        "strength": -15
+    },
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

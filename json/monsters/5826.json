@@ -1,0 +1,47 @@
+{
+    "name": "Frenzied ice troll grunt",
+    "id": 5826,
+    "isMembersOnly": false,
+    "examine": "A large ice troll. All brawn and no loot.",
+    "releaseDate": "6 February 2007",
+    "combatLevel": 102,
+    "hitpoints": 80,
+    "maxHit": [
+        "21"
+    ],
+    "slayerExperience": 84.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 60
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 60,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

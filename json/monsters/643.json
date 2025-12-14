@@ -1,0 +1,53 @@
+{
+    "name": "Arrg",
+    "id": 643,
+    "isMembersOnly": false,
+    "examine": "A massive, scary-looking troll.",
+    "releaseDate": "5 January 2005",
+    "combatLevel": 113,
+    "hitpoints": 140,
+    "maxHit": [
+        "38 (melee)",
+        "30 (ranged)"
+    ],
+    "slayerExperience": 150.5,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 140,
+    "defenceLevel": 40,
+    "rangedLevel": 70,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 60,
+        "crush": 35,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

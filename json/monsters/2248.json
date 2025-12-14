@@ -1,0 +1,35 @@
+{
+    "name": "Goblin (God Wars Dungeon)",
+    "id": 2248,
+    "isMembersOnly": false,
+    "examine": "Cannon fodder, so to speak.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 15",
+    "combatLevel": 15,
+    "hitpoints": 16,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 16.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 16,
+    "strengthLevel": 6,
+    "defenceLevel": 19,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

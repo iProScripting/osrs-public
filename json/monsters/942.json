@@ -1,0 +1,49 @@
+{
+    "name": "Mountain troll",
+    "id": 942,
+    "isMembersOnly": false,
+    "examine": "Small for a troll but mean and ugly.",
+    "releaseDate": "9 August 2004",
+    "versionAnchor": "Level 69",
+    "combatLevel": 69,
+    "hitpoints": 90,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 75,
+    "defenceLevel": 40,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 20
+    },
+    "defenceBonuses": {
+        "crush": 10,
+        "magic": 200,
+        "ranged": 40,
+        "lightRanged": 200,
+        "standardRanged": 40,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

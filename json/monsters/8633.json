@@ -1,0 +1,45 @@
+{
+    "name": "The Mimic",
+    "id": 8633,
+    "isMembersOnly": false,
+    "examine": "Oh great, it's a casket that's come to life.",
+    "releaseDate": "11 April 2019",
+    "combatLevel": 186,
+    "hitpoints": 230,
+    "maxHit": [
+        "23"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 185,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 180,
+        "melee": 135,
+        "strength": 48
+    },
+    "defenceBonuses": {
+        "stab": 160,
+        "slash": 165,
+        "crush": 150,
+        "magic": 30,
+        "ranged": 145,
+        "lightRanged": 145,
+        "standardRanged": 145,
+        "heavyRanged": 145
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 25.0,
+    "size": 5
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Serpent shaman",
+    "id": 12811,
+    "isMembersOnly": false,
+    "examine": "He just loves snakes.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 161,
+    "hitpoints": 125,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "rangedLevel": 160,
+    "magicLevel": 220,
+    "attackBonuses": {
+        "magic": 50,
+        "magicDamage": 15
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 15,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Gnome Mage",
+    "id": 6099,
+    "isMembersOnly": false,
+    "examine": "A battle mage of the gnomish variety.",
+    "releaseDate": "24 April 2006",
+    "combatLevel": 5,
+    "hitpoints": 10,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 3,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 5,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -30,
+        "slash": -30,
+        "crush": -30,
+        "magic": -30,
+        "ranged": -30,
+        "lightRanged": -30,
+        "standardRanged": -30,
+        "heavyRanged": -30
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

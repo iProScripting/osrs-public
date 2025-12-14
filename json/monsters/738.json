@@ -1,0 +1,31 @@
+{
+    "name": "Bandit champion",
+    "id": 738,
+    "isMembersOnly": false,
+    "examine": "A very tough-looking bandit.",
+    "releaseDate": "4 April 2005",
+    "combatLevel": 70,
+    "hitpoints": 50,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 59,
+    "strengthLevel": 80,
+    "defenceLevel": 50,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 9
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 8,
+        "crush": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

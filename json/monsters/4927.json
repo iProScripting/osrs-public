@@ -1,0 +1,49 @@
+{
+    "name": "Entrana firebird",
+    "id": 4927,
+    "isMembersOnly": false,
+    "examine": "Probably not a chicken.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 2,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 5.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -31,
+        "strength": -26
+    },
+    "defenceBonuses": {
+        "stab": -26,
+        "slash": -26,
+        "crush": -26,
+        "magic": -26,
+        "ranged": -26,
+        "lightRanged": -26,
+        "standardRanged": -26,
+        "heavyRanged": -26
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

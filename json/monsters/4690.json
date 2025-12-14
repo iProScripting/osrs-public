@@ -1,0 +1,25 @@
+{
+    "name": "Angry giant rat",
+    "id": 4690,
+    "isMembersOnly": false,
+    "examine": "He looks a little on the cross side!",
+    "releaseDate": "3 April 2006",
+    "versionAnchor": "Level 47",
+    "combatLevel": 47,
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 41,
+    "defenceLevel": 38,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

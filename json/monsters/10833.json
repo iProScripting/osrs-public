@@ -1,0 +1,50 @@
+{
+    "name": "Verzik Vitur",
+    "id": 10833,
+    "isMembersOnly": false,
+    "examine": "There's something very disconcerting about her.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Phase 2",
+    "combatLevel": 488,
+    "hitpoints": 1600,
+    "maxHit": [
+        "16",
+        "16 (bounce)",
+        "~34 (bounce after standing underneath)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 150,
+    "defenceLevel": 120,
+    "rangedLevel": 180,
+    "magicLevel": 180,
+    "attackBonuses": {
+        "magic": 32,
+        "ranged": 32,
+        "rangedStrength": 50,
+        "magicDamage": 50
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 20,
+        "crush": 40,
+        "magic": 40,
+        "ranged": 180,
+        "lightRanged": 180,
+        "standardRanged": 180,
+        "heavyRanged": 180
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3
+}

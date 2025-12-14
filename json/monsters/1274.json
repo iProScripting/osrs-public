@@ -1,0 +1,25 @@
+{
+    "name": "Experiment",
+    "id": 1274,
+    "isMembersOnly": false,
+    "examine": "One of Fenkenstrain's failed experiments.",
+    "releaseDate": "31 January 2005",
+    "versionAnchor": "Level 25 (spider)",
+    "combatLevel": 25,
+    "hitpoints": 100,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

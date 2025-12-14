@@ -1,0 +1,31 @@
+{
+    "name": "Reanimated chaos druid",
+    "id": 7026,
+    "isMembersOnly": false,
+    "examine": "This druid has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 35,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Chaos Druids"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

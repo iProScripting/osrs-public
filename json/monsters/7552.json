@@ -1,0 +1,49 @@
+{
+    "name": "Great Olm",
+    "id": 7552,
+    "isMembersOnly": false,
+    "examine": "The Great Olm's great manicure.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Left claw (Normal)",
+    "combatLevel": 750,
+    "attributes": [
+        "dragon",
+        "xerician"
+    ],
+    "hitpoints": 600,
+    "maxHit": [
+        "0"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 250,
+    "defenceLevel": 175,
+    "rangedLevel": 250,
+    "magicLevel": 175,
+    "attackBonuses": {
+        "magic": 60,
+        "ranged": 60
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

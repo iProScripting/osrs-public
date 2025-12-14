@@ -1,0 +1,35 @@
+{
+    "name": "Reanimated aviansie",
+    "id": 7037,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 35,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Aviansie"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 71,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 2
+}

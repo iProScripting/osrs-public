@@ -1,0 +1,33 @@
+{
+    "name": "Bloodthirsty abomination",
+    "id": 12572,
+    "isMembersOnly": false,
+    "examine": "An extremely dangerous, emaciated ape like creature with beady red eyes.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 206,
+    "hitpoints": 130,
+    "slayerLevel": 58,
+    "slayerCategory": [
+        "Cave Horrors"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 195,
+    "defenceLevel": 142,
+    "rangedLevel": 1,
+    "magicLevel": 230,
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

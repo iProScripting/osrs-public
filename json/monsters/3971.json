@@ -1,0 +1,41 @@
+{
+    "name": "Zombie rat",
+    "id": 3971,
+    "isMembersOnly": false,
+    "examine": "Overgrown undead vermin.",
+    "releaseDate": "23 September 2001",
+    "versionAnchor": "3",
+    "combatLevel": 3,
+    "attributes": [
+        "rat",
+        "undead"
+    ],
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 2.0,
+    "slayerCategory": [
+        "Rats",
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 3,
+    "defenceLevel": 2,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

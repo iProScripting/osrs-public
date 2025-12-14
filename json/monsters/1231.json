@@ -1,0 +1,38 @@
+{
+    "name": "Arzinian Avatar of Ranging",
+    "id": 1231,
+    "isMembersOnly": false,
+    "examine": "It is the avatar of the Arzinian Being of Bordanzan, representing ranging.",
+    "releaseDate": "21 March 2005",
+    "versionAnchor": "Level 125",
+    "combatLevel": 125,
+    "hitpoints": 100,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 100,
+    "defenceLevel": 120,
+    "rangedLevel": 110,
+    "attackBonuses": {
+        "rangedStrength": 10
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15,
+        "magic": 80,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1
+}

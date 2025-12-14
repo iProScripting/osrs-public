@@ -1,0 +1,57 @@
+{
+    "name": "Undead Druid",
+    "id": 2145,
+    "isMembersOnly": false,
+    "examine": "A fallen worshiper of a forgotten religion.",
+    "releaseDate": "4 July 2019",
+    "combatLevel": 105,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 140,
+    "maxHit": [
+        "22 (Magic)",
+        "11 (Melee)"
+    ],
+    "slayerExperience": 147.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 50,
+    "defenceLevel": 60,
+    "magicLevel": 115,
+    "attackBonuses": {
+        "magic": 100,
+        "melee": 50,
+        "strength": 50,
+        "magicDamage": 50
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 30,
+        "crush": 80,
+        "magic": 140,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

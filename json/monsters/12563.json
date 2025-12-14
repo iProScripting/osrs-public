@@ -1,0 +1,46 @@
+{
+    "name": "Bloodthirsty pyrelord",
+    "id": 12563,
+    "isMembersOnly": false,
+    "examine": "A large demonic being of fire.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 145,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 187,
+    "slayerLevel": 30,
+    "slayerCategory": [
+        "Pyrefiends"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 147,
+    "strengthLevel": 97,
+    "defenceLevel": 52,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 18,
+        "crush": 18,
+        "ranged": 18,
+        "lightRanged": 18,
+        "standardRanged": 18,
+        "heavyRanged": 18
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Reanimated goblin",
+    "id": 7018,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "hitpoints": 5,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 5.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -21,
+        "strength": -15
+    },
+    "defenceBonuses": {
+        "stab": -15,
+        "slash": -15,
+        "crush": -15,
+        "magic": -15,
+        "ranged": -15,
+        "lightRanged": -15,
+        "standardRanged": -15,
+        "heavyRanged": -15
+    },
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

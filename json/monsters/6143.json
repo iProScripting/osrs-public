@@ -1,0 +1,43 @@
+{
+    "name": "Urium Shade",
+    "id": 6143,
+    "isMembersOnly": false,
+    "examine": "A shadowy sort of entity, kind of creepy looking.",
+    "releaseDate": "27 January 2021",
+    "versionAnchor": "Shadow",
+    "combatLevel": 140,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 130,
+    "maxHit": [
+        "13"
+    ],
+    "slayerExperience": 130.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 138,
+    "strengthLevel": 116,
+    "defenceLevel": 100,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Archer (Burthorpe)",
+    "id": 4096,
+    "isMembersOnly": false,
+    "examine": "A Burthorpe Castle archer.",
+    "releaseDate": "9 August 2004",
+    "combatLevel": 42,
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 40,
+    "rangedLevel": 40,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 34
+    },
+    "defenceBonuses": {
+        "stab": 39,
+        "slash": 50,
+        "crush": 49,
+        "magic": 18,
+        "ranged": 45,
+        "lightRanged": 45,
+        "standardRanged": 45,
+        "heavyRanged": 45
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

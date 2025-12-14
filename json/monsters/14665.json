@@ -1,0 +1,41 @@
+{
+    "name": "Guard (Auburnvale)",
+    "id": 14665,
+    "isMembersOnly": false,
+    "examine": "He tries to keep order around here.",
+    "releaseDate": "23 July 2025",
+    "versionAnchor": "3",
+    "combatLevel": 21,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 14,
+    "rangedLevel": 19,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 4,
+        "melee": 4,
+        "strength": 5,
+        "rangedStrength": 5
+    },
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 25,
+        "crush": 19,
+        "magic": -4,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Scavenger beast",
+    "id": 7548,
+    "isMembersOnly": false,
+    "examine": "A feral denizen of the caves.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Normal",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

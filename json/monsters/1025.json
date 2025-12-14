@@ -1,0 +1,25 @@
+{
+    "name": "Necromancer",
+    "id": 1025,
+    "isMembersOnly": false,
+    "examine": "A crazy evil necromancer.",
+    "releaseDate": "28 May 2002",
+    "combatLevel": 26,
+    "hitpoints": 40,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 18,
+    "attackStyle": [
+        "Crush",
+        "Curse"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

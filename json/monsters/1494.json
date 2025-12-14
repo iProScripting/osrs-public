@@ -1,0 +1,27 @@
+{
+    "name": "Kebbit (Eagles' Peak)",
+    "id": 1494,
+    "isMembersOnly": false,
+    "examine": "A little bigger than usual...",
+    "releaseDate": "28 November 2006",
+    "combatLevel": 13,
+    "hitpoints": 50,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

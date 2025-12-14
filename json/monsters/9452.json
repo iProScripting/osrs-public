@@ -1,0 +1,46 @@
+{
+    "name": "Parasite",
+    "id": 9452,
+    "isMembersOnly": false,
+    "examine": "A fully grown parasite.",
+    "releaseDate": "6 February 2020",
+    "versionAnchor": "Regular",
+    "combatLevel": 86,
+    "hitpoints": 80,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 60,
+    "rangedLevel": 60,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 20,
+        "ranged": 20,
+        "rangedStrength": 46,
+        "magicDamage": 46
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 80,
+        "crush": 20,
+        "magic": 120,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

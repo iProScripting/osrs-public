@@ -1,0 +1,23 @@
+{
+    "name": "Spinolyp",
+    "id": 5962,
+    "isMembersOnly": false,
+    "examine": "If I didn't know better, I'd swear there's something in there...",
+    "releaseDate": "7 November 2005",
+    "versionAnchor": "Suspicious water",
+    "combatLevel": 34,
+    "hitpoints": 100,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+    ],
+    "size": 1
+}

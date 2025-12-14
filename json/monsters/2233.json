@@ -1,0 +1,39 @@
+{
+    "name": "Ogre",
+    "id": 2233,
+    "isMembersOnly": false,
+    "examine": "Ugly and bad-tempered.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 58",
+    "combatLevel": 58,
+    "hitpoints": 70,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 46,
+    "strengthLevel": 48,
+    "defenceLevel": 43,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

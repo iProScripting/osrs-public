@@ -1,0 +1,18 @@
+{
+    "name": "Pirate (The Red Reef)",
+    "id": 15023,
+    "isMembersOnly": false,
+    "examine": "Yar! Shiver me timbers!",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "3",
+    "combatLevel": 52,
+    "hitpoints": 38,
+    "usesSkill": [
+    ],
+    "attackLevel": 54,
+    "defenceLevel": 35,
+    "magicLevel": 10,
+    "attackStyle": [
+    ],
+    "size": 1
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Champion of Scabaras",
+    "id": 11482,
+    "isMembersOnly": false,
+    "examine": "A powerful scabarite warrior.",
+    "releaseDate": "27 April 2022",
+    "combatLevel": 379,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 600,
+    "maxHit": [
+        "24"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 160,
+    "defenceLevel": 160,
+    "magicLevel": 160,
+    "attackBonuses": {
+        "magic": 28,
+        "melee": 28,
+        "strength": 26,
+        "magicDamage": 26
+    },
+    "defenceBonuses": {
+        "stab": 120,
+        "slash": 160,
+        "crush": 160,
+        "magic": 340,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

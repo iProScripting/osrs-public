@@ -1,0 +1,50 @@
+{
+    "name": "Blessed giant rat",
+    "id": 4534,
+    "isMembersOnly": false,
+    "examine": "Some oversized vermin, blessed by Zamorak.",
+    "releaseDate": "3 March 2003",
+    "versionAnchor": "1",
+    "combatLevel": 9,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 30.0,
+    "slayerCategory": [
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": -24
+    },
+    "defenceBonuses": {
+        "stab": -24,
+        "slash": -24,
+        "crush": -24,
+        "magic": -24,
+        "ranged": -24,
+        "lightRanged": -24,
+        "standardRanged": -24,
+        "heavyRanged": -24
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

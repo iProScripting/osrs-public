@@ -1,0 +1,43 @@
+{
+    "name": "Lesser demon",
+    "id": 7248,
+    "isMembersOnly": false,
+    "examine": "Lesser, but still pretty big.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Level 94",
+    "combatLevel": 94,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 98,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 98.0,
+    "slayerCategory": [
+        "Lesser Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 85,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

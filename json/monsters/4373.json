@@ -1,0 +1,41 @@
+{
+    "name": "City guard",
+    "id": 4373,
+    "isMembersOnly": false,
+    "examine": "Tries to keep the peace.",
+    "releaseDate": "7 May 2003",
+    "combatLevel": 83,
+    "hitpoints": 80,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 13
+    },
+    "defenceBonuses": {
+        "stab": 13,
+        "slash": 24,
+        "crush": 19
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

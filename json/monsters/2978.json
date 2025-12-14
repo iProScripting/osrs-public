@@ -1,0 +1,29 @@
+{
+    "name": "Big Snake",
+    "id": 2978,
+    "isMembersOnly": false,
+    "examine": "A big snake.",
+    "releaseDate": "15 March 2006",
+    "combatLevel": 84,
+    "hitpoints": 120,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 66,
+        "strength": 62
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 2
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Khazard trooper",
+    "id": 5965,
+    "isMembersOnly": false,
+    "examine": "It's one of General Khazard's warriors.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Spear",
+    "combatLevel": 19,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 16,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 22,
+        "magic": -7,
+        "ranged": -25,
+        "lightRanged": -25,
+        "standardRanged": -25,
+        "heavyRanged": -25
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

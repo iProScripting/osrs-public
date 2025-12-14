@@ -1,0 +1,28 @@
+{
+    "name": "Mugger",
+    "id": 1461,
+    "isMembersOnly": false,
+    "examine": "He jumps out and attacks people.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Regular",
+    "combatLevel": 6,
+    "hitpoints": 8,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Emissary Brawler",
+    "id": 13775,
+    "isMembersOnly": false,
+    "examine": "A fierce fighter of the Twilight Emissaries.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Level 86",
+    "combatLevel": 86,
+    "hitpoints": 55,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 15,
+    "attackBonuses": {
+        "melee": 40
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 20,
+        "magic": 5,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Witch's experiment (Nightmare Zone)",
+    "id": 6395,
+    "isMembersOnly": false,
+    "examine": "Looks unnatural.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Spider (Normal Mode)",
+    "combatLevel": 30,
+    "hitpoints": 31,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 20,
+    "defenceLevel": 29,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

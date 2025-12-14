@@ -1,0 +1,50 @@
+{
+    "name": "Giant Scarab (Nightmare Zone)",
+    "id": 1127,
+    "isMembersOnly": false,
+    "examine": "A huge scarab.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 316,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 255,
+    "maxHit": [
+        "35"
+    ],
+    "slayerExperience": 280.5,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 305,
+    "strengthLevel": 342,
+    "defenceLevel": 169,
+    "rangedLevel": 342,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 99,
+        "crush": 99,
+        "magic": 159,
+        "ranged": 103,
+        "lightRanged": 149,
+        "standardRanged": 103,
+        "heavyRanged": 149
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

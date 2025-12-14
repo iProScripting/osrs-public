@@ -1,0 +1,48 @@
+{
+    "name": "Black Guard Berserker",
+    "id": 6052,
+    "isMembersOnly": false,
+    "examine": "An elite member of the Black Guard.",
+    "releaseDate": "31 May 2005",
+    "versionAnchor": "Green",
+    "combatLevel": 66,
+    "hitpoints": 50,
+    "maxHit": [
+        "13"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Dwarves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 55,
+        "strength": 55
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 60,
+        "crush": 60,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 2.5,
+    "size": 1
+}

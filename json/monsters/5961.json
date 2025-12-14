@@ -1,0 +1,36 @@
+{
+    "name": "Spinolyp",
+    "id": 5961,
+    "isMembersOnly": false,
+    "examine": "A sneaky, spiny, subterranean sea-dwelling scamp.",
+    "releaseDate": "7 November 2005",
+    "versionAnchor": "Spinolyp (2)",
+    "combatLevel": 76,
+    "hitpoints": 100,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 100,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Ranged magic",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

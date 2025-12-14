@@ -1,0 +1,25 @@
+{
+    "name": "Imp Champion",
+    "id": 3355,
+    "isMembersOnly": false,
+    "examine": "Champion of the imps.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 14,
+    "hitpoints": 40,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 5,
+    "rangedLevel": 5,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

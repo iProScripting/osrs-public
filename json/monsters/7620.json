@@ -1,0 +1,37 @@
+{
+    "name": "Temple Guardian",
+    "id": 7620,
+    "isMembersOnly": false,
+    "examine": "Looks like a big ugly dog.",
+    "releaseDate": "29 June 2004",
+    "combatLevel": 30,
+    "hitpoints": 45,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 45.0,
+    "slayerCategory": [
+        "Dogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

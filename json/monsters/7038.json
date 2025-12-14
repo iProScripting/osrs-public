@@ -1,0 +1,49 @@
+{
+    "name": "Reanimated abyssal",
+    "id": 7038,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "8"
+    ],
+    "slayerLevel": 85,
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Abyssal Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 97,
+    "strengthLevel": 67,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

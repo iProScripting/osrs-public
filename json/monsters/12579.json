@@ -1,0 +1,39 @@
+{
+    "name": "Bloodthirsty gargoyle",
+    "id": 12579,
+    "isMembersOnly": false,
+    "examine": "Am I losing my marbles?",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 349,
+    "hitpoints": 270,
+    "slayerLevel": 75,
+    "slayerCategory": [
+        "Gargoyles"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 250,
+    "defenceLevel": 190,
+    "rangedLevel": 220,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic (special)"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 3
+}

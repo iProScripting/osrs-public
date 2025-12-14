@@ -1,0 +1,36 @@
+{
+    "name": "Spined kraken",
+    "id": 15208,
+    "isMembersOnly": false,
+    "examine": "An invertebrate with a bit of backbone.",
+    "releaseDate": "5 November 2025",
+    "combatLevel": 121,
+    "hitpoints": 125,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 135,
+    "defenceBonuses": {
+        "magic": -63,
+        "ranged": 25,
+        "lightRanged": 50,
+        "standardRanged": 25,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

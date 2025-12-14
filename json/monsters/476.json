@@ -1,0 +1,39 @@
+{
+    "name": "Wall beast",
+    "id": 476,
+    "isMembersOnly": false,
+    "examine": "A big, scary hand!",
+    "releaseDate": "14 March 2005",
+    "versionAnchor": "Beast",
+    "combatLevel": 49,
+    "hitpoints": 105,
+    "maxHit": [
+        "4 (Melee)",
+        "18 (without Spiny helmet)"
+    ],
+    "slayerLevel": 35,
+    "slayerExperience": 105.0,
+    "slayerCategory": [
+        "Wall Beasts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 16,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

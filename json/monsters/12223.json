@@ -1,0 +1,55 @@
+{
+    "name": "Vardorvis",
+    "id": 12223,
+    "isMembersOnly": false,
+    "examine": "How does he suck blood now?",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Awakened",
+    "combatLevel": 1136,
+    "hitpoints": 1400,
+    "maxHit": [
+        "46-61 (Melee)'\"`UNIQ--ref-00000007-QINU`\"'",
+        "96 (axes)"
+    ],
+    "slayerExperience": 1400.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 420,
+    "magicLevel": 215,
+    "attackBonuses": {
+        "melee": 190,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 215,
+        "slash": 65,
+        "crush": 85,
+        "magic": 580,
+        "ranged": 580,
+        "lightRanged": 580,
+        "standardRanged": 580,
+        "heavyRanged": 580
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 95.0,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

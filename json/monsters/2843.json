@@ -1,0 +1,48 @@
+{
+    "name": "Otherworldly being",
+    "id": 2843,
+    "isMembersOnly": false,
+    "examine": "Is he invisible or just a set of floating clothing?",
+    "releaseDate": "25 March 2002",
+    "combatLevel": 64,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 66,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 66.0,
+    "slayerCategory": [
+        "Otherworldly Beings"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 56,
+    "strengthLevel": 56,
+    "defenceLevel": 46,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 10,
+        "crush": 20,
+        "magic": -5,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

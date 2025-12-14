@@ -1,0 +1,25 @@
+{
+    "name": "Witch's experiment",
+    "id": 3997,
+    "isMembersOnly": false,
+    "examine": "Looks unnatural.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Spider",
+    "combatLevel": 30,
+    "hitpoints": 31,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 20,
+    "defenceLevel": 29,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

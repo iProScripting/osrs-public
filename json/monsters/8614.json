@@ -1,0 +1,45 @@
+{
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "isMembersOnly": false,
+    "examine": "A cold-blooded creature, partial to warmth.",
+    "releaseDate": "10 January 2019",
+    "combatLevel": 50,
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 44,
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Lizards"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 45,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 25,
+        "crush": 25,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -1,
+    "size": 2
+}

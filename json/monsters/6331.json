@@ -1,0 +1,53 @@
+{
+    "name": "Arrg (Nightmare Zone)",
+    "id": 6331,
+    "isMembersOnly": false,
+    "examine": "A massive, scary-looking troll.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 210,
+    "hitpoints": 255,
+    "maxHit": [
+        "74 (melee)",
+        "30 (ranged)"
+    ],
+    "slayerExperience": 299.6,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 280,
+    "defenceLevel": 40,
+    "rangedLevel": 140,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 60,
+        "crush": 35,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 17.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

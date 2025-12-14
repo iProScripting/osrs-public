@@ -1,0 +1,50 @@
+{
+    "name": "Skeleton (Stronghold of Security)",
+    "id": 2525,
+    "isMembersOnly": false,
+    "examine": "Could do with gaining a few pounds.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "6",
+    "combatLevel": 85,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 77,
+    "slayerExperience": 77.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 74,
+    "strengthLevel": 74,
+    "defenceLevel": 74,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 79,
+        "slash": 31,
+        "crush": 20,
+        "magic": 5,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

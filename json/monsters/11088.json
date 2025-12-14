@@ -1,0 +1,34 @@
+{
+    "name": "Necromancer (Great Kourend)",
+    "id": 11088,
+    "isMembersOnly": false,
+    "examine": "A practicer of dark arts.",
+    "releaseDate": "16 June 2021",
+    "combatLevel": 68,
+    "hitpoints": 80,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 56,
+    "strengthLevel": 56,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 10,
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 8,
+        "crush": 8,
+        "magic": 4
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

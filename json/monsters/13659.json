@@ -1,0 +1,47 @@
+{
+    "name": "Thermonuclear smoke devil (Deadman)",
+    "id": 13659,
+    "isMembersOnly": false,
+    "examine": "Woah.",
+    "releaseDate": "19 July 2024",
+    "combatLevel": 313,
+    "hitpoints": 500,
+    "maxHit": [
+        "32"
+    ],
+    "slayerCategory": [
+        "Bosses",
+        "Smoke Devils"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 220,
+    "defenceLevel": 150,
+    "rangedLevel": 310,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 12,
+        "crush": 20,
+        "magic": 200,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 2,
+    "size": 4
+}

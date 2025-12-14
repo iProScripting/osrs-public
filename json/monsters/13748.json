@@ -1,0 +1,35 @@
+{
+    "name": "Emissary Ascended",
+    "id": 13748,
+    "isMembersOnly": false,
+    "examine": "A highly experienced member of the Twilight Emissaries.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "5",
+    "combatLevel": 117,
+    "hitpoints": 80,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 110,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 50,
+        "magic": 20,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

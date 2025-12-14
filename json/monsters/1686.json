@@ -1,0 +1,49 @@
+{
+    "name": "Skeleton (Barrows)",
+    "id": 1686,
+    "isMembersOnly": false,
+    "examine": "Could do with gaining a few pounds.",
+    "releaseDate": "9 May 2005",
+    "versionAnchor": "Unarmed round shield",
+    "combatLevel": 77,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 51,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 51.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 72,
+    "defenceLevel": 72,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": -5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

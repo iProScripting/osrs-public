@@ -1,0 +1,46 @@
+{
+    "name": "Javelin Colossus",
+    "id": 12817,
+    "isMembersOnly": false,
+    "examine": "At least he brought a loincloth.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 278,
+    "hitpoints": 220,
+    "maxHit": [
+        "48",
+        "49 (Relentless I)",
+        "51 (Relentless II)",
+        "54 (Relentless III)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 300,
+    "defenceLevel": 190,
+    "rangedLevel": 360,
+    "magicLevel": 225,
+    "attackBonuses": {
+        "ranged": 25,
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15,
+        "magic": 20,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 3
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Cave goblin miner",
+    "id": 5336,
+    "isMembersOnly": false,
+    "examine": "He's working away.",
+    "releaseDate": "31 May 2005",
+    "versionAnchor": "5",
+    "combatLevel": 11,
+    "hitpoints": 10,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 12,
+    "defenceLevel": 7,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bedabin Nomad Fighter",
+    "id": 4655,
+    "isMembersOnly": false,
+    "examine": "A bedabin nomad fighter - a sandy swordsman.",
+    "combatLevel": 56,
+    "hitpoints": 50,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 50,
+    "defenceLevel": 60,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 14
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

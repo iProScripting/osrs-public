@@ -1,0 +1,35 @@
+{
+    "name": "Sir Tristram",
+    "id": 4359,
+    "isMembersOnly": false,
+    "examine": "One of the Knights of the Round Table.",
+    "releaseDate": "24 July 2007",
+    "combatLevel": 115,
+    "hitpoints": 105,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 99,
+    "strengthLevel": 99,
+    "defenceLevel": 99,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 25,
+        "strength": 25
+    },
+    "defenceBonuses": {
+        "crush": 225
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 1
+}

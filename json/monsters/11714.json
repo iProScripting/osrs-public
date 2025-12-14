@@ -1,0 +1,45 @@
+{
+    "name": "Baboon Mage",
+    "id": 11714,
+    "isMembersOnly": false,
+    "examine": "An undead baboon mage.",
+    "releaseDate": "24 August 2022",
+    "versionAnchor": "Level 68",
+    "combatLevel": 68,
+    "hitpoints": 25,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 20,
+    "rangedLevel": 40,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 25,
+        "ranged": 25,
+        "melee": 25
+    },
+    "defenceBonuses": {
+        "stab": 900,
+        "slash": 900,
+        "crush": 900,
+        "magic": 900,
+        "ranged": -50,
+        "lightRanged": -50,
+        "standardRanged": -50,
+        "heavyRanged": -50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

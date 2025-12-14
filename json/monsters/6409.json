@@ -1,0 +1,31 @@
+{
+    "name": "Broodoo victim",
+    "id": 6409,
+    "isMembersOnly": false,
+    "examine": "An undead victim of some ancient murderous ritual; his skin appears deep green.",
+    "releaseDate": "9 August 2005",
+    "versionAnchor": "Green",
+    "combatLevel": 60,
+    "hitpoints": 100,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 26,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 25
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

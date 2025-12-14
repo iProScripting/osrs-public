@@ -1,0 +1,56 @@
+{
+    "name": "Spiritual ranger",
+    "id": 11291,
+    "isMembersOnly": false,
+    "examine": "A dangerous looking spirit.",
+    "releaseDate": "5 January 2022",
+    "versionAnchor": "Zaros",
+    "combatLevel": 158,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 110,
+    "maxHit": [
+        "20",
+        "35 (special)"
+    ],
+    "slayerLevel": 63,
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 190,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "stab": 20,
+        "crush": 20,
+        "magic": 300,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 200
+}

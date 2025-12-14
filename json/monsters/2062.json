@@ -1,0 +1,33 @@
+{
+    "name": "Oomlie bird",
+    "id": 2062,
+    "isMembersOnly": false,
+    "examine": "A jungle version of the chicken, but more vicious.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 46,
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

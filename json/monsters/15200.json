@@ -1,0 +1,32 @@
+{
+    "name": "Great white shark",
+    "id": 15200,
+    "isMembersOnly": false,
+    "examine": "Jaws with such strength they can rip apart metal cages.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 141,
+    "hitpoints": 175,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 155,
+    "strengthLevel": 145,
+    "rangedLevel": 1,
+    "defenceBonuses": {
+        "magic": 15,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 40
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

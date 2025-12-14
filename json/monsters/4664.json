@@ -1,0 +1,37 @@
+{
+    "name": "Guard (Desert Mining Camp)",
+    "id": 4664,
+    "isMembersOnly": false,
+    "examine": "He looks a bit aggressive.",
+    "releaseDate": "30 October 2006",
+    "versionAnchor": "Coif",
+    "combatLevel": 45,
+    "hitpoints": 60,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 32,
+    "defenceLevel": 39,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 17,
+        "slash": 15,
+        "crush": 19,
+        "magic": -3,
+        "ranged": 19,
+        "lightRanged": 19,
+        "standardRanged": 19,
+        "heavyRanged": 19
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

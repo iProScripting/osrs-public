@@ -1,0 +1,26 @@
+{
+    "name": "Fire wizard",
+    "id": 1556,
+    "isMembersOnly": false,
+    "examine": "Caution: HOT!",
+    "releaseDate": "26 September 2005",
+    "combatLevel": 13,
+    "hitpoints": 25,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 10,
+    "magicLevel": 10,
+    "defenceBonuses": {
+        "magic": 15
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

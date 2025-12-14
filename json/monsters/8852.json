@@ -1,0 +1,39 @@
+{
+    "name": "Knight of Ardougne (Song of the Elves)",
+    "id": 8852,
+    "isMembersOnly": false,
+    "examine": "A member of Ardougne's militia.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "Level 53",
+    "combatLevel": 53,
+    "hitpoints": 54,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 44,
+    "strengthLevel": 52,
+    "defenceLevel": 28,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 40,
+        "crush": 40,
+        "magic": 30,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Fragment of Seren",
+    "id": 8918,
+    "isMembersOnly": false,
+    "examine": "The brightest light casts the darkest shadow.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 494,
+    "hitpoints": 1000,
+    "maxHit": [
+        "12+12 (standard)",
+        "3+3 (Protect from Missiles)",
+        "Max HP minus 1 (special)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 242,
+    "strengthLevel": 288,
+    "defenceLevel": 102,
+    "rangedLevel": 235,
+    "magicLevel": 102,
+    "attackBonuses": {
+        "ranged": 224,
+        "melee": 236,
+        "strength": 44
+    },
+    "defenceBonuses": {
+        "stab": 320,
+        "slash": 220,
+        "crush": 320,
+        "magic": 10,
+        "ranged": 480,
+        "lightRanged": 480,
+        "standardRanged": 480,
+        "heavyRanged": 480
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged"
+    ],
+    "attackSpeed": 7,
+    "experienceBonus": 55.0,
+    "size": 3
+}

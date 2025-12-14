@@ -1,0 +1,57 @@
+{
+    "name": "General Graardor (PvM Arena)",
+    "id": 6494,
+    "isMembersOnly": false,
+    "examine": "A huge war chief.",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 624,
+    "hitpoints": 255,
+    "maxHit": [
+        "60 (melee)",
+        "35 (ranged)"
+    ],
+    "slayerExperience": 338.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 280,
+    "strengthLevel": 350,
+    "defenceLevel": 250,
+    "rangedLevel": 350,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "ranged": 100,
+        "melee": 120,
+        "strength": 43,
+        "rangedStrength": 40
+    },
+    "defenceBonuses": {
+        "stab": 90,
+        "slash": 90,
+        "crush": 90,
+        "magic": 298,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 90
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 32.5,
+    "size": 4
+}

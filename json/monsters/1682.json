@@ -1,0 +1,36 @@
+{
+    "name": "Giant crypt rat",
+    "id": 1682,
+    "isMembersOnly": false,
+    "examine": "A nasty overgrown rodent.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 76,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 70,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 50,
+    "defenceLevel": 65,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

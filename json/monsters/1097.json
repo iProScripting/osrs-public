@@ -1,0 +1,35 @@
+{
+    "name": "Sea Snake Young",
+    "id": 1097,
+    "isMembersOnly": false,
+    "examine": "Snake, snake, oh, it's a young snake...",
+    "releaseDate": "22 May 2006",
+    "combatLevel": 90,
+    "hitpoints": 85,
+    "maxHit": [
+        "8"
+    ],
+    "slayerLevel": 40,
+    "slayerExperience": 85.0,
+    "slayerCategory": [
+        "Sea Snakes"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

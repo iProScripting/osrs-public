@@ -1,0 +1,51 @@
+{
+    "name": "Ahrim the Blighted",
+    "id": 1672,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 98,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "20"
+    ],
+    "slayerExperience": 102.5,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 73,
+        "ranged": -19,
+        "strength": 68
+    },
+    "defenceBonuses": {
+        "stab": 103,
+        "slash": 85,
+        "crush": 117,
+        "magic": 73
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Gorak",
+    "id": 1834,
+    "isMembersOnly": false,
+    "examine": "Gorak by name, Gorak by nature.",
+    "releaseDate": "11 July 2006",
+    "versionAnchor": "Level 145",
+    "combatLevel": 145,
+    "hitpoints": 112,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 131,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Typeless Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 2
+}

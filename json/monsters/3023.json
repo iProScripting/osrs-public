@@ -1,0 +1,47 @@
+{
+    "name": "Poison spider",
+    "id": 3023,
+    "isMembersOnly": false,
+    "examine": "I think this spider has been genetically modified.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Level 64",
+    "combatLevel": 64,
+    "hitpoints": 64,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 64.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 58,
+    "defenceLevel": 52,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 17,
+        "crush": 10,
+        "magic": 14,
+        "ranged": 14,
+        "lightRanged": 14,
+        "standardRanged": 14,
+        "heavyRanged": 14
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

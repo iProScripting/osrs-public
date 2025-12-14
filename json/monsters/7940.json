@@ -1,0 +1,63 @@
+{
+    "name": "Revenant dragon",
+    "id": 7940,
+    "isMembersOnly": false,
+    "examine": "The ghost of a dragon slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 135,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 155,
+    "maxHit": [
+        "30"
+    ],
+    "slayerExperience": 186.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 106,
+    "strengthLevel": 126,
+    "defenceLevel": 87,
+    "rangedLevel": 151,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "magic": 61,
+        "ranged": 60,
+        "melee": 72,
+        "strength": 78,
+        "rangedStrength": 51,
+        "magicDamage": 35
+    },
+    "defenceBonuses": {
+        "stab": 143,
+        "slash": 206,
+        "crush": 188,
+        "magic": 101,
+        "ranged": 197,
+        "lightRanged": 197,
+        "standardRanged": 197,
+        "heavyRanged": 157
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 20.0,
+    "size": 5,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

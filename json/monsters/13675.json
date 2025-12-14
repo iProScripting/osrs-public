@@ -1,0 +1,60 @@
+{
+    "name": "Acidic Araxyte",
+    "id": 13675,
+    "isMembersOnly": false,
+    "examine": "A colourful spider.",
+    "releaseDate": "28 August 2024",
+    "combatLevel": 114,
+    "hitpoints": 58,
+    "maxHit": [
+        "15"
+    ],
+    "slayerLevel": 92,
+    "slayerExperience": 58.0,
+    "slayerCategory": [
+        "Spiders",
+        "Araxytes"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 120,
+    "defenceLevel": 50,
+    "rangedLevel": 60,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 450,
+        "melee": 180,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 25,
+        "magic": -10,
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

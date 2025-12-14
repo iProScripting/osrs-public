@@ -1,0 +1,24 @@
+{
+    "name": "Jubster",
+    "id": 3604,
+    "isMembersOnly": false,
+    "examine": "A jubbly bird with claws.",
+    "releaseDate": "19 February 2007",
+    "combatLevel": 87,
+    "hitpoints": 60,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 82,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

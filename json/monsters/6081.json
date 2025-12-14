@@ -1,0 +1,29 @@
+{
+    "name": "Gnome guard",
+    "id": 6081,
+    "isMembersOnly": false,
+    "examine": "A tree gnome guard.",
+    "releaseDate": "12 December 2002",
+    "versionAnchor": "Halberd",
+    "combatLevel": 23,
+    "hitpoints": 31,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 17,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 13
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

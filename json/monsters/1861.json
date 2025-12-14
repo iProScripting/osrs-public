@@ -1,0 +1,28 @@
+{
+    "name": "Tree spirit",
+    "id": 1861,
+    "isMembersOnly": false,
+    "examine": "A very angry nymph.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Level 14",
+    "combatLevel": 14,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 9,
+    "strengthLevel": 9,
+    "defenceLevel": 9,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

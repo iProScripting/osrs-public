@@ -1,0 +1,46 @@
+{
+    "name": "Yt-HurKot",
+    "id": 7705,
+    "isMembersOnly": false,
+    "examine": "Mini menace.",
+    "releaseDate": "1 June 2017",
+    "versionAnchor": "Level 141",
+    "combatLevel": 141,
+    "hitpoints": 90,
+    "maxHit": [
+        "18"
+    ],
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 165,
+    "strengthLevel": 125,
+    "defenceLevel": 100,
+    "rangedLevel": 150,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "magic": 100,
+        "ranged": 80
+    },
+    "defenceBonuses": {
+        "magic": 130,
+        "ranged": 130,
+        "lightRanged": 130,
+        "standardRanged": 130,
+        "heavyRanged": 130
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

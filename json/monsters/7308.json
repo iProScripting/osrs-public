@@ -1,0 +1,28 @@
+{
+    "name": "Ancient Wizard",
+    "id": 7308,
+    "isMembersOnly": false,
+    "examine": "He may be old, but you made him mad.",
+    "releaseDate": "6 July 2016",
+    "versionAnchor": "Ranger",
+    "combatLevel": 98,
+    "hitpoints": 80,
+    "maxHit": [
+        "23"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 30,
+    "defenceLevel": 20,
+    "rangedLevel": 150,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "rangedStrength": 30
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

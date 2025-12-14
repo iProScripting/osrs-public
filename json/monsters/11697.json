@@ -1,0 +1,32 @@
+{
+    "name": "Scarab (Tombs of Amascut)",
+    "id": 11697,
+    "isMembersOnly": false,
+    "examine": "This isn't really the most convenient time to be under attack!",
+    "releaseDate": "24 August 2022",
+    "combatLevel": 56,
+    "hitpoints": 12,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 32,
+    "defenceLevel": 28,
+    "rangedLevel": 50,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

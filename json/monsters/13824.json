@@ -1,0 +1,30 @@
+{
+    "name": "Adala",
+    "id": 13824,
+    "isMembersOnly": false,
+    "examine": "A thief, not a murderer.",
+    "releaseDate": "25 September 2024",
+    "combatLevel": 49,
+    "hitpoints": 60,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 30,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 5,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

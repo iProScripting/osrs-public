@@ -1,0 +1,58 @@
+{
+    "name": "Dessous (Nightmare Zone)",
+    "id": 6344,
+    "isMembersOnly": false,
+    "examine": "A vampyre warrior of Zamorak.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 139,
+    "attributes": [
+        "vampyre1"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "19 (Melee)",
+        "5 (Magic)",
+        "5 (Ranged)"
+    ],
+    "slayerExperience": 220.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 99,
+    "strengthLevel": 99,
+    "defenceLevel": 99,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 50,
+        "strength": 50
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 150,
+        "crush": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 10.0,
+    "size": 1
+}

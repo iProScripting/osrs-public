@@ -1,0 +1,31 @@
+{
+    "name": "Deathly mage",
+    "id": 7560,
+    "isMembersOnly": false,
+    "examine": "They wouldn't enjoy the circus.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 180,
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 232,
+    "rangedLevel": 1,
+    "magicLevel": 315,
+    "attackBonuses": {
+        "magic": 120
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Callisto",
+    "id": 6609,
+    "isMembersOnly": false,
+    "examine": "I wouldn't want to eat his Porridge.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 470,
+    "hitpoints": 1000,
+    "maxHit": [
+        "55 (Crush)",
+        "31 (Ranged)",
+        "50 (Special)"
+    ],
+    "slayerExperience": 1300.0,
+    "slayerCategory": [
+        "Bears",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 350,
+    "strengthLevel": 300,
+    "defenceLevel": 225,
+    "rangedLevel": 200,
+    "magicLevel": 140,
+    "attackBonuses": {
+        "ranged": 100,
+        "rangedStrength": 30
+    },
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 130,
+        "crush": 125,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 30.0,
+    "size": 5,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

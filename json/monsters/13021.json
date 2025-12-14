@@ -1,0 +1,29 @@
+{
+    "name": "Blood jaguar",
+    "id": 13021,
+    "isMembersOnly": false,
+    "examine": "Bloody oversized cats...",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 40,
+    "hitpoints": 100,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 28,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Black Knight (Wanted!)",
+    "id": 4959,
+    "isMembersOnly": false,
+    "examine": "A dark-hearted knight.",
+    "releaseDate": "17 October 2005",
+    "combatLevel": 32,
+    "hitpoints": 42,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 18,
+        "strength": 16
+    },
+    "defenceBonuses": {
+        "stab": 73,
+        "slash": 76,
+        "crush": 70,
+        "magic": -11,
+        "ranged": 72,
+        "lightRanged": 72,
+        "standardRanged": 72,
+        "heavyRanged": 72
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

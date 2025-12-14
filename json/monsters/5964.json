@@ -1,0 +1,39 @@
+{
+    "name": "Khazard trooper",
+    "id": 5964,
+    "isMembersOnly": false,
+    "examine": "It's one of General Khazard's warriors.",
+    "releaseDate": "23 July 2002",
+    "versionAnchor": "Mace",
+    "combatLevel": 19,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 33,
+        "slash": 34,
+        "crush": 29,
+        "magic": -7,
+        "ranged": -33,
+        "lightRanged": -33,
+        "standardRanged": -33,
+        "heavyRanged": -33
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

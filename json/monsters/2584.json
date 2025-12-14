@@ -1,0 +1,39 @@
+{
+    "name": "Abyssal leech",
+    "id": 2584,
+    "isMembersOnly": false,
+    "examine": "A blood-drinking denizen of the Abyss.",
+    "releaseDate": "13 June 2005",
+    "combatLevel": 41,
+    "hitpoints": 10,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 5,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 100,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 100,
+        "magic": 50,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 2,
+    "experienceBonus": -75.0,
+    "size": 1
+}

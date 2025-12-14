@@ -1,0 +1,46 @@
+{
+    "name": "Guard Bandit",
+    "id": 1027,
+    "isMembersOnly": false,
+    "examine": "Bandit Camp guard.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 22,
+    "hitpoints": 27,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 29.0,
+    "slayerCategory": [
+        "Bandits"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 17,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 11,
+        "strength": 12
+    },
+    "defenceBonuses": {
+        "stab": 4,
+        "slash": 8,
+        "crush": 5,
+        "magic": 1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

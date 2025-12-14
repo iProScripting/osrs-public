@@ -1,0 +1,34 @@
+{
+    "name": "Cyclops (Catacombs of Kourend)",
+    "id": 7270,
+    "isMembersOnly": false,
+    "examine": "A one-eyed woman eater.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Level 76",
+    "combatLevel": 76,
+    "hitpoints": 100,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Hill Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

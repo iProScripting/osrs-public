@@ -1,0 +1,38 @@
+{
+    "name": "Fareed (Nightmare Zone)",
+    "id": 6348,
+    "isMembersOnly": false,
+    "examine": "Zamorak's warrior of fire.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 167,
+    "hitpoints": 130,
+    "maxHit": [
+        "37",
+        "40 (without Ice gloves)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 120,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 120
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 15.0,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 30
+}

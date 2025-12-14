@@ -1,0 +1,42 @@
+{
+    "name": "Jaguar warrior (Deadman)",
+    "id": 13660,
+    "isMembersOnly": false,
+    "examine": "A furry with a score to settle.",
+    "releaseDate": "19 July 2024",
+    "combatLevel": 331,
+    "hitpoints": 750,
+    "maxHit": [
+        "21"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 165,
+    "defenceLevel": 100,
+    "rangedLevel": 160,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 100,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Man",
+    "id": 3261,
+    "isMembersOnly": false,
+    "examine": "One of the citizens of Al Kharid.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Al Kharid",
+    "combatLevel": 2,
+    "hitpoints": 7,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

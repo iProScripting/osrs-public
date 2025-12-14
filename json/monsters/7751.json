@@ -1,0 +1,19 @@
+{
+    "name": "Well-armed Foe",
+    "id": 7751,
+    "isMembersOnly": false,
+    "examine": "A very dangerous and well-armed foe.",
+    "releaseDate": "24 August 2017",
+    "combatLevel": 820,
+    "hitpoints": 1500,
+    "usesSkill": [
+    ],
+    "attackLevel": 500,
+    "strengthLevel": 420,
+    "defenceLevel": 500,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+    ],
+    "size": 3
+}

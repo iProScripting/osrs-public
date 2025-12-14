@@ -1,0 +1,19 @@
+{
+    "name": "Guard (Another Slice of H.A.M.)",
+    "id": 5141,
+    "isMembersOnly": false,
+    "examine": "A guard for the 'Humans Against Monsters' group.",
+    "releaseDate": "24 April 2007",
+    "combatLevel": 22,
+    "hitpoints": 30,
+    "usesSkill": [
+    ],
+    "attackLevel": 16,
+    "strengthLevel": 20,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+    ],
+    "size": 1
+}

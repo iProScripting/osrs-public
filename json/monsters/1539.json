@@ -1,0 +1,53 @@
+{
+    "name": "Skeleton warlord",
+    "id": 1539,
+    "isMembersOnly": false,
+    "examine": "He's heartless.",
+    "releaseDate": "3 July 2007",
+    "combatLevel": 132,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 124,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 124.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 115,
+    "strengthLevel": 114,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2,
+        "magic": -3,
+        "ranged": 2,
+        "lightRanged": 2,
+        "standardRanged": 2,
+        "heavyRanged": 2
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

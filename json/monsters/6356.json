@@ -1,0 +1,56 @@
+{
+    "name": "Ice Troll King (Nightmare Zone)",
+    "id": 6356,
+    "isMembersOnly": false,
+    "examine": "An impressive looking troll",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 122,
+    "hitpoints": 150,
+    "maxHit": [
+        "21 (Melee)",
+        "16 (Special)",
+        "11 (Magic)",
+        "7 (Ranged)"
+    ],
+    "slayerExperience": 161.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 60
+    },
+    "defenceBonuses": {
+        "stab": 45,
+        "slash": 45,
+        "crush": 45,
+        "magic": 2000,
+        "ranged": 2000,
+        "lightRanged": 2000,
+        "standardRanged": 2000,
+        "heavyRanged": 2000
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 35
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Animated Bronze Armour",
+    "id": 2450,
+    "isMembersOnly": false,
+    "examine": "Animated bronze armour.",
+    "releaseDate": "13 June 2006",
+    "combatLevel": 11,
+    "hitpoints": 10,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 25,
+        "crush": 19,
+        "magic": 400,
+        "ranged": 400,
+        "lightRanged": 400,
+        "standardRanged": 400,
+        "heavyRanged": 400
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "burn": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

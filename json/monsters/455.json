@@ -1,0 +1,37 @@
+{
+    "name": "Crawling Hand",
+    "id": 455,
+    "isMembersOnly": false,
+    "examine": "A big severed hand.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Level 11 (unused)",
+    "combatLevel": 11,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 18,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 5,
+    "slayerCategory": [
+        "Crawling Hands"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 6,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Yak",
+    "id": 5816,
+    "isMembersOnly": false,
+    "examine": "A hairy, smelly, grazing animal.",
+    "releaseDate": "6 February 2007",
+    "combatLevel": 22,
+    "hitpoints": 50,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 10,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

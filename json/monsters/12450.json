@@ -1,0 +1,44 @@
+{
+    "name": "Derwen (Deadman)",
+    "id": 12450,
+    "isMembersOnly": false,
+    "examine": "An ancient Guthixian Ent.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 235,
+    "hitpoints": 320,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "attackBonuses": {
+        "magic": 80,
+        "magicDamage": 80
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 200,
+        "crush": 200,
+        "magic": -60,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 3
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Verac the Defiled",
+    "id": 1677,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 115,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "23 (Stab)",
+        "15 (Protect from Melee)"
+    ],
+    "slayerExperience": 112.5,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": -42,
+        "ranged": -14,
+        "strength": 72
+    },
+    "defenceBonuses": {
+        "stab": 227,
+        "slash": 230,
+        "crush": 221,
+        "ranged": 225,
+        "lightRanged": 225,
+        "standardRanged": 225,
+        "heavyRanged": 225
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 12.5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

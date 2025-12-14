@@ -1,0 +1,54 @@
+{
+    "name": "Undead cow",
+    "id": 2992,
+    "isMembersOnly": false,
+    "examine": "It's an undead cow.",
+    "releaseDate": "15 February 2005",
+    "combatLevel": 2,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 8,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 8.0,
+    "slayerCategory": [
+        "Cows",
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -15,
+        "strength": -15
+    },
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

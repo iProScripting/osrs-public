@@ -1,0 +1,35 @@
+{
+    "name": "Culinaromancer (Nightmare Zone)",
+    "id": 6307,
+    "isMembersOnly": false,
+    "examine": "A demented evil wizard who specialises in food spells.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 209,
+    "hitpoints": 255,
+    "maxHit": [
+        "25"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 400,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": -10,
+        "crush": -10,
+        "magic": -10,
+        "ranged": -10,
+        "lightRanged": -10,
+        "standardRanged": -10,
+        "heavyRanged": -10
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

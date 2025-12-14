@@ -1,0 +1,47 @@
+{
+    "name": "Spiked Turoth",
+    "id": 10397,
+    "isMembersOnly": false,
+    "examine": "He's one huge leg short!",
+    "releaseDate": "23 July 2020",
+    "combatLevel": 244,
+    "attributes": [
+        "leafy"
+    ],
+    "hitpoints": 195,
+    "maxHit": [
+        "29"
+    ],
+    "slayerLevel": 55,
+    "slayerExperience": 1998.0,
+    "slayerCategory": [
+        "Turoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE"
+    ],
+    "attackLevel": 204,
+    "strengthLevel": 280,
+    "defenceLevel": 154,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 40,
+        "crush": 40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

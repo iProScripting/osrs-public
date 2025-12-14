@@ -1,0 +1,33 @@
+{
+    "name": "Pirate",
+    "id": 4047,
+    "isMembersOnly": false,
+    "examine": "An enemy pirate.",
+    "releaseDate": "7 February 2006",
+    "versionAnchor": "Cabin Fever",
+    "combatLevel": 57,
+    "hitpoints": 52,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 20.0,
+    "slayerCategory": [
+        "Pirates"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 49,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

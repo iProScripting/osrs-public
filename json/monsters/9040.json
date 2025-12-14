@@ -1,0 +1,27 @@
+{
+    "name": "Corrupted Rat",
+    "id": 9040,
+    "isMembersOnly": false,
+    "examine": "I wonder if he knows any corrupted turtles?",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 34,
+    "hitpoints": 14,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 42,
+    "strengthLevel": 48,
+    "defenceLevel": 6,
+    "magicLevel": 6,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

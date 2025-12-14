@@ -1,0 +1,46 @@
+{
+    "name": "Vampyre Juvinate",
+    "id": 3694,
+    "isMembersOnly": false,
+    "examine": "A juvinate vampyre.",
+    "releaseDate": "4 September 2006",
+    "versionAnchor": "Level 54 (Meiyerditch/Darkmeyer)",
+    "combatLevel": 54,
+    "attributes": [
+        "vampyre2"
+    ],
+    "hitpoints": 85,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 85.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

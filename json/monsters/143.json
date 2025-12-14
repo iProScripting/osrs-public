@@ -1,0 +1,28 @@
+{
+    "name": "Rocnar",
+    "id": 143,
+    "isMembersOnly": false,
+    "examine": "It's full of pent-up aggression.",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 97,
+    "hitpoints": 100,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

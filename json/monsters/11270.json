@@ -1,0 +1,58 @@
+{
+    "name": "Snailfeet",
+    "id": 11270,
+    "isMembersOnly": false,
+    "examine": "A goblin high priest, back from the grave.",
+    "releaseDate": "9 February 2022",
+    "combatLevel": 56,
+    "hitpoints": 80,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Goblins",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 30,
+    "magicLevel": 30,
+    "attackBonuses": {
+        "ranged": 32,
+        "melee": 32,
+        "strength": 36,
+        "rangedStrength": 36
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

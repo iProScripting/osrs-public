@@ -1,0 +1,39 @@
+{
+    "name": "Durial321 (Deadman)",
+    "id": 13662,
+    "isMembersOnly": false,
+    "examine": "I have the sudden urge to bank my items.",
+    "releaseDate": "19 July 2024",
+    "combatLevel": 209,
+    "hitpoints": 500,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 98,
+    "defenceLevel": 88,
+    "rangedLevel": 80,
+    "magicLevel": 94,
+    "attackBonuses": {
+        "magic": 47,
+        "ranged": -12,
+        "strength": 105
+    },
+    "defenceBonuses": {
+        "stab": 148,
+        "slash": 134,
+        "crush": 162,
+        "magic": 69,
+        "ranged": 88,
+        "lightRanged": 88,
+        "standardRanged": 88,
+        "heavyRanged": 88
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

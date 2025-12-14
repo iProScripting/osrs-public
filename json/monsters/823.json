@@ -1,0 +1,29 @@
+{
+    "name": "Melzar the Mad",
+    "id": 823,
+    "isMembersOnly": false,
+    "examine": "He looks totally insane!",
+    "releaseDate": "23 September 2001",
+    "combatLevel": 43,
+    "hitpoints": 44,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 37,
+    "strengthLevel": 37,
+    "defenceLevel": 34,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

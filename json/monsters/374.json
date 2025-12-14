@@ -1,0 +1,26 @@
+{
+    "name": "Pheasant",
+    "id": 374,
+    "isMembersOnly": false,
+    "examine": "A brightly coloured game bird.",
+    "releaseDate": "1 August 2005",
+    "versionAnchor": "3 tails",
+    "combatLevel": 3,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 3,
+    "strengthLevel": 3,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 1
+}

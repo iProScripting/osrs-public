@@ -1,0 +1,53 @@
+{
+    "name": "Zygomite",
+    "id": 537,
+    "isMembersOnly": false,
+    "examine": "A bouncy fungus.",
+    "releaseDate": "7 March 2006",
+    "combatLevel": 74,
+    "hitpoints": 65,
+    "maxHit": [
+        "7 (Melee)",
+        "6 (Ranged)"
+    ],
+    "slayerLevel": 57,
+    "slayerExperience": 65.0,
+    "slayerCategory": [
+        "Mutated Zygomites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 65,
+    "rangedLevel": 65,
+    "magicLevel": 65,
+    "attackBonuses": {
+        "melee": 30
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Magical melee",
+        "Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

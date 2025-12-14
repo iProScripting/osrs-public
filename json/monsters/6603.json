@@ -1,0 +1,33 @@
+{
+    "name": "Rogue",
+    "id": 6603,
+    "isMembersOnly": false,
+    "examine": "A very strong rogue.",
+    "releaseDate": "13 March 2014",
+    "versionAnchor": "Level 135",
+    "combatLevel": 135,
+    "hitpoints": 125,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 125.0,
+    "slayerCategory": [
+        "Rogues"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 140,
+    "defenceLevel": 150,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

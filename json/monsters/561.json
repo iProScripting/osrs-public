@@ -1,0 +1,35 @@
+{
+    "name": "Sorebones",
+    "id": 561,
+    "isMembersOnly": false,
+    "examine": "Bedside manner is a little lacking, I think.",
+    "releaseDate": "6 March 2007",
+    "versionAnchor": "Jacket",
+    "combatLevel": 57,
+    "hitpoints": 52,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 49,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

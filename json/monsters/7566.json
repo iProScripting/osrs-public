@@ -1,0 +1,46 @@
+{
+    "name": "Vasa Nistirio",
+    "id": 7566,
+    "isMembersOnly": false,
+    "examine": "A former High Priest, fused with the rock and bound to the dark crystals.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 450,
+    "maxHit": [
+        "Varies"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 262,
+    "rangedLevel": 345,
+    "magicLevel": 345,
+    "attackBonuses": {
+        "ranged": 100
+    },
+    "defenceBonuses": {
+        "stab": 170,
+        "slash": 190,
+        "crush": 40,
+        "magic": 400,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 10.0,
+    "size": 5
+}

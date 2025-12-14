@@ -1,0 +1,31 @@
+{
+    "name": "Giant ant",
+    "id": 15437,
+    "isMembersOnly": false,
+    "examine": "I shall call him Anthony.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "Soldier",
+    "combatLevel": 29,
+    "hitpoints": 30,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 23,
+    "strengthLevel": 26,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 24,
+        "slash": 20,
+        "crush": 12,
+        "magic": 7
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,29 @@
+{
+    "name": "The Untouchable (Nightmare Zone)",
+    "id": 6121,
+    "isMembersOnly": false,
+    "examine": "Can you bring yourself to hurt another?",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 440,
+    "hitpoints": 180,
+    "maxHit": [
+        "52"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 374,
+    "strengthLevel": 510,
+    "defenceLevel": 434,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

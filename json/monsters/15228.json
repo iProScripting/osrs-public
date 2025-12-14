@@ -1,0 +1,31 @@
+{
+    "name": "Tern",
+    "id": 15228,
+    "isMembersOnly": false,
+    "examine": "Down for what?",
+    "releaseDate": "5 November 2025",
+    "combatLevel": 22,
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 20,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

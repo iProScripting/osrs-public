@@ -1,0 +1,42 @@
+{
+    "name": "Balfrug Kreeyath",
+    "id": 3132,
+    "isMembersOnly": false,
+    "examine": "Despoiler of Ullek.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 151,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 161,
+    "maxHit": [
+        "16"
+    ],
+    "slayerExperience": 161.0,
+    "slayerCategory": [
+        "Black Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 115,
+    "strengthLevel": 60,
+    "defenceLevel": 153,
+    "rangedLevel": 1,
+    "magicLevel": 150,
+    "defenceBonuses": {
+        "magic": 10
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 25
+}

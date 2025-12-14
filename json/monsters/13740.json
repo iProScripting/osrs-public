@@ -1,0 +1,35 @@
+{
+    "name": "Emissary Chosen",
+    "id": 13740,
+    "isMembersOnly": false,
+    "examine": "An experienced member of the Twilight Emissaries.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "3",
+    "combatLevel": 76,
+    "hitpoints": 50,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 20,
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 40,
+        "magic": 15,
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

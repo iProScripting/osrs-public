@@ -1,0 +1,56 @@
+{
+    "name": "Skeletal Mystic",
+    "id": 7605,
+    "isMembersOnly": false,
+    "examine": "Sounds like some kind of hybrid clothing, actually.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "undead",
+        "xerician"
+    ],
+    "hitpoints": 240,
+    "maxHit": [
+        "Varies"
+    ],
+    "slayerExperience": 240.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 210,
+    "strengthLevel": 210,
+    "defenceLevel": 280,
+    "rangedLevel": 1,
+    "magicLevel": 210,
+    "attackBonuses": {
+        "magic": 40,
+        "melee": 85,
+        "strength": 50,
+        "magicDamage": 38
+    },
+    "defenceBonuses": {
+        "stab": 155,
+        "slash": 155,
+        "crush": 75,
+        "magic": 140,
+        "ranged": 115,
+        "lightRanged": 115,
+        "standardRanged": 115,
+        "heavyRanged": 75
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 30.0,
+    "size": 2
+}

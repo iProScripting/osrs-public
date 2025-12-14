@@ -1,0 +1,50 @@
+{
+    "name": "Dagannoth Supreme",
+    "id": 2265,
+    "isMembersOnly": false,
+    "examine": "The dagannoth king responsible for the death of the Bukalla.",
+    "releaseDate": "7 November 2005",
+    "combatLevel": 303,
+    "poisonous": true,
+    "hitpoints": 255,
+    "maxHit": [
+        "30"
+    ],
+    "slayerExperience": 255.0,
+    "slayerCategory": [
+        "Bosses",
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 128,
+    "rangedLevel": 255,
+    "magicLevel": 255,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 255,
+        "ranged": 550,
+        "lightRanged": 550,
+        "standardRanged": 550,
+        "heavyRanged": 550
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

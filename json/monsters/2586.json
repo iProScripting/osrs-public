@@ -1,0 +1,39 @@
+{
+    "name": "Abyssal walker",
+    "id": 2586,
+    "isMembersOnly": false,
+    "examine": "Apparently walks the Abyss.",
+    "releaseDate": "13 June 2005",
+    "combatLevel": 81,
+    "hitpoints": 95,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 100,
+    "defenceLevel": 95,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 75,
+        "slash": 75,
+        "crush": 10,
+        "magic": 75,
+        "ranged": 75,
+        "lightRanged": 75,
+        "standardRanged": 75,
+        "heavyRanged": 75
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": -75.0,
+    "size": 1
+}

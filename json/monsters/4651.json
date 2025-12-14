@@ -1,0 +1,33 @@
+{
+    "name": "Desert Wolf",
+    "id": 4651,
+    "isMembersOnly": false,
+    "examine": "A vicious desert wolf.",
+    "releaseDate": "14 April 2003",
+    "versionAnchor": "3",
+    "combatLevel": 27,
+    "hitpoints": 34,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 34.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 21,
+    "defenceLevel": 22,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

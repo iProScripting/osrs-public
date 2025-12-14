@@ -1,0 +1,45 @@
+{
+    "name": "Warped Tortoise",
+    "id": 12490,
+    "isMembersOnly": false,
+    "examine": "What a horrible looking thing.",
+    "releaseDate": "13 September 2023",
+    "combatLevel": 121,
+    "hitpoints": 200,
+    "maxHit": [
+        "12"
+    ],
+    "slayerLevel": 56,
+    "slayerExperience": 200.0,
+    "slayerCategory": [
+        "Warped Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 78,
+    "strengthLevel": 106,
+    "defenceLevel": 78,
+    "magicLevel": 50,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

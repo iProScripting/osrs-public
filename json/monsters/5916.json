@@ -1,0 +1,33 @@
+{
+    "name": "Spawn",
+    "id": 5916,
+    "isMembersOnly": false,
+    "examine": "A juvenile spawn.",
+    "releaseDate": "1 October 2015",
+    "combatLevel": 55,
+    "hitpoints": 15,
+    "maxHit": [
+        "9 Ranged",
+        "4 Melee"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 30,
+    "defenceLevel": 10,
+    "rangedLevel": 50,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

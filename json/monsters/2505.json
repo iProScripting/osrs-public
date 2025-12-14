@@ -1,0 +1,45 @@
+{
+    "name": "Zombie (Stronghold of Security)",
+    "id": 2505,
+    "isMembersOnly": false,
+    "examine": "Dead man walking.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 44, 2",
+    "combatLevel": 44,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5
+    },
+    "defenceBonuses": {
+        "crush": 22
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

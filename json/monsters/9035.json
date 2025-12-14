@@ -1,0 +1,48 @@
+{
+    "name": "Corrupted Hunllef",
+    "id": 9035,
+    "isMembersOnly": false,
+    "examine": "A deadly predator formed from crystal.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 894,
+    "hitpoints": 1000,
+    "maxHit": [
+        "68"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 240,
+    "strengthLevel": 240,
+    "defenceLevel": 240,
+    "rangedLevel": 240,
+    "magicLevel": 240,
+    "attackBonuses": {
+        "magic": 90,
+        "ranged": 90,
+        "melee": 90,
+        "strength": 112,
+        "rangedStrength": 112,
+        "magicDamage": 112
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "magic": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 45.0,
+    "size": 5
+}

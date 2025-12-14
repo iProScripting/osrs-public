@@ -1,0 +1,49 @@
+{
+    "name": "Elf Archer",
+    "id": 5295,
+    "isMembersOnly": false,
+    "examine": "He looks pretty handy with that bow.",
+    "releaseDate": "19 July 2005",
+    "versionAnchor": "1",
+    "combatLevel": 90,
+    "hitpoints": 105,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 105.0,
+    "slayerCategory": [
+        "Elves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 80,
+    "rangedLevel": 90,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "rangedStrength": 8
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 60,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

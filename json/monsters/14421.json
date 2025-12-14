@@ -1,0 +1,55 @@
+{
+    "name": "Earthen Nagua",
+    "id": 14421,
+    "isMembersOnly": false,
+    "examine": "Strong, sharp and dangerous.",
+    "releaseDate": "23 July 2025",
+    "versionAnchor": "Reinforced",
+    "combatLevel": 128,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 160,
+    "maxHit": [
+        "13 total",
+        "7+6"
+    ],
+    "slayerLevel": 48,
+    "slayerExperience": 165.0,
+    "slayerCategory": [
+        "Lesser Nagua"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackBonuses": {
+        "melee": 100
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 10,
+        "magic": 60,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 15
+}

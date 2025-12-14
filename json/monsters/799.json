@@ -1,0 +1,48 @@
+{
+    "name": "Scarab Mage",
+    "id": 799,
+    "isMembersOnly": false,
+    "examine": "Part scarab, part human.",
+    "releaseDate": "10 January 2007",
+    "versionAnchor": "Level 66 (Quest)",
+    "combatLevel": 66,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "17"
+    ],
+    "slayerExperience": 51.2,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 70,
+    "attackBonuses": {
+        "magic": 70
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 90,
+        "crush": 90,
+        "magic": 34
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 15,
+    "experienceBonus": 2.5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

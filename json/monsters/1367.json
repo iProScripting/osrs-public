@@ -1,0 +1,27 @@
+{
+    "name": "Earth elemental",
+    "id": 1367,
+    "isMembersOnly": false,
+    "examine": "An earth elemental.",
+    "releaseDate": "2 October 2006",
+    "versionAnchor": "Ore",
+    "combatLevel": 35,
+    "hitpoints": 35,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 35,
+    "defenceLevel": 35,
+    "rangedLevel": 30,
+    "magicLevel": 10,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

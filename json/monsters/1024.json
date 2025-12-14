@@ -1,0 +1,53 @@
+{
+    "name": "Zygomite",
+    "id": 1024,
+    "isMembersOnly": false,
+    "examine": "A fun guy. No wait, that's awful..",
+    "releaseDate": "7 March 2006",
+    "combatLevel": 86,
+    "hitpoints": 75,
+    "maxHit": [
+        "8 (Melee)",
+        "10 (Ranged)"
+    ],
+    "slayerLevel": 57,
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Mutated Zygomites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 75,
+    "rangedLevel": 75,
+    "magicLevel": 75,
+    "attackBonuses": {
+        "melee": 30
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Magical melee",
+        "Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

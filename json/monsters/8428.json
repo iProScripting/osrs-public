@@ -1,0 +1,33 @@
+{
+    "name": "Mother",
+    "id": 8428,
+    "isMembersOnly": false,
+    "examine": "Not a good father.",
+    "releaseDate": "6 September 2018",
+    "combatLevel": 198,
+    "hitpoints": 235,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 170,
+    "rangedLevel": 105,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 50
+    },
+    "defenceBonuses": {
+        "magic": 200
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Corrupt Lizardman (Nightmare Zone)",
+    "id": 7996,
+    "isMembersOnly": false,
+    "examine": "Looks like there's something wrong with it.",
+    "releaseDate": "19 April 2018",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 152,
+    "poisonous": true,
+    "hitpoints": 150,
+    "maxHit": [
+        "22"
+    ],
+    "slayerExperience": 150.0,
+    "slayerCategory": [
+        "Lizardmen"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 162,
+    "strengthLevel": 162,
+    "defenceLevel": 38,
+    "rangedLevel": 162,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 22,
+        "melee": 22,
+        "strength": 20,
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": 25
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1
+}

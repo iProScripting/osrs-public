@@ -1,0 +1,46 @@
+{
+    "name": "Infernal pyrelord",
+    "id": 9465,
+    "isMembersOnly": false,
+    "examine": "A huge demonic being of fire.",
+    "releaseDate": "13 February 2020",
+    "combatLevel": 134,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 184,
+    "maxHit": [
+        "10"
+    ],
+    "slayerLevel": 30,
+    "slayerExperience": 1840.0,
+    "slayerCategory": [
+        "Pyrefiends"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 124,
+    "strengthLevel": 96,
+    "defenceLevel": 68,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 18,
+        "crush": 18,
+        "ranged": 18,
+        "lightRanged": 18,
+        "standardRanged": 18,
+        "heavyRanged": 18
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

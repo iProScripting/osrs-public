@@ -1,0 +1,33 @@
+{
+    "name": "Tribesman",
+    "id": 6406,
+    "isMembersOnly": false,
+    "examine": "A vicious warrior.",
+    "releaseDate": "9 August 2005",
+    "combatLevel": 32,
+    "hitpoints": 39,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 23,
+    "strengthLevel": 27,
+    "defenceLevel": 26,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 4,
+        "slash": 6,
+        "crush": 6
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

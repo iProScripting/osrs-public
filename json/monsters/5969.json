@@ -1,0 +1,41 @@
+{
+    "name": "Gnome",
+    "id": 5969,
+    "isMembersOnly": false,
+    "examine": "Like a mini man!",
+    "releaseDate": "23 July 2002",
+    "versionAnchor": "Level 1, 1",
+    "combatLevel": 1,
+    "hitpoints": 3,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -42,
+        "strength": -42,
+        "rangedStrength": 2
+    },
+    "defenceBonuses": {
+        "stab": -42,
+        "slash": -42,
+        "crush": -42,
+        "magic": -42,
+        "ranged": -42,
+        "lightRanged": -42,
+        "standardRanged": -42,
+        "heavyRanged": -42
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

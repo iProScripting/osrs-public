@@ -1,0 +1,47 @@
+{
+    "name": "Black Knight",
+    "id": 4331,
+    "isMembersOnly": false,
+    "examine": "A dark-hearted knight.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Hostile, male",
+    "combatLevel": 33,
+    "hitpoints": 42,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 42.0,
+    "slayerCategory": [
+        "Black Knights"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 18,
+        "strength": 16
+    },
+    "defenceBonuses": {
+        "stab": 73,
+        "slash": 76,
+        "crush": 70,
+        "magic": -11,
+        "ranged": 72,
+        "lightRanged": 72,
+        "standardRanged": 72,
+        "heavyRanged": 72
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

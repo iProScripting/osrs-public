@@ -1,0 +1,48 @@
+{
+    "name": "Scorpion",
+    "id": 2480,
+    "isMembersOnly": false,
+    "examine": "An extremely vicious scorpion.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 37",
+    "combatLevel": 37,
+    "hitpoints": 37,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 37.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 31,
+    "strengthLevel": 32,
+    "defenceLevel": 31,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 15,
+        "crush": 15,
+        "magic": 30,
+        "ranged": 35,
+        "lightRanged": 35,
+        "standardRanged": 35,
+        "heavyRanged": 35
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

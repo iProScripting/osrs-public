@@ -1,0 +1,39 @@
+{
+    "name": "Market Guard",
+    "id": 3949,
+    "isMembersOnly": false,
+    "examine": "Keeps the stalls secure.",
+    "releaseDate": "2 November 2004",
+    "combatLevel": 48,
+    "hitpoints": 50,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 40
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 2.5,
+    "size": 1
+}

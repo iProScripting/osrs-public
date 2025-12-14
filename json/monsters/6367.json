@@ -1,0 +1,34 @@
+{
+    "name": "Evil Chicken (Nightmare Zone)",
+    "id": 6367,
+    "isMembersOnly": false,
+    "examine": "A fowl beast.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 159,
+    "hitpoints": 120,
+    "maxHit": [
+        "21"
+    ],
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 126,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

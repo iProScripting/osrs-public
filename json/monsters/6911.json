@@ -1,0 +1,36 @@
+{
+    "name": "Soldier (tier 4)",
+    "id": 6911,
+    "isMembersOnly": false,
+    "examine": "Highly ranked.",
+    "releaseDate": "7 January 2016",
+    "combatLevel": 70,
+    "hitpoints": 65,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 8
+    },
+    "defenceBonuses": {
+        "stab": 1,
+        "slash": 1
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

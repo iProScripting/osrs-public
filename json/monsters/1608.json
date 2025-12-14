@@ -1,0 +1,28 @@
+{
+    "name": "Kolodion",
+    "id": 1608,
+    "isMembersOnly": false,
+    "examine": "He's a shape-shifter.",
+    "releaseDate": "22 September 2003",
+    "versionAnchor": "Ghost",
+    "poisonous": true,
+    "hitpoints": 78,
+    "maxHit": [
+        "20"
+    ],
+    "slayerCategory": [
+        "No"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 23,
+    "defenceLevel": 58,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

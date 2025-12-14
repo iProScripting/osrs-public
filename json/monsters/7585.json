@@ -1,0 +1,46 @@
+{
+    "name": "Ice demon",
+    "id": 7585,
+    "isMembersOnly": false,
+    "examine": "Lord of the Icefiends.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "demon",
+        "xerician"
+    ],
+    "hitpoints": 210,
+    "maxHit": [
+        "Varies"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 240,
+    "rangedLevel": 585,
+    "magicLevel": 585,
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 70,
+        "crush": 110,
+        "magic": 40,
+        "ranged": 140,
+        "lightRanged": 140,
+        "standardRanged": 140,
+        "heavyRanged": 140
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 150
+}

@@ -1,0 +1,32 @@
+{
+    "name": "A Doubt",
+    "id": 3477,
+    "isMembersOnly": false,
+    "examine": "You can't escape your inadequacy!",
+    "releaseDate": "15 May 2007",
+    "combatLevel": 78,
+    "hitpoints": 59,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 58,
+    "defenceLevel": 85,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 18,
+        "strength": 16
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

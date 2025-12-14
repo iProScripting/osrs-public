@@ -1,0 +1,60 @@
+{
+    "name": "Jal-Ak",
+    "id": 7693,
+    "isMembersOnly": false,
+    "examine": "Slow and powerful. It seems to use its attacks wisely.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 165,
+    "hitpoints": 40,
+    "maxHit": [
+        "29"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 160,
+    "defenceLevel": 95,
+    "rangedLevel": 160,
+    "magicLevel": 160,
+    "attackBonuses": {
+        "magic": 45,
+        "ranged": 45,
+        "strength": 45,
+        "rangedStrength": 45,
+        "magicDamage": 45
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 25,
+        "magic": 25,
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

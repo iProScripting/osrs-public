@@ -1,0 +1,45 @@
+{
+    "name": "Greater demon",
+    "id": 2028,
+    "isMembersOnly": false,
+    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> Big, red, and incredibly evil.<br/><span style=\"user-select:none;\">'''&bull;'''</span> Big, purple, and incredibly evil.",
+    "releaseDate": "13 August 2001",
+    "versionAnchor": "Level 92",
+    "combatLevel": 92,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 87,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 87.0,
+    "slayerCategory": [
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 76,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

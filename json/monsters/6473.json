@@ -1,0 +1,37 @@
+{
+    "name": "Terror dog",
+    "id": 6473,
+    "isMembersOnly": false,
+    "examine": "A terrifying dog beast.",
+    "releaseDate": "22 January 2007",
+    "versionAnchor": "Level 110",
+    "combatLevel": 110,
+    "hitpoints": 87,
+    "maxHit": [
+        "15"
+    ],
+    "slayerLevel": 40,
+    "slayerExperience": 87.0,
+    "slayerCategory": [
+        "Terror Dogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 104,
+    "defenceLevel": 78,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Dagannoth Supreme (Deadman)",
+    "id": 12441,
+    "isMembersOnly": false,
+    "examine": "The dagannoth king responsible for the death of the Bukalla.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 385,
+    "hitpoints": 750,
+    "slayerCategory": [
+        "Bosses",
+        "Dagannoth"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 128,
+    "rangedLevel": 255,
+    "magicLevel": 255,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 255,
+        "ranged": 550,
+        "lightRanged": 550,
+        "standardRanged": 550,
+        "heavyRanged": 550
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

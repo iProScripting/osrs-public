@@ -1,0 +1,38 @@
+{
+    "name": "Weaponsmaster",
+    "id": 14137,
+    "isMembersOnly": false,
+    "examine": "Looks kind of obsessive...",
+    "releaseDate": "4 January 2001",
+    "combatLevel": 23,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 21,
+    "strengthLevel": 21,
+    "defenceLevel": 21,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 21,
+        "slash": 23,
+        "crush": 21,
+        "magic": -6,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

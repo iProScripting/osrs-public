@@ -1,0 +1,57 @@
+{
+    "name": "Skeletal Wyvern",
+    "id": 467,
+    "isMembersOnly": false,
+    "examine": "A very dangerous pile of animated wyvern bones.",
+    "releaseDate": "12 December 2005",
+    "versionAnchor": "4",
+    "combatLevel": 140,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "13 (Ranged)",
+        "13 (Melee)",
+        "50+ (Icy breath)"
+    ],
+    "slayerLevel": 72,
+    "slayerExperience": 210.0,
+    "slayerCategory": [
+        "Skeletal Wyverns"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 125,
+    "strengthLevel": 116,
+    "defenceLevel": 120,
+    "rangedLevel": 120,
+    "magicLevel": 125,
+    "defenceBonuses": {
+        "stab": 140,
+        "slash": 90,
+        "crush": 90,
+        "magic": 80,
+        "ranged": 140,
+        "lightRanged": 140,
+        "standardRanged": 140,
+        "heavyRanged": 140
+    },
+    "attackStyle": [
+        "Ranged",
+        "Slash",
+        "Icy breath"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 5.0,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

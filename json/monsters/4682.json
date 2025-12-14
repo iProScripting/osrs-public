@@ -1,0 +1,24 @@
+{
+    "name": "Sir Leye",
+    "id": 4682,
+    "isMembersOnly": false,
+    "examine": "A warrior blessed by Saradomin.",
+    "releaseDate": "27 June 2005",
+    "combatLevel": 20,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

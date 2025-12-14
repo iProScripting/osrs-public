@@ -1,0 +1,49 @@
+{
+    "name": "Kasonde the Craven",
+    "id": 12331,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 221,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 120,
+    "rangedLevel": 200,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "ranged": 50,
+        "melee": 40,
+        "strength": 4,
+        "rangedStrength": 4
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 250,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Melee"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

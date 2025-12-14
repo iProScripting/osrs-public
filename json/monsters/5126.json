@@ -1,0 +1,39 @@
+{
+    "name": "Experiment No.2",
+    "id": 5126,
+    "isMembersOnly": false,
+    "examine": "A very odd looking creature.",
+    "releaseDate": "4 June 2007",
+    "combatLevel": 109,
+    "hitpoints": 95,
+    "maxHit": [
+        "11 (approx)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 104,
+    "strengthLevel": 92,
+    "defenceLevel": 90,
+    "rangedLevel": 100,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 45,
+        "slash": 70,
+        "crush": 60,
+        "magic": 60,
+        "ranged": 25,
+        "lightRanged": 55,
+        "standardRanged": 25,
+        "heavyRanged": 55
+    },
+    "immunities": {
+        "thrall": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 2
+}

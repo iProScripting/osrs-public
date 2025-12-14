@@ -1,0 +1,40 @@
+{
+    "name": "Skeleton guard",
+    "id": 130,
+    "isMembersOnly": false,
+    "examine": "He guards the dungeon with the faithfulness of the undead.",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 22,
+    "hitpoints": 29,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 18,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 11,
+        "crush": -2,
+        "magic": 1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

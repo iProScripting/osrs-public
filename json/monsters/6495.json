@@ -1,0 +1,61 @@
+{
+    "name": "K'ril Tsutsaroth (PvM Arena)",
+    "id": 6495,
+    "isMembersOnly": false,
+    "examine": "A servant of the god Zamorak.",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 650,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 255,
+    "maxHit": [
+        "30 (magic)",
+        "46 (melee)",
+        "49 (special attack)"
+    ],
+    "slayerExperience": 350.5,
+    "slayerCategory": [
+        "Bosses",
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 340,
+    "strengthLevel": 300,
+    "defenceLevel": 270,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "melee": 160,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 80,
+        "crush": 80,
+        "magic": 130,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 37.5,
+    "size": 5
+}

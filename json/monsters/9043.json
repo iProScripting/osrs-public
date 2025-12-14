@@ -1,0 +1,27 @@
+{
+    "name": "Corrupted Unicorn",
+    "id": 9043,
+    "isMembersOnly": false,
+    "examine": "A crystal formed horse with a crystal formed horn.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 64,
+    "hitpoints": 44,
+    "maxHit": [
+        "17"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 72,
+    "defenceLevel": 24,
+    "magicLevel": 24,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

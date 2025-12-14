@@ -1,0 +1,43 @@
+{
+    "name": "Chaos druid warrior",
+    "id": 532,
+    "isMembersOnly": false,
+    "examine": "A crazy evil druid.",
+    "releaseDate": "12 December 2002",
+    "combatLevel": 37,
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Chaos Druids"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 34,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 13,
+        "slash": 17,
+        "crush": 14,
+        "magic": -4,
+        "ranged": 14,
+        "lightRanged": 14,
+        "standardRanged": 14,
+        "heavyRanged": 14
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

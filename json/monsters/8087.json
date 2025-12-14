@@ -1,0 +1,56 @@
+{
+    "name": "Brutal red dragon",
+    "id": 8087,
+    "isMembersOnly": false,
+    "examine": "It appears intelligent and savage.",
+    "releaseDate": "9 June 2016",
+    "combatLevel": 289,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 285,
+    "maxHit": [
+        "22 (Melee; Magic)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 306.2,
+    "slayerCategory": [
+        "Red Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 310,
+    "strengthLevel": 210,
+    "defenceLevel": 198,
+    "magicLevel": 250,
+    "defenceBonuses": {
+        "slash": 70,
+        "crush": 70,
+        "magic": 60,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

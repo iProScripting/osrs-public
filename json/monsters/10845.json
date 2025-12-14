@@ -1,0 +1,26 @@
+{
+    "name": "Nylocas Matomenos",
+    "id": 10845,
+    "isMembersOnly": false,
+    "examine": "Dripping with blood.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Entry Mode Verzik",
+    "combatLevel": 68,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 100,
+    "magicLevel": 100,
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Scurrius",
+    "id": 7221,
+    "isMembersOnly": false,
+    "examine": "You're never more than six feet away from one.",
+    "releaseDate": "24 January 2024",
+    "versionAnchor": "Group",
+    "combatLevel": 250,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 1500,
+    "maxHit": [
+        "13 (Melee)",
+        "14 (Magic)",
+        "13 (Ranged)",
+        "24 (Rockfall)"
+    ],
+    "slayerExperience": 2137.5,
+    "slayerCategory": [
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 100,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 150,
+        "ranged": 150,
+        "melee": 150,
+        "strength": 10,
+        "rangedStrength": 10,
+        "magicDamage": 20
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "magic": 10,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 42.5,
+    "size": 3
+}

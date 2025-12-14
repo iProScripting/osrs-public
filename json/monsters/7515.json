@@ -1,0 +1,59 @@
+{
+    "name": "Porazdir",
+    "id": 7515,
+    "isMembersOnly": false,
+    "examine": "A rage-filled Zamorakian Demon.",
+    "releaseDate": "8 February 2018",
+    "combatLevel": 235,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 320,
+    "maxHit": [
+        "43 (magic)",
+        "16 (melee)"
+    ],
+    "slayerExperience": 376.0,
+    "slayerCategory": [
+        "Black Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "attackBonuses": {
+        "magic": 80,
+        "magicDamage": 80
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 200,
+        "crush": 200,
+        "magic": -60,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 20.0,
+    "size": 3
+}

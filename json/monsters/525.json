@@ -1,0 +1,33 @@
+{
+    "name": "Thug",
+    "id": 525,
+    "isMembersOnly": false,
+    "examine": "Low on brains, high on aggression.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 10,
+    "hitpoints": 18,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 7,
+    "strengthLevel": 5,
+    "defenceLevel": 9,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 2,
+        "slash": 3,
+        "crush": 3
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Kalphite Guardian",
+    "id": 962,
+    "isMembersOnly": false,
+    "examine": "I don't think insect repellent will work...",
+    "releaseDate": "7 September 2004",
+    "versionAnchor": "Lower level",
+    "combatLevel": 141,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 170,
+    "maxHit": [
+        "12"
+    ],
+    "slayerExperience": 170.0,
+    "slayerCategory": [
+        "Kalphite"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 5,
+        "magic": 50,
+        "ranged": 30,
+        "lightRanged": 50,
+        "standardRanged": 30,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 4,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

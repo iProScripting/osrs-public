@@ -1,0 +1,45 @@
+{
+    "name": "Count Draynor (Nightmare Zone)",
+    "id": 6393,
+    "isMembersOnly": false,
+    "examine": "Stop looking and run!",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 34,
+    "attributes": [
+        "vampyre1"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 25,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 2,
+        "slash": 1,
+        "crush": 3
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

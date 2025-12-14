@@ -1,0 +1,39 @@
+{
+    "name": "Bloodthirsty Jelly",
+    "id": 12570,
+    "isMembersOnly": false,
+    "examine": "I don't think you're ready for this jelly.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 309,
+    "hitpoints": 285,
+    "maxHit": [
+        "23"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 2850.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 225,
+    "defenceLevel": 220,
+    "rangedLevel": 1,
+    "magicLevel": 225,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

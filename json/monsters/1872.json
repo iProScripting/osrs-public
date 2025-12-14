@@ -1,0 +1,49 @@
+{
+    "name": "Baby black dragon",
+    "id": 1872,
+    "isMembersOnly": false,
+    "examine": "Young but still dangerous.",
+    "releaseDate": "15 March 2006",
+    "versionAnchor": "Normal",
+    "combatLevel": 83,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Black Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 50,
+        "crush": 50,
+        "magic": 40,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

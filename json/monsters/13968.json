@@ -1,0 +1,26 @@
+{
+    "name": "Porcupine",
+    "id": 13968,
+    "isMembersOnly": false,
+    "examine": "A spiky fellow.",
+    "releaseDate": "25 September 2024",
+    "combatLevel": 4,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 4,
+    "strengthLevel": 5,
+    "defenceLevel": 2,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

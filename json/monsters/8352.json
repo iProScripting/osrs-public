@@ -1,0 +1,35 @@
+{
+    "name": "Nylocas Toxobolos",
+    "id": 8352,
+    "isMembersOnly": false,
+    "examine": "One of Verzik's pets.",
+    "releaseDate": "7 June 2018",
+    "versionAnchor": "Big",
+    "combatLevel": 260,
+    "hitpoints": 22,
+    "maxHit": [
+        "24"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 230,
+    "defenceLevel": 20,
+    "rangedLevel": 250,
+    "magicLevel": 20,
+    "attackBonuses": {
+        "magic": 500,
+        "magicDamage": 500
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

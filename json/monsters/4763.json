@@ -1,0 +1,25 @@
+{
+    "name": "Target",
+    "id": 4763,
+    "isMembersOnly": false,
+    "examine": "Needs to be shot with a ranged weapon.",
+    "releaseDate": "5 December 2005",
+    "versionAnchor": "Standing",
+    "combatLevel": 1,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

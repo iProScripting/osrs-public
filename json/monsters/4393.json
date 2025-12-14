@@ -1,0 +1,29 @@
+{
+    "name": "Ogre shaman",
+    "id": 4393,
+    "isMembersOnly": false,
+    "examine": "Seems intelligent... for an ogre.",
+    "releaseDate": "5 December 2006",
+    "versionAnchor": "5",
+    "combatLevel": 113,
+    "hitpoints": 1,
+    "maxHit": [
+        "30"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

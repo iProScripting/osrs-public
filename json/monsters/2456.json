@@ -1,0 +1,46 @@
+{
+    "name": "Animated Rune Armour",
+    "id": 2456,
+    "isMembersOnly": false,
+    "examine": "Animated rune armour.",
+    "releaseDate": "13 June 2006",
+    "combatLevel": 138,
+    "hitpoints": 120,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 25,
+        "crush": 19,
+        "magic": 400,
+        "ranged": 400,
+        "lightRanged": 400,
+        "standardRanged": 400,
+        "heavyRanged": 400
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "burn": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

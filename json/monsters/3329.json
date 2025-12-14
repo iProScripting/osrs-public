@@ -1,0 +1,24 @@
+{
+    "name": "Giant Champion",
+    "id": 3329,
+    "isMembersOnly": false,
+    "examine": "Champion of the giants.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 56,
+    "hitpoints": 70,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 36,
+    "strengthLevel": 44,
+    "defenceLevel": 52,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Khazard Scorpion",
+    "id": 1226,
+    "isMembersOnly": false,
+    "examine": "A large angry scorpion.",
+    "releaseDate": "23 July 2002",
+    "combatLevel": 44,
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 39,
+    "defenceLevel": 34,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 15,
+        "crush": 15,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

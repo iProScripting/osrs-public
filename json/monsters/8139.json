@@ -1,0 +1,19 @@
+{
+    "name": "Skeleton (Wrath Altar)",
+    "id": 8139,
+    "isMembersOnly": false,
+    "examine": "Even in death he still fights.",
+    "releaseDate": "4 January 2018",
+    "combatLevel": 35,
+    "hitpoints": 60,
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 24,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+    ],
+    "size": 2
+}

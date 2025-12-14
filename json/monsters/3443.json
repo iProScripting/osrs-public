@@ -1,0 +1,38 @@
+{
+    "name": "Lucien",
+    "id": 3443,
+    "isMembersOnly": false,
+    "examine": "He walks with a slight limp.",
+    "releaseDate": "17 June 2002",
+    "combatLevel": 14,
+    "hitpoints": 17,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 12,
+    "strengthLevel": 11,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 4
+    },
+    "defenceBonuses": {
+        "stab": 6,
+        "slash": 8,
+        "crush": 7,
+        "magic": -1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

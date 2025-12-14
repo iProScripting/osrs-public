@@ -1,0 +1,39 @@
+{
+    "name": "Feral Vampyre",
+    "id": 5640,
+    "isMembersOnly": false,
+    "examine": "A feral vampyre. It looks really hungry!",
+    "releaseDate": "17 July 2006",
+    "versionAnchor": "Level 70",
+    "combatLevel": 70,
+    "attributes": [
+        "vampyre1"
+    ],
+    "hitpoints": 75,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 46,
+    "defenceLevel": 30,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Dagannoth (Horror from the Deep)",
+    "id": 976,
+    "isMembersOnly": false,
+    "examine": "A horror from the ocean depths...",
+    "releaseDate": "17 November 2004",
+    "combatLevel": 100,
+    "hitpoints": 120,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 78,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "rangedLevel": 50,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

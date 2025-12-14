@@ -1,0 +1,56 @@
+{
+    "name": "Skeleton Hellhound (Vet'ion)",
+    "id": 6613,
+    "isMembersOnly": false,
+    "examine": "Can never possibly go hungry.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 194,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "26"
+    ],
+    "slayerExperience": 33.0,
+    "slayerCategory": [
+        "Hellhounds",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 210,
+    "strengthLevel": 250,
+    "defenceLevel": 150,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 101,
+        "slash": 103,
+        "crush": 10,
+        "magic": 180,
+        "ranged": 266,
+        "lightRanged": 266,
+        "standardRanged": 266,
+        "heavyRanged": 266
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

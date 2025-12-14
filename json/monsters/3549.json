@@ -1,0 +1,32 @@
+{
+    "name": "Menaphite Thug",
+    "id": 3549,
+    "isMembersOnly": false,
+    "examine": "Menaphite thug.",
+    "releaseDate": "4 April 2005",
+    "versionAnchor": "Before Quest",
+    "combatLevel": 55,
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 50,
+    "defenceLevel": 20,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 9
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 8,
+        "crush": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

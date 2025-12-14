@@ -1,0 +1,35 @@
+{
+    "name": "Goblin (God Wars Dungeon)",
+    "id": 2245,
+    "isMembersOnly": false,
+    "examine": "An ancient goblin.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 17",
+    "combatLevel": 17,
+    "hitpoints": 18,
+    "maxHit": [
+        "3"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 18.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 16,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Nylocas Matomenos",
+    "id": 10828,
+    "isMembersOnly": false,
+    "examine": "Dripping with blood.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Hard Mode Maiden",
+    "combatLevel": 138,
+    "hitpoints": 100,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 100,
+    "magicLevel": 100,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

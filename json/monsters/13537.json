@@ -1,0 +1,38 @@
+{
+    "name": "Mercenary mage",
+    "id": 13537,
+    "isMembersOnly": false,
+    "examine": "A spellcasting mercenary who works for the highest bidder.",
+    "releaseDate": "10 July 2024",
+    "combatLevel": 112,
+    "hitpoints": 150,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "magic": 150,
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "crush": 60,
+        "magic": 10,
+        "ranged": 10,
+        "lightRanged": 5,
+        "standardRanged": 10,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Slug Prince",
+    "id": 4797,
+    "isMembersOnly": false,
+    "examine": "A child of aquatic evil.",
+    "releaseDate": "20 September 2006",
+    "combatLevel": 62,
+    "hitpoints": 70,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 99,
+        "ranged": 99,
+        "lightRanged": 99,
+        "standardRanged": 99,
+        "heavyRanged": 99
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

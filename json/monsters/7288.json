@@ -1,0 +1,30 @@
+{
+    "name": "Awakened Altar",
+    "id": 7288,
+    "isMembersOnly": false,
+    "examine": "A power emanates from this structure.",
+    "releaseDate": "16 June 2016",
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "0 (Does not attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

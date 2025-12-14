@@ -1,0 +1,53 @@
+{
+    "name": "Skeleton (Wilderness Agility Course)",
+    "id": 13500,
+    "isMembersOnly": false,
+    "examine": "Could do with gaining a few pounds.",
+    "releaseDate": "10 April 2024",
+    "versionAnchor": "6",
+    "combatLevel": 18,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 17,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 17.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 24,
+    "strengthLevel": 1,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 11,
+        "crush": -2,
+        "magic": 1,
+        "ranged": 4,
+        "lightRanged": 4,
+        "standardRanged": 4,
+        "heavyRanged": 4
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

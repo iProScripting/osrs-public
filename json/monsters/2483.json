@@ -1,0 +1,44 @@
+{
+    "name": "Minotaur",
+    "id": 2483,
+    "isMembersOnly": false,
+    "examine": "He doesn't look very pleased to see you.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 27",
+    "combatLevel": 27,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Minotaurs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 23,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": -10,
+        "crush": -10,
+        "magic": -21,
+        "ranged": -10,
+        "lightRanged": -10,
+        "standardRanged": -10,
+        "heavyRanged": -10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Goblin (Vault of War)",
+    "id": 2486,
+    "isMembersOnly": false,
+    "examine": "An ugly green creature.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 11",
+    "combatLevel": 11,
+    "hitpoints": 7,
+    "maxHit": [
+        "1"
+    ],
+    "slayerLevel": 1,
+    "slayerExperience": 7.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 3,
+    "defenceLevel": 7,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 12,
+        "strength": 12
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Manticore",
+    "id": 12818,
+    "isMembersOnly": false,
+    "examine": "He's smiling at you!",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 320,
+    "hitpoints": 250,
+    "maxHit": [
+        "31 (Melee)",
+        "36 (Ranged)",
+        "31 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 300,
+    "defenceLevel": 250,
+    "rangedLevel": 350,
+    "magicLevel": 300,
+    "defenceBonuses": {
+        "magic": 10,
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 10,
+    "size": 3
+}

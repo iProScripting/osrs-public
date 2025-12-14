@@ -1,0 +1,33 @@
+{
+    "name": "Strangled Bear",
+    "id": 12288,
+    "isMembersOnly": false,
+    "examine": "It doesn't look too healthy.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 197,
+    "hitpoints": 100,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "magicLevel": 60,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 20,
+        "crush": 30,
+        "magic": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Typeless"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

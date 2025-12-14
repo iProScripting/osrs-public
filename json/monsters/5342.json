@@ -1,0 +1,38 @@
+{
+    "name": "Undead one",
+    "id": 5342,
+    "isMembersOnly": false,
+    "examine": "A minion of Rashiliyia.",
+    "releaseDate": "27 January 2003",
+    "versionAnchor": "Level 68 (Skeletal)",
+    "combatLevel": 68,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 47,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 63,
+    "strengthLevel": 63,
+    "defenceLevel": 63,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

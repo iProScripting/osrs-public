@@ -1,0 +1,42 @@
+{
+    "name": "Crocodile (Tombs of Amascut)",
+    "id": 11705,
+    "isMembersOnly": false,
+    "examine": "Never smile at a...",
+    "releaseDate": "24 August 2022",
+    "combatLevel": 71,
+    "hitpoints": 30,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 60,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "attackBonuses": {
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 350,
+        "crush": 350,
+        "magic": 5,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 7,
+    "size": 2
+}

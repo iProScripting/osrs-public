@@ -1,0 +1,34 @@
+{
+    "name": "Scarred lesser demon",
+    "id": 12378,
+    "isMembersOnly": false,
+    "examine": "The power of the Abyss has taken its toll on them.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 121 (summoning circle)",
+    "combatLevel": 121,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 70,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 148,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 66,
+        "strength": 12
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

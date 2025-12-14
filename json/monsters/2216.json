@@ -1,0 +1,36 @@
+{
+    "name": "Sergeant Strongstack",
+    "id": 2216,
+    "isMembersOnly": false,
+    "examine": "A battle-honed goblin.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 141,
+    "hitpoints": 128,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 128.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 124,
+    "strengthLevel": 118,
+    "defenceLevel": 125,
+    "rangedLevel": 50,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "strength": 14
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Grizzly bear (Escape Caves)",
+    "id": 11989,
+    "isMembersOnly": false,
+    "examine": "Eek! A bear!",
+    "releaseDate": "25 January 2023",
+    "combatLevel": 83,
+    "hitpoints": 75,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Bears"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 72,
+    "defenceLevel": 72,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Typeless Slash"
+    ],
+    "attackSpeed": 4,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

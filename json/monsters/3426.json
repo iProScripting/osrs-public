@@ -1,0 +1,35 @@
+{
+    "name": "Dire Wolf",
+    "id": 3426,
+    "isMembersOnly": false,
+    "examine": "What big teeth you have.",
+    "releaseDate": "20 September 2004",
+    "versionAnchor": "Level 88",
+    "combatLevel": 88,
+    "hitpoints": 85,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 85.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

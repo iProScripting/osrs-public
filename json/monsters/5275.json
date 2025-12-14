@@ -1,0 +1,38 @@
+{
+    "name": "Monkey Guard",
+    "id": 5275,
+    "isMembersOnly": false,
+    "examine": "A huge brutish gorilla armoured with dangerous looking vambraces.",
+    "releaseDate": "6 December 2004",
+    "versionAnchor": "Unbearded",
+    "combatLevel": 167,
+    "hitpoints": 130,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 133.0,
+    "slayerCategory": [
+        "Monkeys"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 130,
+    "attackBonuses": {
+        "melee": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 2
+}

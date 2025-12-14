@@ -1,0 +1,38 @@
+{
+    "name": "Archer (Ardougne)",
+    "id": 3301,
+    "isMembersOnly": false,
+    "examine": "Good with arrows.",
+    "releaseDate": "29 March 2004",
+    "combatLevel": 37,
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 40,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 19,
+        "rangedStrength": 8
+    },
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 23,
+        "crush": 27,
+        "magic": 10,
+        "ranged": 19,
+        "lightRanged": 19,
+        "standardRanged": 19,
+        "heavyRanged": 19
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

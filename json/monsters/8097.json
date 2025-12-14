@@ -1,0 +1,59 @@
+{
+    "name": "Galvek",
+    "id": 8097,
+    "isMembersOnly": false,
+    "examine": "This is what fear looks like.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Air",
+    "combatLevel": 608,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 1200,
+    "maxHit": [
+        "28 (Ranged)",
+        "28 (Slash)",
+        "28 (Magic)",
+        "121 (Dragonfire)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 632,
+    "strengthLevel": 268,
+    "defenceLevel": 188,
+    "rangedLevel": 246,
+    "magicLevel": 160,
+    "attackBonuses": {
+        "magic": 160,
+        "ranged": 180,
+        "melee": 34,
+        "rangedStrength": 6,
+        "magicDamage": 42
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 140,
+        "crush": 140,
+        "magic": 280,
+        "ranged": 86,
+        "lightRanged": 86,
+        "standardRanged": 86,
+        "heavyRanged": 86
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic",
+        "Dragonfire"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 42.5,
+    "size": 7,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Vet'ion",
+    "id": 6612,
+    "isMembersOnly": false,
+    "examine": "ONLY THE TRUE LORD & KING OF THE LANDS CAN LIFT HIS BURDEN!",
+    "releaseDate": "13 March 2014",
+    "versionAnchor": "Enraged",
+    "combatLevel": 454,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 255,
+    "maxHit": [
+        "44"
+    ],
+    "slayerExperience": 322.0,
+    "slayerCategory": [
+        "Skeletons",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 430,
+    "strengthLevel": 430,
+    "defenceLevel": 395,
+    "rangedLevel": 1,
+    "magicLevel": 300,
+    "defenceBonuses": {
+        "stab": 201,
+        "slash": 200,
+        "crush": -10,
+        "magic": 250,
+        "ranged": 270,
+        "lightRanged": 270,
+        "standardRanged": 270,
+        "heavyRanged": 270
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 22.5,
+    "size": 3
+}

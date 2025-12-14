@@ -1,0 +1,52 @@
+{
+    "name": "The Hueycoatl",
+    "id": 14014,
+    "isMembersOnly": false,
+    "examine": "I'd best avoid that.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Normal",
+    "combatLevel": 642,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 300,
+    "maxHit": [
+        "25"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 50,
+    "defenceLevel": 125,
+    "rangedLevel": 50,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "magic": 200,
+        "ranged": 250,
+        "melee": 100,
+        "strength": 50,
+        "rangedStrength": 50,
+        "magicDamage": 50
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "magic": 200,
+        "ranged": 350,
+        "lightRanged": 350,
+        "standardRanged": 350,
+        "heavyRanged": 350
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Typeless"
+    ],
+    "experienceBonus": 17.5,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 60
+}

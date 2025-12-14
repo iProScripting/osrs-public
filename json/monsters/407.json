@@ -1,0 +1,46 @@
+{
+    "name": "Cave crawler",
+    "id": 407,
+    "isMembersOnly": false,
+    "examine": "A spiky crawling critter.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Standard (2)",
+    "combatLevel": 23,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "slayerLevel": 10,
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Cave Crawlers"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

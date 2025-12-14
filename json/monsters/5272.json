@@ -1,0 +1,34 @@
+{
+    "name": "Monkey Archer",
+    "id": 5272,
+    "isMembersOnly": false,
+    "examine": "A bow wielding ninja monkey.",
+    "releaseDate": "6 December 2004",
+    "versionAnchor": "Marim",
+    "combatLevel": 86,
+    "hitpoints": 50,
+    "maxHit": [
+        "20"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Monkeys"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 110,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

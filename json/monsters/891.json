@@ -1,0 +1,32 @@
+{
+    "name": "Moss Guardian",
+    "id": 891,
+    "isMembersOnly": false,
+    "examine": "Bigger than your average moss giant.",
+    "releaseDate": "7 February 2005",
+    "combatLevel": 84,
+    "hitpoints": 120,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 120.0,
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 66,
+        "strength": 62
+    },
+    "attackStyle": [
+        "Crush",
+        "Magical melee"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": -97.5,
+    "size": 2
+}

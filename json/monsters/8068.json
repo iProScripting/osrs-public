@@ -1,0 +1,51 @@
+{
+    "name": "Zombie (Shayzien Crypts)",
+    "id": 8068,
+    "isMembersOnly": false,
+    "examine": "The walking dead.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Range",
+    "combatLevel": 132,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 54,
+    "maxHit": [
+        "19"
+    ],
+    "slayerExperience": 54.1,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 1,
+    "defenceLevel": 62,
+    "rangedLevel": 180,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 20
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 10,
+        "crush": 15,
+        "magic": 30,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

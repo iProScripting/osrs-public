@@ -1,0 +1,41 @@
+{
+    "name": "Lesser demon (The Scar)",
+    "id": 12389,
+    "isMembersOnly": false,
+    "examine": "Lesser, but still pretty big.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 82",
+    "combatLevel": 82,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 79,
+    "maxHit": [
+        "8"
+    ],
+    "slayerCategory": [
+        "Lesser Demons"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 71,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Possessed Priest",
+    "id": 4210,
+    "isMembersOnly": false,
+    "examine": "He has a dangerous glint in his eye.",
+    "releaseDate": "26 April 2005",
+    "combatLevel": 91,
+    "hitpoints": 90,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "strength": 90
+    },
+    "defenceBonuses": {
+        "stab": 90,
+        "crush": 90
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

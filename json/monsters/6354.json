@@ -1,0 +1,30 @@
+{
+    "name": "Chronozon (Nightmare Zone)",
+    "id": 6354,
+    "isMembersOnly": false,
+    "examine": "Chronozon the blood demon.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 170,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 60,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 173,
+    "strengthLevel": 172,
+    "defenceLevel": 173,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 25
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Flawed Golem",
+    "id": 10696,
+    "isMembersOnly": false,
+    "examine": "A pile of harmless rubble?",
+    "releaseDate": "14 April 2021",
+    "versionAnchor": "Rubble",
+    "combatLevel": 13,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 7,
+    "strengthLevel": 12,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "magic": 2,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "flatArmour": 1,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

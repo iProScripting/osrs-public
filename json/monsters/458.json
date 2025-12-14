@@ -1,0 +1,44 @@
+{
+    "name": "Lizard",
+    "id": 458,
+    "isMembersOnly": false,
+    "examine": "Run away, it's massive!",
+    "releaseDate": "24 October 2005",
+    "combatLevel": 42,
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 22,
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Lizards"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 36,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 15,
+        "crush": 15,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

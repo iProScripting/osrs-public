@@ -1,0 +1,45 @@
+{
+    "name": "Strange creature (Shadows of Custodia)",
+    "id": 14706,
+    "isMembersOnly": false,
+    "examine": "What is that?",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 93,
+    "hitpoints": 100,
+    "maxHit": [
+        "6"
+    ],
+    "slayerLevel": 54,
+    "usesSkill": [
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 55,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 25,
+    "attackBonuses": {
+        "magic": 5
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": -10,
+        "crush": 50,
+        "magic": 35,
+        "ranged": 5,
+        "lightRanged": -10,
+        "standardRanged": 5,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Bleed"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

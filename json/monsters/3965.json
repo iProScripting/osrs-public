@@ -1,0 +1,42 @@
+{
+    "name": "Irvig Senay",
+    "id": 3965,
+    "isMembersOnly": false,
+    "examine": "The spirit of a long-dead warrior.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 100,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 125,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 76,
+    "strengthLevel": 74,
+    "defenceLevel": 81,
+    "attackBonuses": {
+        "melee": 29,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 27,
+        "slash": 31,
+        "crush": 29,
+        "magic": -1,
+        "ranged": 29,
+        "lightRanged": 29,
+        "standardRanged": 29,
+        "heavyRanged": 29
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 15
+}

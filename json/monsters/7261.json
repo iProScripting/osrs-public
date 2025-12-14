@@ -1,0 +1,39 @@
+{
+    "name": "Hill Giant",
+    "id": 7261,
+    "isMembersOnly": false,
+    "examine": "A very large foe that has been corrupted by the Dark Altar.",
+    "releaseDate": "9 June 2016",
+    "combatLevel": 28,
+    "hitpoints": 35,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Hill Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 22,
+    "defenceLevel": 26,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 18,
+        "strength": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

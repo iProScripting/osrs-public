@@ -1,0 +1,41 @@
+{
+    "name": "Pirate",
+    "id": 522,
+    "isMembersOnly": false,
+    "examine": "Avast ye scurvy land lubbers!",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Brimhaven",
+    "combatLevel": 23,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 20.0,
+    "slayerCategory": [
+        "Pirates"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 21,
+    "strengthLevel": 21,
+    "defenceLevel": 21,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 2
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

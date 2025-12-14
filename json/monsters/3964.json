@@ -1,0 +1,41 @@
+{
+    "name": "San Tojalon",
+    "id": 3964,
+    "isMembersOnly": false,
+    "examine": "The spirit of a long-dead warrior.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 106,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 86,
+    "strengthLevel": 84,
+    "defenceLevel": 86,
+    "attackBonuses": {
+        "melee": 16,
+        "strength": 17
+    },
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 22,
+        "crush": 20,
+        "magic": -1,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 10
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Scarred lesser demon",
+    "id": 12390,
+    "isMembersOnly": false,
+    "examine": "The power of the Scar has changed them somehow.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 85",
+    "combatLevel": 85,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 79,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 80,
+    "defenceLevel": 71,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

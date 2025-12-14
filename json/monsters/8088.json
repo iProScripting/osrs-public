@@ -1,0 +1,60 @@
+{
+    "name": "Mithril dragon",
+    "id": 8088,
+    "isMembersOnly": false,
+    "examine": "Experimenting with mithril gone bad!",
+    "releaseDate": "3 July 2007",
+    "combatLevel": 304,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 254,
+    "maxHit": [
+        "28 (Melee)",
+        "18 (Magic)",
+        "22 (Ranged)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 273.0,
+    "slayerCategory": [
+        "Metal Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 268,
+    "strengthLevel": 268,
+    "defenceLevel": 268,
+    "rangedLevel": 168,
+    "magicLevel": 168,
+    "defenceBonuses": {
+        "slash": 100,
+        "crush": 70,
+        "magic": 30,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic",
+        "Ranged",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

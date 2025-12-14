@@ -1,0 +1,40 @@
+{
+    "name": "Hero",
+    "id": 11935,
+    "isMembersOnly": false,
+    "examine": "Heroic!",
+    "releaseDate": "9 November 2022",
+    "versionAnchor": "3",
+    "combatLevel": 69,
+    "hitpoints": 82,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 54,
+    "strengthLevel": 55,
+    "defenceLevel": 54,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 22
+    },
+    "defenceBonuses": {
+        "stab": 87,
+        "slash": 84,
+        "crush": 76,
+        "magic": -10,
+        "ranged": 79,
+        "lightRanged": 79,
+        "standardRanged": 79,
+        "heavyRanged": 79
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 2.5,
+    "size": 1
+}

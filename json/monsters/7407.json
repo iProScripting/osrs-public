@@ -1,0 +1,61 @@
+{
+    "name": "Marble gargoyle",
+    "id": 7407,
+    "isMembersOnly": false,
+    "examine": "Am I losing my marbles?",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 349,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 270,
+    "maxHit": [
+        "38"
+    ],
+    "slayerLevel": 75,
+    "slayerExperience": 2768.0,
+    "slayerCategory": [
+        "Gargoyles"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 250,
+    "defenceLevel": 190,
+    "rangedLevel": 220,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic (special)"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

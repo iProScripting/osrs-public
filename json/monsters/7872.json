@@ -1,0 +1,45 @@
+{
+    "name": "Greater demon",
+    "id": 7872,
+    "isMembersOnly": false,
+    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> Big, red, and incredibly evil.<br/><span style=\"user-select:none;\">'''&bull;'''</span> Big, purple, and incredibly evil.",
+    "releaseDate": "23 November 2017",
+    "versionAnchor": "Level 104 (Wilderness Slayer Cave)",
+    "combatLevel": 104,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 76,
+    "strengthLevel": 90,
+    "defenceLevel": 81,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

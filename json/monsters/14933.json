@@ -1,0 +1,30 @@
+{
+    "name": "Pirate (Thieving)",
+    "id": 14933,
+    "isMembersOnly": false,
+    "examine": "Yar! Shiver me timbers!",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "1",
+    "combatLevel": 52,
+    "hitpoints": 38,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 54,
+    "strengthLevel": 50,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 20,
+        "crush": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

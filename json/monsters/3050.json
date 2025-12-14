@@ -1,0 +1,42 @@
+{
+    "name": "Hobgoblin",
+    "id": 3050,
+    "isMembersOnly": false,
+    "examine": "An ugly, smelly creature, with a spear.",
+    "releaseDate": "9 April 2002",
+    "versionAnchor": "Hobgoblin (armed)",
+    "combatLevel": 42,
+    "hitpoints": 49,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 49.0,
+    "slayerCategory": [
+        "Hobgoblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 33,
+    "strengthLevel": 31,
+    "defenceLevel": 36,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 1,
+        "slash": 1
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

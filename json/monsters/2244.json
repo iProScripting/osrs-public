@@ -1,0 +1,57 @@
+{
+    "name": "Spiritual mage",
+    "id": 2244,
+    "isMembersOnly": false,
+    "examine": "One of Bandos's chosen.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Bandos",
+    "combatLevel": 121,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 106,
+    "maxHit": [
+        "17"
+    ],
+    "slayerLevel": 83,
+    "slayerExperience": 106.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 103,
+    "rangedLevel": 1,
+    "magicLevel": 142,
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 13,
+        "magic": 35,
+        "ranged": 13,
+        "lightRanged": 13,
+        "standardRanged": 13,
+        "heavyRanged": 13
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

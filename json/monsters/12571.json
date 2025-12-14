@@ -1,0 +1,39 @@
+{
+    "name": "Bloodthirsty Warped Jelly",
+    "id": 12571,
+    "isMembersOnly": false,
+    "examine": "I don't think you're ready for this jelly.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 361,
+    "hitpoints": 330,
+    "maxHit": [
+        "28"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 2200.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 270,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 270,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

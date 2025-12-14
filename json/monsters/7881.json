@@ -1,0 +1,50 @@
+{
+    "name": "Revenant imp",
+    "id": 7881,
+    "isMembersOnly": false,
+    "examine": "The ghost of an imp slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 7,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 10,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 4,
+    "rangedLevel": 5,
+    "magicLevel": 9,
+    "attackBonuses": {
+        "magic": 5
+    },
+    "defenceBonuses": {
+        "magic": 5
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

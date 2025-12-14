@@ -1,0 +1,46 @@
+{
+    "name": "Thrower Troll",
+    "id": 932,
+    "isMembersOnly": false,
+    "examine": "Small for a troll but mean, ugly and throws rocks.",
+    "releaseDate": "9 August 2004",
+    "combatLevel": 67,
+    "hitpoints": 95,
+    "maxHit": [
+        "10 Ranged",
+        "9 Melee(?)"
+    ],
+    "slayerExperience": 95.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 80,
+    "defenceLevel": 30,
+    "rangedLevel": 60,
+    "defenceBonuses": {
+        "magic": 200,
+        "ranged": 120,
+        "lightRanged": 200,
+        "standardRanged": 120,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush(?)"
+    ],
+    "attackSpeed": 7,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

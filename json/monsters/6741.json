@@ -1,0 +1,38 @@
+{
+    "name": "Zombie (Sepulchre of Death)",
+    "id": 6741,
+    "isMembersOnly": false,
+    "examine": "The walking dead.",
+    "releaseDate": "11 September 2014",
+    "combatLevel": 159,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 170,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 4.2,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 130,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 1
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Terrorbird",
+    "id": 2066,
+    "isMembersOnly": false,
+    "examine": "A giant raptor.",
+    "releaseDate": "9 July 2007",
+    "versionAnchor": "3",
+    "combatLevel": 28,
+    "hitpoints": 34,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 34.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 23,
+    "strengthLevel": 23,
+    "defenceLevel": 19,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

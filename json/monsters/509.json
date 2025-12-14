@@ -1,0 +1,40 @@
+{
+    "name": "Death wing",
+    "id": 509,
+    "isMembersOnly": false,
+    "examine": "A shadowy, barely visible flying entity from some evil place.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 83,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "8 (approx)"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Bats",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 20
+}

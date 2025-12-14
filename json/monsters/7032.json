@@ -1,0 +1,47 @@
+{
+    "name": "Reanimated kalphite",
+    "id": 7032,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "12"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Kalphite"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 5,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

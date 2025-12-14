@@ -1,0 +1,51 @@
+{
+    "name": "Zombie (Tarn's Lair)",
+    "id": 6451,
+    "isMembersOnly": false,
+    "examine": "Has anybody told him he's dead?",
+    "releaseDate": "22 January 2007",
+    "versionAnchor": "Level 47",
+    "combatLevel": 47,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 42,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 42.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 42,
+    "strengthLevel": 39,
+    "defenceLevel": 42,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

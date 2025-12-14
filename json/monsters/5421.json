@@ -1,0 +1,38 @@
+{
+    "name": "Soldier (Yanille)",
+    "id": 5421,
+    "isMembersOnly": false,
+    "examine": "A soldier of the town of Yanille.",
+    "releaseDate": "23 October 2002",
+    "combatLevel": 28,
+    "hitpoints": 22,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 26,
+    "strengthLevel": 25,
+    "defenceLevel": 26,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 24,
+        "slash": 14,
+        "crush": 19,
+        "magic": -4,
+        "ranged": 16,
+        "lightRanged": 16,
+        "standardRanged": 16,
+        "heavyRanged": 16
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

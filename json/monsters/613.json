@@ -1,0 +1,40 @@
+{
+    "name": "Zombie pirate (Braindeath Island)",
+    "id": 613,
+    "isMembersOnly": false,
+    "examine": "An undead sea scoundrel.",
+    "releaseDate": "31 October 2005",
+    "versionAnchor": "1",
+    "combatLevel": 57,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 52,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 52.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 49,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

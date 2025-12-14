@@ -1,0 +1,44 @@
+{
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "isMembersOnly": false,
+    "examine": "These gnomes know how to get around!",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Level 31",
+    "combatLevel": 31,
+    "hitpoints": 36,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 36.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 16,
+        "slash": 16,
+        "crush": 18,
+        "magic": 15,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Xarpus",
+    "id": 10772,
+    "isMembersOnly": false,
+    "examine": "King of the yarasa.",
+    "releaseDate": "3 June 2021",
+    "combatLevel": 1160,
+    "poisonous": true,
+    "hitpoints": 6000,
+    "maxHit": [
+        "11 (50+ recoil)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 200,
+    "rangedLevel": 100,
+    "magicLevel": 220,
+    "defenceBonuses": {
+        "ranged": 160,
+        "lightRanged": 160,
+        "standardRanged": 160,
+        "heavyRanged": 160
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Typeless Ranged",
+        "Poison"
+    ],
+    "attackSpeed": 4,
+    "size": 5,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

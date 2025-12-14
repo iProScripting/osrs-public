@@ -1,0 +1,39 @@
+{
+    "name": "Guard (Deadman Mode)",
+    "id": 11199,
+    "isMembersOnly": false,
+    "examine": "A tree gnome guard.",
+    "releaseDate": "25 August 2021",
+    "versionAnchor": "Gnome Stronghold (ranged)",
+    "combatLevel": 1337,
+    "hitpoints": 800,
+    "maxHit": [
+        "Varies"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 800,
+    "strengthLevel": 400,
+    "defenceLevel": 300,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 9,
+        "crush": 7,
+        "ranged": 8,
+        "lightRanged": 8,
+        "standardRanged": 8,
+        "heavyRanged": 8
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 2,
+    "experienceBonus": 20.0,
+    "size": 1
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Elite Dark Mage",
+    "id": 13469,
+    "isMembersOnly": false,
+    "examine": "An elite dark mage with lots of combat experience.",
+    "releaseDate": "10 July 2024",
+    "versionAnchor": "Male",
+    "combatLevel": 96,
+    "hitpoints": 80,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 80,
+    "rangedLevel": 25,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "magic": 80
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 10,
+        "crush": 15,
+        "magic": 50,
+        "lightRanged": 5,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

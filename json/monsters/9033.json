@@ -1,0 +1,32 @@
+{
+    "name": "Crystalline Dragon",
+    "id": 9033,
+    "isMembersOnly": false,
+    "examine": "Whatever it breathes, I don't want to get in the way of it.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 172,
+    "hitpoints": 100,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 98,
+    "strengthLevel": 98,
+    "defenceLevel": 98,
+    "rangedLevel": 98,
+    "magicLevel": 98,
+    "attackBonuses": {
+        "magic": 54,
+        "magicDamage": 106
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

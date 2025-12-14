@@ -1,0 +1,47 @@
+{
+    "name": "Spiritual mage",
+    "id": 3161,
+    "isMembersOnly": false,
+    "examine": "A deadly servant of Zamorak.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Zamorak",
+    "combatLevel": 121,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 75,
+    "maxHit": [
+        "19"
+    ],
+    "slayerLevel": 83,
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 61,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

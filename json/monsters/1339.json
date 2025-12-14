@@ -1,0 +1,50 @@
+{
+    "name": "Seagull",
+    "id": 1339,
+    "isMembersOnly": false,
+    "examine": "Smells of rotten fish.",
+    "releaseDate": "26 September 2005",
+    "versionAnchor": "Level 3",
+    "combatLevel": 3,
+    "hitpoints": 10,
+    "maxHit": [
+        "0"
+    ],
+    "slayerExperience": 5.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -47,
+        "strength": -42
+    },
+    "defenceBonuses": {
+        "stab": -42,
+        "slash": -42,
+        "crush": -42,
+        "magic": -42,
+        "ranged": -42,
+        "lightRanged": -42,
+        "standardRanged": -42,
+        "heavyRanged": -42
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 20
+}

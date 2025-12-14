@@ -1,0 +1,48 @@
+{
+    "name": "Cave bug",
+    "id": 483,
+    "isMembersOnly": false,
+    "examine": "A big, smelly cave dweller.",
+    "releaseDate": "20 March 2007",
+    "versionAnchor": "Level 96",
+    "combatLevel": 96,
+    "hitpoints": 93,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 7,
+    "slayerExperience": 93.0,
+    "slayerCategory": [
+        "Cave Bugs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 82,
+    "strengthLevel": 80,
+    "defenceLevel": 84,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 72,
+        "slash": 59,
+        "crush": 35,
+        "magic": 25,
+        "ranged": 95,
+        "lightRanged": 95,
+        "standardRanged": 95,
+        "heavyRanged": 95
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

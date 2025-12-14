@@ -1,0 +1,26 @@
+{
+    "name": "Spidine",
+    "id": 3602,
+    "isMembersOnly": false,
+    "examine": "It's a spider. No, a giant sardine...",
+    "releaseDate": "19 February 2007",
+    "combatLevel": 42,
+    "hitpoints": 35,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 37,
+    "strengthLevel": 40,
+    "defenceLevel": 36,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

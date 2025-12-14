@@ -1,0 +1,38 @@
+{
+    "name": "Grizzly bear",
+    "id": 2838,
+    "isMembersOnly": false,
+    "examine": "Eek! A bear!",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Level 21",
+    "combatLevel": 21,
+    "hitpoints": 27,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 27.0,
+    "slayerCategory": [
+        "Bears"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

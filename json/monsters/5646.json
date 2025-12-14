@@ -1,0 +1,25 @@
+{
+    "name": "Tentacle (Temple Trekking)",
+    "id": 5646,
+    "isMembersOnly": false,
+    "examine": "I'm glad I can't see the rest of it!",
+    "releaseDate": "22 March 2006",
+    "versionAnchor": "Submerged",
+    "combatLevel": 99,
+    "hitpoints": 75,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 115,
+    "strengthLevel": 76,
+    "defenceLevel": 75,
+    "rangedLevel": 115,
+    "magicLevel": 50,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

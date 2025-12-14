@@ -1,0 +1,44 @@
+{
+    "name": "Umbra",
+    "id": 11284,
+    "isMembersOnly": false,
+    "examine": "A mage who has mastered the art of shadow magic.",
+    "releaseDate": "5 January 2022",
+    "combatLevel": 285,
+    "hitpoints": 500,
+    "maxHit": [
+        "29"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "magicDamage": 25
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100,
+        "magic": 150,
+        "ranged": 25,
+        "lightRanged": 25,
+        "standardRanged": 25,
+        "heavyRanged": 25
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 7.5,
+    "flatArmour": -2,
+    "size": 1
+}

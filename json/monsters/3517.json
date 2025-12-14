@@ -1,0 +1,33 @@
+{
+    "name": "Renegade knight",
+    "id": 3517,
+    "isMembersOnly": false,
+    "examine": "He isn't very friendly.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 37,
+    "hitpoints": 48,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 28,
+    "defenceLevel": 28,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 16
+    },
+    "defenceBonuses": {
+        "stab": 99,
+        "slash": 82,
+        "crush": 62
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

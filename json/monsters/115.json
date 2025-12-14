@@ -1,0 +1,37 @@
+{
+    "name": "Big Wolf",
+    "id": 115,
+    "isMembersOnly": false,
+    "examine": "Must be the pack leader.",
+    "releaseDate": "7 December 2017",
+    "versionAnchor": "Feldip Hills",
+    "combatLevel": 73,
+    "hitpoints": 74,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 74.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 61,
+    "defenceLevel": 62,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

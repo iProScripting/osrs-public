@@ -1,0 +1,31 @@
+{
+    "name": "Jogre",
+    "id": 2234,
+    "isMembersOnly": false,
+    "examine": "Green and aggressive.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "GWD",
+    "combatLevel": 58,
+    "hitpoints": 70,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 46,
+    "strengthLevel": 48,
+    "defenceLevel": 43,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

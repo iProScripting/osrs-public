@@ -1,0 +1,35 @@
+{
+    "name": "Guard dog",
+    "id": 7209,
+    "isMembersOnly": false,
+    "examine": "He doesn't seem pleased to see me.",
+    "releaseDate": "26 May 2016",
+    "versionAnchor": "Hosidius",
+    "combatLevel": 44,
+    "hitpoints": 49,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 49.0,
+    "slayerCategory": [
+        "Dogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 36,
+    "defenceLevel": 37,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

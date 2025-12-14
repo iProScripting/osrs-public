@@ -1,0 +1,59 @@
+{
+    "name": "Bloodthirsty Basilisk Sentinel",
+    "id": 12566,
+    "isMembersOnly": false,
+    "examine": "Even phoenix tears won't help here.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 537,
+    "hitpoints": 780,
+    "maxHit": [
+        "42"
+    ],
+    "slayerLevel": 60,
+    "slayerExperience": 8580.0,
+    "slayerCategory": [
+        "Basilisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 411,
+    "strengthLevel": 411,
+    "defenceLevel": 274,
+    "rangedLevel": 1,
+    "magicLevel": 411,
+    "attackBonuses": {
+        "melee": 12,
+        "magicDamage": 12
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 10,
+        "magic": 50,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3
+}

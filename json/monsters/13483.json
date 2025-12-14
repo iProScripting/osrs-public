@@ -1,0 +1,24 @@
+{
+    "name": "Agile Warrior",
+    "id": 13483,
+    "isMembersOnly": false,
+    "examine": "An elite dark warrior with incredible agility.",
+    "releaseDate": "10 July 2024",
+    "combatLevel": 96,
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 80,
+    "rangedLevel": 80,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

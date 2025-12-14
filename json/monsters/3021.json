@@ -1,0 +1,46 @@
+{
+    "name": "Deadly red spider",
+    "id": 3021,
+    "isMembersOnly": false,
+    "examine": "I think this spider has been genetically modified.",
+    "releaseDate": "5 February 2001",
+    "combatLevel": 34,
+    "hitpoints": 35,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 25,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 16,
+        "crush": 7,
+        "magic": 12,
+        "ranged": 16,
+        "lightRanged": 16,
+        "standardRanged": 16,
+        "heavyRanged": 16
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

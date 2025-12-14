@@ -1,0 +1,46 @@
+{
+    "name": "Dagannoth",
+    "id": 973,
+    "isMembersOnly": false,
+    "examine": "A horror from the ocean depths...",
+    "releaseDate": "17 November 2004",
+    "versionAnchor": "Level 92 (1)",
+    "combatLevel": 92,
+    "hitpoints": 120,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 71,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

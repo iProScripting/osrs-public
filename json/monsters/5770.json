@@ -1,0 +1,27 @@
+{
+    "name": "Penance Healer",
+    "id": 5770,
+    "isMembersOnly": false,
+    "examine": "A nasty piece of work.",
+    "releaseDate": "4 January 2007",
+    "versionAnchor": "Wave 5",
+    "hitpoints": 49,
+    "maxHit": [
+        "0 (Does not attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 26,
+    "strengthLevel": 27,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Poison"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

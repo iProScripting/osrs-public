@@ -1,0 +1,45 @@
+{
+    "name": "Desert Lizard",
+    "id": 460,
+    "isMembersOnly": false,
+    "examine": "A cold-blooded creature, partial to warmth.",
+    "releaseDate": "24 October 2005",
+    "versionAnchor": "Yellow",
+    "combatLevel": 24,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "slayerLevel": 22,
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Lizards"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 22,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 15,
+        "crush": 15,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

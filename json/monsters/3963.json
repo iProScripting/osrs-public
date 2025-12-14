@@ -1,0 +1,26 @@
+{
+    "name": "Viyeldi",
+    "id": 3963,
+    "isMembersOnly": false,
+    "examine": "The spirit of a long-dead wizard.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 79,
+    "hitpoints": 80,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 62,
+    "strengthLevel": 66,
+    "defenceLevel": 70,
+    "attackBonuses": {
+        "melee": 7,
+        "strength": 3
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

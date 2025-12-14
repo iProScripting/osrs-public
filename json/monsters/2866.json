@@ -1,0 +1,37 @@
+{
+    "name": "Dungeon rat",
+    "id": 2866,
+    "isMembersOnly": false,
+    "examine": "Overgrown vermin.",
+    "releaseDate": "17 June 2002",
+    "versionAnchor": "Short tail",
+    "combatLevel": 12,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 12,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 12.0,
+    "slayerCategory": [
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

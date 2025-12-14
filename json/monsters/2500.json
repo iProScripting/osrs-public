@@ -1,0 +1,45 @@
+{
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "isMembersOnly": false,
+    "examine": "I don't think insect repellent will work...",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 41",
+    "combatLevel": 41,
+    "hitpoints": 25,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Flesh Crawlers"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 2,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15,
+        "magic": 15,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 3,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

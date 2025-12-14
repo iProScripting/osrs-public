@@ -1,0 +1,46 @@
+{
+    "name": "Animated Iron Armour",
+    "id": 2451,
+    "isMembersOnly": false,
+    "examine": "Animated iron armour.",
+    "releaseDate": "13 June 2006",
+    "combatLevel": 23,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 25,
+        "crush": 19,
+        "magic": 400,
+        "ranged": 400,
+        "lightRanged": 400,
+        "standardRanged": 400,
+        "heavyRanged": 400
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "burn": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

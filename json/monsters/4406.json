@@ -1,0 +1,33 @@
+{
+    "name": "Colonel Radick",
+    "id": 4406,
+    "isMembersOnly": false,
+    "examine": "A military man.",
+    "releaseDate": "23 October 2002",
+    "combatLevel": 38,
+    "hitpoints": 65,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 13
+    },
+    "defenceBonuses": {
+        "stab": 39,
+        "slash": 31,
+        "crush": 34
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

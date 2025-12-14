@@ -1,0 +1,28 @@
+{
+    "name": "Invrigar the Necromancer",
+    "id": 511,
+    "isMembersOnly": false,
+    "examine": "An evil user of Magic powers<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "releaseDate": "29 March 2004",
+    "combatLevel": 20,
+    "hitpoints": 24,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 17,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 18,
+    "defenceBonuses": {
+        "magic": 3
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

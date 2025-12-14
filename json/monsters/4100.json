@@ -1,0 +1,38 @@
+{
+    "name": "Guard (Burthorpe)",
+    "id": 4100,
+    "isMembersOnly": false,
+    "examine": "A Burthorpe Castle guard.",
+    "releaseDate": "9 August 2004",
+    "versionAnchor": "Grey beard",
+    "combatLevel": 37,
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 18,
+        "strength": 16
+    },
+    "defenceBonuses": {
+        "stab": 36,
+        "slash": 48,
+        "crush": 50,
+        "magic": -4,
+        "ranged": 38,
+        "lightRanged": 38,
+        "standardRanged": 38,
+        "heavyRanged": 38
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

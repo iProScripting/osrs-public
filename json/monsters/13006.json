@@ -1,0 +1,24 @@
+{
+    "name": "Oryx",
+    "id": 13006,
+    "isMembersOnly": false,
+    "examine": "A noble creature!",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 15,
+    "hitpoints": 19,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 13,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

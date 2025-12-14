@@ -1,0 +1,58 @@
+{
+    "name": "Mosschin",
+    "id": 11298,
+    "isMembersOnly": false,
+    "examine": "A goblin high priest, back from the grave.",
+    "releaseDate": "9 February 2022",
+    "combatLevel": 88,
+    "hitpoints": 120,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Goblins",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "magic": 34,
+        "melee": 34,
+        "strength": 40,
+        "magicDamage": 40
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

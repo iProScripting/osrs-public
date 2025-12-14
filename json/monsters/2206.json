@@ -1,0 +1,39 @@
+{
+    "name": "Starlight",
+    "id": 2206,
+    "isMembersOnly": false,
+    "examine": "Bane of darkness.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 149,
+    "hitpoints": 160,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 125,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 125,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 13,
+        "magic": 5,
+        "ranged": 13,
+        "lightRanged": 13,
+        "standardRanged": 13,
+        "heavyRanged": 13
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 2
+}

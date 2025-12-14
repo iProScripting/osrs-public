@@ -1,0 +1,39 @@
+{
+    "name": "Jungle spider (Ape Atoll)",
+    "id": 5243,
+    "isMembersOnly": false,
+    "examine": "A very dangerous looking spider, with its fangs unsheathed.",
+    "releaseDate": "6 December 2004",
+    "combatLevel": 37,
+    "hitpoints": 35,
+    "maxHit": [
+        "10"
+    ],
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 30,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "attackBonuses": {
+        "melee": 100,
+        "strength": 100
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "flatArmour": -2,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Ithoi the Navigator",
+    "id": 7964,
+    "isMembersOnly": false,
+    "examine": "He's so fired.",
+    "releaseDate": "7 December 2017",
+    "combatLevel": 35,
+    "hitpoints": 55,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

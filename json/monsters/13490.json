@@ -1,0 +1,42 @@
+{
+    "name": "Zombie pirate",
+    "id": 13490,
+    "isMembersOnly": false,
+    "examine": "Aaaargh, me hearty!",
+    "releaseDate": "10 April 2024",
+    "versionAnchor": "Level 28",
+    "combatLevel": 28,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Zombies",
+        "Pirates"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 15,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

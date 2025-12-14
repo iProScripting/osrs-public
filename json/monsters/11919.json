@@ -1,0 +1,29 @@
+{
+    "name": "Farmer",
+    "id": 11919,
+    "isMembersOnly": false,
+    "examine": "She grows the crops in this area.",
+    "releaseDate": "9 November 2022",
+    "versionAnchor": "Green shirt, long sleeves",
+    "combatLevel": 7,
+    "hitpoints": 12,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 3,
+    "strengthLevel": 4,
+    "defenceLevel": 8,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 6
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

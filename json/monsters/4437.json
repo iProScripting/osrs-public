@@ -1,0 +1,46 @@
+{
+    "name": "Vampyre Juvenile",
+    "id": 4437,
+    "isMembersOnly": false,
+    "examine": "A juvenile vampyre. It looks really hungry!<br/>A juvenile vampyre, held in a powerful spell.",
+    "releaseDate": "22 March 2006",
+    "versionAnchor": "Burgh de Rott/Crombwick Manor",
+    "combatLevel": 45,
+    "attributes": [
+        "vampyre1"
+    ],
+    "hitpoints": 60,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

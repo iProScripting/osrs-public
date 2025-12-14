@@ -1,0 +1,51 @@
+{
+    "name": "Soldier Scarab",
+    "id": 11724,
+    "isMembersOnly": false,
+    "examine": "One of Kephri's false children.",
+    "releaseDate": "24 August 2022",
+    "combatLevel": 89,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "17"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 95,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 250,
+        "ranged": 350,
+        "melee": 100,
+        "strength": 55,
+        "magicDamage": 65
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 250,
+        "crush": 30,
+        "magic": -15,
+        "ranged": 250,
+        "lightRanged": 250,
+        "standardRanged": 250,
+        "heavyRanged": 250
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Tarn",
+    "id": 6477,
+    "isMembersOnly": false,
+    "examine": "I preferred him when he was human.",
+    "releaseDate": "22 January 2007",
+    "combatLevel": 69,
+    "hitpoints": 80,
+    "maxHit": [
+        "9"
+    ],
+    "slayerLevel": 40,
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 80,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

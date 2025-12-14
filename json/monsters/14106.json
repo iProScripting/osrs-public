@@ -1,0 +1,51 @@
+{
+    "name": "Baby blue dragon",
+    "id": 14106,
+    "isMembersOnly": false,
+    "examine": "Young but still dangerous.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Ruins of Tapoyauik, 2",
+    "combatLevel": 48,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Blue Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 50,
+        "crush": 50,
+        "magic": 40,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

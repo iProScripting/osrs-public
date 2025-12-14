@@ -1,0 +1,37 @@
+{
+    "name": "Nazastarool (Nightmare Zone)",
+    "id": 6338,
+    "isMembersOnly": false,
+    "examine": "A giant skeleton of huge strength and devastating power.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Skeleton (Hard Mode)",
+    "combatLevel": 153,
+    "hitpoints": 180,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 140,
+    "defenceLevel": 58,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

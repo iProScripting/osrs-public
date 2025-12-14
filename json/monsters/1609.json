@@ -1,0 +1,37 @@
+{
+    "name": "Kolodion",
+    "id": 1609,
+    "isMembersOnly": false,
+    "examine": "He's a shape-shifter.",
+    "releaseDate": "22 September 2003",
+    "versionAnchor": "Demon",
+    "combatLevel": 112,
+    "poisonous": true,
+    "hitpoints": 107,
+    "maxHit": [
+        "20"
+    ],
+    "slayerExperience": 107.0,
+    "slayerCategory": [
+        "Black Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 98,
+    "defenceLevel": 105,
+    "rangedLevel": 1,
+    "magicLevel": 400,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

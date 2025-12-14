@@ -1,0 +1,23 @@
+{
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "isMembersOnly": false,
+    "examine": "It looks fluffy and cute; it's probably deadly.",
+    "releaseDate": "21 November 2006",
+    "combatLevel": 2,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 2,
+    "rangedLevel": 2,
+    "magicLevel": 2,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4
+}

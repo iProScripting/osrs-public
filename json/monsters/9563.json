@@ -1,0 +1,61 @@
+{
+    "name": "Damien Leucurte",
+    "id": 9563,
+    "isMembersOnly": false,
+    "examine": "He has an odd look in his eyes.",
+    "releaseDate": "4 June 2020",
+    "combatLevel": 204,
+    "poisonous": true,
+    "attributes": [
+        "vampyre3"
+    ],
+    "hitpoints": 217,
+    "maxHit": [
+        "20"
+    ],
+    "slayerExperience": 360.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "defenceLevel": 160,
+    "rangedLevel": 160,
+    "magicLevel": 160,
+    "attackBonuses": {
+        "magic": 18,
+        "ranged": 18,
+        "rangedStrength": 12,
+        "magicDamage": 12
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 30,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": -17.0,
+    "size": 1
+}

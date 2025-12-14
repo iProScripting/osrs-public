@@ -1,0 +1,45 @@
+{
+    "name": "Armoured zombie (The Curse of Arrav)",
+    "id": 14136,
+    "isMembersOnly": false,
+    "examine": "That is a rotten one.",
+    "releaseDate": "6 November 2024",
+    "versionAnchor": "2",
+    "combatLevel": 70,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 10,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 106,
+    "strengthLevel": 94,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 5,
+        "magic": -50,
+        "ranged": -100,
+        "lightRanged": -100,
+        "standardRanged": -100,
+        "heavyRanged": -100
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

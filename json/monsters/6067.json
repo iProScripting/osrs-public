@@ -1,0 +1,35 @@
+{
+    "name": "Tower Archer",
+    "id": 6067,
+    "isMembersOnly": false,
+    "examine": "Defender of the south tower.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "South",
+    "combatLevel": 49,
+    "hitpoints": 70,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 60,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "rangedStrength": 31
+    },
+    "defenceBonuses": {
+        "magic": 20,
+        "ranged": 45,
+        "lightRanged": 45,
+        "standardRanged": 45,
+        "heavyRanged": 45
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

@@ -1,0 +1,38 @@
+{
+    "name": "TzHaar-Mej",
+    "id": 2155,
+    "isMembersOnly": false,
+    "examine": "Appears to be some kind of mystic.",
+    "releaseDate": "19 September 2005",
+    "combatLevel": 103,
+    "hitpoints": 100,
+    "maxHit": [
+        "13 Magic",
+        "9 Melee"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 120,
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

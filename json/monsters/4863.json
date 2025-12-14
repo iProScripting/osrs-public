@@ -1,0 +1,26 @@
+{
+    "name": "Jubbly bird",
+    "id": 4863,
+    "isMembersOnly": false,
+    "examine": "A large boisterous bird, a delicacy for ogres.",
+    "releaseDate": "15 March 2006",
+    "combatLevel": 9,
+    "hitpoints": 20,
+    "maxHit": [
+        "0 (Does not attack)"
+    ],
+    "slayerExperience": 8.0,
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 3
+}

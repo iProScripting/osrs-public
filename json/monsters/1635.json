@@ -1,0 +1,37 @@
+{
+    "name": "Baby impling",
+    "id": 1635,
+    "isMembersOnly": false,
+    "examine": "An impling baby. Aaah...",
+    "releaseDate": "11 June 2007",
+    "versionAnchor": "Overworld",
+    "hitpoints": 10,
+    "maxHit": [
+        "N/A"
+    ],
+    "usesSkill": [
+    ],
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -10,
+        "strength": -10
+    },
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": -10,
+        "crush": -10,
+        "magic": 10,
+        "ranged": -10,
+        "lightRanged": -10,
+        "standardRanged": -10,
+        "heavyRanged": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "N/A"
+    ]
+}

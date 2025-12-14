@@ -1,0 +1,32 @@
+{
+    "name": "The Maiden of Sugadinti",
+    "id": 10822,
+    "isMembersOnly": false,
+    "examine": "This is the fate of those who cross the vampyres.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 1128,
+    "hitpoints": 3500,
+    "maxHit": [
+        "36"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 350,
+    "strengthLevel": 350,
+    "defenceLevel": 200,
+    "rangedLevel": 350,
+    "magicLevel": 350,
+    "attackBonuses": {
+        "magic": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 10,
+    "size": 6
+}

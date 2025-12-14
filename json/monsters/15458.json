@@ -1,0 +1,27 @@
+{
+    "name": "Fremennik warrior (Sailing)",
+    "id": 15458,
+    "isMembersOnly": false,
+    "examine": "Warriors first, sailors second.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 61,
+    "hitpoints": 45,
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 33
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 21,
+        "crush": 1
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

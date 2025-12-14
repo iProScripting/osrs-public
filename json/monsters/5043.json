@@ -1,0 +1,38 @@
+{
+    "name": "Suit of armour",
+    "id": 5043,
+    "isMembersOnly": false,
+    "examine": "A dusty old suit of armour.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 19,
+    "hitpoints": 29,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 16,
+    "strengthLevel": 14,
+    "defenceLevel": 9,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 46,
+        "slash": 50,
+        "crush": 45,
+        "magic": -12,
+        "ranged": 45,
+        "lightRanged": 45,
+        "standardRanged": 45,
+        "heavyRanged": 45
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

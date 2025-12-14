@@ -1,0 +1,30 @@
+{
+    "name": "Forester (Woodcutting Guild)",
+    "id": 3296,
+    "isMembersOnly": false,
+    "examine": "They love the forests.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Unused",
+    "combatLevel": 15,
+    "hitpoints": 17,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 13,
+    "defenceLevel": 8,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 4,
+        "slash": 3,
+        "crush": 5
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

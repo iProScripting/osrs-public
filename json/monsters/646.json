@@ -1,0 +1,37 @@
+{
+    "name": "Ice wolf",
+    "id": 646,
+    "isMembersOnly": false,
+    "examine": "Not man's best friend.",
+    "releaseDate": "5 January 2005",
+    "versionAnchor": "Level 96",
+    "combatLevel": 96,
+    "hitpoints": 70,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

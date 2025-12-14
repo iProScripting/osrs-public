@@ -1,0 +1,48 @@
+{
+    "name": "Giant Rock Crab",
+    "id": 5940,
+    "isMembersOnly": false,
+    "examine": "No one likes crabs... especially really big ones!",
+    "releaseDate": "7 November 2005",
+    "versionAnchor": "2",
+    "combatLevel": 137,
+    "hitpoints": 180,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 198.0,
+    "slayerCategory": [
+        "Crabs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 80,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 225,
+        "slash": 200,
+        "crush": 175,
+        "magic": 10,
+        "ranged": 250,
+        "lightRanged": 250,
+        "standardRanged": 250,
+        "heavyRanged": 80
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

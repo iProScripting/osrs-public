@@ -1,0 +1,45 @@
+{
+    "name": "Crocodile",
+    "id": 11582,
+    "isMembersOnly": false,
+    "examine": "Never smile at a...",
+    "releaseDate": "26 April 2005",
+    "versionAnchor": "Land",
+    "combatLevel": 63,
+    "hitpoints": 62,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 62.0,
+    "slayerCategory": [
+        "Crocodiles"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 53,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 12,
+        "crush": 22,
+        "magic": 10,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

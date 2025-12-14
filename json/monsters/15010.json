@@ -1,0 +1,45 @@
+{
+    "name": "Shellbane gryphon (Troubled Tortugans)",
+    "id": 15010,
+    "isMembersOnly": false,
+    "examine": "A calamity to all tortugan-kind.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 235,
+    "hitpoints": 400,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 210,
+    "defenceLevel": 120,
+    "rangedLevel": 150,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 20,
+        "crush": 40,
+        "magic": 100,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 4,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

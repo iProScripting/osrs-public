@@ -1,0 +1,27 @@
+{
+    "name": "Hoop Snake",
+    "id": 7802,
+    "isMembersOnly": false,
+    "examine": "Must catch the tail.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 19,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 10,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

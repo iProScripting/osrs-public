@@ -1,0 +1,32 @@
+{
+    "name": "Scarred imp",
+    "id": 12377,
+    "isMembersOnly": false,
+    "examine": "The Abyss has not been kind to them.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 19,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 25,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 10
+}

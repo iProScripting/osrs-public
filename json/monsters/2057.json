@@ -1,0 +1,28 @@
+{
+    "name": "Dark wizard",
+    "id": 2057,
+    "isMembersOnly": false,
+    "examine": "A practicer of dark arts.",
+    "releaseDate": "27 February 2006",
+    "versionAnchor": "Level 22",
+    "combatLevel": 22,
+    "hitpoints": 25,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 10,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 25,
+    "defenceBonuses": {
+        "magic": 5
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

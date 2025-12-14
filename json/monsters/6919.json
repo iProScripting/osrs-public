@@ -1,0 +1,54 @@
+{
+    "name": "Lizardman brute",
+    "id": 6919,
+    "isMembersOnly": false,
+    "examine": "From a race created during the darker days of Kourend.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Standard",
+    "combatLevel": 75,
+    "hitpoints": 60,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Lizardmen"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 65,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 34,
+        "melee": 34,
+        "strength": 30,
+        "rangedStrength": 30
+    },
+    "defenceBonuses": {
+        "stab": -20,
+        "slash": 30,
+        "crush": 10,
+        "lightRanged": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 1
+}

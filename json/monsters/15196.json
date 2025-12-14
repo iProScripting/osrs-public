@@ -1,0 +1,31 @@
+{
+    "name": "Hammerhead shark",
+    "id": 15196,
+    "isMembersOnly": false,
+    "examine": "Incredibly strange looking. Still very dangerous.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 69,
+    "hitpoints": 90,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 65,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 25
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

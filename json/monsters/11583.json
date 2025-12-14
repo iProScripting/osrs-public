@@ -1,0 +1,36 @@
+{
+    "name": "Jackal",
+    "id": 11583,
+    "isMembersOnly": false,
+    "examine": "He has had his day.",
+    "releaseDate": "26 April 2005",
+    "combatLevel": 21,
+    "hitpoints": 27,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 27.0,
+    "slayerCategory": [
+        "Dogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 10
+}

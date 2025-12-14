@@ -1,0 +1,24 @@
+{
+    "name": "Jonny the Beard",
+    "id": 14139,
+    "isMembersOnly": false,
+    "examine": "Looks kind of shifty...",
+    "releaseDate": "4 January 2001",
+    "combatLevel": 2,
+    "hitpoints": 8,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

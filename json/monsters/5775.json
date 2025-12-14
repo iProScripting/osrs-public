@@ -1,0 +1,30 @@
+{
+    "name": "Penance Queen",
+    "id": 5775,
+    "isMembersOnly": false,
+    "examine": "Run away! Run away!",
+    "releaseDate": "4 January 2007",
+    "combatLevel": 209,
+    "hitpoints": 250,
+    "maxHit": [
+        "13 (Ranged)",
+        "5 (Melee)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 260,
+    "strengthLevel": 92,
+    "defenceLevel": 132,
+    "rangedLevel": 116,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Single and multi-target Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

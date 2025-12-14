@@ -1,0 +1,49 @@
+{
+    "name": "Armoured zombie (Zemouregal's Fort)",
+    "id": 14118,
+    "isMembersOnly": false,
+    "examine": "This is a rotten one.<br/>This one sure looks grave.<br/>It hasn't quite got round to dying.",
+    "releaseDate": "6 November 2024",
+    "versionAnchor": "Ranged, 1",
+    "combatLevel": 105,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 95,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 106,
+    "strengthLevel": 94,
+    "defenceLevel": 68,
+    "rangedLevel": 94,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": 2,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

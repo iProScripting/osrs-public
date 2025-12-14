@@ -1,0 +1,32 @@
+{
+    "name": "Eagle ray",
+    "id": 15215,
+    "isMembersOnly": false,
+    "examine": "Couldn't fly, and now never will.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "Defeated",
+    "combatLevel": 43,
+    "hitpoints": 50,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Scarabs",
+    "id": 729,
+    "isMembersOnly": false,
+    "examine": "I think they're some kind of beetle...",
+    "releaseDate": "18 April 2005",
+    "combatLevel": 92,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 25,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 1.0,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 2,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 15,
+        "crush": 15,
+        "magic": 15,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 1,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

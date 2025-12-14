@@ -1,0 +1,34 @@
+{
+    "name": "Lava beast",
+    "id": 7817,
+    "isMembersOnly": false,
+    "examine": "Rargh, I'm a lava monster!",
+    "releaseDate": "7 September 2017",
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 20,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 140,
+        "crush": 50,
+        "magic": -30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Vitreous warped Jelly (Deadman)",
+    "id": 12457,
+    "isMembersOnly": false,
+    "examine": "I don't think you're ready for this jelly.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 333,
+    "hitpoints": 500,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 250,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 180,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

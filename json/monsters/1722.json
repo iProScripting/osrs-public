@@ -1,0 +1,22 @@
+{
+    "name": "Torcher",
+    "id": 1722,
+    "isMembersOnly": false,
+    "examine": "Burn baby, burn!",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Level 91",
+    "combatLevel": 91,
+    "hitpoints": 70,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 89,
+    "magicLevel": 107,
+    "attackStyle": [
+        "Ranged magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

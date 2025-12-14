@@ -1,0 +1,39 @@
+{
+    "name": "Damis (Nightmare Zone)",
+    "id": 6347,
+    "isMembersOnly": false,
+    "examine": "The warrior of darkness.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Second form (Normal Mode)",
+    "combatLevel": 174,
+    "hitpoints": 200,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 100,
+    "defenceLevel": 160,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 100,
+        "magic": 80,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 5.0,
+    "size": 1
+}

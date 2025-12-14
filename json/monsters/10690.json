@@ -1,0 +1,40 @@
+{
+    "name": "Chaos Golem",
+    "id": 10690,
+    "isMembersOnly": false,
+    "examine": "This rubble looks like it's been touched by chaos.",
+    "releaseDate": "14 April 2021",
+    "versionAnchor": "Rubble",
+    "combatLevel": 70,
+    "hitpoints": 94,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 55,
+    "defenceLevel": 59,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 35
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "magic": 2,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "flatArmour": 3,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

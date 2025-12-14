@@ -1,0 +1,33 @@
+{
+    "name": "H.A.M. Guard",
+    "id": 2537,
+    "isMembersOnly": false,
+    "examine": "A guard for the 'Humans Against Monsters' group.",
+    "releaseDate": "22 February 2005",
+    "versionAnchor": "Level 18",
+    "combatLevel": 18,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 18,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 6,
+        "slash": 6,
+        "ranged": 6,
+        "lightRanged": 6,
+        "standardRanged": 6,
+        "heavyRanged": 6
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

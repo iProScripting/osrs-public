@@ -1,0 +1,36 @@
+{
+    "name": "Rockslug",
+    "id": 14423,
+    "isMembersOnly": false,
+    "examine": "The slime of evil.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Cave",
+    "combatLevel": 29,
+    "hitpoints": 27,
+    "maxHit": [
+        "4"
+    ],
+    "slayerLevel": 20,
+    "slayerExperience": 27.0,
+    "slayerCategory": [
+        "Rockslugs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 27,
+    "defenceLevel": 27,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

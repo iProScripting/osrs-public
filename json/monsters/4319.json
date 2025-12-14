@@ -1,0 +1,41 @@
+{
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "isMembersOnly": false,
+    "examine": "Doesn't seem to want to go away.",
+    "releaseDate": "2 May 2006",
+    "versionAnchor": "Level 83",
+    "combatLevel": 83,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "magic": 15
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

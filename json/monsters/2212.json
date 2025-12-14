@@ -1,0 +1,57 @@
+{
+    "name": "Spiritual mage",
+    "id": 2212,
+    "isMembersOnly": false,
+    "examine": "Saradomin's holy mage.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Saradomin",
+    "combatLevel": 120,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 85,
+    "maxHit": [
+        "20"
+    ],
+    "slayerLevel": 83,
+    "slayerExperience": 85.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 86,
+    "rangedLevel": 1,
+    "magicLevel": 160,
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 7,
+        "crush": 3,
+        "magic": 16,
+        "ranged": 2,
+        "lightRanged": 2,
+        "standardRanged": 2,
+        "heavyRanged": 2
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

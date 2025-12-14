@@ -1,0 +1,44 @@
+{
+    "name": "Zombified Spawn",
+    "id": 8063,
+    "isMembersOnly": false,
+    "examine": "Nasty looking thing.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Post-quest",
+    "combatLevel": 64,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 38,
+    "maxHit": [
+        "60"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 82,
+    "strengthLevel": 82,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 3,
+        "crush": 3,
+        "magic": -100,
+        "ranged": 3,
+        "lightRanged": 3,
+        "standardRanged": 3,
+        "heavyRanged": 3
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": -1,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

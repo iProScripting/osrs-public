@@ -1,0 +1,61 @@
+{
+    "name": "Magma strykewyrm",
+    "id": 15504,
+    "isMembersOnly": false,
+    "examine": "A rather hot foe.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 249,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 340,
+    "maxHit": [
+        "26"
+    ],
+    "slayerLevel": 62,
+    "slayerExperience": 3655.0,
+    "slayerCategory": [
+        "Wyrms"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 210,
+    "strengthLevel": 210,
+    "defenceLevel": 110,
+    "rangedLevel": 250,
+    "magicLevel": 110,
+    "attackBonuses": {
+        "melee": 30,
+        "rangedStrength": 40
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 30,
+        "crush": 70,
+        "magic": 40,
+        "ranged": 120,
+        "lightRanged": 120,
+        "standardRanged": 120,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

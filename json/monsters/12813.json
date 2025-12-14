@@ -1,0 +1,41 @@
+{
+    "name": "Minotaur (Fortis Colosseum)",
+    "id": 12813,
+    "isMembersOnly": false,
+    "examine": "The least milkable cow I've ever seen.",
+    "releaseDate": "20 March 2024",
+    "versionAnchor": "Red Flag",
+    "combatLevel": 318,
+    "hitpoints": 225,
+    "maxHit": [
+        "74"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 360,
+    "defenceLevel": 190,
+    "rangedLevel": 120,
+    "magicLevel": 250,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 64
+    },
+    "defenceBonuses": {
+        "ranged": 12,
+        "lightRanged": 12,
+        "standardRanged": 12,
+        "heavyRanged": 12
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 3
+}

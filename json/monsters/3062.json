@@ -1,0 +1,38 @@
+{
+    "name": "Barbarian",
+    "id": 3062,
+    "isMembersOnly": false,
+    "examine": "Minarch, a barbarian who likes his beer.",
+    "releaseDate": "20 February 2006",
+    "versionAnchor": "Level 17 (Minarch)",
+    "combatLevel": 17,
+    "hitpoints": 24,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 14,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2,
+        "magic": -3,
+        "ranged": 2,
+        "lightRanged": 2,
+        "standardRanged": 2,
+        "heavyRanged": 2
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

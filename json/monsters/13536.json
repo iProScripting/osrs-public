@@ -1,0 +1,40 @@
+{
+    "name": "Mercenary axeman",
+    "id": 13536,
+    "isMembersOnly": false,
+    "examine": "An axe-wielding mercenary who works for the highest bidder.",
+    "releaseDate": "10 July 2024",
+    "versionAnchor": "2",
+    "combatLevel": 131,
+    "hitpoints": 110,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackBonuses": {
+        "melee": 75,
+        "strength": 25
+    },
+    "defenceBonuses": {
+        "stab": 110,
+        "slash": 80,
+        "crush": 80,
+        "magic": 10,
+        "ranged": 70,
+        "lightRanged": 90,
+        "standardRanged": 70,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 1
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Spider",
+    "id": 2478,
+    "isMembersOnly": false,
+    "examine": "Incey wincey... with a nasty bite.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Stronghold of Security",
+    "combatLevel": 24,
+    "hitpoints": 22,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 21,
+    "strengthLevel": 21,
+    "defenceLevel": 21,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 35,
+        "strength": 58
+    },
+    "defenceBonuses": {
+        "stab": 53,
+        "slash": 53,
+        "crush": 53,
+        "magic": 53,
+        "ranged": 53,
+        "lightRanged": 53,
+        "standardRanged": 53,
+        "heavyRanged": 53
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

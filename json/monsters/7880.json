@@ -1,0 +1,44 @@
+{
+    "name": "Ice giant",
+    "id": 7880,
+    "isMembersOnly": false,
+    "examine": "He's got icicles in his beard.",
+    "releaseDate": "23 November 2017",
+    "versionAnchor": "Wilderness Slayer Cave 3",
+    "combatLevel": 67,
+    "hitpoints": 100,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Ice Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 60,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 29,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

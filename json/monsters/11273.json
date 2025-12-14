@@ -1,0 +1,61 @@
+{
+    "name": "Strongbones",
+    "id": 11273,
+    "isMembersOnly": false,
+    "examine": "A goblin high priest, back from the grave.",
+    "releaseDate": "9 February 2022",
+    "combatLevel": 184,
+    "hitpoints": 200,
+    "maxHit": [
+        "18"
+    ],
+    "slayerExperience": 200.0,
+    "slayerCategory": [
+        "Goblins",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "rangedLevel": 90,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "magic": 38,
+        "ranged": 38,
+        "melee": 38,
+        "strength": 50,
+        "rangedStrength": 50,
+        "magicDamage": 50
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Asyn shadow (Temple Trekking)",
+    "id": 5632,
+    "isMembersOnly": false,
+    "examine": "The shadowy remains of a long-departed soul.",
+    "releaseDate": "28 March 2006",
+    "combatLevel": 110,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 94,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 94.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 96,
+    "defenceLevel": 80,
+    "rangedLevel": 50,
+    "magicLevel": 50,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

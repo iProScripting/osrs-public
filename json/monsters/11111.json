@@ -1,0 +1,38 @@
+{
+    "name": "Dark warrior",
+    "id": 11111,
+    "isMembersOnly": false,
+    "examine": "A warrior touched by darkness.",
+    "releaseDate": "16 June 2021",
+    "versionAnchor": "Level 37",
+    "combatLevel": 37,
+    "hitpoints": 50,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Dark Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 20,
+        "crush": 40
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

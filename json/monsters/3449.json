@@ -1,0 +1,34 @@
+{
+    "name": "Shadow Hound",
+    "id": 3449,
+    "isMembersOnly": false,
+    "examine": "Looks hungry!",
+    "releaseDate": "18 April 2005",
+    "combatLevel": 63,
+    "hitpoints": 62,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 62.0,
+    "slayerCategory": [
+        "Dogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 53,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

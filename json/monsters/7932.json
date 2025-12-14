@@ -1,0 +1,54 @@
+{
+    "name": "Revenant pyrefiend",
+    "id": 7932,
+    "isMembersOnly": false,
+    "examine": "The ghost of a pyrefiend slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 52,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 48,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 48.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 40,
+    "defenceLevel": 33,
+    "rangedLevel": 40,
+    "magicLevel": 67,
+    "defenceBonuses": {
+        "stab": 45,
+        "slash": 40,
+        "crush": 50,
+        "magic": 15,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

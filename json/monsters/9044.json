@@ -1,0 +1,27 @@
+{
+    "name": "Corrupted Scorpion",
+    "id": 9044,
+    "isMembersOnly": false,
+    "examine": "Every miner's nightmare.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 89,
+    "hitpoints": 38,
+    "maxHit": [
+        "17"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 159,
+    "defenceLevel": 18,
+    "magicLevel": 18,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

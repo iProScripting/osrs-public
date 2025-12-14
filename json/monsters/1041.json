@@ -1,0 +1,32 @@
+{
+    "name": "Giant mosquito",
+    "id": 1041,
+    "isMembersOnly": false,
+    "examine": "A flying blood sucker.",
+    "releaseDate": "4 July 2006",
+    "combatLevel": 13,
+    "hitpoints": 3,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 1,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 2,
+        "slash": 2,
+        "crush": 5,
+        "magic": 2
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 12,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

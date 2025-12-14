@@ -1,0 +1,60 @@
+{
+    "name": "Shadow Wyrm",
+    "id": 10399,
+    "isMembersOnly": false,
+    "examine": "Is it wyrm in here or is it just me?",
+    "releaseDate": "23 July 2020",
+    "versionAnchor": "Attacking",
+    "combatLevel": 259,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 290,
+    "maxHit": [
+        "28"
+    ],
+    "slayerLevel": 62,
+    "slayerExperience": 3520.0,
+    "slayerCategory": [
+        "Wyrms"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 180,
+    "defenceLevel": 125,
+    "rangedLevel": 125,
+    "magicLevel": 160,
+    "attackBonuses": {
+        "strength": 30,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 100,
+        "crush": 100,
+        "magic": 50,
+        "lightRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": 2,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "isMembersOnly": false,
+    "examine": "One of Glough's demonic creations.",
+    "releaseDate": "6 May 2016",
+    "versionAnchor": "1",
+    "combatLevel": 275,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 380,
+    "maxHit": [
+        "31 (normal)",
+        "40 (special attack)"
+    ],
+    "slayerExperience": 408.5,
+    "slayerCategory": [
+        "Black Demons",
+        "Monkeys"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 205,
+    "strengthLevel": 195,
+    "defenceLevel": 200,
+    "rangedLevel": 195,
+    "magicLevel": 195,
+    "attackBonuses": {
+        "magic": 40,
+        "ranged": 43,
+        "melee": 43,
+        "strength": 29,
+        "rangedStrength": 29,
+        "magicDamage": 29
+    },
+    "defenceBonuses": {
+        "magic": 20
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 35
+}

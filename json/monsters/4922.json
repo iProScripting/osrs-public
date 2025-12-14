@@ -1,0 +1,36 @@
+{
+    "name": "Ice Queen",
+    "id": 4922,
+    "isMembersOnly": false,
+    "examine": "A cold hearted<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> lady.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 111,
+    "hitpoints": 104,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 94,
+    "defenceLevel": 95,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 40,
+        "crush": 20,
+        "magic": 10,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

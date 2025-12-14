@@ -1,0 +1,55 @@
+{
+    "name": "Skeleton fremennik",
+    "id": 4493,
+    "isMembersOnly": false,
+    "examine": "Could use a good meal.",
+    "releaseDate": "10 April 2007",
+    "versionAnchor": "Level 40",
+    "combatLevel": 40,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 25,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 53,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 13
+    },
+    "defenceBonuses": {
+        "stab": 14,
+        "slash": 18,
+        "crush": 15,
+        "magic": -4,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

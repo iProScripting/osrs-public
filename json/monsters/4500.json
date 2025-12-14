@@ -1,0 +1,40 @@
+{
+    "name": "Ulfric",
+    "id": 4500,
+    "isMembersOnly": false,
+    "examine": "What could be worse than an angry, undead Fremennik?",
+    "releaseDate": "10 April 2007",
+    "combatLevel": 100,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 60,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 82,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

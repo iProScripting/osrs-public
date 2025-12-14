@@ -1,0 +1,45 @@
+{
+    "name": "Dwarf",
+    "id": 1408,
+    "isMembersOnly": false,
+    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> A dwarven worker.<br/><span style=\"user-select:none;\">'''&bull;'''</span> A short angry guy.",
+    "releaseDate": "6 April 2001",
+    "versionAnchor": "Level 7",
+    "combatLevel": 7,
+    "hitpoints": 10,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "Dwarves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 6,
+    "strengthLevel": 6,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

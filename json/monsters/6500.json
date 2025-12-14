@@ -1,0 +1,57 @@
+{
+    "name": "Kalphite Queen (PvM Arena)",
+    "id": 6500,
+    "isMembersOnly": false,
+    "examine": "I don't think insect repellent will work...",
+    "releaseDate": "3 December 2015",
+    "versionAnchor": "Crawling",
+    "combatLevel": 333,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 255,
+    "maxHit": [
+        "31"
+    ],
+    "slayerExperience": 535.5,
+    "slayerCategory": [
+        "Kalphite",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 300,
+    "defenceLevel": 300,
+    "rangedLevel": 1,
+    "magicLevel": 150,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 10,
+        "magic": 100,
+        "ranged": 100,
+        "lightRanged": 100,
+        "standardRanged": 100,
+        "heavyRanged": 100
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 5
+}

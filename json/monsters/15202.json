@@ -1,0 +1,33 @@
+{
+    "name": "Narwhal",
+    "id": 15202,
+    "isMembersOnly": false,
+    "examine": "Currently swimming in the ocean.",
+    "releaseDate": "5 November 2025",
+    "combatLevel": 103,
+    "hitpoints": 155,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 65,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 20,
+        "ranged": 65,
+        "lightRanged": 65,
+        "standardRanged": 65,
+        "heavyRanged": 40
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

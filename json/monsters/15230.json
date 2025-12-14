@@ -1,0 +1,33 @@
+{
+    "name": "Mogre (Sailing)",
+    "id": 15230,
+    "isMembersOnly": false,
+    "examine": "It thinks it can take down an entire boat. Maybe it can?",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 54,
+    "hitpoints": 60,
+    "maxHit": [
+        "8"
+    ],
+    "slayerCategory": [
+        "Mogres",
+        "Ogres"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 50,
+    "defenceLevel": 40,
+    "rangedLevel": 60,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 20
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

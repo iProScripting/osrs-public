@@ -1,0 +1,43 @@
+{
+    "name": "Prince Itzla Arkan",
+    "id": 13785,
+    "isMembersOnly": false,
+    "examine": "The heir to the throne of Varlamore, going undercover.",
+    "releaseDate": "25 September 2024",
+    "combatLevel": 167,
+    "hitpoints": 250,
+    "maxHit": [
+        "12 (normal)",
+        "16 (special attack)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 110,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 55,
+    "attackBonuses": {
+        "melee": 150
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 20,
+        "magic": 10,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

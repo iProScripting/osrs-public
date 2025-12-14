@@ -1,0 +1,45 @@
+{
+    "name": "Temple Spider",
+    "id": 8703,
+    "isMembersOnly": false,
+    "examine": "Preys on unsuspecting adventurers.",
+    "releaseDate": "4 July 2019",
+    "combatLevel": 75,
+    "hitpoints": 70,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 50,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 30,
+        "crush": 10,
+        "magic": 25,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

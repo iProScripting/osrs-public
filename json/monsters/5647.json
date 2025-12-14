@@ -1,0 +1,37 @@
+{
+    "name": "Zombie (Temple Trekking)",
+    "id": 5647,
+    "isMembersOnly": false,
+    "examine": "I wonder if he'd let me borrow his axe?",
+    "releaseDate": "28 March 2006",
+    "combatLevel": 23,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 20.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

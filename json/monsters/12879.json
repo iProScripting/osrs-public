@@ -1,0 +1,48 @@
+{
+    "name": "Sulphur Nagua (Perilous Moons)",
+    "id": 12879,
+    "isMembersOnly": false,
+    "examine": "Brittle, rocky skin hiding pockets of volatile explosive sulphur.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 98,
+    "hitpoints": 100,
+    "maxHit": [
+        "6-5",
+        "(11 total)"
+    ],
+    "slayerLevel": 48,
+    "slayerExperience": 105.0,
+    "slayerCategory": [
+        "Lesser Nagua"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 105,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "melee": 90
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 10,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

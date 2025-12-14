@@ -1,0 +1,51 @@
+{
+    "name": "Giant skeleton (Tarn's Lair)",
+    "id": 6440,
+    "isMembersOnly": false,
+    "examine": "A giant skeleton or a giant's skeleton?",
+    "releaseDate": "22 January 2007",
+    "combatLevel": 100,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 110,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 84,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

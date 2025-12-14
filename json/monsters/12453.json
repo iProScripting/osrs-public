@@ -1,0 +1,42 @@
+{
+    "name": "Flaming pyrelord (Deadman)",
+    "id": 12453,
+    "isMembersOnly": false,
+    "examine": "A large demonic being of fire.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 363,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 750,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 200,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 18,
+        "crush": 18,
+        "magic": 150,
+        "ranged": 18,
+        "lightRanged": 18,
+        "standardRanged": 18,
+        "heavyRanged": 18
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

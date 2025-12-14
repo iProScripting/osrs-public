@@ -1,0 +1,27 @@
+{
+    "name": "Freidir",
+    "id": 3938,
+    "isMembersOnly": false,
+    "examine": "One of Rellekka's many citizens.",
+    "releaseDate": "2 November 2004",
+    "combatLevel": 48,
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

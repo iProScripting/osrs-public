@@ -1,0 +1,61 @@
+{
+    "name": "Skotizo",
+    "id": 7286,
+    "isMembersOnly": false,
+    "examine": "A darkly altared demon.",
+    "releaseDate": "16 June 2016",
+    "combatLevel": 321,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 450,
+    "maxHit": [
+        "38"
+    ],
+    "slayerExperience": 618.5,
+    "slayerCategory": [
+        "Black Demons",
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 240,
+    "strengthLevel": 250,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 280,
+    "attackBonuses": {
+        "melee": 160,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 80,
+        "crush": 80,
+        "magic": 80,
+        "ranged": 130,
+        "lightRanged": 130,
+        "standardRanged": 130,
+        "heavyRanged": 130
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 37.5,
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

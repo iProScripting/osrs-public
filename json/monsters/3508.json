@@ -1,0 +1,26 @@
+{
+    "name": "Bouncer (ghost)",
+    "id": 3508,
+    "isMembersOnly": false,
+    "examine": "Big, mean, dead doggy.",
+    "releaseDate": "12 February 2007",
+    "combatLevel": 160,
+    "hitpoints": 120,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 145,
+    "strengthLevel": 145,
+    "defenceLevel": 145,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 15
+}

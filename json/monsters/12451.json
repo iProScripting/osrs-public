@@ -1,0 +1,51 @@
+{
+    "name": "Greater abyssal demon (Deadman)",
+    "id": 12451,
+    "isMembersOnly": false,
+    "examine": "A greater denizen of the Abyss.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 429,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 750,
+    "maxHit": [
+        "27"
+    ],
+    "slayerCategory": [
+        "Abyssal Demons"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 260,
+    "defenceLevel": 240,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

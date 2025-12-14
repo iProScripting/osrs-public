@@ -1,0 +1,60 @@
+{
+    "name": "Ranis Drakan",
+    "id": 8248,
+    "isMembersOnly": false,
+    "examine": "He looks haughty and arrogant.",
+    "releaseDate": "24 May 2018",
+    "combatLevel": 233,
+    "attributes": [
+        "vampyre3"
+    ],
+    "hitpoints": 400,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 400.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "melee": 160,
+        "strength": -36,
+        "magicDamage": 34
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 60,
+        "crush": 60,
+        "magic": 60,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 2,
+    "experienceBonus": 15.0,
+    "size": 1
+}

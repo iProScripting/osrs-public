@@ -1,0 +1,30 @@
+{
+    "name": "Sigmund",
+    "id": 991,
+    "isMembersOnly": false,
+    "examine": "Former advisor to the Duke of Lumbridge.",
+    "releaseDate": "21 June 2006",
+    "combatLevel": 50,
+    "hitpoints": 60,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 45,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": 8
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Reanimated demon",
+    "id": 7036,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "7 January 2016",
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Lesser Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 71,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

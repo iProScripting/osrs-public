@@ -1,0 +1,42 @@
+{
+    "name": "Gelatinnoth Mother (Nightmare Zone)",
+    "id": 6313,
+    "isMembersOnly": false,
+    "examine": "Deadly AND fruity!",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 201,
+    "hitpoints": 240,
+    "maxHit": [
+        "20 (melee)",
+        "20x2 (ranged/magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 186,
+    "strengthLevel": 186,
+    "defenceLevel": 81,
+    "rangedLevel": 120,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 150,
+        "crush": 150,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic",
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 12.5,
+    "size": 3
+}

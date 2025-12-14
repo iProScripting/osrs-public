@@ -1,0 +1,39 @@
+{
+    "name": "Skeleton Mage",
+    "id": 84,
+    "isMembersOnly": false,
+    "examine": "An undead worker of dark magic.",
+    "releaseDate": "24 September 2002",
+    "versionAnchor": "Level 16",
+    "combatLevel": 16,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 17,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 17.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 14,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 18,
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Defiler",
+    "id": 1728,
+    "isMembersOnly": false,
+    "examine": "Duck!",
+    "releaseDate": "18 April 2006",
+    "versionAnchor": "Level 66",
+    "combatLevel": 66,
+    "hitpoints": 62,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 41,
+    "rangedLevel": 84,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Xamphur",
+    "id": 10955,
+    "isMembersOnly": false,
+    "examine": "If evil had a look, this would be it.",
+    "releaseDate": "16 June 2021",
+    "combatLevel": 239,
+    "hitpoints": 450,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 100,
+    "magicLevel": 140,
+    "attackBonuses": {
+        "magic": 20,
+        "magicDamage": 12
+    },
+    "defenceBonuses": {
+        "stab": 180,
+        "slash": 180,
+        "crush": 180,
+        "magic": 260,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 3
+}

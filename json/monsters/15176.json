@@ -1,0 +1,37 @@
+{
+    "name": "Drink troll queen",
+    "id": 15176,
+    "isMembersOnly": false,
+    "examine": "The drink troll society might feel simpler now.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "Defeated",
+    "combatLevel": 194,
+    "hitpoints": 225,
+    "maxHit": [
+        "21"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 155,
+    "rangedLevel": 1,
+    "magicLevel": 205,
+    "defenceBonuses": {
+        "magic": -63,
+        "ranged": 50,
+        "lightRanged": 100,
+        "standardRanged": 50,
+        "heavyRanged": 100
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

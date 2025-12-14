@@ -1,0 +1,47 @@
+{
+    "name": "Fever spider",
+    "id": 626,
+    "isMembersOnly": false,
+    "examine": "A bunch of legs, eyes and teeth.",
+    "releaseDate": "31 October 2005",
+    "combatLevel": 49,
+    "hitpoints": 40,
+    "maxHit": [
+        "4",
+        "1–12 (without Slayer gloves)"
+    ],
+    "slayerLevel": 42,
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Fever Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 30,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 15,
+        "crush": 10,
+        "magic": 15,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Bloodthirsty Turoth",
+    "id": 12583,
+    "isMembersOnly": false,
+    "examine": "He's one huge leg short!",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 366,
+    "attributes": [
+        "leafy"
+    ],
+    "hitpoints": 292,
+    "maxHit": [
+        "43"
+    ],
+    "slayerLevel": 55,
+    "slayerExperience": 2993.0,
+    "slayerCategory": [
+        "Turoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE"
+    ],
+    "attackLevel": 306,
+    "strengthLevel": 420,
+    "defenceLevel": 154,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 40,
+        "crush": 40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

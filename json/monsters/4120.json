@@ -1,0 +1,52 @@
+{
+    "name": "Troll general",
+    "id": 4120,
+    "isMembersOnly": false,
+    "examine": "One of the troll generals.",
+    "releaseDate": "24 August 2004",
+    "versionAnchor": "Sword",
+    "combatLevel": 113,
+    "hitpoints": 140,
+    "maxHit": [
+        "38"
+    ],
+    "slayerExperience": 150.5,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 140,
+    "defenceLevel": 40,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 60,
+        "crush": 35,
+        "magic": 200,
+        "ranged": 120,
+        "lightRanged": 200,
+        "standardRanged": 120,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

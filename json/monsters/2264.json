@@ -1,0 +1,38 @@
+{
+    "name": "Dagannoth fledgeling",
+    "id": 2264,
+    "isMembersOnly": false,
+    "examine": "A knee-high horror from the ocean depths...",
+    "releaseDate": "7 November 2005",
+    "combatLevel": 70,
+    "hitpoints": 100,
+    "maxHit": [
+        "6"
+    ],
+    "slayerCategory": [
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

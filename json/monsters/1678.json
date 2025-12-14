@@ -1,0 +1,24 @@
+{
+    "name": "Bloodworm",
+    "id": 1678,
+    "isMembersOnly": false,
+    "examine": "I think I should keep my distance...",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 52,
+    "hitpoints": 45,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 20,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

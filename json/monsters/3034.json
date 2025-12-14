@@ -1,0 +1,48 @@
+{
+    "name": "Goblin",
+    "id": 3034,
+    "isMembersOnly": false,
+    "examine": "An ugly green creature.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Level 2",
+    "combatLevel": 2,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 5.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -21,
+        "strength": -15
+    },
+    "defenceBonuses": {
+        "stab": -15,
+        "slash": -15,
+        "crush": -15,
+        "magic": -15,
+        "ranged": -15,
+        "lightRanged": -15,
+        "standardRanged": -15,
+        "heavyRanged": -15
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

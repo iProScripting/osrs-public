@@ -1,0 +1,45 @@
+{
+    "name": "Aviansie",
+    "id": 3170,
+    "isMembersOnly": false,
+    "examine": "A proud warrior.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 79 (1)",
+    "combatLevel": 79,
+    "attributes": [
+        "flying"
+    ],
+    "hitpoints": 83,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 83.0,
+    "slayerCategory": [
+        "Aviansie"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "rangedLevel": 85,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "lightRanged": -20
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 45
+}

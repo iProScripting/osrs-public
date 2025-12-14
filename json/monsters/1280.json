@@ -1,0 +1,44 @@
+{
+    "name": "Phrin Shade",
+    "id": 1280,
+    "isMembersOnly": false,
+    "examine": "The shadowy remains of a long departed soul.",
+    "releaseDate": "18 October 2004",
+    "versionAnchor": "Shade",
+    "combatLevel": 60,
+    "attributes": [
+        "shade",
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 56,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 56.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 64,
+    "strengthLevel": 47,
+    "defenceLevel": 42,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

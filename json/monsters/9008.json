@@ -1,0 +1,29 @@
+{
+    "name": "Mourner (boss)",
+    "id": 9008,
+    "isMembersOnly": false,
+    "examine": "A mourner, or plague healer.",
+    "releaseDate": "23 October 2002",
+    "combatLevel": 13,
+    "hitpoints": 19,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 2,
+        "crush": 4
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

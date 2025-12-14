@@ -1,0 +1,46 @@
+{
+    "name": "Bloodthirsty basilisk",
+    "id": 12565,
+    "isMembersOnly": false,
+    "examine": "Let's hope I have some phoenix tears.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 202,
+    "hitpoints": 255,
+    "maxHit": [
+        "16"
+    ],
+    "slayerLevel": 40,
+    "slayerExperience": 2550.0,
+    "slayerCategory": [
+        "Basilisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 132,
+    "strengthLevel": 147,
+    "defenceLevel": 130,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 35,
+        "magic": 35
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Bloodthirsty choke devil",
+    "id": 12575,
+    "isMembersOnly": false,
+    "examine": "Hold your breath!",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 396,
+    "hitpoints": 300,
+    "slayerLevel": 65,
+    "slayerCategory": [
+        "Dust Devils"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 260,
+    "strengthLevel": 230,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

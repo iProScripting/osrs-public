@@ -1,0 +1,60 @@
+{
+    "name": "Duke Sucellus",
+    "id": 12193,
+    "isMembersOnly": false,
+    "examine": "He seems to be asleep.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Asleep",
+    "combatLevel": 538,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 330,
+    "maxHit": [
+        "36 (Melee)",
+        "28 (Magic)",
+        "99 (Gaze)"
+    ],
+    "slayerExperience": 360.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 280,
+    "defenceLevel": 215,
+    "magicLevel": 230,
+    "attackBonuses": {
+        "magic": 150,
+        "melee": 200,
+        "strength": 16,
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 210,
+        "slash": 30,
+        "crush": 160,
+        "magic": 400,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 45.0,
+    "size": 7
+}

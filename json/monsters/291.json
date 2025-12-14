@@ -1,0 +1,47 @@
+{
+    "name": "Chaos dwarf",
+    "id": 291,
+    "isMembersOnly": false,
+    "examine": "A dwarf gone bad.",
+    "releaseDate": "13 August 2001",
+    "combatLevel": 48,
+    "hitpoints": 61,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 61.0,
+    "slayerCategory": [
+        "Dwarves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 42,
+    "defenceLevel": 28,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 13,
+        "strength": 9
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 34,
+        "crush": 25,
+        "magic": 10,
+        "ranged": 35,
+        "lightRanged": 35,
+        "standardRanged": 35,
+        "heavyRanged": 35
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Ghast",
+    "id": 946,
+    "isMembersOnly": false,
+    "examine": "Arrghhh... A ghast!",
+    "releaseDate": "13 July 2004",
+    "combatLevel": 30,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 45,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 25
+}

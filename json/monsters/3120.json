@@ -1,0 +1,37 @@
+{
+    "name": "Tz-Kek",
+    "id": 3120,
+    "isMembersOnly": false,
+    "examine": "Looks like living lava...",
+    "releaseDate": "19 September 2005",
+    "versionAnchor": "Level 22",
+    "combatLevel": 22,
+    "hitpoints": 10,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 30,
+    "defenceLevel": 15,
+    "rangedLevel": 30,
+    "magicLevel": 15,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

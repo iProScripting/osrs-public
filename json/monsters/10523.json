@@ -1,0 +1,45 @@
+{
+    "name": "Forgotten Soul (Soul Wars)",
+    "id": 10523,
+    "isMembersOnly": false,
+    "examine": "All that they once were has been lost to time.",
+    "releaseDate": "6 January 2021",
+    "versionAnchor": "Level 46",
+    "combatLevel": 46,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 40,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 20,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

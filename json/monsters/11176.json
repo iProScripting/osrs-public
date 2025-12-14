@@ -1,0 +1,50 @@
+{
+    "name": "Araxyte",
+    "id": 11176,
+    "isMembersOnly": false,
+    "examine": "A very large odd-looking spider.",
+    "releaseDate": "28 July 2021",
+    "versionAnchor": "Level 146",
+    "combatLevel": 146,
+    "hitpoints": 100,
+    "maxHit": [
+        "17"
+    ],
+    "slayerLevel": 92,
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Spiders",
+        "Araxytes"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 160,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 30,
+        "crush": 20,
+        "magic": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

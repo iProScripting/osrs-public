@@ -1,0 +1,36 @@
+{
+    "name": "Nature impling",
+    "id": 1641,
+    "isMembersOnly": false,
+    "examine": "A nature impling. Right on, maaan.",
+    "releaseDate": "11 June 2007",
+    "hitpoints": 10,
+    "maxHit": [
+        "N/A"
+    ],
+    "usesSkill": [
+    ],
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -10,
+        "strength": -10
+    },
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": -10,
+        "crush": -10,
+        "magic": 20,
+        "ranged": -10,
+        "lightRanged": -10,
+        "standardRanged": -10,
+        "heavyRanged": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "N/A"
+    ]
+}

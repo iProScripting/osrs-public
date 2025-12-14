@@ -1,0 +1,79 @@
+{
+    "name": "Vorkath",
+    "id": 8061,
+    "isMembersOnly": false,
+    "examine": "This won't be fun.",
+    "releaseDate": "4 January 2018",
+    "versionAnchor": "Post-quest",
+    "combatLevel": 732,
+    "attributes": [
+        "dragon",
+        "undead",
+        "fiery"
+    ],
+    "hitpoints": 750,
+    "maxHit": [
+        "30 (Magic)",
+        "32 (Ranged)",
+        "32 (Melee)",
+        "80 (Dragonfire)",
+        "121 (Dragonfire Bomb/Special)",
+        "41 (Rapid Fire/Special)"
+    ],
+    "slayerExperience": 750.0,
+    "slayerCategory": [
+        "Blue Dragons",
+        "Zombies",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 560,
+    "strengthLevel": 308,
+    "defenceLevel": 214,
+    "rangedLevel": 308,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "magic": 150,
+        "ranged": 78,
+        "melee": 16,
+        "magicDamage": 56
+    },
+    "defenceBonuses": {
+        "stab": 26,
+        "slash": 108,
+        "crush": 108,
+        "magic": 240,
+        "ranged": 26,
+        "lightRanged": 26,
+        "standardRanged": 26,
+        "heavyRanged": 26
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic",
+        "Ranged",
+        "Dragonfire"
+    ],
+    "attackSpeed": 5,
+    "size": 7,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

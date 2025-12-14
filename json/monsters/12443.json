@@ -1,0 +1,55 @@
+{
+    "name": "Kree'arra (Deadman)",
+    "id": 12443,
+    "isMembersOnly": false,
+    "examine": "Graceful avatar of Armadyl.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 580,
+    "hitpoints": 350,
+    "maxHit": [
+        "21"
+    ],
+    "slayerCategory": [
+        "Aviansie",
+        "Bosses"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 200,
+    "defenceLevel": 260,
+    "rangedLevel": 380,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "ranged": 120,
+        "melee": 136,
+        "strength": 12,
+        "rangedStrength": 50
+    },
+    "defenceBonuses": {
+        "stab": 180,
+        "slash": 180,
+        "crush": 180,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 5
+}

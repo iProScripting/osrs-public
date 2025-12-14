@@ -1,0 +1,43 @@
+{
+    "name": "Husk (Phosani's Nightmare)",
+    "id": 9466,
+    "isMembersOnly": false,
+    "examine": "Was it human once?",
+    "releaseDate": "5 March 2020",
+    "versionAnchor": "Magic",
+    "combatLevel": 104,
+    "hitpoints": 20,
+    "maxHit": [
+        "26"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 20,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "magic": 168,
+        "magicDamage": 82
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "magic": 80,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

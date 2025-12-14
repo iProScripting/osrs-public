@@ -1,0 +1,38 @@
+{
+    "name": "Lesser demon (The Scar)",
+    "id": 12376,
+    "isMembersOnly": false,
+    "examine": "A particularly weak demon that's trying to harness power from the Abyss.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 39",
+    "combatLevel": 39,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "1"
+    ],
+    "slayerCategory": [
+        "None"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

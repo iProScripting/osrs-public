@@ -1,0 +1,35 @@
+{
+    "name": "Emissary Acolyte",
+    "id": 13733,
+    "isMembersOnly": false,
+    "examine": "A newly-initiated member of the Twilight Emissaries.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "1",
+    "combatLevel": 34,
+    "hitpoints": 25,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 35,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 30,
+        "magic": 10,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Tough Guy",
+    "id": 3551,
+    "isMembersOnly": false,
+    "examine": "Tough looking Menaphite.",
+    "releaseDate": "4 April 2005",
+    "combatLevel": 75,
+    "hitpoints": 75,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 9
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 8,
+        "crush": 10
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

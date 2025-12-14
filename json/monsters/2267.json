@@ -1,0 +1,49 @@
+{
+    "name": "Dagannoth Rex",
+    "id": 2267,
+    "isMembersOnly": false,
+    "examine": "Firstborn of the legendary dagannoth kings.",
+    "releaseDate": "7 November 2005",
+    "combatLevel": 303,
+    "hitpoints": 255,
+    "maxHit": [
+        "26"
+    ],
+    "slayerExperience": 331.4,
+    "slayerCategory": [
+        "Bosses",
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 255,
+    "rangedLevel": 255,
+    "defenceBonuses": {
+        "stab": 255,
+        "slash": 255,
+        "crush": 255,
+        "magic": 10,
+        "ranged": 255,
+        "lightRanged": 255,
+        "standardRanged": 255,
+        "heavyRanged": 255
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 30.0,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Gemstone Crab",
+    "id": 14779,
+    "isMembersOnly": false,
+    "examine": "The shiniest crustacean this side of the shoreline.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 160,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 7,
+    "experienceBonus": -12.5,
+    "size": 5
+}

@@ -1,0 +1,39 @@
+{
+    "name": "River troll",
+    "id": 6734,
+    "isMembersOnly": false,
+    "examine": "Likes fish... hates people.",
+    "releaseDate": "11 September 2014",
+    "versionAnchor": "Level 49",
+    "combatLevel": 49,
+    "hitpoints": 60,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 1.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 38,
+    "defenceLevel": 38,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

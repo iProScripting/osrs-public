@@ -1,0 +1,47 @@
+{
+    "name": "Dagannoth Prime (PvM Arena)",
+    "id": 6497,
+    "isMembersOnly": false,
+    "examine": "A legendary dagannoth king, rumoured to fly on the North winds.",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 303,
+    "hitpoints": 255,
+    "maxHit": [
+        "50"
+    ],
+    "slayerExperience": 331.4,
+    "slayerCategory": [
+        "Bosses",
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 255,
+    "magicLevel": 255,
+    "defenceBonuses": {
+        "stab": 255,
+        "slash": 255,
+        "crush": 255,
+        "magic": 255,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 30.0,
+    "size": 3
+}

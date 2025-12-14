@@ -1,0 +1,33 @@
+{
+    "name": "Sir Mordred",
+    "id": 3527,
+    "isMembersOnly": false,
+    "examine": "Leader of the Renegade Knights.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 39,
+    "hitpoints": 38,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 33,
+    "strengthLevel": 33,
+    "defenceLevel": 33,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 16
+    },
+    "defenceBonuses": {
+        "stab": 99,
+        "slash": 82,
+        "crush": 45
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

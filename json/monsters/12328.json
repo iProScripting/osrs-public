@@ -1,0 +1,50 @@
+{
+    "name": "The Forsaken Assassin",
+    "id": 12328,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 252,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 160,
+    "defenceLevel": 140,
+    "rangedLevel": 160,
+    "magicLevel": 140,
+    "attackBonuses": {
+        "ranged": 66,
+        "melee": 66,
+        "strength": 12,
+        "rangedStrength": 12
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 30,
+        "crush": 80,
+        "magic": 200,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR"
+}

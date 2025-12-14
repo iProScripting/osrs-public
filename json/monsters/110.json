@@ -1,0 +1,37 @@
+{
+    "name": "Wolf",
+    "id": 110,
+    "isMembersOnly": false,
+    "examine": "A social killer.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Level 25",
+    "combatLevel": 25,
+    "hitpoints": 34,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 34.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 16,
+    "defenceLevel": 22,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

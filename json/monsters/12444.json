@@ -1,0 +1,53 @@
+{
+    "name": "General Graardor (Deadman)",
+    "id": 12444,
+    "isMembersOnly": false,
+    "examine": "A huge war chief.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 624,
+    "hitpoints": 1000,
+    "maxHit": [
+        "60 (melee)"
+    ],
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 280,
+    "strengthLevel": 350,
+    "defenceLevel": 250,
+    "rangedLevel": 350,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "ranged": 100,
+        "melee": 120,
+        "strength": 43,
+        "rangedStrength": 40
+    },
+    "defenceBonuses": {
+        "stab": 90,
+        "slash": 90,
+        "crush": 90,
+        "magic": 201,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 90
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 4
+}

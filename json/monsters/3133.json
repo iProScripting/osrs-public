@@ -1,0 +1,40 @@
+{
+    "name": "Hellhound",
+    "id": 3133,
+    "isMembersOnly": false,
+    "examine": "From the maws of hell.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 127",
+    "combatLevel": 127,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 116,
+    "maxHit": [
+        "13"
+    ],
+    "slayerExperience": 116.0,
+    "slayerCategory": [
+        "Hellhounds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 107,
+    "strengthLevel": 116,
+    "defenceLevel": 106,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

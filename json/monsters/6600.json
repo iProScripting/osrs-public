@@ -1,0 +1,30 @@
+{
+    "name": "Runite Golem",
+    "id": 6600,
+    "isMembersOnly": false,
+    "examine": "Runite that's come alive!",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 165,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 150,
+    "defenceLevel": 165,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 60
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Newtroost",
+    "id": 3605,
+    "isMembersOnly": false,
+    "examine": "Since when did newts have beaks?",
+    "releaseDate": "19 February 2007",
+    "combatLevel": 19,
+    "hitpoints": 18,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 16,
+    "defenceLevel": 17,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

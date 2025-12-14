@@ -1,0 +1,43 @@
+{
+    "name": "Frost Crab",
+    "id": 13791,
+    "isMembersOnly": false,
+    "examine": "No one likes crabs...",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Active",
+    "combatLevel": 15,
+    "hitpoints": 60,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Crabs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -50
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

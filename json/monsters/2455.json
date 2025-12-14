@@ -1,0 +1,46 @@
+{
+    "name": "Animated Adamant Armour",
+    "id": 2455,
+    "isMembersOnly": false,
+    "examine": "Animated adamant armour.",
+    "releaseDate": "13 June 2006",
+    "combatLevel": 113,
+    "hitpoints": 99,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 99,
+    "strengthLevel": 99,
+    "defenceLevel": 99,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 25,
+        "crush": 19,
+        "magic": 400,
+        "ranged": 400,
+        "lightRanged": 400,
+        "standardRanged": 400,
+        "heavyRanged": 400
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "burn": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

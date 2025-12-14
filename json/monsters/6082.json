@@ -1,0 +1,38 @@
+{
+    "name": "Gnome guard",
+    "id": 6082,
+    "isMembersOnly": false,
+    "examine": "A tree gnome guard.",
+    "releaseDate": "12 December 2002",
+    "versionAnchor": "Sword",
+    "combatLevel": 23,
+    "hitpoints": 31,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 6,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 9,
+        "crush": 7,
+        "ranged": 8,
+        "lightRanged": 8,
+        "standardRanged": 8,
+        "heavyRanged": 8
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,64 @@
+{
+    "name": "The Whisperer",
+    "id": 12205,
+    "isMembersOnly": false,
+    "examine": "Dare you face the shadows?",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Awakened",
+    "combatLevel": 1146,
+    "hitpoints": 2700,
+    "maxHit": [
+        "70+ (Melee)",
+        "53 (Ranged)",
+        "45 (Magic)",
+        "70 (Screech)",
+        "75 (Soul Siphon)"
+    ],
+    "slayerExperience": 2700.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 378,
+    "strengthLevel": 378,
+    "defenceLevel": 300,
+    "rangedLevel": 243,
+    "magicLevel": 225,
+    "attackBonuses": {
+        "magic": 190,
+        "ranged": 160,
+        "melee": 140,
+        "strength": 30,
+        "rangedStrength": 70,
+        "magicDamage": 58
+    },
+    "defenceBonuses": {
+        "stab": 180,
+        "slash": 300,
+        "crush": 220,
+        "magic": 10,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "All"
+    ],
+    "attackSpeed": 10,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 60
+}

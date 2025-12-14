@@ -1,0 +1,25 @@
+{
+    "name": "Tok-Xil (Construction)",
+    "id": 141,
+    "isMembersOnly": false,
+    "examine": "I don't like the look of those spines...",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 135,
+    "hitpoints": 60,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 180,
+    "defenceLevel": 90,
+    "rangedLevel": 180,
+    "magicLevel": 90,
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

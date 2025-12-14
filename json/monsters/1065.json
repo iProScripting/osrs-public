@@ -1,0 +1,30 @@
+{
+    "name": "Angry goblin",
+    "id": 1065,
+    "isMembersOnly": false,
+    "examine": "He looks a little on the cross side!",
+    "releaseDate": "3 April 2006",
+    "versionAnchor": "Level 45",
+    "combatLevel": 45,
+    "hitpoints": 200,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 37,
+    "strengthLevel": 38,
+    "defenceLevel": 38,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 1
+}

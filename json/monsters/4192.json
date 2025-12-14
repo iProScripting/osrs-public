@@ -1,0 +1,48 @@
+{
+    "name": "Scarab Swarm",
+    "id": 4192,
+    "isMembersOnly": false,
+    "examine": "I think they're some kind of beetle.",
+    "releaseDate": "26 April 2005",
+    "versionAnchor": "Normal",
+    "combatLevel": 98,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 25,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 1.0,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 255,
+    "strengthLevel": 5,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 90,
+        "slash": 90,
+        "crush": 5,
+        "magic": 90,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 90
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 1,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

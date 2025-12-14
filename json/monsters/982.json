@@ -1,0 +1,51 @@
+{
+    "name": "Dagannoth mother",
+    "id": 982,
+    "isMembersOnly": false,
+    "examine": "A horror from the ocean depths...",
+    "releaseDate": "17 November 2004",
+    "combatLevel": 100,
+    "hitpoints": 120,
+    "maxHit": [
+        "9 (Melee)",
+        "12×2 (Ranged)"
+    ],
+    "slayerExperience": 126.0,
+    "slayerCategory": [
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 78,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "rangedLevel": 50,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 150,
+        "crush": 150,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

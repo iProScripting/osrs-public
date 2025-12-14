@@ -1,0 +1,41 @@
+{
+    "name": "Warrior (Thieving)",
+    "id": 11925,
+    "isMembersOnly": false,
+    "examine": "Not very fashion conscious.",
+    "releaseDate": "9 November 2022",
+    "versionAnchor": "Wind braids",
+    "combatLevel": 24,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 22,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": 6,
+        "ranged": 6,
+        "melee": 6,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 41,
+        "crush": 37,
+        "magic": -10,
+        "ranged": 38,
+        "lightRanged": 38,
+        "standardRanged": 38,
+        "heavyRanged": 38
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

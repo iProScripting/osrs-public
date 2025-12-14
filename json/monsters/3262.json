@@ -1,0 +1,33 @@
+{
+    "name": "Barbarian",
+    "id": 3262,
+    "isMembersOnly": false,
+    "examine": "Don't let her arm-wrestle you for money.",
+    "releaseDate": "29 May 2007",
+    "versionAnchor": "Level 8 (Blue Moon Inn)",
+    "combatLevel": 8,
+    "hitpoints": 14,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 6,
+    "strengthLevel": 5,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 1,
+        "slash": 1
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Tekton",
+    "id": 7543,
+    "isMembersOnly": false,
+    "examine": "Xeric's former artisan in a rage.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Enraged",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 300,
+    "maxHit": [
+        "59"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 390,
+    "strengthLevel": 390,
+    "defenceLevel": 205,
+    "rangedLevel": 1,
+    "magicLevel": 205,
+    "attackBonuses": {
+        "melee": 64,
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "stab": 280,
+        "slash": 290,
+        "crush": 180
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Slash",
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 52.5,
+    "size": 4
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Ice troll male",
+    "id": 1875,
+    "isMembersOnly": false,
+    "examine": "A male troll wielding a large club.",
+    "releaseDate": "6 February 2007",
+    "versionAnchor": "Variant 2",
+    "combatLevel": 82,
+    "hitpoints": 80,
+    "maxHit": [
+        "17"
+    ],
+    "slayerExperience": 84.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 60
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 60,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

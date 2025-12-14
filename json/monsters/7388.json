@@ -1,0 +1,42 @@
+{
+    "name": "Crushing hand",
+    "id": 7388,
+    "isMembersOnly": false,
+    "examine": "That is quite some-thing.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 45,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 55,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 5,
+    "slayerExperience": 605.0,
+    "slayerCategory": [
+        "Crawling Hands"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 42,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

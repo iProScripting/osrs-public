@@ -1,0 +1,29 @@
+{
+    "name": "Fire elemental",
+    "id": 1365,
+    "isMembersOnly": false,
+    "examine": "A fire elemental.",
+    "releaseDate": "2 June 2004",
+    "combatLevel": 35,
+    "attributes": [
+        "fiery"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 35,
+    "defenceLevel": 20,
+    "rangedLevel": 20,
+    "magicLevel": 20,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

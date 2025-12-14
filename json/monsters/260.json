@@ -1,0 +1,50 @@
+{
+    "name": "Green dragon",
+    "id": 260,
+    "isMembersOnly": false,
+    "examine": "Must be related to Elvarg.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Level 79",
+    "combatLevel": 79,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 75,
+    "maxHit": [
+        "8 (Slash)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Green Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 68,
+    "defenceLevel": 68,
+    "rangedLevel": 1,
+    "magicLevel": 68,
+    "defenceBonuses": {
+        "slash": 40,
+        "crush": 40,
+        "magic": 30,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

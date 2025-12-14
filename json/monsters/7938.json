@@ -1,0 +1,61 @@
+{
+    "name": "Revenant dark beast",
+    "id": 7938,
+    "isMembersOnly": false,
+    "examine": "The ghost of a dark beast slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 120,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 140,
+    "maxHit": [
+        "23"
+    ],
+    "slayerExperience": 157.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 93,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "rangedLevel": 135,
+    "magicLevel": 130,
+    "attackBonuses": {
+        "ranged": 45,
+        "melee": 65,
+        "strength": 60,
+        "rangedStrength": 45
+    },
+    "defenceBonuses": {
+        "stab": 113,
+        "slash": 152,
+        "crush": 155,
+        "magic": 70,
+        "ranged": 158,
+        "lightRanged": 158,
+        "standardRanged": 158,
+        "heavyRanged": 118
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 12.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

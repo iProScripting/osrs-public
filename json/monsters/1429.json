@@ -1,0 +1,27 @@
+{
+    "name": "Foreman",
+    "id": 1429,
+    "isMembersOnly": false,
+    "examine": "The boss!",
+    "releaseDate": "12 December 2002",
+    "combatLevel": 23,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "defenceBonuses": {
+        "slash": 1,
+        "crush": 1
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 1
+}

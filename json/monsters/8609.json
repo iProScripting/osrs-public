@@ -1,0 +1,46 @@
+{
+    "name": "Hydra",
+    "id": 8609,
+    "isMembersOnly": false,
+    "examine": "A ferocious Hydra!",
+    "releaseDate": "10 January 2019",
+    "combatLevel": 194,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 300,
+    "maxHit": [
+        "22"
+    ],
+    "slayerLevel": 95,
+    "slayerExperience": 322.5,
+    "slayerCategory": [
+        "Hydras"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 210,
+    "magicLevel": 210,
+    "defenceBonuses": {
+        "stab": 160,
+        "slash": 160,
+        "crush": 160,
+        "magic": 160
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

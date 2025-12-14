@@ -1,0 +1,40 @@
+{
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "isMembersOnly": false,
+    "examine": "It seems to have eyes in the back of its head...",
+    "releaseDate": "13 June 2005",
+    "combatLevel": 59,
+    "hitpoints": 50,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 90,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 15,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 70,
+        "crush": 70,
+        "magic": 150,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -75.0,
+    "size": 1
+}

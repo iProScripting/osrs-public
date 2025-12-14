@@ -1,0 +1,24 @@
+{
+    "name": "Soulless",
+    "id": 508,
+    "isMembersOnly": false,
+    "examine": "A servant to Iban.",
+    "releaseDate": "3 March 2003",
+    "combatLevel": 18,
+    "hitpoints": 24,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 13,
+    "strengthLevel": 13,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

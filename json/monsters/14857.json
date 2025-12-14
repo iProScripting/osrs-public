@@ -1,0 +1,48 @@
+{
+    "name": "Gryphon",
+    "id": 14857,
+    "isMembersOnly": false,
+    "examine": "A vicious predatory bird-like monster.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 95,
+    "hitpoints": 110,
+    "maxHit": [
+        "8",
+        "20+ (special)"
+    ],
+    "slayerLevel": 51,
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Gryphons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 75,
+    "defenceLevel": 50,
+    "magicLevel": 50,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 20,
+        "crush": 40,
+        "magic": 100,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

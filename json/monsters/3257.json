@@ -1,0 +1,27 @@
+{
+    "name": "Wizard",
+    "id": 3257,
+    "isMembersOnly": false,
+    "examine": "Slightly magical.",
+    "releaseDate": "21 January 2001",
+    "combatLevel": 9,
+    "hitpoints": 14,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "defenceBonuses": {
+        "magic": 3
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

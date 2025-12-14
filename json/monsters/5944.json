@@ -1,0 +1,38 @@
+{
+    "name": "Rock lobster",
+    "id": 5944,
+    "isMembersOnly": false,
+    "examine": "It wasn't a rock... it was a rock lobster!",
+    "releaseDate": "7 November 2005",
+    "versionAnchor": "Active",
+    "combatLevel": 127,
+    "hitpoints": 150,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 50,
+        "magic": 50,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 90
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 2,
+    "experienceBonus": 2.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

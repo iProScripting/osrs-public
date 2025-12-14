@@ -1,0 +1,34 @@
+{
+    "name": "Cave lizard",
+    "id": 7424,
+    "isMembersOnly": false,
+    "examine": "A cave dweller.",
+    "releaseDate": "13 October 2016",
+    "combatLevel": 37,
+    "hitpoints": 20,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 36,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 15,
+        "crush": 15,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 1
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Monk",
+    "id": 4246,
+    "isMembersOnly": false,
+    "examine": "An Ardougne Monk.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Level 3",
+    "combatLevel": 3,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

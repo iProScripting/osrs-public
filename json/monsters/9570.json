@@ -1,0 +1,55 @@
+{
+    "name": "Vanstrom Klause",
+    "id": 9570,
+    "isMembersOnly": false,
+    "examine": "Formally Ascertes Hallow, now an evil vampyre.",
+    "releaseDate": "4 June 2020",
+    "combatLevel": 459,
+    "attributes": [
+        "vampyre3"
+    ],
+    "hitpoints": 750,
+    "maxHit": [
+        "24 (Standard)"
+    ],
+    "slayerCategory": [
+        "Vampyres'\"`UNIQ--ref-000000C7-QINU`\"'"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "defenceLevel": 180,
+    "magicLevel": 180,
+    "attackBonuses": {
+        "magic": 16,
+        "magicDamage": 18
+    },
+    "defenceBonuses": {
+        "stab": 34,
+        "slash": 34,
+        "crush": 34,
+        "magic": 34,
+        "ranged": 34,
+        "lightRanged": 34,
+        "standardRanged": 34,
+        "heavyRanged": 34
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

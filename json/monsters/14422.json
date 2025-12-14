@@ -1,0 +1,40 @@
+{
+    "name": "Moss giant",
+    "id": 14422,
+    "isMembersOnly": false,
+    "examine": "His beard seems to have a life of its own.",
+    "releaseDate": "5 February 2001",
+    "versionAnchor": "Level 42",
+    "combatLevel": 42,
+    "hitpoints": 60,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Moss Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 33,
+        "strength": 31
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

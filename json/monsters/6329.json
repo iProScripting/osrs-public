@@ -1,0 +1,25 @@
+{
+    "name": "Khazard warlord (Nightmare Zone)",
+    "id": 6329,
+    "isMembersOnly": false,
+    "examine": "He looks real nasty, smells bad too.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 192,
+    "hitpoints": 255,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 165,
+    "strengthLevel": 170,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

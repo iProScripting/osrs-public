@@ -1,0 +1,27 @@
+{
+    "name": "Crystalline Wolf",
+    "id": 9031,
+    "isMembersOnly": false,
+    "examine": "A little too scary to be man's best friend.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 74,
+    "hitpoints": 52,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 106,
+    "strengthLevel": 66,
+    "defenceLevel": 22,
+    "magicLevel": 22,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

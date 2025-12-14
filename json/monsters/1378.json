@@ -1,0 +1,36 @@
+{
+    "name": "The Kendal",
+    "id": 1378,
+    "isMembersOnly": false,
+    "examine": "Is that a bear... or a man?",
+    "releaseDate": "7 March 2005",
+    "combatLevel": 70,
+    "hitpoints": 50,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 60,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": -10,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Shade",
+    "id": 6740,
+    "isMembersOnly": false,
+    "examine": "The angry dead.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Stronghold of Security",
+    "combatLevel": 159,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 170,
+    "maxHit": [
+        "14"
+    ],
+    "slayerExperience": 4.2,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 130,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "flatArmour": -3,
+    "size": 1
+}

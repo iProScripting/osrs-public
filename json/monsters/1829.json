@@ -1,0 +1,39 @@
+{
+    "name": "White Knight",
+    "id": 1829,
+    "isMembersOnly": false,
+    "examine": "A White Knight partisan.",
+    "releaseDate": "15 March 2006",
+    "versionAnchor": "Partisan (m)",
+    "combatLevel": 42,
+    "hitpoints": 55,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 35,
+    "defenceLevel": 27,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 83,
+        "slash": 76,
+        "crush": 70,
+        "magic": -11,
+        "ranged": 85,
+        "lightRanged": 85,
+        "standardRanged": 85,
+        "heavyRanged": 65
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

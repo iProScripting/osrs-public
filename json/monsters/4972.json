@@ -1,0 +1,24 @@
+{
+    "name": "Khazard commander",
+    "id": 4972,
+    "isMembersOnly": false,
+    "examine": "It's one of General Khazard's commanders.",
+    "releaseDate": "23 July 2002",
+    "combatLevel": 48,
+    "hitpoints": 22,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 45,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

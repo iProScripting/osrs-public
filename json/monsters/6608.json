@@ -1,0 +1,43 @@
+{
+    "name": "Ankou",
+    "id": 6608,
+    "isMembersOnly": false,
+    "examine": "A boney ghost.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 86",
+    "combatLevel": 86,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 70,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Ankou"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

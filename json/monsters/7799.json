@@ -1,0 +1,39 @@
+{
+    "name": "Ammonite Crab",
+    "id": 7799,
+    "isMembersOnly": false,
+    "examine": "Praise Helix!",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 25,
+    "hitpoints": 100,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Crabs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Ice warrior",
+    "id": 2842,
+    "isMembersOnly": false,
+    "examine": "A cold-hearted elemental warrior.",
+    "releaseDate": "12 December 2005",
+    "versionAnchor": "Asgarnia Ice Dungeon",
+    "combatLevel": 57,
+    "hitpoints": 59,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 59.0,
+    "slayerCategory": [
+        "Ice Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 47,
+    "strengthLevel": 47,
+    "defenceLevel": 47,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 40,
+        "crush": 20,
+        "magic": 10,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

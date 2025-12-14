@@ -1,0 +1,41 @@
+{
+    "name": "Vitreous Jelly",
+    "id": 7399,
+    "isMembersOnly": false,
+    "examine": "I don't think you're ready for this jelly.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 206,
+    "hitpoints": 190,
+    "maxHit": [
+        "17"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 1900.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 170,
+    "strengthLevel": 150,
+    "defenceLevel": 220,
+    "rangedLevel": 1,
+    "magicLevel": 150,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

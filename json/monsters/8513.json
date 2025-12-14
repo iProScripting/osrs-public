@@ -1,0 +1,31 @@
+{
+    "name": "Tormented Soul",
+    "id": 8513,
+    "isMembersOnly": false,
+    "examine": "Is that a ghost?",
+    "releaseDate": "10 January 2019",
+    "combatLevel": 16,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 20,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 16,
+    "strengthLevel": 12,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gardener",
+    "id": 3276,
+    "isMembersOnly": false,
+    "examine": "An old gardener.",
+    "releaseDate": "20 February 2006",
+    "versionAnchor": "Level 3",
+    "combatLevel": 3,
+    "hitpoints": 7,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 1,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Black demon (The Scar)",
+    "id": 12385,
+    "isMembersOnly": false,
+    "examine": "A big scary, jet-black demon.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 172,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 157,
+    "maxHit": [
+        "16"
+    ],
+    "slayerExperience": 157.0,
+    "slayerCategory": [
+        "Black Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 145,
+    "strengthLevel": 148,
+    "defenceLevel": 152,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

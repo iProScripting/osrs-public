@@ -1,0 +1,38 @@
+{
+    "name": "Slagilith",
+    "id": 1362,
+    "isMembersOnly": false,
+    "examine": "This monster totally rocks!",
+    "releaseDate": "28 February 2005",
+    "combatLevel": 92,
+    "hitpoints": 60,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 120,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 3.0,
+    "size": 2
+}

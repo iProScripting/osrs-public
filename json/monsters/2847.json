@@ -1,0 +1,23 @@
+{
+    "name": "Yeti",
+    "id": 2847,
+    "isMembersOnly": false,
+    "examine": "The abominable snowman.",
+    "releaseDate": "29 March 2004",
+    "combatLevel": 58,
+    "hitpoints": 55,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 48,
+    "strengthLevel": 60,
+    "defenceLevel": 39,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Tower Archer",
+    "id": 6066,
+    "isMembersOnly": false,
+    "examine": "Defender of the east tower.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "East",
+    "combatLevel": 34,
+    "hitpoints": 50,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 40,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "rangedStrength": 22
+    },
+    "defenceBonuses": {
+        "magic": 24,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

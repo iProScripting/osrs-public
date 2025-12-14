@@ -1,0 +1,35 @@
+{
+    "name": "Guard dog",
+    "id": 114,
+    "isMembersOnly": false,
+    "examine": "He doesn't seem pleased to see me.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Normal",
+    "combatLevel": 44,
+    "hitpoints": 49,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 49.0,
+    "slayerCategory": [
+        "Dogs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 36,
+    "defenceLevel": 37,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Monk",
+    "id": 2579,
+    "isMembersOnly": false,
+    "examine": "A holy man.",
+    "releaseDate": "6 April 2001",
+    "versionAnchor": "Level 5",
+    "combatLevel": 5,
+    "hitpoints": 15,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

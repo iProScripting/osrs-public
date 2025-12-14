@@ -1,0 +1,31 @@
+{
+    "name": "The Inadequacy (Nightmare Zone)",
+    "id": 6119,
+    "isMembersOnly": false,
+    "examine": "Are you good enough to fight?",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 600,
+    "hitpoints": 255,
+    "maxHit": [
+        "35 (Melee)",
+        "33+ (Ranged)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1128,
+    "strengthLevel": 340,
+    "defenceLevel": 240,
+    "rangedLevel": 340,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

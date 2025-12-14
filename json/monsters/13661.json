@@ -1,0 +1,36 @@
+{
+    "name": "TzTok-Jad (Deadman)",
+    "id": 13661,
+    "isMembersOnly": false,
+    "examine": "This is going to hurt...",
+    "releaseDate": "19 July 2024",
+    "combatLevel": 527,
+    "hitpoints": 1000,
+    "maxHit": [
+        "108"
+    ],
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 350,
+    "strengthLevel": 350,
+    "defenceLevel": 200,
+    "rangedLevel": 450,
+    "magicLevel": 450,
+    "attackBonuses": {
+        "magic": 50,
+        "ranged": 50,
+        "rangedStrength": 20,
+        "magicDamage": 20
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

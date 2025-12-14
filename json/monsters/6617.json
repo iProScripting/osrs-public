@@ -1,0 +1,35 @@
+{
+    "name": "Scorpia's guardian",
+    "id": 6617,
+    "isMembersOnly": false,
+    "examine": "It lives to protect its queen.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 47,
+    "hitpoints": 70,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 60,
+    "rangedLevel": 30,
+    "magicLevel": 30,
+    "attackStyle": [
+        "None"
+    ],
+    "experienceBonus": -97.5,
+    "size": 1
+}

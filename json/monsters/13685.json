@@ -1,0 +1,57 @@
+{
+    "name": "Amoxliatl",
+    "id": 13685,
+    "isMembersOnly": false,
+    "examine": "A powerful frost nagua.",
+    "releaseDate": "25 September 2024",
+    "combatLevel": 263,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 520,
+    "maxHit": [
+        "22 (standard)<br>34 (Icicle Crash)"
+    ],
+    "slayerLevel": 48,
+    "slayerExperience": 546.0,
+    "slayerCategory": [
+        "Lesser Nagua"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "defenceLevel": 80,
+    "magicLevel": 170,
+    "attackBonuses": {
+        "magic": 160,
+        "magicDamage": 15
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 40,
+        "magic": 100,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 8,
+    "experienceBonus": 5.0,
+    "flatArmour": -2,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

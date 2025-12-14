@@ -1,0 +1,41 @@
+{
+    "name": "Rabbit",
+    "id": 12852,
+    "isMembersOnly": false,
+    "examine": "Aww, how cute.",
+    "releaseDate": "20 March 2024",
+    "versionAnchor": "Varlamore",
+    "combatLevel": 2,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -47,
+        "strength": -42
+    },
+    "defenceBonuses": {
+        "stab": -42,
+        "slash": -42,
+        "crush": -42,
+        "magic": -42,
+        "ranged": -42,
+        "lightRanged": -42,
+        "standardRanged": -42,
+        "heavyRanged": -42
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

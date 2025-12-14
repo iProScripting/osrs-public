@@ -1,0 +1,39 @@
+{
+    "name": "Blood Blamish Snail",
+    "id": 2650,
+    "isMembersOnly": false,
+    "examine": "A blood coloured blamish snail, these types are said to spit acid.",
+    "releaseDate": "14 October 2004",
+    "versionAnchor": "Pointed",
+    "combatLevel": 20,
+    "hitpoints": 10,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 30,
+    "rangedLevel": 21,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 30,
+        "magic": 5,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

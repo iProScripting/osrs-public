@@ -1,0 +1,43 @@
+{
+    "name": "Avatar of Creation",
+    "id": 10531,
+    "isMembersOnly": false,
+    "examine": "A being of unsurpassed vitality.",
+    "releaseDate": "6 January 2021",
+    "combatLevel": 525,
+    "hitpoints": 1500,
+    "maxHit": [
+        "54"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 320,
+    "defenceLevel": 10,
+    "magicLevel": 10,
+    "attackBonuses": {
+        "melee": 160,
+        "strength": 42
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "magic": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 5
+}

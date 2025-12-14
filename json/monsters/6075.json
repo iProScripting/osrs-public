@@ -1,0 +1,27 @@
+{
+    "name": "Tortoise",
+    "id": 6075,
+    "isMembersOnly": false,
+    "examine": "A large tortoise.",
+    "releaseDate": "24 April 2006",
+    "versionAnchor": "No riders",
+    "combatLevel": 79,
+    "hitpoints": 100,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 90,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

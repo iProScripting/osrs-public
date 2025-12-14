@@ -1,0 +1,49 @@
+{
+    "name": "Ice troll runt",
+    "id": 5828,
+    "isMembersOnly": false,
+    "examine": "An ice troll youngling.",
+    "releaseDate": "6 February 2007",
+    "versionAnchor": "Variant 1",
+    "combatLevel": 74,
+    "hitpoints": 60,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 63.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 60
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 60,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

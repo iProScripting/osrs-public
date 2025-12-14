@@ -1,0 +1,30 @@
+{
+    "name": "Hazeel Cultist",
+    "id": 12098,
+    "isMembersOnly": false,
+    "examine": "A member of the Hazeel Cult.",
+    "releaseDate": "11 January 2023",
+    "versionAnchor": "Female",
+    "combatLevel": 13,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 4,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 6,
+        "crush": 8
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

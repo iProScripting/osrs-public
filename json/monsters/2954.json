@@ -1,0 +1,27 @@
+{
+    "name": "Zamorak wizard",
+    "id": 2954,
+    "isMembersOnly": false,
+    "examine": "A servant of Zamorak.",
+    "releaseDate": "5 May 2004",
+    "combatLevel": 65,
+    "hitpoints": 76,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 24,
+    "strengthLevel": 24,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "defenceBonuses": {
+        "magic": 3
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

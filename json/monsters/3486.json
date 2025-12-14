@@ -1,0 +1,27 @@
+{
+    "name": "Monk of Zamorak",
+    "id": 3486,
+    "isMembersOnly": false,
+    "examine": "An evil human cleric.",
+    "releaseDate": "29 June 2004",
+    "versionAnchor": "Level 30",
+    "combatLevel": 30,
+    "hitpoints": 25,
+    "maxHit": [
+        "3 (Melee)",
+        "8 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

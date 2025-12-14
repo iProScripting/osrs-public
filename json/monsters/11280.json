@@ -1,0 +1,57 @@
+{
+    "name": "Nex",
+    "id": 11280,
+    "isMembersOnly": false,
+    "examine": "Even the gods fear her.",
+    "releaseDate": "5 January 2022",
+    "combatLevel": 1001,
+    "hitpoints": 3400,
+    "maxHit": [
+        "33 (Magic)",
+        "60 (Ranged)",
+        "27 (Melee)",
+        "50 (Smoke Dash)",
+        "50 (Shadow Smash)",
+        "80 (Blood Sacrifice)",
+        "60 (Containment)",
+        "75 (Ice Prison)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 315,
+    "strengthLevel": 200,
+    "defenceLevel": 260,
+    "rangedLevel": 350,
+    "magicLevel": 230,
+    "attackBonuses": {
+        "magic": 100,
+        "ranged": 150,
+        "melee": 200,
+        "strength": 20,
+        "rangedStrength": 5,
+        "magicDamage": 22
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 140,
+        "crush": 60,
+        "magic": 300,
+        "ranged": 190,
+        "lightRanged": 190,
+        "standardRanged": 190,
+        "heavyRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 100.0,
+    "size": 3
+}

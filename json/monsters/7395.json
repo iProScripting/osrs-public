@@ -1,0 +1,46 @@
+{
+    "name": "Monstrous basilisk",
+    "id": 7395,
+    "isMembersOnly": false,
+    "examine": "Let's hope I have some phoenix tears.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 135,
+    "hitpoints": 170,
+    "maxHit": [
+        "11"
+    ],
+    "slayerLevel": 40,
+    "slayerExperience": 1700.0,
+    "slayerCategory": [
+        "Basilisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 88,
+    "strengthLevel": 98,
+    "defenceLevel": 130,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 35,
+        "magic": 35
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

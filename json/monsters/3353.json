@@ -1,0 +1,24 @@
+{
+    "name": "Goblin Champion",
+    "id": 3353,
+    "isMembersOnly": false,
+    "examine": "Champion of the goblins.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 24,
+    "hitpoints": 32,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 26,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

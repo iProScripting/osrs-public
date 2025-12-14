@@ -1,0 +1,36 @@
+{
+    "name": "Apparition",
+    "id": 4197,
+    "isMembersOnly": false,
+    "examine": "Are they even real?",
+    "releaseDate": "26 April 2005",
+    "versionAnchor": "Scabaras",
+    "combatLevel": 75,
+    "hitpoints": 50,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

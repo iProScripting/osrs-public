@@ -1,0 +1,25 @@
+{
+    "name": "Khazard warlord",
+    "id": 7622,
+    "isMembersOnly": false,
+    "examine": "He looks real nasty, smells bad too.",
+    "releaseDate": "23 July 2002",
+    "combatLevel": 112,
+    "hitpoints": 170,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 78,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -75.0,
+    "size": 1
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Kraken",
+    "id": 494,
+    "isMembersOnly": false,
+    "examine": "We'll fight, until world's end.",
+    "releaseDate": "10 April 2014",
+    "versionAnchor": "Kraken",
+    "combatLevel": 291,
+    "hitpoints": 255,
+    "maxHit": [
+        "28"
+    ],
+    "slayerLevel": 87,
+    "slayerExperience": 255.0,
+    "slayerCategory": [
+        "Cave Kraken",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magicDamage": 50
+    },
+    "defenceBonuses": {
+        "magic": 130,
+        "ranged": 300,
+        "lightRanged": 300,
+        "standardRanged": 300,
+        "heavyRanged": 300
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Typeless Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

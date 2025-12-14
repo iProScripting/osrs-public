@@ -1,0 +1,44 @@
+{
+    "name": "Bloodthirsty Cockathrice",
+    "id": 12562,
+    "isMembersOnly": false,
+    "examine": "Careful where he puts that beak!",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 133,
+    "hitpoints": 142,
+    "maxHit": [
+        "13"
+    ],
+    "slayerLevel": 25,
+    "slayerExperience": 1420.0,
+    "slayerCategory": [
+        "Cockatrice"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 94,
+    "strengthLevel": 117,
+    "defenceLevel": 78,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "magic": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

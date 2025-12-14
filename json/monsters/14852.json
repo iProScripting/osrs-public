@@ -1,0 +1,30 @@
+{
+    "name": "Hermit crab",
+    "id": 14852,
+    "isMembersOnly": false,
+    "examine": "Why so crabby?",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 19,
+    "hitpoints": 75,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "crush": -50
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

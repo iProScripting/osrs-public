@@ -1,0 +1,46 @@
+{
+    "name": "Bloodthirsty smoke devil",
+    "id": 12577,
+    "isMembersOnly": false,
+    "examine": "I don't think he is good for my lungs.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 420,
+    "hitpoints": 360,
+    "maxHit": [
+        "35"
+    ],
+    "slayerLevel": 93,
+    "slayerExperience": 3600.0,
+    "slayerCategory": [
+        "Smoke Devils"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 360,
+    "strengthLevel": 345,
+    "defenceLevel": 390,
+    "rangedLevel": 420,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 850,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

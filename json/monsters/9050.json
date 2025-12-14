@@ -1,0 +1,28 @@
+{
+    "name": "Zalcano",
+    "id": 9050,
+    "isMembersOnly": false,
+    "examine": "A former demon of Zamorak that has been turned to stone.",
+    "releaseDate": "25 July 2019",
+    "versionAnchor": "Weakened",
+    "combatLevel": 336,
+    "hitpoints": 1000,
+    "maxHit": [
+        "N/A"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "N/A"
+    ],
+    "size": 5
+}

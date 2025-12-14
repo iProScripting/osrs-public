@@ -1,0 +1,42 @@
+{
+    "name": "Elite Dark Warrior",
+    "id": 13466,
+    "isMembersOnly": false,
+    "examine": "An elite dark warrior with lots of combat experience.",
+    "releaseDate": "10 July 2024",
+    "versionAnchor": "Female",
+    "combatLevel": 96,
+    "hitpoints": 80,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 25,
+    "magicLevel": 40,
+    "attackBonuses": {
+        "melee": 80
+    },
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 20,
+        "crush": 10,
+        "magic": -10,
+        "ranged": 30,
+        "lightRanged": 40,
+        "standardRanged": 30,
+        "heavyRanged": 15
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 2.5,
+    "size": 1
+}

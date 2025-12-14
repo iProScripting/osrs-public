@@ -1,0 +1,39 @@
+{
+    "name": "Damis",
+    "id": 682,
+    "isMembersOnly": false,
+    "examine": "The warrior of darkness.",
+    "releaseDate": "18 April 2005",
+    "versionAnchor": "First form",
+    "combatLevel": 103,
+    "hitpoints": 90,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 80
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 60,
+        "crush": 60,
+        "magic": 60,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

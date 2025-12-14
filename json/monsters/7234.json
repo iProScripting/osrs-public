@@ -1,0 +1,45 @@
+{
+    "name": "Ent",
+    "id": 7234,
+    "isMembersOnly": false,
+    "examine": "He ent such a bad guy.",
+    "releaseDate": "2 June 2016",
+    "combatLevel": 86,
+    "hitpoints": 75,
+    "maxHit": [
+        "17"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 35,
+        "strength": 65
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 70,
+        "magic": 40,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

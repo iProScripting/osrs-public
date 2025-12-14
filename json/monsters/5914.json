@@ -1,0 +1,40 @@
+{
+    "name": "Respiratory system",
+    "id": 5914,
+    "isMembersOnly": false,
+    "examine": "'\"`UNIQ--nowiki-00000113-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "releaseDate": "1 October 2015",
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "0"
+    ],
+    "slayerLevel": 85,
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Bosses",
+        "Abyssal Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "defenceLevel": 80,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 2
+}

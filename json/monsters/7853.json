@@ -1,0 +1,52 @@
+{
+    "name": "Dawn",
+    "id": 7853,
+    "isMembersOnly": false,
+    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span>The Guardian of Dawn, she's alive!<br/><span style=\"user-select:none;\">'''&bull;'''</span>The crack of Dawn. (''upon death'')",
+    "releaseDate": "26 October 2017",
+    "combatLevel": 228,
+    "attributes": [
+        "flying",
+        "golem"
+    ],
+    "hitpoints": 450,
+    "maxHit": [
+        "15"
+    ],
+    "slayerLevel": 75,
+    "slayerCategory": [
+        "Bosses",
+        "Gargoyles"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "rangedLevel": 140,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "magic": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic (special)"
+    ],
+    "attackSpeed": 6,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 70
+}

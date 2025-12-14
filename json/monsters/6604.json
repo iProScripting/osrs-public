@@ -1,0 +1,32 @@
+{
+    "name": "Mammoth",
+    "id": 6604,
+    "isMembersOnly": false,
+    "examine": "A woolly, elephantine monster.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 80,
+    "hitpoints": 130,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 130.0,
+    "slayerCategory": [
+        "Mammoths"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 55,
+    "strengthLevel": 60,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

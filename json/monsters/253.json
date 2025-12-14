@@ -1,0 +1,54 @@
+{
+    "name": "Black dragon",
+    "id": 253,
+    "isMembersOnly": false,
+    "examine": "A fierce dragon with black scales!",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Level 227",
+    "combatLevel": 227,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 190,
+    "maxHit": [
+        "21 (Melee)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 194.7,
+    "slayerCategory": [
+        "Black Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "slash": 70,
+        "crush": 70,
+        "magic": 60,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

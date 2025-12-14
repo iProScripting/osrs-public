@@ -1,0 +1,28 @@
+{
+    "name": "Khazard Ogre",
+    "id": 1225,
+    "isMembersOnly": false,
+    "examine": "Khazard's strongest ogre warrior.",
+    "releaseDate": "23 July 2002",
+    "combatLevel": 63,
+    "hitpoints": 60,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 54,
+    "strengthLevel": 53,
+    "defenceLevel": 53,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

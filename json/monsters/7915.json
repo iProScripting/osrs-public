@@ -1,0 +1,39 @@
+{
+    "name": "Thief",
+    "id": 7915,
+    "isMembersOnly": false,
+    "examine": "Watch your pockets.",
+    "releaseDate": "9 November 2017",
+    "versionAnchor": "The Warrens, 2",
+    "combatLevel": 21,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 19,
+    "strengthLevel": 18,
+    "defenceLevel": 14,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 24,
+        "slash": 14,
+        "crush": 19,
+        "magic": 4,
+        "ranged": 16,
+        "lightRanged": 16,
+        "standardRanged": 16,
+        "heavyRanged": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

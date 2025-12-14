@@ -1,0 +1,38 @@
+{
+    "name": "Dagannoth spawn",
+    "id": 3184,
+    "isMembersOnly": false,
+    "examine": "A teeny-tiny horror from the ocean depths...",
+    "releaseDate": "1 August 2005",
+    "combatLevel": 42,
+    "hitpoints": 35,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Dagannoth"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 35,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

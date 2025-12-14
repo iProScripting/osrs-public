@@ -1,0 +1,28 @@
+{
+    "name": "Gangster",
+    "id": 6899,
+    "isMembersOnly": false,
+    "examine": "She likes hitting people.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Level 50 (2)",
+    "combatLevel": 50,
+    "hitpoints": 30,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 70,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "crush": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

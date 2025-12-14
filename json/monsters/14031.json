@@ -1,0 +1,53 @@
+{
+    "name": "Chasm Crawler",
+    "id": 14031,
+    "isMembersOnly": false,
+    "examine": "A dangerous looking beast.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Icy",
+    "combatLevel": 68,
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "slayerLevel": 10,
+    "slayerExperience": 600.0,
+    "slayerCategory": [
+        "Cave Crawlers"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 64,
+    "strengthLevel": 59,
+    "defenceLevel": 55,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 41,
+        "slash": 43,
+        "crush": 23,
+        "magic": 24,
+        "ranged": 20,
+        "lightRanged": 40,
+        "standardRanged": 20,
+        "heavyRanged": 40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

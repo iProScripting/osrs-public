@@ -1,0 +1,24 @@
+{
+    "name": "Cuthbert",
+    "id": 12957,
+    "isMembersOnly": false,
+    "examine": "Seems he could swim after all.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 1,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

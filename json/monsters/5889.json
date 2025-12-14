@@ -1,0 +1,60 @@
+{
+    "name": "Abyssal Sire",
+    "id": 5889,
+    "isMembersOnly": false,
+    "examine": "The Sire walks.",
+    "releaseDate": "1 October 2015",
+    "versionAnchor": "Phase 2",
+    "combatLevel": 350,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 425,
+    "maxHit": [
+        "66 (Melee)",
+        "96 (with explosion)"
+    ],
+    "slayerLevel": 85,
+    "slayerCategory": [
+        "Bosses",
+        "Abyssal Demons"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 180,
+    "strengthLevel": 136,
+    "defenceLevel": 250,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "melee": 65
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 60,
+        "crush": 50,
+        "magic": 20,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 7,
+    "experienceBonus": 12.5,
+    "size": 6
+}

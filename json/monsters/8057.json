@@ -1,0 +1,41 @@
+{
+    "name": "Robert the Strong",
+    "id": 8057,
+    "isMembersOnly": false,
+    "examine": "A battle hardened hero.",
+    "releaseDate": "4 January 2018",
+    "combatLevel": 224,
+    "hitpoints": 280,
+    "maxHit": [
+        "34 (Ranged)",
+        "50+ (Special)"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 140,
+    "rangedLevel": 328,
+    "magicLevel": 128,
+    "attackBonuses": {
+        "ranged": 126
+    },
+    "defenceBonuses": {
+        "stab": 140,
+        "slash": 180,
+        "crush": 60,
+        "magic": 940,
+        "ranged": 860,
+        "lightRanged": 860,
+        "standardRanged": 860,
+        "heavyRanged": 860
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

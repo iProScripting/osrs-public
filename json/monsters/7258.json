@@ -1,0 +1,41 @@
+{
+    "name": "Shade",
+    "id": 7258,
+    "isMembersOnly": false,
+    "examine": "The shadowy remains of a long-departed soul.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Catacombs of Kourend",
+    "combatLevel": 140,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 115,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 115.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 136,
+    "defenceLevel": 100,
+    "rangedLevel": 50,
+    "magicLevel": 50,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

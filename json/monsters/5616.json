@@ -1,0 +1,25 @@
+{
+    "name": "Swamp snake",
+    "id": 5616,
+    "isMembersOnly": false,
+    "examine": "A large snake that thrives in swamps.",
+    "releaseDate": "28 March 2006",
+    "versionAnchor": "Level 109",
+    "combatLevel": 109,
+    "hitpoints": 125,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "rangedLevel": 30,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 4
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Bush snake",
+    "id": 6103,
+    "isMembersOnly": false,
+    "examine": "A slithering serpent that likes to hide in the bush.",
+    "releaseDate": "9 August 2005",
+    "combatLevel": 35,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

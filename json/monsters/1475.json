@@ -1,0 +1,35 @@
+{
+    "name": "Chompy bird",
+    "id": 1475,
+    "isMembersOnly": false,
+    "examine": "A large boisterous bird, a delicacy for ogres.",
+    "releaseDate": "18 May 2004",
+    "combatLevel": 6,
+    "hitpoints": 10,
+    "maxHit": [
+        "0"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 3,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

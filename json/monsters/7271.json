@@ -1,0 +1,34 @@
+{
+    "name": "Cyclops (Catacombs of Kourend)",
+    "id": 7271,
+    "isMembersOnly": false,
+    "examine": "A one-eyed man eater.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Level 56",
+    "combatLevel": 56,
+    "hitpoints": 75,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Hill Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 47,
+    "strengthLevel": 50,
+    "defenceLevel": 26,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

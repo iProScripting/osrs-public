@@ -1,0 +1,24 @@
+{
+    "name": "Medium Barrier",
+    "id": 11420,
+    "isMembersOnly": false,
+    "examine": "N/A",
+    "releaseDate": "23 March 2022",
+    "hitpoints": 100,
+    "maxHit": [
+        "N/A"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "N/A"
+    ]
+}

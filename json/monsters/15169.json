@@ -1,0 +1,42 @@
+{
+    "name": "Chuck up",
+    "id": 15169,
+    "isMembersOnly": false,
+    "examine": "What chucks up, didn't stay down.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 98,
+    "hitpoints": 110,
+    "maxHit": [
+        "9"
+    ],
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 80,
+    "defenceLevel": 90,
+    "rangedLevel": 99,
+    "defenceBonuses": {
+        "magic": 200,
+        "ranged": 120,
+        "lightRanged": 200,
+        "standardRanged": 120,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 7,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Giant frog",
+    "id": 8700,
+    "isMembersOnly": false,
+    "examine": "It didn't get that big eating flies.",
+    "releaseDate": "19 February 2015",
+    "versionAnchor": "Level 13",
+    "combatLevel": 13,
+    "hitpoints": 23,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 8,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

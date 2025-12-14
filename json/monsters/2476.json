@@ -1,0 +1,44 @@
+{
+    "name": "Catablepon",
+    "id": 2476,
+    "isMembersOnly": false,
+    "examine": "Big... Cow-like... But cows don't have serpent tails!",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 68",
+    "combatLevel": 68,
+    "hitpoints": 50,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Catablepon"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 40,
+        "crush": 30,
+        "magic": 30,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

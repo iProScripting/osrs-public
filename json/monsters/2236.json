@@ -1,0 +1,38 @@
+{
+    "name": "Cyclops (God Wars Dungeon)",
+    "id": 2236,
+    "isMembersOnly": false,
+    "examine": "A one-eyed man-eater.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Grey",
+    "combatLevel": 81,
+    "hitpoints": 110,
+    "maxHit": [
+        "12"
+    ],
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Hill Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 70,
+    "defenceLevel": 48,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

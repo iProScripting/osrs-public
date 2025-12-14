@@ -1,0 +1,26 @@
+{
+    "name": "Druid",
+    "id": 3258,
+    "isMembersOnly": false,
+    "examine": "Loves nature.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 33,
+    "hitpoints": 30,
+    "maxHit": [
+        "4 (Crush)",
+        "5 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 28,
+    "defenceLevel": 32,
+    "rangedLevel": 1,
+    "magicLevel": 25,
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

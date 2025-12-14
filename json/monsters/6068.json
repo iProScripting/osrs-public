@@ -1,0 +1,35 @@
+{
+    "name": "Tower Archer",
+    "id": 6068,
+    "isMembersOnly": false,
+    "examine": "Defender of the west tower.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "West",
+    "combatLevel": 64,
+    "hitpoints": 90,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 80,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "rangedStrength": 49
+    },
+    "defenceBonuses": {
+        "magic": 34,
+        "ranged": 66,
+        "lightRanged": 66,
+        "standardRanged": 66,
+        "heavyRanged": 66
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

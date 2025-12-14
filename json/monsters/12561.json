@@ -1,0 +1,34 @@
+{
+    "name": "Bloodthirst rockslug",
+    "id": 12561,
+    "isMembersOnly": false,
+    "examine": "The slime of greater evil.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 86,
+    "hitpoints": 77,
+    "slayerLevel": 20,
+    "slayerCategory": [
+        "Rockslugs"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 72,
+    "strengthLevel": 77,
+    "defenceLevel": 77,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

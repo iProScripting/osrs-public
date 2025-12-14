@@ -1,0 +1,42 @@
+{
+    "name": "Rogue",
+    "id": 526,
+    "isMembersOnly": false,
+    "examine": "Rogueish.",
+    "releaseDate": "8 May 2002",
+    "versionAnchor": "Level 15",
+    "combatLevel": 15,
+    "hitpoints": 17,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 17.0,
+    "slayerCategory": [
+        "Rogues"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 13,
+    "strengthLevel": 13,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 6,
+        "slash": 9,
+        "crush": 11
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Glough",
+    "id": 7101,
+    "isMembersOnly": false,
+    "examine": "A gnome consumed by his own wrath.",
+    "releaseDate": "6 May 2016",
+    "combatLevel": 431,
+    "hitpoints": 575,
+    "maxHit": [
+        "61"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 260,
+    "strengthLevel": 270,
+    "defenceLevel": 248,
+    "rangedLevel": 262,
+    "magicLevel": 250,
+    "attackBonuses": {
+        "magic": 80,
+        "ranged": 100,
+        "melee": 122,
+        "strength": 75,
+        "rangedStrength": 40,
+        "magicDamage": 40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 32.5,
+    "size": 2
+}

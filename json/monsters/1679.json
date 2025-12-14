@@ -1,0 +1,36 @@
+{
+    "name": "Crypt rat",
+    "id": 1679,
+    "isMembersOnly": false,
+    "examine": "A nasty little rodent.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 43,
+    "attributes": [
+        "rat"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Rats"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

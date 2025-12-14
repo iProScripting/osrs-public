@@ -1,0 +1,49 @@
+{
+    "name": "Ent",
+    "id": 6594,
+    "isMembersOnly": false,
+    "examine": "He ent such a bad guy.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 101,
+    "hitpoints": 105,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 107.5,
+    "slayerCategory": [
+        "Ents"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 95,
+    "defenceLevel": 75,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 70,
+        "magic": 40,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

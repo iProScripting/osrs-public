@@ -1,0 +1,56 @@
+{
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "isMembersOnly": false,
+    "examine": "The spirit of a ranger, serving Bandos beyond death.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Bandos",
+    "combatLevel": 115,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 131,
+    "maxHit": [
+        "13"
+    ],
+    "slayerLevel": 63,
+    "slayerExperience": 131.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 96,
+    "rangedLevel": 121,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 13,
+        "magic": 5,
+        "ranged": 13,
+        "lightRanged": 13,
+        "standardRanged": 13,
+        "heavyRanged": 13
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

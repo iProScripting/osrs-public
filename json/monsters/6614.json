@@ -1,0 +1,56 @@
+{
+    "name": "Greater Skeleton Hellhound (Vet'ion)",
+    "id": 6614,
+    "isMembersOnly": false,
+    "examine": "Can never possibly go hungry.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 231,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "32"
+    ],
+    "slayerExperience": 33.0,
+    "slayerCategory": [
+        "Hellhounds",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 228,
+    "strengthLevel": 295,
+    "defenceLevel": 180,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 163,
+        "crush": 20,
+        "magic": 210,
+        "ranged": 275,
+        "lightRanged": 275,
+        "standardRanged": 275,
+        "heavyRanged": 275
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 12.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

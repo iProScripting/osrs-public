@@ -1,0 +1,38 @@
+{
+    "name": "Sergeant (Shayzien)",
+    "id": 11083,
+    "isMembersOnly": false,
+    "examine": "The other soldiers won't be messing around with [him/her] about.",
+    "releaseDate": "16 June 2021",
+    "combatLevel": 84,
+    "hitpoints": 86,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 73,
+    "defenceLevel": 61,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 17,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "stab": 16,
+        "slash": 16,
+        "crush": 18,
+        "magic": -12,
+        "ranged": 27,
+        "lightRanged": 27,
+        "standardRanged": 27,
+        "heavyRanged": 27
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

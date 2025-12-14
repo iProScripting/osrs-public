@@ -1,0 +1,46 @@
+{
+    "name": "Mysterious Figure",
+    "id": 12301,
+    "isMembersOnly": false,
+    "examine": "She looks dangerous.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 271,
+    "hitpoints": 450,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "rangedLevel": 120,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "magic": 80,
+        "ranged": 80,
+        "melee": 80,
+        "strength": 25,
+        "rangedStrength": 25,
+        "magicDamage": 25
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 40,
+        "crush": 60,
+        "magic": 30,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "All"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

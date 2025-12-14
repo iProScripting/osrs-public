@@ -1,0 +1,43 @@
+{
+    "name": "Dust devil",
+    "id": 11238,
+    "isMembersOnly": false,
+    "examine": "The vacuumed face of evil.",
+    "releaseDate": "2 February 2022",
+    "versionAnchor": "Wilderness Slayer Cave",
+    "combatLevel": 93,
+    "hitpoints": 105,
+    "maxHit": [
+        "8",
+        "16 (without Facemask)"
+    ],
+    "slayerLevel": 65,
+    "slayerExperience": 105.0,
+    "slayerCategory": [
+        "Dust Devils"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

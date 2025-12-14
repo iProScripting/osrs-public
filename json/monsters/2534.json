@@ -1,0 +1,51 @@
+{
+    "name": "Ghost",
+    "id": 2534,
+    "isMembersOnly": false,
+    "examine": "Eeek! A ghost!",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 76",
+    "combatLevel": 76,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 75,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 75.0,
+    "slayerCategory": [
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 63,
+    "strengthLevel": 63,
+    "defenceLevel": 68,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 45,
+        "slash": 45,
+        "crush": 5,
+        "magic": -5,
+        "ranged": 45,
+        "lightRanged": 45,
+        "standardRanged": 45,
+        "heavyRanged": 45
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

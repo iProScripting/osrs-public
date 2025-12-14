@@ -1,0 +1,39 @@
+{
+    "name": "Skeleton (The Restless Ghost)",
+    "id": 924,
+    "isMembersOnly": false,
+    "examine": "It rattles when it walks.",
+    "releaseDate": "4 January 2001",
+    "combatLevel": 13,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 18,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 11,
+    "defenceLevel": 7,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": -5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

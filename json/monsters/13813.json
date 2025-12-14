@@ -1,0 +1,38 @@
+{
+    "name": "Dire Wolf",
+    "id": 13813,
+    "isMembersOnly": false,
+    "examine": "What big teeth you have.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Meat and Greet",
+    "combatLevel": 72,
+    "hitpoints": 10,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 70,
+    "rangedLevel": 20,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 500
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

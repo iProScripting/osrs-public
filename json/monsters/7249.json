@@ -1,0 +1,43 @@
+{
+    "name": "Dust devil",
+    "id": 7249,
+    "isMembersOnly": false,
+    "examine": "The vacuumed face of evil.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Catacombs of Kourend",
+    "combatLevel": 110,
+    "hitpoints": 130,
+    "maxHit": [
+        "10",
+        "16 (without Facemask)"
+    ],
+    "slayerLevel": 65,
+    "slayerExperience": 130.0,
+    "slayerCategory": [
+        "Dust Devils"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 90,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 35
+}

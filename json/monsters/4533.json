@@ -1,0 +1,46 @@
+{
+    "name": "Blessed spider",
+    "id": 4533,
+    "isMembersOnly": false,
+    "examine": "A nasty spider, blessed by Zamorak.",
+    "releaseDate": "3 March 2003",
+    "versionAnchor": "Normal",
+    "combatLevel": 39,
+    "hitpoints": 32,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 32.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 35,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 15,
+        "slash": 16,
+        "crush": 7,
+        "magic": 12,
+        "ranged": 16,
+        "lightRanged": 16,
+        "standardRanged": 16,
+        "heavyRanged": 16
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

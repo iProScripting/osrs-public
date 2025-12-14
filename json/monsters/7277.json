@@ -1,0 +1,37 @@
+{
+    "name": "Warped Jelly",
+    "id": 7277,
+    "isMembersOnly": false,
+    "examine": "Needs cream.....",
+    "releaseDate": "9 June 2016",
+    "combatLevel": 112,
+    "hitpoints": 140,
+    "maxHit": [
+        "10"
+    ],
+    "slayerLevel": 52,
+    "slayerExperience": 140.0,
+    "slayerCategory": [
+        "Jellies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 90,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 95,
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

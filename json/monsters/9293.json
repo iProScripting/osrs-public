@@ -1,0 +1,55 @@
+{
+    "name": "Basilisk Knight",
+    "id": 9293,
+    "isMembersOnly": false,
+    "examine": "The greater eyes of evil.",
+    "releaseDate": "26 September 2019",
+    "combatLevel": 204,
+    "hitpoints": 300,
+    "maxHit": [
+        "20"
+    ],
+    "slayerLevel": 60,
+    "slayerExperience": 300.0,
+    "slayerCategory": [
+        "Basilisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 186,
+    "strengthLevel": 186,
+    "defenceLevel": 186,
+    "rangedLevel": 1,
+    "magicLevel": 186,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": -15,
+        "magic": 30,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": -15
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Magic"
+    ],
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

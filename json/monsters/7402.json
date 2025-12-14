@@ -1,0 +1,56 @@
+{
+    "name": "Abhorrent spectre",
+    "id": 7402,
+    "isMembersOnly": false,
+    "examine": "I'd smell better after completing 3145 laps of an agility course dressed as a monkey.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 253,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 250,
+    "maxHit": [
+        "31"
+    ],
+    "slayerLevel": 60,
+    "slayerExperience": 2500.0,
+    "slayerCategory": [
+        "Aberrant Spectres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 180,
+    "rangedLevel": 1,
+    "magicLevel": 300,
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 40,
+        "crush": 40,
+        "ranged": -30,
+        "lightRanged": 30,
+        "standardRanged": -30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,39 @@
+{
+    "name": "White Knight",
+    "id": 1798,
+    "isMembersOnly": false,
+    "examine": "Shiny armour!",
+    "releaseDate": "6 April 2001",
+    "versionAnchor": "Initiate (m)",
+    "combatLevel": 36,
+    "hitpoints": 52,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 27,
+    "strengthLevel": 29,
+    "defenceLevel": 21,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 83,
+        "slash": 76,
+        "crush": 70,
+        "magic": -11,
+        "ranged": 74,
+        "lightRanged": 74,
+        "standardRanged": 74,
+        "heavyRanged": 54
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

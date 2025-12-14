@@ -1,0 +1,65 @@
+{
+    "name": "Wyrm",
+    "id": 8610,
+    "isMembersOnly": false,
+    "examine": "Don't let it wyrm its way in.",
+    "releaseDate": "10 January 2019",
+    "versionAnchor": "Idle",
+    "combatLevel": 97,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "13 (Magic)",
+        "10 (Melee)"
+    ],
+    "slayerLevel": 62,
+    "slayerExperience": 123.0,
+    "slayerCategory": [
+        "Wyrms"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 60,
+    "defenceLevel": 80,
+    "rangedLevel": 80,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "strength": 30,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 50,
+        "crush": 50,
+        "magic": 50,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "flatArmour": 1,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

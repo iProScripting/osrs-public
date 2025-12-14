@@ -1,0 +1,46 @@
+{
+    "name": "The rocks",
+    "id": 15168,
+    "isMembersOnly": false,
+    "examine": "Keeping cool heads by hitting them with rocks.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 154,
+    "hitpoints": 130,
+    "maxHit": [
+        "? (Magic)\n23 (Melee)"
+    ],
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 80,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 60,
+        "crush": 35
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

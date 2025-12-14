@@ -1,0 +1,34 @@
+{
+    "name": "Khazard Guard",
+    "id": 12024,
+    "isMembersOnly": false,
+    "examine": "One of General Khazard's guards.",
+    "releaseDate": "23 July 2002",
+    "versionAnchor": "Khazard 1",
+    "combatLevel": 23,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 18,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 29,
+        "crush": 21
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

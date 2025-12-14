@@ -1,0 +1,53 @@
+{
+    "name": "Lizardman shaman (Chambers of Xeric)",
+    "id": 7574,
+    "isMembersOnly": false,
+    "examine": "A mystic from a race created during the darker days of Kourend.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 285,
+    "maxHit": [
+        "65 (unconfirmed)"
+    ],
+    "slayerCategory": [
+        "Lizardmen"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 195,
+    "strengthLevel": 195,
+    "defenceLevel": 315,
+    "rangedLevel": 195,
+    "magicLevel": 195,
+    "attackBonuses": {
+        "ranged": 56,
+        "melee": 58,
+        "strength": 52,
+        "rangedStrength": 49
+    },
+    "defenceBonuses": {
+        "stab": 102,
+        "slash": 160,
+        "crush": 150,
+        "magic": 160
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 27.5,
+    "size": 3
+}

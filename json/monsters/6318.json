@@ -1,0 +1,30 @@
+{
+    "name": "Nezikchened (Nightmare Zone)",
+    "id": 6318,
+    "isMembersOnly": false,
+    "examine": "An ancient, powerful demon of the underworld.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 295,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "35"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 330,
+    "strengthLevel": 336,
+    "defenceLevel": 167,
+    "rangedLevel": 320,
+    "magicLevel": 320,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 10
+}

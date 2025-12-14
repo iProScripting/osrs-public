@@ -1,0 +1,39 @@
+{
+    "name": "Abyssal leech (The Scar)",
+    "id": 12391,
+    "isMembersOnly": false,
+    "examine": "A blood-drinking denizen of the Abyss.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 54",
+    "combatLevel": 54,
+    "hitpoints": 20,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 10,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 100,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 100,
+        "magic": 50,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 2,
+    "size": 1
+}

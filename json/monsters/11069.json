@@ -1,0 +1,25 @@
+{
+    "name": "Lynx",
+    "id": 11069,
+    "isMembersOnly": false,
+    "examine": "Who's a good kitty?",
+    "releaseDate": "16 June 2021",
+    "versionAnchor": "Level 24",
+    "combatLevel": 24,
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 18,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

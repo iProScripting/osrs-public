@@ -1,0 +1,37 @@
+{
+    "name": "Goat",
+    "id": 1796,
+    "isMembersOnly": false,
+    "examine": "They'll eat anything!",
+    "releaseDate": "18 October 2006",
+    "versionAnchor": "Tan",
+    "combatLevel": 23,
+    "hitpoints": 21,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 29
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

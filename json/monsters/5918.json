@@ -1,0 +1,38 @@
+{
+    "name": "Scion",
+    "id": 5918,
+    "isMembersOnly": false,
+    "examine": "A mature spawn.",
+    "releaseDate": "1 October 2015",
+    "combatLevel": 93,
+    "hitpoints": 50,
+    "maxHit": [
+        "16 (Ranged)",
+        "10 (Melee)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 90,
+    "defenceLevel": 50,
+    "rangedLevel": 100,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 30,
+        "melee": 30,
+        "rangedStrength": 30
+    },
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

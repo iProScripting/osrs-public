@@ -1,0 +1,38 @@
+{
+    "name": "Third Age Ranger",
+    "id": 8636,
+    "isMembersOnly": false,
+    "examine": "A reanimated ranger wearing the garb of ancient times.",
+    "releaseDate": "11 April 2019",
+    "combatLevel": 76,
+    "hitpoints": 40,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 80,
+    "rangedLevel": 95,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 140,
+        "rangedStrength": 7
+    },
+    "defenceBonuses": {
+        "stab": 55,
+        "slash": 47,
+        "crush": 60,
+        "magic": 60,
+        "ranged": 55,
+        "lightRanged": 55,
+        "standardRanged": 55,
+        "heavyRanged": 55
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

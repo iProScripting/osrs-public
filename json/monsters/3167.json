@@ -1,0 +1,56 @@
+{
+    "name": "Spiritual ranger",
+    "id": 3167,
+    "isMembersOnly": false,
+    "examine": "Armadyl's favourite servant.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Armadyl",
+    "combatLevel": 127,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 89,
+    "maxHit": [
+        "16"
+    ],
+    "slayerLevel": 63,
+    "slayerExperience": 120.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 130,
+    "rangedLevel": 150,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 17,
+        "slash": 16,
+        "crush": 8,
+        "magic": 35,
+        "ranged": 41,
+        "lightRanged": 41,
+        "standardRanged": 41,
+        "heavyRanged": 41
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

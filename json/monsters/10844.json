@@ -1,0 +1,31 @@
+{
+    "name": "Nylocas Athanatos",
+    "id": 10844,
+    "isMembersOnly": false,
+    "examine": "This strain of nylocas does not die easily.",
+    "releaseDate": "7 June 2018",
+    "versionAnchor": "Entry",
+    "combatLevel": 107,
+    "hitpoints": 30,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

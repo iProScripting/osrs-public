@@ -1,0 +1,26 @@
+{
+    "name": "Monk of Zamorak",
+    "id": 8698,
+    "isMembersOnly": false,
+    "examine": "An evil human cleric.",
+    "releaseDate": "20 June 2019",
+    "versionAnchor": "Level 23",
+    "combatLevel": 23,
+    "hitpoints": 16,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 15,
+    "strengthLevel": 13,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

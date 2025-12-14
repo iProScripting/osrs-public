@@ -1,0 +1,28 @@
+{
+    "name": "Cave abomination (Deadman)",
+    "id": 12454,
+    "isMembersOnly": false,
+    "examine": "An extremely dangerous, emaciated, ape-like creature with beady red eyes.",
+    "releaseDate": "23 August 2023",
+    "combatLevel": 361,
+    "hitpoints": 750,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 195,
+    "defenceLevel": 142,
+    "rangedLevel": 1,
+    "magicLevel": 230,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

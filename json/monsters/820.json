@@ -1,0 +1,33 @@
+{
+    "name": "Wormbrain",
+    "id": 820,
+    "isMembersOnly": false,
+    "examine": "A badly-behaved goblin.",
+    "releaseDate": "23 September 2001",
+    "combatLevel": 2,
+    "hitpoints": 5,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 5.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

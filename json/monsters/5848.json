@@ -1,0 +1,28 @@
+{
+    "name": "Tanglefoot",
+    "id": 5848,
+    "isMembersOnly": false,
+    "examine": "A walking thorn bush!",
+    "releaseDate": "27 February 2006",
+    "combatLevel": 111,
+    "hitpoints": 102,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 97,
+    "strengthLevel": 97,
+    "defenceLevel": 91,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

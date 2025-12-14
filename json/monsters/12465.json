@@ -1,0 +1,49 @@
+{
+    "name": "Mutated Tortoise",
+    "id": 12465,
+    "isMembersOnly": false,
+    "examine": "Looks even nastier than the normal ones.",
+    "releaseDate": "13 September 2023",
+    "combatLevel": 247,
+    "hitpoints": 440,
+    "maxHit": [
+        "18"
+    ],
+    "slayerLevel": 56,
+    "slayerExperience": 4510.0,
+    "slayerCategory": [
+        "Warped Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 170,
+    "defenceLevel": 120,
+    "magicLevel": 90,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": 1,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

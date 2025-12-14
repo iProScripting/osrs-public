@@ -1,0 +1,50 @@
+{
+    "name": "Jal-Nib",
+    "id": 7691,
+    "isMembersOnly": false,
+    "examine": "Small and aggravating, but cute.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 32,
+    "hitpoints": 10,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 15,
+    "defenceBonuses": {
+        "stab": -20,
+        "slash": -20,
+        "crush": -20,
+        "magic": -20,
+        "ranged": -20,
+        "lightRanged": -20,
+        "standardRanged": -20,
+        "heavyRanged": -20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

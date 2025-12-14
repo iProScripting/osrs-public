@@ -1,0 +1,36 @@
+{
+    "name": "Mercenary Captain",
+    "id": 4635,
+    "isMembersOnly": false,
+    "examine": "He looks a bit aggressive.",
+    "releaseDate": "14 April 2003",
+    "combatLevel": 47,
+    "hitpoints": 80,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 29,
+    "defenceLevel": 32,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 17,
+        "slash": 15,
+        "crush": 19,
+        "magic": -3,
+        "ranged": 19,
+        "lightRanged": 19,
+        "standardRanged": 19,
+        "heavyRanged": 19
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

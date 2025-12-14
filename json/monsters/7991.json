@@ -1,0 +1,44 @@
+{
+    "name": "Ogress Shaman",
+    "id": 7991,
+    "isMembersOnly": false,
+    "examine": "Big, ugly and no sense of humour.",
+    "releaseDate": "7 December 2017",
+    "combatLevel": 82,
+    "hitpoints": 82,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 82.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 68,
+    "strengthLevel": 20,
+    "defenceLevel": 82,
+    "rangedLevel": 1,
+    "magicLevel": 68,
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 14,
+        "magic": 16,
+        "ranged": 8,
+        "lightRanged": 8,
+        "standardRanged": 8,
+        "heavyRanged": 8
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

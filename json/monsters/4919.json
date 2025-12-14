@@ -1,0 +1,33 @@
+{
+    "name": "Grip",
+    "id": 4919,
+    "isMembersOnly": false,
+    "examine": "Looks like he's been in the wars...",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 22,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 17,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 16,
+        "slash": 27,
+        "crush": 22
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

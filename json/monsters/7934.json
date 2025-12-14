@@ -1,0 +1,59 @@
+{
+    "name": "Revenant cyclops",
+    "id": 7934,
+    "isMembersOnly": false,
+    "examine": "The ghost of a cyclops slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 82,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 110,
+    "maxHit": [
+        "16"
+    ],
+    "slayerExperience": 119.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 73,
+    "defenceLevel": 49,
+    "rangedLevel": 70,
+    "magicLevel": 65,
+    "attackBonuses": {
+        "melee": 53,
+        "strength": 64
+    },
+    "defenceBonuses": {
+        "stab": 110,
+        "slash": 130,
+        "crush": 135,
+        "magic": 10,
+        "ranged": 135,
+        "lightRanged": 135,
+        "standardRanged": 135,
+        "heavyRanged": 95
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

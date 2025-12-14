@@ -1,0 +1,22 @@
+{
+    "name": "Rowdy slave",
+    "id": 4634,
+    "isMembersOnly": false,
+    "examine": "He looks a bit aggressive.",
+    "releaseDate": "14 April 2003",
+    "combatLevel": 10,
+    "hitpoints": 16,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 7,
+    "strengthLevel": 7,
+    "defenceLevel": 7,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

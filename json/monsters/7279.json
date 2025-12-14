@@ -1,0 +1,54 @@
+{
+    "name": "Deviant spectre",
+    "id": 7279,
+    "isMembersOnly": false,
+    "examine": "A very smelly ghost.",
+    "releaseDate": "9 June 2016",
+    "combatLevel": 169,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 190,
+    "maxHit": [
+        "8",
+        "14 (without Nose peg)"
+    ],
+    "slayerLevel": 60,
+    "slayerExperience": 194.5,
+    "slayerCategory": [
+        "Aberrant Spectres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 205,
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 80,
+        "crush": 80,
+        "ranged": 85,
+        "lightRanged": 85,
+        "standardRanged": 85,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

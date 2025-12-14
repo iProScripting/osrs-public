@@ -1,0 +1,36 @@
+{
+    "name": "Werewolf",
+    "id": 2599,
+    "isMembersOnly": false,
+    "examine": "Eek! A werewolf!",
+    "releaseDate": "4 June 2007",
+    "versionAnchor": "Lev",
+    "combatLevel": 88,
+    "hitpoints": 100,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Werewolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 60
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

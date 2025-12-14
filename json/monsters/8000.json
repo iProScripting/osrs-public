@@ -1,0 +1,50 @@
+{
+    "name": "Corrupt Lizardman",
+    "id": 8000,
+    "isMembersOnly": false,
+    "examine": "Looks like there's something wrong with it.",
+    "releaseDate": "19 April 2018",
+    "combatLevel": 46,
+    "poisonous": true,
+    "hitpoints": 50,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Lizardmen"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 38,
+    "defenceLevel": 38,
+    "rangedLevel": 38,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 22,
+        "melee": 22,
+        "strength": 20,
+        "rangedStrength": 20
+    },
+    "defenceBonuses": {
+        "stab": -10,
+        "slash": 25
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

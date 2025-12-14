@@ -1,0 +1,24 @@
+{
+    "name": "Delrith",
+    "id": 5079,
+    "isMembersOnly": false,
+    "examine": "A freshly summoned demon.",
+    "releaseDate": "4 January 2001",
+    "combatLevel": 27,
+    "hitpoints": 7,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 10,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

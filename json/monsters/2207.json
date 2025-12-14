@@ -1,0 +1,38 @@
+{
+    "name": "Growler",
+    "id": 2207,
+    "isMembersOnly": false,
+    "examine": "Defender of the faithful.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 139,
+    "hitpoints": 146,
+    "maxHit": [
+        "16"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 101,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 14,
+        "magic": 18,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 3
+}

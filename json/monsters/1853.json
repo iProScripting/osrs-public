@@ -1,0 +1,31 @@
+{
+    "name": "Rabbit",
+    "id": 1853,
+    "isMembersOnly": false,
+    "examine": "Aww, how cute.",
+    "releaseDate": "11 July 2006",
+    "versionAnchor": "Enchanted Valley",
+    "combatLevel": 1,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -47,
+        "strength": -42
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

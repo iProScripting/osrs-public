@@ -1,0 +1,37 @@
+{
+    "name": "White wolf",
+    "id": 108,
+    "isMembersOnly": false,
+    "examine": "A vicious mountain wolf.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "Level 38",
+    "combatLevel": 38,
+    "hitpoints": 44,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 44.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 31,
+    "defenceLevel": 32,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

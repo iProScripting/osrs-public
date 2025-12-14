@@ -1,0 +1,25 @@
+{
+    "name": "Thief (Varlamore)",
+    "id": 13295,
+    "isMembersOnly": false,
+    "examine": "Has a habit of taking people's belongings.",
+    "releaseDate": "20 March 2024",
+    "versionAnchor": "5",
+    "combatLevel": 16,
+    "hitpoints": 17,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 13,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

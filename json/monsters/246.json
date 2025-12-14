@@ -1,0 +1,49 @@
+{
+    "name": "Baby red dragon",
+    "id": 246,
+    "isMembersOnly": false,
+    "examine": "Young but still dangerous.",
+    "releaseDate": "17 January 2005",
+    "versionAnchor": "3",
+    "combatLevel": 48,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Red Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 50,
+        "crush": 50,
+        "magic": 40,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

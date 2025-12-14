@@ -1,0 +1,40 @@
+{
+    "name": "Cockatrice",
+    "id": 420,
+    "isMembersOnly": false,
+    "examine": "The winged reptile.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Unused",
+    "combatLevel": 37,
+    "hitpoints": 37,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 25,
+    "slayerExperience": 37.0,
+    "slayerCategory": [
+        "Cockatrice"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 37,
+    "defenceLevel": 37,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "magic": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

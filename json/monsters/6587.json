@@ -1,0 +1,32 @@
+{
+    "name": "Armadylean guard",
+    "id": 6587,
+    "isMembersOnly": false,
+    "examine": "A servant of Armadyl.",
+    "releaseDate": "12 June 2014",
+    "combatLevel": 97,
+    "attributes": [
+        "flying"
+    ],
+    "hitpoints": 132,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 82,
+    "rangedLevel": 90,
+    "magicLevel": 80,
+    "defenceBonuses": {
+        "magic": 3
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Scarred black demon",
+    "id": 12386,
+    "isMembersOnly": false,
+    "examine": "The power of the Scar has changed them somehow.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 176,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 157,
+    "maxHit": [
+        "17"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 145,
+    "strengthLevel": 160,
+    "defenceLevel": 152,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

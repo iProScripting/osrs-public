@@ -1,0 +1,57 @@
+{
+    "name": "Repugnant spectre",
+    "id": 7403,
+    "isMembersOnly": false,
+    "examine": "I'd smell better after completing 3145 laps of an agility course dressed as a monkey.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 335,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 380,
+    "maxHit": [
+        "39"
+    ],
+    "slayerLevel": 60,
+    "slayerExperience": 4085.0,
+    "slayerCategory": [
+        "Aberrant Spectres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 220,
+    "rangedLevel": 1,
+    "magicLevel": 380,
+    "defenceBonuses": {
+        "stab": 120,
+        "slash": 120,
+        "crush": 120,
+        "ranged": 115,
+        "lightRanged": 115,
+        "standardRanged": 115,
+        "heavyRanged": 115
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

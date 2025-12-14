@@ -1,0 +1,24 @@
+{
+    "name": "Chicken (Tutorial Island)",
+    "id": 3316,
+    "isMembersOnly": false,
+    "examine": "Yep. Definitely a chicken.",
+    "releaseDate": "24 September 2002",
+    "combatLevel": 3,
+    "hitpoints": 3,
+    "maxHit": [
+        "0"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

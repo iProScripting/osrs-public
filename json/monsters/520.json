@@ -1,0 +1,33 @@
+{
+    "name": "Chaos druid",
+    "id": 520,
+    "isMembersOnly": false,
+    "examine": "A crazy, evil druid.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 13,
+    "hitpoints": 20,
+    "maxHit": [
+        "2 (Melee)"
+    ],
+    "slayerExperience": 20.0,
+    "slayerCategory": [
+        "Chaos Druids"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 10,
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

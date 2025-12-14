@@ -1,0 +1,24 @@
+{
+    "name": "The Untouchable",
+    "id": 3475,
+    "isMembersOnly": false,
+    "examine": "Can you bring yourself to hurt another?",
+    "releaseDate": "15 May 2007",
+    "combatLevel": 274,
+    "hitpoints": 90,
+    "maxHit": [
+        "26"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 187,
+    "strengthLevel": 255,
+    "defenceLevel": 434,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2
+}

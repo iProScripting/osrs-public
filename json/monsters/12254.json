@@ -1,0 +1,30 @@
+{
+    "name": "Ghost (Lassar Undercity)",
+    "id": 12254,
+    "isMembersOnly": false,
+    "examine": "A spooky ghost.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 105,
+    "hitpoints": 25,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "defenceLevel": 150,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

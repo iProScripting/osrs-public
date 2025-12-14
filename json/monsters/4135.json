@@ -1,0 +1,44 @@
+{
+    "name": "Thrower troll (Trollheim)",
+    "id": 4135,
+    "isMembersOnly": false,
+    "examine": "Small for a troll, but it's mean, ugly and throws rocks.",
+    "releaseDate": "24 August 2004",
+    "combatLevel": 68,
+    "hitpoints": 95,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 95.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 95,
+    "defenceLevel": 15,
+    "rangedLevel": 60,
+    "defenceBonuses": {
+        "magic": 200,
+        "ranged": 120,
+        "lightRanged": 200,
+        "standardRanged": 120,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 7,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

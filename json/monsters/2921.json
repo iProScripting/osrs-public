@@ -1,0 +1,24 @@
+{
+    "name": "Lost barbarian",
+    "id": 2921,
+    "isMembersOnly": false,
+    "examine": "His face is expressionless.",
+    "releaseDate": "3 July 2007",
+    "combatLevel": 132,
+    "hitpoints": 124,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 115,
+    "strengthLevel": 114,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

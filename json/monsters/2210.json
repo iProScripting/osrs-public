@@ -1,0 +1,61 @@
+{
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "isMembersOnly": false,
+    "examine": "Saradomin's chosen warrior.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Saradomin",
+    "combatLevel": 125,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 110,
+    "maxHit": [
+        "13"
+    ],
+    "slayerLevel": 68,
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 106,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 110,
+        "melee": 9,
+        "strength": 6
+    },
+    "defenceBonuses": {
+        "stab": 12,
+        "slash": 14,
+        "crush": 13,
+        "magic": 5,
+        "ranged": 13,
+        "lightRanged": 13,
+        "standardRanged": 13,
+        "heavyRanged": 13
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

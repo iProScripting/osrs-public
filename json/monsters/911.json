@@ -1,0 +1,31 @@
+{
+    "name": "Agrith Naar",
+    "id": 911,
+    "isMembersOnly": false,
+    "examine": "A summoned demon.",
+    "releaseDate": "14 November 2005",
+    "combatLevel": 100,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 95,
+    "maxHit": [
+        "10 (Crush)",
+        "10 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 83,
+    "strengthLevel": 90,
+    "defenceLevel": 82,
+    "rangedLevel": 100,
+    "magicLevel": 100,
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 25
+}

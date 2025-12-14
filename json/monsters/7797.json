@@ -1,0 +1,54 @@
+{
+    "name": "Ancient Zygomite",
+    "id": 7797,
+    "isMembersOnly": false,
+    "examine": "Not in the ground anymore! It looks a little wobbly.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 109,
+    "hitpoints": 150,
+    "maxHit": [
+        "9 (melee)",
+        "10 (ranged)"
+    ],
+    "slayerLevel": 57,
+    "slayerExperience": 154.0,
+    "slayerCategory": [
+        "Mutated Zygomites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "rangedLevel": 80,
+    "magicLevel": 80,
+    "attackBonuses": {
+        "melee": 50
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "magic": 30,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Magical melee",
+        "Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

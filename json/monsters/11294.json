@@ -1,0 +1,41 @@
+{
+    "name": "Blood Reaver",
+    "id": 11294,
+    "isMembersOnly": false,
+    "examine": "A strange and twisted demon.",
+    "releaseDate": "5 January 2022",
+    "versionAnchor": "Nex's chamber",
+    "combatLevel": 161,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 190,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 80,
+        "crush": 120,
+        "magic": 300,
+        "ranged": 55,
+        "lightRanged": 55,
+        "standardRanged": 55,
+        "heavyRanged": 55
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 2
+}

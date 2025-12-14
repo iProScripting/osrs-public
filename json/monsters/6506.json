@@ -1,0 +1,41 @@
+{
+    "name": "TzTok-Jad (PvM Arena)",
+    "id": 6506,
+    "isMembersOnly": false,
+    "examine": "This is going to hurt...",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 702,
+    "hitpoints": 250,
+    "maxHit": [
+        "97 (Melee)",
+        "97 (Ranged)",
+        "95 (Magic)"
+    ],
+    "slayerExperience": 25250.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 640,
+    "strengthLevel": 960,
+    "defenceLevel": 480,
+    "rangedLevel": 960,
+    "magicLevel": 480,
+    "attackBonuses": {
+        "magic": 60
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 8,
+    "size": 5
+}

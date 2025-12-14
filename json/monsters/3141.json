@@ -1,0 +1,26 @@
+{
+    "name": "Gorak",
+    "id": 3141,
+    "isMembersOnly": false,
+    "examine": "Comes with a vicious kick.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Level 149",
+    "combatLevel": 149,
+    "hitpoints": 128,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 133,
+    "strengthLevel": 126,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Typeless Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 2
+}

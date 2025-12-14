@@ -1,0 +1,45 @@
+{
+    "name": "Greater demon",
+    "id": 7246,
+    "isMembersOnly": false,
+    "examine": "Big, red, and incredibly evil.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Level 113",
+    "combatLevel": 113,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 130,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 130.0,
+    "slayerCategory": [
+        "Greater Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 90,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

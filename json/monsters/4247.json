@@ -1,0 +1,39 @@
+{
+    "name": "Thief",
+    "id": 4247,
+    "isMembersOnly": false,
+    "examine": "A dastardly blanket thief.",
+    "releaseDate": "28 May 2002",
+    "versionAnchor": "Monk's Friend",
+    "combatLevel": 14,
+    "hitpoints": 17,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 10,
+    "defenceLevel": 9,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 6,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 13,
+        "crush": 14,
+        "magic": 4,
+        "ranged": 9,
+        "lightRanged": 9,
+        "standardRanged": 9,
+        "heavyRanged": 9
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

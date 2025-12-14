@@ -1,0 +1,39 @@
+{
+    "name": "Billy Goat",
+    "id": 1794,
+    "isMembersOnly": false,
+    "examine": "They'll eat anything!",
+    "releaseDate": "18 October 2006",
+    "versionAnchor": "Brown",
+    "combatLevel": 33,
+    "hitpoints": 28,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 31,
+    "strengthLevel": 29,
+    "defenceLevel": 29,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 29
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 10
+}

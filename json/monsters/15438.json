@@ -1,0 +1,31 @@
+{
+    "name": "Giant wasp",
+    "id": 15438,
+    "isMembersOnly": false,
+    "examine": "That stinger has to hurt...",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "1",
+    "combatLevel": 28,
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 22,
+    "defenceLevel": 28,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 24,
+        "slash": 20,
+        "crush": 12,
+        "magic": 5
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

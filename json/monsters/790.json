@@ -1,0 +1,48 @@
+{
+    "name": "Suqah",
+    "id": 790,
+    "isMembersOnly": false,
+    "examine": "A strange creature unique to Lunar Isle.",
+    "releaseDate": "24 July 2006",
+    "versionAnchor": "4",
+    "combatLevel": 111,
+    "hitpoints": 105,
+    "maxHit": [
+        "10"
+    ],
+    "slayerExperience": 107.6,
+    "slayerCategory": [
+        "Suqahs"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 95,
+    "strengthLevel": 95,
+    "defenceLevel": 95,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 70,
+        "magic": 90,
+        "ranged": 30,
+        "lightRanged": 50,
+        "standardRanged": 30,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Large chicken",
+    "id": 14510,
+    "isMembersOnly": false,
+    "examine": "That's a big one!",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 16,
+    "hitpoints": 30,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

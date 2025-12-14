@@ -1,0 +1,39 @@
+{
+    "name": "White Knight",
+    "id": 1800,
+    "isMembersOnly": false,
+    "examine": "A White Knight acolyte.",
+    "releaseDate": "15 March 2006",
+    "versionAnchor": "Acolyte (m)",
+    "combatLevel": 39,
+    "hitpoints": 52,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 32,
+    "strengthLevel": 29,
+    "defenceLevel": 27,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 31
+    },
+    "defenceBonuses": {
+        "stab": 83,
+        "slash": 76,
+        "crush": 70,
+        "magic": -11,
+        "ranged": 74,
+        "lightRanged": 74,
+        "standardRanged": 74,
+        "heavyRanged": 54
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

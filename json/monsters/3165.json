@@ -1,0 +1,43 @@
+{
+    "name": "Flight Kilisa",
+    "id": 3165,
+    "isMembersOnly": false,
+    "examine": "Graceful, bird-like creature.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 159,
+    "attributes": [
+        "flying"
+    ],
+    "hitpoints": 133,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 132.5,
+    "slayerCategory": [
+        "Aviansie"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 124,
+    "strengthLevel": 118,
+    "defenceLevel": 175,
+    "rangedLevel": 169,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "strength": 14
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Metzli, Teokan of Ranul",
+    "id": 14318,
+    "isMembersOnly": false,
+    "examine": "Leader of the Twilight Emissaries.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 396,
+    "hitpoints": 600,
+    "maxHit": [
+        "28"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 160,
+    "rangedLevel": 180,
+    "magicLevel": 180,
+    "attackBonuses": {
+        "magic": 110,
+        "ranged": 110,
+        "rangedStrength": 30,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 80,
+        "crush": 70,
+        "magic": 100,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 3,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

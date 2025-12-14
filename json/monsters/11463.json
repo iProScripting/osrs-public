@@ -1,0 +1,39 @@
+{
+    "name": "Reanimated hellhound",
+    "id": 11463,
+    "isMembersOnly": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "releaseDate": "18 May 2022",
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 35,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 35.0,
+    "slayerCategory": [
+        "Hellhounds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 104,
+    "defenceLevel": 102,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

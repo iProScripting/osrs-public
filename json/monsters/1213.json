@@ -1,0 +1,24 @@
+{
+    "name": "General Khazard",
+    "id": 1213,
+    "isMembersOnly": false,
+    "examine": "He looks really nasty. Smells bad too.",
+    "releaseDate": "23 July 2002",
+    "combatLevel": 142,
+    "hitpoints": 170,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 78,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

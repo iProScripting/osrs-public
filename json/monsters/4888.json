@@ -1,0 +1,41 @@
+{
+    "name": "Gelatinnoth Mother",
+    "id": 4888,
+    "isMembersOnly": false,
+    "examine": "Deadly AND fruity!",
+    "releaseDate": "15 March 2006",
+    "combatLevel": 130,
+    "hitpoints": 240,
+    "maxHit": [
+        "9 (melee)",
+        "20x2 (ranged/magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 78,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "rangedLevel": 50,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 150,
+        "crush": 150,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic",
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3
+}

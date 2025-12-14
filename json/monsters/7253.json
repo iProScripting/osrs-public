@@ -1,0 +1,53 @@
+{
+    "name": "Bronze dragon",
+    "id": 7253,
+    "isMembersOnly": false,
+    "examine": "Its scales seem to be made of bronze.",
+    "releaseDate": "9 June 2016",
+    "versionAnchor": "Catacombs of Kourend",
+    "combatLevel": 143,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 122,
+    "maxHit": [
+        "14 (Melee)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 125.0,
+    "slayerCategory": [
+        "Metal Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 112,
+    "rangedLevel": 1,
+    "magicLevel": 130,
+    "defenceBonuses": {
+        "slash": 70,
+        "crush": 70,
+        "magic": 30,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

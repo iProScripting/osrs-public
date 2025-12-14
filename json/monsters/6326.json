@@ -1,0 +1,30 @@
+{
+    "name": "Skeleton Hellhound (Nightmare Zone)",
+    "id": 6326,
+    "isMembersOnly": false,
+    "examine": "A creature summoned by Vanstrom to kill the remaining Myreque.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 198,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 132,
+    "maxHit": [
+        "27"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 168,
+    "strengthLevel": 264,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

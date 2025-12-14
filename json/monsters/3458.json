@@ -1,0 +1,47 @@
+{
+    "name": "Kamil",
+    "id": 3458,
+    "isMembersOnly": false,
+    "examine": "Ice warrior.",
+    "releaseDate": "18 April 2005",
+    "combatLevel": 154,
+    "hitpoints": 130,
+    "maxHit": [
+        "23 (Melee)",
+        "5x2 (Magic)"
+    ],
+    "slayerExperience": 146.0,
+    "slayerCategory": [
+        "Ice Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 80,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 60,
+        "crush": 35
+    },
+    "attackStyle": [
+        "Melee",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 12.5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 10
+}

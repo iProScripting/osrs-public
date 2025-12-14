@@ -1,0 +1,51 @@
+{
+    "name": "Zombie (Kourend)",
+    "id": 7485,
+    "isMembersOnly": false,
+    "examine": "Fred, the undead.",
+    "releaseDate": "24 November 2016",
+    "versionAnchor": "Level 70",
+    "combatLevel": 70,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 65,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 65.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 61,
+    "strengthLevel": 60,
+    "defenceLevel": 61,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

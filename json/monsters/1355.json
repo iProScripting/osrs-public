@@ -1,0 +1,42 @@
+{
+    "name": "Dwarf gang member",
+    "id": 1355,
+    "isMembersOnly": false,
+    "examine": "A short stout menacing fellow.",
+    "releaseDate": "28 February 2005",
+    "versionAnchor": "Level 48",
+    "combatLevel": 48,
+    "hitpoints": 25,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Dwarves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 30,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 7,
+        "slash": 7,
+        "ranged": 7,
+        "lightRanged": 7,
+        "standardRanged": 7,
+        "heavyRanged": 7
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

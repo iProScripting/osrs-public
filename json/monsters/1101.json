@@ -1,0 +1,31 @@
+{
+    "name": "Giant Sea Snake",
+    "id": 1101,
+    "isMembersOnly": false,
+    "examine": "A big snake that lives in the sea. How did it get in here?",
+    "releaseDate": "22 May 2006",
+    "combatLevel": 149,
+    "hitpoints": 100,
+    "maxHit": [
+        "14"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 170,
+    "strengthLevel": 90,
+    "defenceLevel": 160,
+    "rangedLevel": 130,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

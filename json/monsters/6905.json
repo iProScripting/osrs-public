@@ -1,0 +1,38 @@
+{
+    "name": "Soldier (tier 1)",
+    "id": 6905,
+    "isMembersOnly": false,
+    "examine": "The lowest rank.",
+    "releaseDate": "7 January 2016",
+    "combatLevel": 39,
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 12,
+        "strength": 11
+    },
+    "defenceBonuses": {
+        "ranged": -1,
+        "lightRanged": -1,
+        "standardRanged": -1,
+        "heavyRanged": -1
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "size": 1
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Wingman Skree",
+    "id": 3163,
+    "isMembersOnly": false,
+    "examine": "Graceful, bird-like creature.",
+    "releaseDate": "17 October 2013",
+    "combatLevel": 143,
+    "attributes": [
+        "flying"
+    ],
+    "hitpoints": 121,
+    "maxHit": [
+        "16"
+    ],
+    "slayerExperience": 124.0,
+    "slayerCategory": [
+        "Aviansie"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 50,
+    "defenceLevel": 160,
+    "rangedLevel": 100,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "melee": 45,
+        "strength": 25
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 2.5,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

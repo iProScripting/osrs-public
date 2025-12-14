@@ -1,0 +1,33 @@
+{
+    "name": "Bloodthirsty Mage",
+    "id": 12567,
+    "isMembersOnly": false,
+    "examine": "The evil that men do lives on and on.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 162,
+    "hitpoints": 175,
+    "slayerLevel": 45,
+    "slayerCategory": [
+        "Infernal Mages"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 175,
+    "rangedLevel": 1,
+    "magicLevel": 175,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Mugger",
+    "id": 13282,
+    "isMembersOnly": false,
+    "examine": "He jumps out and attacks people.",
+    "releaseDate": "20 March 2024",
+    "versionAnchor": "Varlamore",
+    "combatLevel": 6,
+    "hitpoints": 8,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 5,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

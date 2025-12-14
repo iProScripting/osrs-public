@@ -1,0 +1,47 @@
+{
+    "name": "Giant Mole (PvM Arena)",
+    "id": 6499,
+    "isMembersOnly": false,
+    "examine": "Holy Mole-y!",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 230,
+    "hitpoints": 200,
+    "maxHit": [
+        "21"
+    ],
+    "slayerExperience": 215.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 80,
+        "crush": 100,
+        "magic": 80,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

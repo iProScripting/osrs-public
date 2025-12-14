@@ -1,0 +1,43 @@
+{
+    "name": "Jhallan",
+    "id": 12354,
+    "isMembersOnly": false,
+    "examine": "He's not what you'd call attractive.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 491,
+    "hitpoints": 1500,
+    "maxHit": [
+        "26"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 250,
+    "defenceLevel": 250,
+    "magicLevel": 250,
+    "attackBonuses": {
+        "magic": 30,
+        "melee": 30
+    },
+    "defenceBonuses": {
+        "stab": 200,
+        "slash": 200,
+        "crush": 200,
+        "magic": 300,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 62.5,
+    "size": 2
+}

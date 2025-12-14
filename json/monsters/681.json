@@ -1,0 +1,40 @@
+{
+    "name": "Giant skeleton (Shadow Dungeon)",
+    "id": 681,
+    "isMembersOnly": false,
+    "examine": "A giant skeleton.",
+    "releaseDate": "18 April 2005",
+    "versionAnchor": "2",
+    "combatLevel": 80,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 70,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

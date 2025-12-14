@@ -1,0 +1,40 @@
+{
+    "name": "Moonlight Cockatrice",
+    "id": 13030,
+    "isMembersOnly": false,
+    "examine": "The moonlit winged reptile.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 49,
+    "hitpoints": 52,
+    "maxHit": [
+        "6"
+    ],
+    "slayerLevel": 25,
+    "slayerExperience": 52.0,
+    "slayerCategory": [
+        "Cockatrice"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 31,
+    "strengthLevel": 52,
+    "defenceLevel": 39,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 14,
+        "slash": 14,
+        "magic": 14
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

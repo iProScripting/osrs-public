@@ -1,0 +1,32 @@
+{
+    "name": "King Roald",
+    "id": 4163,
+    "isMembersOnly": false,
+    "examine": "Varrock's resident monarch. He looks strangely evil!",
+    "releaseDate": "27 March 2007",
+    "combatLevel": 47,
+    "hitpoints": 75,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": -21
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

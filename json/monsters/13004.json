@@ -1,0 +1,47 @@
+{
+    "name": "Buffalo",
+    "id": 13004,
+    "isMembersOnly": false,
+    "examine": "In a world of cows, be a buffalo.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 9,
+    "hitpoints": 20,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 20.0,
+    "slayerCategory": [
+        "Cows"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 6,
+    "strengthLevel": 6,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

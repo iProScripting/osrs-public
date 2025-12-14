@@ -1,0 +1,36 @@
+{
+    "name": "Cave goblin (monster)",
+    "id": 6434,
+    "isMembersOnly": false,
+    "examine": "A goblin with big bulging eyes.",
+    "releaseDate": "14 March 2005",
+    "versionAnchor": "Blue",
+    "combatLevel": 3,
+    "hitpoints": 10,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 10.0,
+    "slayerCategory": [
+        "Goblins"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

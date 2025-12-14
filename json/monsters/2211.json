@@ -1,0 +1,56 @@
+{
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "isMembersOnly": false,
+    "examine": "A ranger spirit dedicated to Saradomin.",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "Saradomin",
+    "combatLevel": 122,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 106,
+    "maxHit": [
+        "16"
+    ],
+    "slayerLevel": 63,
+    "slayerExperience": 106.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 146,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 5,
+        "crush": 13,
+        "magic": 16,
+        "ranged": 23,
+        "lightRanged": 23,
+        "standardRanged": 23,
+        "heavyRanged": 23
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

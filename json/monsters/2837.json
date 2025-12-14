@@ -1,0 +1,24 @@
+{
+    "name": "Unicorn",
+    "id": 2837,
+    "isMembersOnly": false,
+    "examine": "Horse with a horn.",
+    "releaseDate": "4 January 2001",
+    "combatLevel": 15,
+    "hitpoints": 19,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 11,
+    "strengthLevel": 13,
+    "defenceLevel": 13,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

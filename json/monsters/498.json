@@ -1,0 +1,48 @@
+{
+    "name": "Smoke devil",
+    "id": 498,
+    "isMembersOnly": false,
+    "examine": "Stay away from smoke, kids.",
+    "releaseDate": "10 April 2014",
+    "combatLevel": 160,
+    "hitpoints": 185,
+    "maxHit": [
+        "20"
+    ],
+    "slayerLevel": 93,
+    "slayerExperience": 185.0,
+    "slayerCategory": [
+        "Smoke Devils"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 130,
+    "defenceLevel": 275,
+    "rangedLevel": 195,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 600,
+        "ranged": 44,
+        "lightRanged": 44,
+        "standardRanged": 44,
+        "heavyRanged": 44
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

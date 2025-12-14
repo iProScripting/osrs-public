@@ -1,0 +1,59 @@
+{
+    "name": "Spiritual warrior",
+    "id": 11290,
+    "isMembersOnly": false,
+    "examine": "A dangerous looking spirit.",
+    "releaseDate": "5 January 2022",
+    "versionAnchor": "Zaros",
+    "combatLevel": 158,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "20",
+        "40 (special)"
+    ],
+    "slayerLevel": 68,
+    "slayerExperience": 105.0,
+    "slayerCategory": [
+        "Spiritual Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 190,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 50,
+    "attackBonuses": {
+        "ranged": 110
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 100,
+        "crush": 80,
+        "ranged": 250,
+        "lightRanged": 250,
+        "standardRanged": 250,
+        "heavyRanged": 250
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 200
+}

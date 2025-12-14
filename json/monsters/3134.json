@@ -1,0 +1,44 @@
+{
+    "name": "Imp",
+    "id": 3134,
+    "isMembersOnly": false,
+    "examine": "Have you checked your pockets lately?",
+    "releaseDate": "17 October 2013",
+    "versionAnchor": "GWD",
+    "combatLevel": 7,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 10,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 6,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -42,
+        "strength": -37
+    },
+    "defenceBonuses": {
+        "stab": -42,
+        "slash": -42,
+        "crush": -42,
+        "magic": -42,
+        "ranged": -42,
+        "lightRanged": -42,
+        "standardRanged": -42,
+        "heavyRanged": -42
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 10
+}

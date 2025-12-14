@@ -1,0 +1,26 @@
+{
+    "name": "Ice elemental (Royal Titans)",
+    "id": 14151,
+    "isMembersOnly": false,
+    "examine": "An ice elemental.",
+    "releaseDate": "5 February 2025",
+    "combatLevel": 37,
+    "hitpoints": 40,
+    "maxHit": [
+        "4 (Melee)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 30,
+    "magicLevel": 30,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

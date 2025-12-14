@@ -1,0 +1,32 @@
+{
+    "name": "Manta ray (monster)",
+    "id": 15220,
+    "isMembersOnly": false,
+    "examine": "Might be feeling a little flat.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "In combat",
+    "combatLevel": 114,
+    "hitpoints": 160,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 155,
+    "strengthLevel": 75,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

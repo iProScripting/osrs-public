@@ -1,0 +1,42 @@
+{
+    "name": "Vespula",
+    "id": 7531,
+    "isMembersOnly": false,
+    "examine": "Queen of the Abyssal Vespine. Her lifeforce is sustained by her connection to the Abyss.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician",
+        "flying"
+    ],
+    "hitpoints": 288,
+    "usesSkill": [
+    ],
+    "attackLevel": 225,
+    "strengthLevel": 225,
+    "defenceLevel": 132,
+    "rangedLevel": 225,
+    "magicLevel": 132,
+    "attackBonuses": {
+        "strength": -8,
+        "rangedStrength": -8
+    },
+    "defenceBonuses": {
+        "magic": 70,
+        "ranged": 60,
+        "lightRanged": 20,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged <br/> Typeless"
+    ],
+    "attackSpeed": 3,
+    "size": 5,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

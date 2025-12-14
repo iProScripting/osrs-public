@@ -1,0 +1,29 @@
+{
+    "name": "Void Flare",
+    "id": 14179,
+    "isMembersOnly": false,
+    "examine": "An explosive demonic spell churns inside it. It looks like it's about to burst!",
+    "releaseDate": "14 May 2025",
+    "versionAnchor": "Fire",
+    "combatLevel": 130,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 140,
+    "maxHit": [
+        "44 (Phase 1-2)",
+        "25 (Phase 3)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 200,
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

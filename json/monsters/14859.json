@@ -1,0 +1,43 @@
+{
+    "name": "Dire gryphon",
+    "id": 14859,
+    "isMembersOnly": false,
+    "examine": "A vicious predator, strong enough to hook and rip the shells off the largest tortugans.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 209,
+    "hitpoints": 280,
+    "slayerLevel": 51,
+    "slayerExperience": 2800.0,
+    "slayerCategory": [
+        "Gryphons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 160,
+    "strengthLevel": 190,
+    "defenceLevel": 100,
+    "magicLevel": 60,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 20,
+        "crush": 40,
+        "magic": 150,
+        "ranged": 60,
+        "lightRanged": 60,
+        "standardRanged": 60,
+        "heavyRanged": 60
+    },
+    "attackStyle": [
+        "Melee"
+    ],
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

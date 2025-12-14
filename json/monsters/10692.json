@@ -1,0 +1,40 @@
+{
+    "name": "Body Golem",
+    "id": 10692,
+    "isMembersOnly": false,
+    "examine": "This rubble looks like it's been imbued with body energy.",
+    "releaseDate": "14 April 2021",
+    "versionAnchor": "Rubble",
+    "combatLevel": 50,
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 33,
+    "strengthLevel": 43,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 28
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "magic": 2,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "flatArmour": 2,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

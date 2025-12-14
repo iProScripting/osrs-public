@@ -1,0 +1,24 @@
+{
+    "name": "Plague frog",
+    "id": 11586,
+    "isMembersOnly": false,
+    "examine": "A very smelly frog.",
+    "releaseDate": "26 April 2005",
+    "combatLevel": 11,
+    "hitpoints": 10,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 18,
+    "strengthLevel": 10,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

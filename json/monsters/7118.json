@@ -1,0 +1,33 @@
+{
+    "name": "Maniacal monkey",
+    "id": 7118,
+    "isMembersOnly": false,
+    "examine": "It looks like someone has tampered with its mind.",
+    "releaseDate": "6 May 2016",
+    "combatLevel": 140,
+    "hitpoints": 65,
+    "maxHit": [
+        "18"
+    ],
+    "slayerExperience": 65.0,
+    "slayerCategory": [
+        "Monkeys"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 175,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

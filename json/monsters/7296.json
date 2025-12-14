@@ -1,0 +1,43 @@
+{
+    "name": "Dark Ankou",
+    "id": 7296,
+    "isMembersOnly": false,
+    "examine": "A boney ghost.",
+    "releaseDate": "16 June 2016",
+    "combatLevel": 95,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 60,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Ankou"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 70,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

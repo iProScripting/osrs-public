@@ -1,0 +1,37 @@
+{
+    "name": "Zombie (Zogre Flesh Eaters)",
+    "id": 880,
+    "isMembersOnly": false,
+    "examine": "A human zombie.",
+    "releaseDate": "17 May 2005",
+    "combatLevel": 39,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Sir Palomedes",
+    "id": 4358,
+    "isMembersOnly": false,
+    "examine": "One of the Knights of the Round Table.",
+    "releaseDate": "24 July 2007",
+    "combatLevel": 118,
+    "hitpoints": 100,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 105,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 35,
+        "strength": 35
+    },
+    "defenceBonuses": {
+        "stab": 250,
+        "slash": 250,
+        "crush": 50
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 12.5,
+    "size": 1
+}

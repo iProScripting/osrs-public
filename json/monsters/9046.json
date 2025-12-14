@@ -1,0 +1,33 @@
+{
+    "name": "Corrupted Bear",
+    "id": 9046,
+    "isMembersOnly": false,
+    "examine": "That is one big bear.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 258,
+    "hitpoints": 100,
+    "maxHit": [
+        "48"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 147,
+    "strengthLevel": 147,
+    "defenceLevel": 98,
+    "rangedLevel": 147,
+    "magicLevel": 98,
+    "attackBonuses": {
+        "melee": 81,
+        "strength": 132
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 12.5,
+    "size": 3
+}

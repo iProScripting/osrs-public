@@ -1,0 +1,24 @@
+{
+    "name": "Radiant sanguisphera",
+    "id": 12370,
+    "isMembersOnly": false,
+    "examine": "A moving ball of goo.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 34,
+    "hitpoints": 20,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

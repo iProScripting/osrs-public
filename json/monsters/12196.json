@@ -1,0 +1,60 @@
+{
+    "name": "Duke Sucellus",
+    "id": 12196,
+    "isMembersOnly": false,
+    "examine": "Is he dead?",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Defeated",
+    "combatLevel": 1099,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 1697,
+    "maxHit": [
+        "81 (Melee)",
+        "71 (Magic)",
+        "121 (Gaze)"
+    ],
+    "slayerExperience": 1697.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 435,
+    "strengthLevel": 500,
+    "defenceLevel": 316,
+    "magicLevel": 465,
+    "attackBonuses": {
+        "magic": 150,
+        "melee": 200,
+        "strength": 38,
+        "magicDamage": 32
+    },
+    "defenceBonuses": {
+        "stab": 255,
+        "slash": 65,
+        "crush": 190,
+        "magic": 440,
+        "ranged": 320,
+        "lightRanged": 320,
+        "standardRanged": 320,
+        "heavyRanged": 320
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 52.5,
+    "size": 7
+}

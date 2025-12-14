@@ -1,0 +1,52 @@
+{
+    "name": "Zombie (Stronghold of Security)",
+    "id": 2509,
+    "isMembersOnly": false,
+    "examine": "The walking dead.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Level 53, 3",
+    "combatLevel": 53,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 50.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 55,
+    "strengthLevel": 40,
+    "defenceLevel": 48,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 19,
+        "slash": 18,
+        "magic": 20,
+        "ranged": 21,
+        "lightRanged": 21,
+        "standardRanged": 21,
+        "heavyRanged": 21
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

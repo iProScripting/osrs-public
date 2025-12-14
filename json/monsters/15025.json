@@ -1,0 +1,17 @@
+{
+    "name": "Black Eye Bethel",
+    "id": 15025,
+    "isMembersOnly": false,
+    "examine": "Don't ask her how she got the black eye.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 191,
+    "hitpoints": 180,
+    "usesSkill": [
+    ],
+    "attackLevel": 170,
+    "defenceLevel": 180,
+    "magicLevel": 80,
+    "attackStyle": [
+    ],
+    "size": 1
+}

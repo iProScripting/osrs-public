@@ -1,0 +1,40 @@
+{
+    "name": "Pit Scorpion",
+    "id": 3026,
+    "isMembersOnly": false,
+    "examine": "Tiny, annoying, stinging thing.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 28,
+    "hitpoints": 32,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 32.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 23,
+    "strengthLevel": 23,
+    "defenceLevel": 23,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 5,
+        "crush": 5
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

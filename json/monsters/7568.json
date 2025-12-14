@@ -1,0 +1,37 @@
+{
+    "name": "Glowing crystal",
+    "id": 7568,
+    "isMembersOnly": false,
+    "examine": "The crystal is glowing with power.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "0"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 150,
+    "defenceBonuses": {
+        "stab": -5,
+        "slash": 180,
+        "crush": 180
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 4
+}

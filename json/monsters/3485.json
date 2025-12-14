@@ -1,0 +1,26 @@
+{
+    "name": "Monk of Zamorak",
+    "id": 3485,
+    "isMembersOnly": false,
+    "examine": "An evil human cleric.",
+    "releaseDate": "6 April 2001",
+    "versionAnchor": "Level 17",
+    "combatLevel": 17,
+    "hitpoints": 10,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 25,
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

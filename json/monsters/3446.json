@@ -1,0 +1,39 @@
+{
+    "name": "Guardian of Armadyl",
+    "id": 3446,
+    "isMembersOnly": false,
+    "examine": "A warrior who has devoted their life to Armadyl.",
+    "releaseDate": "17 June 2002",
+    "versionAnchor": "Female",
+    "combatLevel": 43,
+    "hitpoints": 40,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 37,
+    "strengthLevel": 37,
+    "defenceLevel": 37,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 14,
+        "strength": 16
+    },
+    "defenceBonuses": {
+        "stab": 43,
+        "slash": 55,
+        "crush": 50,
+        "magic": -12,
+        "ranged": 51,
+        "lightRanged": 51,
+        "standardRanged": 51,
+        "heavyRanged": 51
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

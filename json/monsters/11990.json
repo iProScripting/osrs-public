@@ -1,0 +1,48 @@
+{
+    "name": "Poison spider (Escape Caves)",
+    "id": 11990,
+    "isMembersOnly": false,
+    "examine": "I think this spider has been genetically modified.",
+    "releaseDate": "25 January 2023",
+    "combatLevel": 48,
+    "poisonous": true,
+    "hitpoints": 73,
+    "maxHit": [
+        "8"
+    ],
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 35,
+    "rangedLevel": 45,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 63,
+        "rangedStrength": 35
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 17,
+        "crush": 10,
+        "magic": 14,
+        "ranged": 14,
+        "lightRanged": 14,
+        "standardRanged": 14,
+        "heavyRanged": 14
+    },
+    "attackStyle": [
+        "Typeless Ranged"
+    ],
+    "attackSpeed": 5,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

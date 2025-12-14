@@ -1,0 +1,23 @@
+{
+    "name": "Ogre shaman (Swan Song)",
+    "id": 4382,
+    "isMembersOnly": false,
+    "examine": "Seems intelligent... for an ogre.",
+    "releaseDate": "2 May 2006",
+    "combatLevel": 113,
+    "hitpoints": 99,
+    "usesSkill": [
+    ],
+    "attackLevel": 99,
+    "strengthLevel": 99,
+    "defenceLevel": 99,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+    ],
+    "size": 2
+}

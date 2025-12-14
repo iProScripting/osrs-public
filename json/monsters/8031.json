@@ -1,0 +1,66 @@
+{
+    "name": "Rune dragon",
+    "id": 8031,
+    "isMembersOnly": false,
+    "examine": "Its scales seem to be made of runite.",
+    "releaseDate": "4 January 2018",
+    "combatLevel": 380,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 330,
+    "maxHit": [
+        "29 (Melee)",
+        "31 (Ranged)",
+        "26 (Magic)",
+        "40 (range special)",
+        "50 (Dragonfire)"
+    ],
+    "slayerExperience": 363.0,
+    "slayerCategory": [
+        "Metal Dragons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 284,
+    "strengthLevel": 284,
+    "defenceLevel": 276,
+    "rangedLevel": 246,
+    "magicLevel": 196,
+    "attackBonuses": {
+        "rangedStrength": 14,
+        "magicDamage": 16
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 115,
+        "crush": 90,
+        "magic": 30,
+        "ranged": 95,
+        "lightRanged": 95,
+        "standardRanged": 95,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

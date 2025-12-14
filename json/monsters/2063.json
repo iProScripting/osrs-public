@@ -1,0 +1,35 @@
+{
+    "name": "Penguin (monster)",
+    "id": 2063,
+    "isMembersOnly": false,
+    "examine": "An inhabitant of icy regions.",
+    "releaseDate": "29 March 2004",
+    "combatLevel": 2,
+    "hitpoints": 4,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 4.0,
+    "slayerCategory": [
+        "Birds"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 2,
+    "defenceLevel": 2,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

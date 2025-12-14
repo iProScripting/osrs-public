@@ -1,0 +1,25 @@
+{
+    "name": "Confusion beast",
+    "id": 4694,
+    "isMembersOnly": false,
+    "examine": "What on Gielinor is that?!?",
+    "releaseDate": "3 April 2006",
+    "versionAnchor": "Level 63",
+    "combatLevel": 63,
+    "hitpoints": 64,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 52,
+    "strengthLevel": 55,
+    "defenceLevel": 52,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

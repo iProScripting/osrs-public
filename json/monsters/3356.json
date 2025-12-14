@@ -1,0 +1,24 @@
+{
+    "name": "Jogre Champion",
+    "id": 3356,
+    "isMembersOnly": false,
+    "examine": "Champion of the jogres.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 107,
+    "hitpoints": 120,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 86,
+    "strengthLevel": 86,
+    "defenceLevel": 86,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

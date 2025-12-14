@@ -1,0 +1,24 @@
+{
+    "name": "Arzinian Avatar of Magic",
+    "id": 1233,
+    "isMembersOnly": false,
+    "examine": "It is the avatar of the Arzinian Being of Bordanzan, representing magic.",
+    "releaseDate": "21 March 2005",
+    "versionAnchor": "Invincible",
+    "hitpoints": 200,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 100,
+    "defenceLevel": 130,
+    "magicLevel": 150,
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

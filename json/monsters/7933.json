@@ -1,0 +1,61 @@
+{
+    "name": "Revenant hobgoblin",
+    "id": 7933,
+    "isMembersOnly": false,
+    "examine": "The ghost of a hobgoblin slain long ago.",
+    "releaseDate": "23 November 2017",
+    "combatLevel": 60,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 72,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 73.0,
+    "slayerCategory": [
+        "Revenants",
+        "Ghosts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 41,
+    "rangedLevel": 60,
+    "magicLevel": 55,
+    "attackBonuses": {
+        "magic": 5,
+        "ranged": 25,
+        "melee": 20,
+        "strength": 24
+    },
+    "defenceBonuses": {
+        "stab": 65,
+        "slash": 60,
+        "crush": 68,
+        "magic": 30,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

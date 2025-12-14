@@ -1,0 +1,27 @@
+{
+    "name": "Captain Darvald",
+    "id": 15457,
+    "isMembersOnly": false,
+    "examine": "A captain of the coldest seas.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 137,
+    "hitpoints": 150,
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 45
+    },
+    "defenceBonuses": {
+        "stab": 120,
+        "slash": 140,
+        "crush": 137
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

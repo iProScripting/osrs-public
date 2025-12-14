@@ -1,0 +1,58 @@
+{
+    "name": "Gargoyle",
+    "id": 1543,
+    "isMembersOnly": false,
+    "examine": "Flies like a rock.",
+    "releaseDate": "26 January 2005",
+    "versionAnchor": "Basement",
+    "combatLevel": 111,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 105,
+    "maxHit": [
+        "11"
+    ],
+    "slayerLevel": 75,
+    "slayerExperience": 105.0,
+    "slayerCategory": [
+        "Gargoyles"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 105,
+    "defenceLevel": 107,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 60,
+        "crush": -20,
+        "magic": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": -20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Ranalph Devere",
+    "id": 3966,
+    "isMembersOnly": false,
+    "examine": "The spirit of a long-dead warrior.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 92,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 130,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 66,
+    "strengthLevel": 67,
+    "defenceLevel": 66,
+    "attackBonuses": {
+        "melee": 45,
+        "strength": 44
+    },
+    "defenceBonuses": {
+        "stab": 38,
+        "slash": 40,
+        "crush": 36,
+        "ranged": 38,
+        "lightRanged": 38,
+        "standardRanged": 38,
+        "heavyRanged": 38
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 10
+}

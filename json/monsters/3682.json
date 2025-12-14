@@ -1,0 +1,34 @@
+{
+    "name": "Thora (Miscellania)",
+    "id": 3682,
+    "isMembersOnly": false,
+    "examine": "A subject of Miscellania.",
+    "releaseDate": "29 November 2004",
+    "combatLevel": 2,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 3,
+    "strengthLevel": 3,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -12,
+        "slash": -12,
+        "crush": -12,
+        "magic": -12,
+        "ranged": -12,
+        "lightRanged": -12,
+        "standardRanged": -12,
+        "heavyRanged": -12
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

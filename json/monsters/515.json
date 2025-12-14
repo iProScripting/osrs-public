@@ -1,0 +1,28 @@
+{
+    "name": "Witch (monster)",
+    "id": 515,
+    "isMembersOnly": false,
+    "examine": "The hat's a dead give away.",
+    "releaseDate": "21 January 2001",
+    "versionAnchor": "Al Kharid",
+    "combatLevel": 25,
+    "hitpoints": 10,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "defenceBonuses": {
+        "magic": 3
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Warped Terrorbird",
+    "id": 12495,
+    "isMembersOnly": false,
+    "examine": "What a horrible looking thing.",
+    "releaseDate": "13 September 2023",
+    "versionAnchor": "Level 96",
+    "combatLevel": 96,
+    "hitpoints": 150,
+    "maxHit": [
+        "10"
+    ],
+    "slayerLevel": 56,
+    "slayerExperience": 150.0,
+    "slayerCategory": [
+        "Warped Creatures"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 90,
+    "defenceLevel": 20,
+    "rangedLevel": 40,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "ranged": 240
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "ranged": 62,
+        "lightRanged": 20,
+        "standardRanged": 62,
+        "heavyRanged": 62
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

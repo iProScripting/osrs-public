@@ -1,0 +1,47 @@
+{
+    "name": "Corporeal Beast",
+    "id": 319,
+    "isMembersOnly": false,
+    "examine": "A vision of supernatural horror.",
+    "releaseDate": "16 October 2014",
+    "combatLevel": 785,
+    "hitpoints": 2000,
+    "maxHit": [
+        "33 (Melee)",
+        "65 (Magic)",
+        "51 (Stomp)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 320,
+    "strengthLevel": 320,
+    "defenceLevel": 310,
+    "rangedLevel": 150,
+    "magicLevel": 350,
+    "attackBonuses": {
+        "melee": 50
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 200,
+        "crush": 100,
+        "magic": 150,
+        "ranged": 230,
+        "lightRanged": 230,
+        "standardRanged": 230,
+        "heavyRanged": 100
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 55.0,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 10
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Kree'arra (PvM Arena)",
+    "id": 6492,
+    "isMembersOnly": false,
+    "examine": "Graceful avatar of Armadyl.",
+    "releaseDate": "3 December 2015",
+    "combatLevel": 580,
+    "hitpoints": 255,
+    "maxHit": [
+        "69 (Ranged)",
+        "21 (Magic)",
+        "26 (Melee)"
+    ],
+    "slayerExperience": 357.0,
+    "slayerCategory": [
+        "Aviansie",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 200,
+    "defenceLevel": 260,
+    "rangedLevel": 380,
+    "magicLevel": 200,
+    "attackBonuses": {
+        "ranged": 120,
+        "melee": 136,
+        "strength": 12,
+        "rangedStrength": 50
+    },
+    "defenceBonuses": {
+        "stab": 180,
+        "slash": 180,
+        "crush": 180,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Ranged magic",
+        "Melee"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 40.0,
+    "size": 5
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Animated steel armour (Tarn's Lair)",
+    "id": 6438,
+    "isMembersOnly": false,
+    "examine": "Animated steel armour.",
+    "releaseDate": "22 January 2007",
+    "combatLevel": 53,
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 2,
+    "rangedLevel": 2,
+    "magicLevel": 2,
+    "attackBonuses": {
+        "melee": 4,
+        "strength": 5
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 25,
+        "crush": 25,
+        "magic": 400,
+        "ranged": 400,
+        "lightRanged": 400,
+        "standardRanged": 400,
+        "heavyRanged": 400
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

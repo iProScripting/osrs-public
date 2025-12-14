@@ -1,0 +1,38 @@
+{
+    "name": "Ancient Guardian",
+    "id": 10654,
+    "isMembersOnly": false,
+    "examine": "The guardian of this ancient ruin.",
+    "releaseDate": "14 April 2021",
+    "versionAnchor": "Golem",
+    "combatLevel": 25,
+    "hitpoints": 40,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 33,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 20,
+        "strength": 50
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 40,
+        "magic": 5,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 2
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Elite Black Knight",
+    "id": 13463,
+    "isMembersOnly": false,
+    "examine": "A Black Knight with lots of combat experience.",
+    "releaseDate": "10 July 2024",
+    "versionAnchor": "Male",
+    "combatLevel": 138,
+    "hitpoints": 90,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 120,
+    "defenceLevel": 90,
+    "rangedLevel": 20,
+    "magicLevel": 70,
+    "attackBonuses": {
+        "melee": 85
+    },
+    "defenceBonuses": {
+        "stab": 110,
+        "slash": 130,
+        "crush": 40,
+        "magic": -5,
+        "ranged": 135,
+        "lightRanged": 140,
+        "standardRanged": 135,
+        "heavyRanged": 60
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 7.5,
+    "flatArmour": 7,
+    "size": 1
+}

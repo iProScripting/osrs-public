@@ -1,0 +1,37 @@
+{
+    "name": "TzHaar-Ket",
+    "id": 2176,
+    "isMembersOnly": false,
+    "examine": "Must be a guard or something.",
+    "releaseDate": "19 September 2005",
+    "versionAnchor": "Level 149",
+    "combatLevel": 149,
+    "hitpoints": 140,
+    "maxHit": [
+        "15"
+    ],
+    "slayerExperience": 140.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 140,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Earth wizard",
+    "id": 1558,
+    "isMembersOnly": false,
+    "examine": "His hands are covered in mud. At least, I hope that's mud.",
+    "releaseDate": "26 September 2005",
+    "combatLevel": 13,
+    "hitpoints": 25,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 10,
+    "magicLevel": 10,
+    "defenceBonuses": {
+        "magic": 15
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

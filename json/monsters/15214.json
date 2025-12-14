@@ -1,0 +1,32 @@
+{
+    "name": "Eagle ray",
+    "id": 15214,
+    "isMembersOnly": false,
+    "examine": "Can't fly, despite its best efforts.",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "In combat",
+    "combatLevel": 43,
+    "hitpoints": 50,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

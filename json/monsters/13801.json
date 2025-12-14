@@ -1,0 +1,48 @@
+{
+    "name": "Cave crawler",
+    "id": 13801,
+    "isMembersOnly": false,
+    "examine": "A spiky crawling critter.",
+    "releaseDate": "25 September 2024",
+    "versionAnchor": "Icy (2)",
+    "combatLevel": 23,
+    "hitpoints": 22,
+    "maxHit": [
+        "3"
+    ],
+    "slayerLevel": 10,
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Cave Crawlers"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 5,
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

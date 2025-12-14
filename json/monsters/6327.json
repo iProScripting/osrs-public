@@ -1,0 +1,32 @@
+{
+    "name": "Agrith Naar (Nightmare Zone)",
+    "id": 6327,
+    "isMembersOnly": false,
+    "examine": "A summoned demon.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 196,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 209,
+    "maxHit": [
+        "21 (Crush)",
+        "10 (Magic)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 182,
+    "strengthLevel": 198,
+    "defenceLevel": 82,
+    "rangedLevel": 220,
+    "magicLevel": 220,
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 25
+}

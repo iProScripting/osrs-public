@@ -1,0 +1,54 @@
+{
+    "name": "Bloodthirsty abyssal demon",
+    "id": 12581,
+    "isMembersOnly": false,
+    "examine": "A greater denizen of the Abyss.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 513,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 600,
+    "maxHit": [
+        "40"
+    ],
+    "slayerLevel": 85,
+    "slayerExperience": 6600.0,
+    "slayerCategory": [
+        "Abyssal Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 450,
+    "strengthLevel": 390,
+    "defenceLevel": 240,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 1
+}

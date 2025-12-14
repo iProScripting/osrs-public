@@ -1,0 +1,33 @@
+{
+    "name": "Scarred greater demon",
+    "id": 12388,
+    "isMembersOnly": false,
+    "examine": "The power of the Scar has changed them somehow.",
+    "releaseDate": "26 July 2023",
+    "versionAnchor": "Level 95",
+    "combatLevel": 95,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 87,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 76,
+    "strengthLevel": 88,
+    "defenceLevel": 81,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

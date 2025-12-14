@@ -1,0 +1,34 @@
+{
+    "name": "Elite Khazard Guard",
+    "id": 13531,
+    "isMembersOnly": false,
+    "examine": "A well-trained Khazard warrior, on orders to guard this area.",
+    "releaseDate": "10 July 2024",
+    "versionAnchor": "1",
+    "combatLevel": 95,
+    "hitpoints": 85,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 88,
+    "defenceLevel": 80,
+    "rangedLevel": 1,
+    "magicLevel": 30,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 14
+    },
+    "defenceBonuses": {
+        "stab": 44,
+        "slash": 38,
+        "crush": 30
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

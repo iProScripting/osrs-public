@@ -1,0 +1,48 @@
+{
+    "name": "Tortured gorilla",
+    "id": 7150,
+    "isMembersOnly": false,
+    "examine": "One of Glough's tortured creations.",
+    "releaseDate": "6 May 2016",
+    "versionAnchor": "Level 141",
+    "combatLevel": 141,
+    "hitpoints": 210,
+    "maxHit": [
+        "13"
+    ],
+    "slayerExperience": 210.0,
+    "slayerCategory": [
+        "Monkeys"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 95,
+    "defenceLevel": 95,
+    "rangedLevel": 95,
+    "magicLevel": 95,
+    "attackBonuses": {
+        "magic": 20,
+        "ranged": 22,
+        "melee": 22,
+        "strength": 16,
+        "rangedStrength": 16,
+        "magicDamage": 16
+    },
+    "defenceBonuses": {
+        "magic": 25
+    },
+    "attackStyle": [
+        "Magic",
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 12.5,
+    "size": 2
+}

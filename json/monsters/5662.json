@@ -1,0 +1,40 @@
+{
+    "name": "Undead Lumberjack",
+    "id": 5662,
+    "isMembersOnly": false,
+    "examine": "He is one, but he's not alright.",
+    "releaseDate": "13 March 2007",
+    "versionAnchor": "Level 35",
+    "combatLevel": 35,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 11,
+    "maxHit": [
+        "2"
+    ],
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 87,
+    "strengthLevel": 6,
+    "defenceLevel": 11,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -100.0,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Mind Golem",
+    "id": 10693,
+    "isMembersOnly": false,
+    "examine": "This golem looks like it's been imbued with mind energy.",
+    "releaseDate": "14 April 2021",
+    "versionAnchor": "Golem",
+    "combatLevel": 30,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 14,
+    "strengthLevel": 31,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 23
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "magic": 2,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 5,
+    "flatArmour": 1,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
+}

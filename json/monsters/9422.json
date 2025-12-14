@@ -1,0 +1,51 @@
+{
+    "name": "Phosani's Nightmare",
+    "id": 9422,
+    "isMembersOnly": false,
+    "examine": "Sweet dreams are most definitely not made of this.",
+    "releaseDate": "30 June 2021",
+    "combatLevel": 1024,
+    "hitpoints": 3200,
+    "maxHit": [
+        "73 (melee)",
+        "80 (magic/ranged)",
+        "~85 (dash)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 150,
+    "rangedLevel": 150,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "magic": 220,
+        "ranged": 220,
+        "melee": 220,
+        "strength": 274,
+        "rangedStrength": 162,
+        "magicDamage": 162
+    },
+    "defenceBonuses": {
+        "stab": 120,
+        "slash": 180,
+        "crush": 40,
+        "magic": 600,
+        "ranged": 600,
+        "lightRanged": 600,
+        "standardRanged": 600,
+        "heavyRanged": 600
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "size": 5
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Jungle Wolf",
+    "id": 232,
+    "isMembersOnly": false,
+    "examine": "A rare jungle wolf - specific to the Kharazi jungle.",
+    "releaseDate": "20 August 2003",
+    "combatLevel": 64,
+    "hitpoints": 69,
+    "maxHit": [
+        "6"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Wolves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 55,
+    "defenceLevel": 52,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

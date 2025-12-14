@@ -1,0 +1,54 @@
+{
+    "name": "Greater Skeleton Hellhound (Calvar'ion)",
+    "id": 12108,
+    "isMembersOnly": false,
+    "examine": "Can never possibly go hungry.",
+    "releaseDate": "25 January 2023",
+    "combatLevel": 139,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "18"
+    ],
+    "slayerExperience": 30.0,
+    "slayerCategory": [
+        "Hellhounds",
+        "Skeletons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 170,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 95,
+        "slash": 101,
+        "crush": 15,
+        "magic": 156,
+        "ranged": 184,
+        "lightRanged": 184,
+        "standardRanged": 184,
+        "heavyRanged": 184
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

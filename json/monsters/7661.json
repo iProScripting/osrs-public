@@ -1,0 +1,34 @@
+{
+    "name": "Mummy (Pyramid Plunder)",
+    "id": 7661,
+    "isMembersOnly": false,
+    "examine": "This mummy looks like it means business!",
+    "releaseDate": "13 April 2017",
+    "versionAnchor": "3",
+    "combatLevel": 84,
+    "hitpoints": 90,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 30,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "stab": 90,
+        "slash": 90,
+        "crush": 30,
+        "magic": 90
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

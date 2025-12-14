@@ -1,0 +1,42 @@
+{
+    "name": "Scorpia's offspring (monster)",
+    "id": 6616,
+    "isMembersOnly": false,
+    "examine": "A scuttling little scorpion with an incredibly vicious tail.",
+    "releaseDate": "13 March 2014",
+    "combatLevel": 15,
+    "hitpoints": 2,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 2.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 30,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 900,
+        "rangedStrength": -30
+    },
+    "defenceBonuses": {
+        "magic": -40
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

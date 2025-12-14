@@ -1,0 +1,42 @@
+{
+    "name": "Ba-Ba",
+    "id": 11778,
+    "isMembersOnly": false,
+    "examine": "A big ol' monke.",
+    "releaseDate": "24 August 2022",
+    "combatLevel": 359,
+    "hitpoints": 380,
+    "maxHit": [
+        "24"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 160,
+    "defenceLevel": 80,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "strength": 26
+    },
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 160,
+        "crush": 240,
+        "magic": 280,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 120
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 5
+}

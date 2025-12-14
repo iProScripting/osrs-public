@@ -1,0 +1,45 @@
+{
+    "name": "Jal-Xil",
+    "id": 7698,
+    "isMembersOnly": false,
+    "examine": "Holy projectile.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 370,
+    "hitpoints": 125,
+    "maxHit": [
+        "46 (Ranged)",
+        "19 (Melee)"
+    ],
+    "slayerExperience": 125.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 180,
+    "defenceLevel": 60,
+    "rangedLevel": 250,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "ranged": 40,
+        "rangedStrength": 50
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

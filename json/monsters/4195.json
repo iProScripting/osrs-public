@@ -1,0 +1,28 @@
+{
+    "name": "Apparition",
+    "id": 4195,
+    "isMembersOnly": false,
+    "examine": "Are they even real?",
+    "releaseDate": "26 April 2005",
+    "versionAnchor": "Het",
+    "combatLevel": 81,
+    "hitpoints": 75,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 83,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Magic",
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

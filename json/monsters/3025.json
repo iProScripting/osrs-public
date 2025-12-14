@@ -1,0 +1,45 @@
+{
+    "name": "Poison Scorpion",
+    "id": 3025,
+    "isMembersOnly": false,
+    "examine": "It has a very vicious looking tail.",
+    "releaseDate": "27 February 2002",
+    "combatLevel": 20,
+    "hitpoints": 23,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 23.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 16,
+    "strengthLevel": 17,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 15,
+        "crush": 15,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
+}

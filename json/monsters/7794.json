@@ -1,0 +1,56 @@
+{
+    "name": "Spitting Wyvern",
+    "id": 7794,
+    "isMembersOnly": false,
+    "examine": "Has issues with odontophobia.",
+    "releaseDate": "7 September 2017",
+    "combatLevel": 139,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 200,
+    "maxHit": [
+        "9 (Melee)",
+        "8 (Ranged)",
+        "50+ (Icy breath)"
+    ],
+    "slayerLevel": 66,
+    "slayerExperience": 205.0,
+    "slayerCategory": [
+        "Fossil Island Wyverns"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 125,
+    "strengthLevel": 80,
+    "defenceLevel": 90,
+    "rangedLevel": 125,
+    "magicLevel": 125,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 70,
+        "crush": 70,
+        "magic": 140,
+        "ranged": 70,
+        "lightRanged": 120,
+        "standardRanged": 70,
+        "heavyRanged": 120
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged",
+        "Icy breath"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 3,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 25
+}

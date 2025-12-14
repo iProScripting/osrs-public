@@ -1,0 +1,17 @@
+{
+    "name": "Warrior of Murahs",
+    "id": 10393,
+    "isMembersOnly": false,
+    "examine": "An ancient warrior.",
+    "releaseDate": "21 June 2018",
+    "versionAnchor": "Spear",
+    "combatLevel": 21,
+    "hitpoints": 22,
+    "usesSkill": [
+    ],
+    "attackLevel": 19,
+    "strengthLevel": 18,
+    "defenceLevel": 14,
+    "attackStyle": [
+    ]
+}

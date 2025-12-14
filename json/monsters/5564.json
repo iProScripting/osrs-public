@@ -1,0 +1,42 @@
+{
+    "name": "Enraged barbarian spirit",
+    "id": 5564,
+    "isMembersOnly": false,
+    "examine": "He looks a tad upset.",
+    "releaseDate": "3 July 2007",
+    "combatLevel": 166,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 190,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 9,
+        "strength": 15
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2,
+        "magic": -3,
+        "ranged": 2,
+        "lightRanged": 2,
+        "standardRanged": 2,
+        "heavyRanged": 2
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 15
+}

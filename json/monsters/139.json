@@ -1,0 +1,39 @@
+{
+    "name": "Steel dragon (Construction)",
+    "id": 139,
+    "isMembersOnly": false,
+    "examine": "Its scales seem to be made of steel.",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 246,
+    "hitpoints": 210,
+    "maxHit": [
+        "22 (Melee)",
+        "50+ (Dragonfire)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 215,
+    "strengthLevel": 215,
+    "defenceLevel": 215,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 70,
+        "crush": 70,
+        "magic": 30,
+        "ranged": 90,
+        "lightRanged": 90,
+        "standardRanged": 90,
+        "heavyRanged": 65
+    },
+    "attackStyle": [
+        "Slash",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 5.0,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

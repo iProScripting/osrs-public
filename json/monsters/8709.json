@@ -1,0 +1,38 @@
+{
+    "name": "Shaeded Beast",
+    "id": 8709,
+    "isMembersOnly": false,
+    "examine": "A terrible creature manipulating the powers of the dark altar.",
+    "releaseDate": "4 July 2019",
+    "combatLevel": 186,
+    "hitpoints": 210,
+    "maxHit": [
+        "30"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 80,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 250,
+    "attackBonuses": {
+        "magicDamage": 10
+    },
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 30,
+        "crush": 100,
+        "magic": 150,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 3
+}

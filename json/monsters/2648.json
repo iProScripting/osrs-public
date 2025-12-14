@@ -1,0 +1,38 @@
+{
+    "name": "Bark Blamish Snail",
+    "id": 2648,
+    "isMembersOnly": false,
+    "examine": "A branch bark coloured blamish snail, these types are said to spit acid.",
+    "releaseDate": "14 October 2004",
+    "combatLevel": 15,
+    "hitpoints": 22,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "defenceLevel": 20,
+    "rangedLevel": 10,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 30,
+        "magic": 5,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
+}

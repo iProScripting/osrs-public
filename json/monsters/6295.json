@@ -1,0 +1,45 @@
+{
+    "name": "Black demon (Nightmare Zone)",
+    "id": 6295,
+    "isMembersOnly": false,
+    "examine": "A big, scary, jet-black demon.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 292,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 255,
+    "maxHit": [
+        "31"
+    ],
+    "slayerExperience": 255.0,
+    "slayerCategory": [
+        "Black Demons"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 290,
+    "strengthLevel": 296,
+    "defenceLevel": 152,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

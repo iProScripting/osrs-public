@@ -1,0 +1,32 @@
+{
+    "name": "Gangster",
+    "id": 6896,
+    "isMembersOnly": false,
+    "examine": "He's plotting something.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Level 45 (1)",
+    "combatLevel": 45,
+    "hitpoints": 40,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 30,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 25,
+        "strength": 20
+    },
+    "defenceBonuses": {
+        "crush": 10
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

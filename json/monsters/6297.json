@@ -1,0 +1,42 @@
+{
+    "name": "Glod (Nightmare Zone)",
+    "id": 6297,
+    "isMembersOnly": false,
+    "examine": "A cloud giant.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Hard Mode",
+    "combatLevel": 276,
+    "hitpoints": 255,
+    "maxHit": [
+        "25"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 230,
+    "strengthLevel": 240,
+    "defenceLevel": 110,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 105,
+        "slash": 110,
+        "crush": 130,
+        "magic": 125,
+        "ranged": 80,
+        "lightRanged": 100,
+        "standardRanged": 80,
+        "heavyRanged": 100
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

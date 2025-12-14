@@ -1,0 +1,36 @@
+{
+    "name": "Abomination",
+    "id": 8262,
+    "isMembersOnly": false,
+    "examine": "Some of its features are worryingly human.",
+    "releaseDate": "24 May 2018",
+    "combatLevel": 149,
+    "hitpoints": 200,
+    "maxHit": [
+        "23"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 110,
+    "rangedLevel": 110,
+    "magicLevel": 110,
+    "defenceBonuses": {
+        "stab": 80,
+        "slash": 80,
+        "crush": 80,
+        "magic": 20,
+        "ranged": 180,
+        "lightRanged": 180,
+        "standardRanged": 180,
+        "heavyRanged": 180
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 2
+}

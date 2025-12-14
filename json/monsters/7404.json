@@ -1,0 +1,43 @@
+{
+    "name": "Choke devil",
+    "id": 7404,
+    "isMembersOnly": false,
+    "examine": "Hold your breath!",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 264,
+    "hitpoints": 300,
+    "maxHit": [
+        "24"
+    ],
+    "slayerLevel": 65,
+    "slayerExperience": 3000.0,
+    "slayerCategory": [
+        "Dust Devils"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 260,
+    "strengthLevel": 230,
+    "defenceLevel": 120,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 25
+}

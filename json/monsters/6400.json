@@ -1,0 +1,28 @@
+{
+    "name": "Nazastarool (Nightmare Zone)",
+    "id": 6400,
+    "isMembersOnly": false,
+    "examine": "A giant ghost of huge strength and devastating power.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Ghost (Normal Mode)",
+    "combatLevel": 93,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "9"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Guard (Deadman Mode)",
+    "id": 6576,
+    "isMembersOnly": false,
+    "examine": "Keeps order in Seers and Catherby bank.",
+    "releaseDate": "29 October 2015",
+    "versionAnchor": "Catherby (ranged)",
+    "combatLevel": 1337,
+    "hitpoints": 800,
+    "maxHit": [
+        "Varies"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 800,
+    "strengthLevel": 400,
+    "defenceLevel": 300,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 9,
+        "crush": 7,
+        "ranged": 8,
+        "lightRanged": 8,
+        "standardRanged": 8,
+        "heavyRanged": 8
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 2,
+    "experienceBonus": 20.0,
+    "size": 1
+}

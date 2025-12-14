@@ -1,0 +1,30 @@
+{
+    "name": "Shadow Keeper",
+    "id": 12248,
+    "isMembersOnly": false,
+    "examine": "Protector of shadows.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 131,
+    "hitpoints": 100,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 110,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

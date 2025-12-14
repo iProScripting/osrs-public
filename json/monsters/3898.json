@@ -1,0 +1,33 @@
+{
+    "name": "Koschei the deathless",
+    "id": 3898,
+    "isMembersOnly": false,
+    "examine": "Your challenge awaits!",
+    "releaseDate": "2 November 2004",
+    "hitpoints": 50,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 40,
+        "crush": 40,
+        "magic": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

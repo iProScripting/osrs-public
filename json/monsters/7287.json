@@ -1,0 +1,34 @@
+{
+    "name": "Reanimated demon spawn",
+    "id": 7287,
+    "isMembersOnly": false,
+    "examine": "Guard your ankles.",
+    "releaseDate": "16 June 2016",
+    "combatLevel": 87,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 85,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 71,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": -10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

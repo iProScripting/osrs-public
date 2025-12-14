@@ -1,0 +1,52 @@
+{
+    "name": "Jal-MejRah",
+    "id": 7692,
+    "isMembersOnly": false,
+    "examine": "A dangerous flying creature.",
+    "releaseDate": "1 June 2017",
+    "combatLevel": 85,
+    "hitpoints": 25,
+    "maxHit": [
+        "19"
+    ],
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "defenceLevel": 55,
+    "rangedLevel": 120,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "ranged": 30,
+        "rangedStrength": 30
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": -20,
+        "ranged": 45,
+        "lightRanged": 45,
+        "standardRanged": 45,
+        "heavyRanged": 45
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 3,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

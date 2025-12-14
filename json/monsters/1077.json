@@ -1,0 +1,32 @@
+{
+    "name": "Tolna",
+    "id": 1077,
+    "isMembersOnly": false,
+    "examine": "Is that really Tolna?",
+    "releaseDate": "3 April 2006",
+    "combatLevel": 46,
+    "poisonous": true,
+    "hitpoints": 37,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 42,
+    "strengthLevel": 41,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "attackStyle": [
+        "Stab",
+        "Ranged"
+    ],
+    "size": 3
+}

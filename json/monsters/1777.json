@@ -1,0 +1,30 @@
+{
+    "name": "Double agent",
+    "id": 1777,
+    "isMembersOnly": false,
+    "examine": "He's playing both sides!",
+    "releaseDate": "5 December 2006",
+    "versionAnchor": "Level 65",
+    "combatLevel": 65,
+    "hitpoints": 80,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 80,
+    "strengthLevel": 43,
+    "defenceLevel": 24,
+    "rangedLevel": 1,
+    "magicLevel": 24,
+    "defenceBonuses": {
+        "stab": 3,
+        "slash": 3,
+        "crush": 3
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

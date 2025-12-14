@@ -1,0 +1,53 @@
+{
+    "name": "Zombie (Wilderness)",
+    "id": 62,
+    "isMembersOnly": false,
+    "examine": "The walking dead.",
+    "releaseDate": "4 January 2001",
+    "versionAnchor": "Level 24, 4",
+    "combatLevel": 24,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 30.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 19,
+    "strengthLevel": 21,
+    "defenceLevel": 16,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 9,
+        "slash": 8,
+        "crush": 12,
+        "magic": 10,
+        "ranged": 11,
+        "lightRanged": 11,
+        "standardRanged": 11,
+        "heavyRanged": 11
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 5,
+    "size": 1
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nail beast",
+    "id": 9613,
+    "isMembersOnly": false,
+    "examine": "A huge nail beast. Its nails appear very sharp.",
+    "releaseDate": "13 March 2007",
+    "versionAnchor": "Level 141",
+    "combatLevel": 141,
+    "hitpoints": 75,
+    "maxHit": [
+        "4 (x3)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 320,
+    "strengthLevel": 26,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 8,
+    "size": 2
+}

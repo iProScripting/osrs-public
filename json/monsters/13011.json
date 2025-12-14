@@ -1,0 +1,45 @@
+{
+    "name": "Blood Moon",
+    "id": 13011,
+    "isMembersOnly": false,
+    "examine": "The terrifying embodiment of a blood moon.",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 329,
+    "hitpoints": 500,
+    "maxHit": [
+        "32 total 4+8+20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 258,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "melee": 100
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "crush": 100,
+        "magic": 500,
+        "ranged": 500,
+        "lightRanged": 500,
+        "standardRanged": 500,
+        "heavyRanged": 500
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Typeless slash"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 17.5,
+    "flatArmour": -2,
+    "size": 5,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 15
+}

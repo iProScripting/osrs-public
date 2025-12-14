@@ -1,0 +1,52 @@
+{
+    "name": "Tumeken's Warden",
+    "id": 11756,
+    "isMembersOnly": false,
+    "examine": "An ancient automaton imbued with the power of Tumeken.",
+    "releaseDate": "24 August 2022",
+    "versionAnchor": "Active",
+    "combatLevel": 489,
+    "hitpoints": 140,
+    "maxHit": [
+        "22"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 300,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "rangedLevel": 190,
+    "magicLevel": 190,
+    "attackBonuses": {
+        "magic": 225,
+        "ranged": 225,
+        "strength": 25,
+        "rangedStrength": 12,
+        "magicDamage": 12
+    },
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 70,
+        "crush": 70,
+        "magic": -30,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 8,
+    "experienceBonus": 7.5,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

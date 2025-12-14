@@ -1,0 +1,44 @@
+{
+    "name": "Poison spider",
+    "id": 5373,
+    "isMembersOnly": false,
+    "examine": "A nasty, poisonous arachnid.",
+    "releaseDate": "17 March 2003",
+    "versionAnchor": "Level 31",
+    "combatLevel": 31,
+    "hitpoints": 25,
+    "maxHit": [
+        "4"
+    ],
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 28,
+    "strengthLevel": 28,
+    "defenceLevel": 28,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 17,
+        "crush": 10,
+        "magic": 14,
+        "ranged": 14,
+        "lightRanged": 14,
+        "standardRanged": 14,
+        "heavyRanged": 14
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

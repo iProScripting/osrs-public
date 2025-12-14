@@ -1,0 +1,52 @@
+{
+    "name": "Zombie (Entrana Dungeon)",
+    "id": 66,
+    "isMembersOnly": false,
+    "examine": "The walking dead.",
+    "releaseDate": "27 February 2002",
+    "versionAnchor": "3",
+    "combatLevel": 25,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 30,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 30.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 19,
+    "strengthLevel": 21,
+    "defenceLevel": 21,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 5,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 8,
+        "crush": 12,
+        "magic": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

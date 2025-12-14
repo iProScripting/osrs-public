@@ -1,0 +1,63 @@
+{
+    "name": "Alchemical Hydra",
+    "id": 8616,
+    "isMembersOnly": false,
+    "examine": "A ferocious Alchemical Hydra!",
+    "releaseDate": "10 January 2019",
+    "versionAnchor": "Serpentine",
+    "combatLevel": 426,
+    "poisonous": true,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 1100,
+    "maxHit": [
+        "17x2 (default)",
+        "26x2 (empowered)"
+    ],
+    "slayerLevel": 95,
+    "slayerExperience": 1320.0,
+    "slayerCategory": [
+        "Hydras"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 260,
+    "magicLevel": 260,
+    "attackBonuses": {
+        "magic": 45,
+        "ranged": 45,
+        "rangedStrength": 20,
+        "magicDamage": 20
+    },
+    "defenceBonuses": {
+        "stab": 75,
+        "slash": 150,
+        "crush": 150,
+        "magic": 150,
+        "ranged": 45,
+        "lightRanged": 45,
+        "standardRanged": 45,
+        "heavyRanged": 45
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 20.0,
+    "size": 6,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

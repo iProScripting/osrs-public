@@ -1,0 +1,44 @@
+{
+    "name": "Kasonde",
+    "id": 12262,
+    "isMembersOnly": false,
+    "examine": "The Strangler has started to change him.",
+    "releaseDate": "26 July 2023",
+    "combatLevel": 231,
+    "hitpoints": 240,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 190,
+    "strengthLevel": 190,
+    "defenceLevel": 90,
+    "rangedLevel": 190,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "ranged": 50,
+        "melee": 40
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 250,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Ranged",
+        "Melee"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

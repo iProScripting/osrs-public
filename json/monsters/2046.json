@@ -1,0 +1,43 @@
+{
+    "name": "Snakeling",
+    "id": 2046,
+    "isMembersOnly": false,
+    "examine": "Spawn of Zulrah.",
+    "releaseDate": "8 January 2015",
+    "versionAnchor": "Magic",
+    "combatLevel": 90,
+    "hitpoints": 1,
+    "maxHit": [
+        "13"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 185,
+    "attackBonuses": {
+        "magic": 80,
+        "magicDamage": -20
+    },
+    "defenceBonuses": {
+        "stab": -40,
+        "slash": -40,
+        "crush": -40,
+        "magic": -40,
+        "ranged": -40,
+        "lightRanged": -40,
+        "standardRanged": -40,
+        "heavyRanged": -40
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

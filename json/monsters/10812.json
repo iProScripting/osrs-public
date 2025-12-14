@@ -1,0 +1,50 @@
+{
+    "name": "Pestilent Bloat",
+    "id": 10812,
+    "isMembersOnly": false,
+    "examine": "An infinite mass of decay and death.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Entry",
+    "combatLevel": 312,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 1280,
+    "maxHit": [
+        "8 (Flies)",
+        "40 (Stomp)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 180,
+    "defenceLevel": 80,
+    "rangedLevel": 72,
+    "magicLevel": 120,
+    "attackBonuses": {
+        "ranged": 72,
+        "melee": 60,
+        "strength": 46,
+        "rangedStrength": 2
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 5,
+        "crush": 10,
+        "magic": 600,
+        "ranged": 800,
+        "lightRanged": 800,
+        "standardRanged": 800,
+        "heavyRanged": 800
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 1,
+    "experienceBonus": 22.5,
+    "size": 5
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Vampyre Juvinate",
+    "id": 4428,
+    "isMembersOnly": false,
+    "examine": "A juvinate vampyre. It looks really hungry!<br/>A juvinate vampyre, held in a powerful spell.",
+    "releaseDate": "22 March 2006",
+    "versionAnchor": "Level 54",
+    "combatLevel": 54,
+    "attributes": [
+        "vampyre2"
+    ],
+    "hitpoints": 85,
+    "maxHit": [
+        "5"
+    ],
+    "slayerExperience": 65.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

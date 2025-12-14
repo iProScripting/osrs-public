@@ -1,0 +1,51 @@
+{
+    "name": "Nechryael",
+    "id": 11,
+    "isMembersOnly": false,
+    "examine": "An evil death demon.",
+    "releaseDate": "23 January 2014",
+    "versionAnchor": "Slayer task",
+    "combatLevel": 115,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 105,
+    "maxHit": [
+        "11"
+    ],
+    "slayerLevel": 80,
+    "slayerExperience": 105.0,
+    "slayerCategory": [
+        "Nechryael"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 97,
+    "strengthLevel": 97,
+    "defenceLevel": 105,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

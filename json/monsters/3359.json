@@ -1,0 +1,26 @@
+{
+    "name": "Zombies Champion",
+    "id": 3359,
+    "isMembersOnly": false,
+    "examine": "Champion of the zombies.",
+    "releaseDate": "12 December 2005",
+    "combatLevel": 51,
+    "hitpoints": 60,
+    "maxHit": [
+        "5"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 42,
+    "defenceLevel": 42,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

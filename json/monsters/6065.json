@@ -1,0 +1,35 @@
+{
+    "name": "Tower Archer",
+    "id": 6065,
+    "isMembersOnly": false,
+    "examine": "Defender of the north tower.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "North",
+    "combatLevel": 19,
+    "hitpoints": 30,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 20,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "rangedStrength": 16
+    },
+    "defenceBonuses": {
+        "magic": 6,
+        "ranged": 12,
+        "lightRanged": 12,
+        "standardRanged": 12,
+        "heavyRanged": 12
+    },
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "size": 1
+}

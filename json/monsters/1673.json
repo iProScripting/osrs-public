@@ -1,0 +1,56 @@
+{
+    "name": "Dharok the Wretched",
+    "id": 1673,
+    "isMembersOnly": false,
+    "examine": "A vengeful spirit corrupted by dark magic.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 115,
+    "attributes": [
+        "spectral"
+    ],
+    "hitpoints": 100,
+    "maxHit": [
+        "29 (normal)",
+        "57 (at 1 Hitpoints)"
+    ],
+    "slayerExperience": 115.0,
+    "slayerCategory": [
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "magic": -58,
+        "ranged": -18,
+        "strength": 105
+    },
+    "defenceBonuses": {
+        "stab": 252,
+        "slash": 250,
+        "crush": 244,
+        "magic": -11,
+        "ranged": 249,
+        "lightRanged": 249,
+        "standardRanged": 249,
+        "heavyRanged": 249
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 7,
+    "experienceBonus": 15.0,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
+}

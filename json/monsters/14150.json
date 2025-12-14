@@ -1,0 +1,26 @@
+{
+    "name": "Fire elemental (Royal Titans)",
+    "id": 14150,
+    "isMembersOnly": false,
+    "examine": "A fire elemental.",
+    "releaseDate": "5 February 2025",
+    "combatLevel": 37,
+    "hitpoints": 40,
+    "maxHit": [
+        "4 (Melee)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 35,
+    "defenceLevel": 20,
+    "rangedLevel": 20,
+    "magicLevel": 20,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

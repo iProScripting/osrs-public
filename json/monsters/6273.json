@@ -1,0 +1,31 @@
+{
+    "name": "Mosquito swarm",
+    "id": 6273,
+    "isMembersOnly": false,
+    "examine": "A swarm of three highly agile mosquitoes.",
+    "releaseDate": "9 August 2005",
+    "versionAnchor": "Level 17",
+    "combatLevel": 17,
+    "hitpoints": 9,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 1,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 2,
+        "slash": 2,
+        "crush": 5,
+        "magic": 2
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 2,
+    "size": 1
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Molanisk",
+    "id": 1,
+    "isMembersOnly": false,
+    "examine": "A strange mole-like being.<br/>'''When on the wall''': That white dot looks like an eye!",
+    "releaseDate": "20 March 2017",
+    "combatLevel": 51,
+    "hitpoints": 52,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 39,
+    "slayerExperience": 52.0,
+    "slayerCategory": [
+        "Molanisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "defenceBonuses": {
+        "stab": 45,
+        "slash": 45,
+        "crush": 35,
+        "magic": 30,
+        "ranged": 55,
+        "lightRanged": 55,
+        "standardRanged": 55,
+        "heavyRanged": 55
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 60
+}

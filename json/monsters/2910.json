@@ -1,0 +1,23 @@
+{
+    "name": "Chinchompa (Hunter)",
+    "id": 2910,
+    "isMembersOnly": false,
+    "examine": "It looks fluffy and cute; it's probably deadly.",
+    "releaseDate": "21 November 2006",
+    "combatLevel": 1,
+    "hitpoints": 1,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4
+}

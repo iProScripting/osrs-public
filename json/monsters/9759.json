@@ -1,0 +1,48 @@
+{
+    "name": "Vyrewatch Sentinel",
+    "id": 9759,
+    "isMembersOnly": false,
+    "examine": "A deadly, bloodsucking vampyre.",
+    "releaseDate": "4 June 2020",
+    "versionAnchor": "6",
+    "combatLevel": 151,
+    "attributes": [
+        "vampyre3"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "17"
+    ],
+    "slayerLevel": 38,
+    "slayerExperience": 150.0,
+    "slayerCategory": [
+        "Vampyres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 160,
+    "defenceLevel": 180,
+    "rangedLevel": 120,
+    "magicLevel": 120,
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

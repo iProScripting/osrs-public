@@ -1,0 +1,29 @@
+{
+    "name": "Tortoise",
+    "id": 6076,
+    "isMembersOnly": false,
+    "examine": "Massive beast of War with extra Gnome.",
+    "releaseDate": "24 April 2006",
+    "versionAnchor": "With riders",
+    "combatLevel": 92,
+    "hitpoints": 120,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 100,
+    "defenceLevel": 80,
+    "rangedLevel": 50,
+    "magicLevel": 50,
+    "attackStyle": [
+        "Crush",
+        "Magic",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Asyn Shade",
+    "id": 1283,
+    "isMembersOnly": false,
+    "examine": "A shadowy sort of entity, kind of creepy looking.",
+    "releaseDate": "18 October 2004",
+    "versionAnchor": "Shadow",
+    "combatLevel": 100,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 90,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 90.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 102,
+    "strengthLevel": 84,
+    "defenceLevel": 70,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Cow calf",
+    "id": 2792,
+    "isMembersOnly": false,
+    "examine": "Prelude to a steak.",
+    "releaseDate": "22 February 2005",
+    "versionAnchor": "1",
+    "combatLevel": 2,
+    "hitpoints": 6,
+    "maxHit": [
+        "1"
+    ],
+    "slayerExperience": 6.0,
+    "slayerCategory": [
+        "Cows"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": -20,
+        "strength": -20
+    },
+    "defenceBonuses": {
+        "stab": -26,
+        "slash": -26,
+        "crush": -26,
+        "magic": -26,
+        "ranged": -26,
+        "lightRanged": -26,
+        "standardRanged": -26,
+        "heavyRanged": -26
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

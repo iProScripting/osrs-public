@@ -1,0 +1,22 @@
+{
+    "name": "Ugthanki",
+    "id": 4652,
+    "isMembersOnly": false,
+    "examine": "A vicious attacking camel.",
+    "releaseDate": "14 April 2003",
+    "combatLevel": 42,
+    "hitpoints": 45,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 35,
+    "defenceLevel": 35,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Bloodthirsty Nechryarch",
+    "id": 12582,
+    "isMembersOnly": false,
+    "examine": "The arch demon of death.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 450,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 480,
+    "maxHit": [
+        "40"
+    ],
+    "slayerLevel": 80,
+    "slayerExperience": 5040.0,
+    "slayerCategory": [
+        "Nechryael"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 465,
+    "strengthLevel": 390,
+    "defenceLevel": 140,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 2
+}

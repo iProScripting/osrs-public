@@ -1,0 +1,58 @@
+{
+    "name": "Obor",
+    "id": 7416,
+    "isMembersOnly": false,
+    "examine": "He looks very dangerous.",
+    "releaseDate": "6 October 2016",
+    "combatLevel": 106,
+    "hitpoints": 120,
+    "maxHit": [
+        "22 (Melee)",
+        "28 (Ranged)"
+    ],
+    "slayerExperience": 129.0,
+    "slayerCategory": [
+        "Hill Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 90,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "rangedLevel": 120,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "ranged": 100,
+        "melee": 100,
+        "strength": 68,
+        "rangedStrength": 65
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 40,
+        "crush": 45,
+        "magic": 20,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Ranged"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

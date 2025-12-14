@@ -1,0 +1,27 @@
+{
+    "name": "Boar",
+    "id": 11066,
+    "isMembersOnly": false,
+    "examine": "That's one nasty looking piggy.",
+    "releaseDate": "16 June 2021",
+    "versionAnchor": "Level 5",
+    "combatLevel": 5,
+    "hitpoints": 8,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 5,
+    "strengthLevel": 4,
+    "defenceLevel": 3,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 20
+}

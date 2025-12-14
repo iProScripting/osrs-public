@@ -1,0 +1,39 @@
+{
+    "name": "Vespine soldier",
+    "id": 7538,
+    "isMembersOnly": false,
+    "examine": "A soldier of Queen Vespula.",
+    "releaseDate": "17 May 2018",
+    "versionAnchor": "Challenge Mode",
+    "attributes": [
+        "xerician",
+        "flying"
+    ],
+    "hitpoints": 150,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 225,
+    "strengthLevel": 225,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "strength": -8,
+        "rangedStrength": -8
+    },
+    "defenceBonuses": {
+        "magic": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

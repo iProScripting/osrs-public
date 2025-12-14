@@ -1,0 +1,40 @@
+{
+    "name": "Malevolent Mage",
+    "id": 7396,
+    "isMembersOnly": false,
+    "examine": "The evil that men do lives on and on.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 162,
+    "hitpoints": 175,
+    "maxHit": [
+        "20"
+    ],
+    "slayerLevel": 45,
+    "slayerExperience": 1750.0,
+    "slayerCategory": [
+        "Infernal Mages"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 135,
+    "rangedLevel": 1,
+    "magicLevel": 175,
+    "defenceBonuses": {
+        "magic": 75
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

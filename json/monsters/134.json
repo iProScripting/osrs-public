@@ -1,0 +1,24 @@
+{
+    "name": "Huge spider",
+    "id": 134,
+    "isMembersOnly": false,
+    "examine": "No spider could grow that big! It's unrealistic!",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 81,
+    "hitpoints": 90,
+    "maxHit": [
+        "8"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 59,
+    "strengthLevel": 70,
+    "defenceLevel": 69,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

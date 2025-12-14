@@ -1,0 +1,40 @@
+{
+    "name": "Assassin (A Kingdom Divided)",
+    "id": 10940,
+    "isMembersOnly": false,
+    "examine": "Has a habit of killing people.",
+    "releaseDate": "16 June 2021",
+    "combatLevel": 132,
+    "hitpoints": 120,
+    "maxHit": [
+        "12"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 112,
+    "strengthLevel": 112,
+    "defenceLevel": 92,
+    "rangedLevel": 112,
+    "magicLevel": 92,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 20,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

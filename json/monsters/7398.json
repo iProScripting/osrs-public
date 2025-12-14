@@ -1,0 +1,44 @@
+{
+    "name": "Insatiable mutated Bloodveld",
+    "id": 7398,
+    "isMembersOnly": false,
+    "examine": "I wouldn't want to get near that tongue.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 278,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 410,
+    "maxHit": [
+        "20"
+    ],
+    "slayerLevel": 50,
+    "slayerExperience": 4100.0,
+    "slayerCategory": [
+        "Bloodveld"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 250,
+    "strengthLevel": 190,
+    "defenceLevel": 130,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

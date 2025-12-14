@@ -1,0 +1,39 @@
+{
+    "name": "Icefiend",
+    "id": 4813,
+    "isMembersOnly": false,
+    "examine": "A small ice demon.",
+    "releaseDate": "15 March 2006",
+    "versionAnchor": "Level 13",
+    "combatLevel": 13,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 15,
+    "maxHit": [
+        "2"
+    ],
+    "slayerExperience": 15.0,
+    "slayerCategory": [
+        "Icefiends"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 12,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 100
+}

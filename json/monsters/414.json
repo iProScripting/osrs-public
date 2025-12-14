@@ -1,0 +1,51 @@
+{
+    "name": "Banshee",
+    "id": 414,
+    "isMembersOnly": false,
+    "examine": "A tortured screaming soul.",
+    "releaseDate": "26 January 2005",
+    "combatLevel": 23,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 22,
+    "maxHit": [
+        "2",
+        "8 (without Earmuffs)"
+    ],
+    "slayerLevel": 15,
+    "slayerExperience": 22.0,
+    "slayerCategory": [
+        "Banshees"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 15,
+    "defenceLevel": 22,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 5,
+        "crush": 5,
+        "ranged": 5,
+        "lightRanged": 5,
+        "standardRanged": 5,
+        "heavyRanged": 5
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 30
+}

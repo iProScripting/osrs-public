@@ -1,0 +1,47 @@
+{
+    "name": "Black Guard",
+    "id": 6046,
+    "isMembersOnly": false,
+    "examine": "A member of the Black Guard, a special division of the dwarven army.",
+    "releaseDate": "31 May 2005",
+    "versionAnchor": "Level 48, 1",
+    "combatLevel": 48,
+    "hitpoints": 40,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 40.0,
+    "slayerCategory": [
+        "Dwarves"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 45,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 30,
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 40,
+        "crush": 40,
+        "ranged": 40,
+        "lightRanged": 40,
+        "standardRanged": 40,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 3,
+    "size": 1
+}

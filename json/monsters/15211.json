@@ -1,0 +1,37 @@
+{
+    "name": "Armoured kraken",
+    "id": 15211,
+    "isMembersOnly": false,
+    "examine": "Seems like you found the krack!",
+    "releaseDate": "19 November 2025",
+    "versionAnchor": "Defeated",
+    "combatLevel": 163,
+    "hitpoints": 175,
+    "maxHit": [
+        "18"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 140,
+    "rangedLevel": 1,
+    "magicLevel": 175,
+    "defenceBonuses": {
+        "magic": -63,
+        "ranged": 50,
+        "lightRanged": 100,
+        "standardRanged": 50,
+        "heavyRanged": 100
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

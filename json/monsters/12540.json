@@ -1,0 +1,40 @@
+{
+    "name": "Bloodthirsty banshee",
+    "id": 12540,
+    "isMembersOnly": false,
+    "examine": "Scream if you want to go faster.",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 70,
+    "attributes": [
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 61,
+    "slayerLevel": 15,
+    "slayerCategory": [
+        "Banshees"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 61,
+    "defenceLevel": 56,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Rock Golem (monster)",
+    "id": 6727,
+    "isMembersOnly": false,
+    "examine": "Rock with attitude.",
+    "releaseDate": "29 March 2004",
+    "versionAnchor": "Level 49",
+    "combatLevel": 49,
+    "attributes": [
+        "golem"
+    ],
+    "hitpoints": 60,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 38,
+    "strengthLevel": 38,
+    "defenceLevel": 38,
+    "rangedLevel": 35,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "flatArmour": 2,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

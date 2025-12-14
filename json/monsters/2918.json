@@ -1,0 +1,46 @@
+{
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "isMembersOnly": false,
+    "examine": "It appears intelligent and savage.",
+    "releaseDate": "3 July 2007",
+    "combatLevel": 227,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 175,
+    "maxHit": [
+        "18 (Melee; Magic)",
+        "50 (Dragonfire)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 268,
+    "strengthLevel": 168,
+    "defenceLevel": 168,
+    "magicLevel": 168,
+    "defenceBonuses": {
+        "slash": 70,
+        "crush": 70,
+        "magic": 60,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab",
+        "Magic",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 2.5,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

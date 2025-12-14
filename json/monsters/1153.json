@@ -1,0 +1,44 @@
+{
+    "name": "Ogre",
+    "id": 1153,
+    "isMembersOnly": false,
+    "examine": "Big, ugly, and smelly.",
+    "releaseDate": "23 October 2002",
+    "versionAnchor": "Level 63",
+    "combatLevel": 63,
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 54,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 8,
+        "strength": 6
+    },
+    "defenceBonuses": {
+        "stab": 19,
+        "slash": 23,
+        "crush": 24
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

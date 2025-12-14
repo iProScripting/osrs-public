@@ -1,0 +1,26 @@
+{
+    "name": "Swamp frog",
+    "id": 8578,
+    "isMembersOnly": false,
+    "examine": "Balances on wet logs during thick fog.",
+    "releaseDate": "10 January 2019",
+    "combatLevel": 24,
+    "hitpoints": 25,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 25,
+    "strengthLevel": 20,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

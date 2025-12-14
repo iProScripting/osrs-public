@@ -1,0 +1,37 @@
+{
+    "name": "Cave slime",
+    "id": 480,
+    "isMembersOnly": false,
+    "examine": "A foul-smelling blob of protoplasm.",
+    "releaseDate": "14 March 2005",
+    "combatLevel": 23,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "slayerLevel": 17,
+    "slayerExperience": 25.0,
+    "slayerCategory": [
+        "Cave Slimes"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 13,
+    "strengthLevel": 13,
+    "defenceLevel": 35,
+    "rangedLevel": 1,
+    "magicLevel": 13,
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
+}

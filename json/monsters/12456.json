@@ -1,0 +1,32 @@
+{
+    "name": "Malevolent Mage (Deadman)",
+    "id": 12456,
+    "isMembersOnly": false,
+    "examine": "The evil that men do lives on and on.",
+    "releaseDate": "23 August 2023",
+    "versionAnchor": "Apocalypse",
+    "combatLevel": 286,
+    "hitpoints": 500,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 150,
+    "rangedLevel": 1,
+    "magicLevel": 255,
+    "defenceBonuses": {
+        "magic": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Loar Shade",
+    "id": 1277,
+    "isMembersOnly": false,
+    "examine": "The shadowy remains of a long departed soul.",
+    "releaseDate": "18 October 2004",
+    "versionAnchor": "Shade",
+    "combatLevel": 40,
+    "attributes": [
+        "shade",
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 38,
+    "maxHit": [
+        "4"
+    ],
+    "slayerExperience": 38.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 45,
+    "strengthLevel": 30,
+    "defenceLevel": 26,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

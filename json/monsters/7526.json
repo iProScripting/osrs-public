@@ -1,0 +1,22 @@
+{
+    "name": "Vanguard",
+    "id": 7526,
+    "isMembersOnly": false,
+    "examine": "Formerly a member of Xeric's elite tactical unit.",
+    "releaseDate": "5 January 2017",
+    "versionAnchor": "Moving",
+    "attributes": [
+        "xerician"
+    ],
+    "usesSkill": [
+    ],
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": 4,
+    "size": 3
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Scarab Mage",
+    "id": 11508,
+    "isMembersOnly": false,
+    "examine": "Part scarab, part human.",
+    "releaseDate": "27 April 2022",
+    "versionAnchor": "Level 119 (Quest)",
+    "combatLevel": 119,
+    "attributes": [
+        "kalphite"
+    ],
+    "hitpoints": 120,
+    "maxHit": [
+        "16"
+    ],
+    "slayerExperience": 51.2,
+    "slayerCategory": [
+        "Scabarites"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 30,
+        "magicDamage": 30
+    },
+    "defenceBonuses": {
+        "slash": 20,
+        "crush": 20,
+        "magic": 30
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 2.5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

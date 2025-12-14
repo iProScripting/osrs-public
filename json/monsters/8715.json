@@ -1,0 +1,40 @@
+{
+    "name": "Spawn of Sarachnis",
+    "id": 8715,
+    "isMembersOnly": false,
+    "examine": "Dedicated to protecting its mother.",
+    "releaseDate": "4 July 2019",
+    "versionAnchor": "Level 68",
+    "combatLevel": 68,
+    "hitpoints": 30,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 30.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 50,
+        "magic": 150
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

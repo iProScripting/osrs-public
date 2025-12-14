@@ -1,0 +1,52 @@
+{
+    "name": "Killerwatt",
+    "id": 469,
+    "isMembersOnly": false,
+    "examine": "An angry electrical shock!",
+    "releaseDate": "20 February 2006",
+    "versionAnchor": "Attacking",
+    "combatLevel": 55,
+    "hitpoints": 51,
+    "maxHit": [
+        "8 (Ranged)",
+        "6 (Melee)",
+        "15 (Ranged; without Insulated boots)"
+    ],
+    "slayerLevel": 37,
+    "slayerExperience": 51.0,
+    "slayerCategory": [
+        "Killerwatts"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 40,
+    "rangedLevel": 67,
+    "magicLevel": 67,
+    "attackBonuses": {
+        "melee": 30
+    },
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "magic": 20,
+        "ranged": -10,
+        "lightRanged": -10,
+        "standardRanged": -10,
+        "heavyRanged": -10
+    },
+    "attackStyle": [
+        "Crush",
+        "Magical ranged"
+    ],
+    "attackSpeed": 2,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 60
+}

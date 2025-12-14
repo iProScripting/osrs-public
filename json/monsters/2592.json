@@ -1,0 +1,45 @@
+{
+    "name": "Mogre",
+    "id": 2592,
+    "isMembersOnly": false,
+    "examine": "An angry Ogre in a funny hat.",
+    "releaseDate": "24 October 2005",
+    "combatLevel": 60,
+    "hitpoints": 48,
+    "maxHit": [
+        "8"
+    ],
+    "slayerLevel": 32,
+    "slayerExperience": 48.0,
+    "slayerCategory": [
+        "Mogres",
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 58,
+    "strengthLevel": 55,
+    "defenceLevel": 48,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 20
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

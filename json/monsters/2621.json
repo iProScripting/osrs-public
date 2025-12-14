@@ -1,0 +1,34 @@
+{
+    "name": "Svetlana",
+    "id": 2621,
+    "isMembersOnly": false,
+    "examine": "Seems a bit of a drama queen.",
+    "releaseDate": "4 June 2007",
+    "combatLevel": 24,
+    "hitpoints": 60,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": -21,
+        "slash": -21,
+        "crush": -21,
+        "magic": -21,
+        "ranged": -21,
+        "lightRanged": -21,
+        "standardRanged": -21,
+        "heavyRanged": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

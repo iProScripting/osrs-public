@@ -1,0 +1,39 @@
+{
+    "name": "Ogre",
+    "id": 136,
+    "isMembersOnly": false,
+    "examine": "A large dim looking humanoid.",
+    "releaseDate": "9 April 2002",
+    "versionAnchor": "Level 53",
+    "combatLevel": 53,
+    "hitpoints": 60,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 60.0,
+    "slayerCategory": [
+        "Ogres"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 43,
+    "strengthLevel": 43,
+    "defenceLevel": 43,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 22,
+        "strength": 20
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Kraka",
+    "id": 928,
+    "isMembersOnly": false,
+    "examine": "A nasty looking troll.",
+    "releaseDate": "9 August 2004",
+    "combatLevel": 91,
+    "hitpoints": 120,
+    "maxHit": [
+        "23"
+    ],
+    "slayerExperience": 126.0,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 50,
+    "strengthLevel": 100,
+    "defenceLevel": 50,
+    "attackBonuses": {
+        "melee": 40,
+        "strength": 70
+    },
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 40,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 5.0,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Clivet",
+    "id": 12095,
+    "isMembersOnly": false,
+    "examine": "A member of the Hazeel cult.",
+    "releaseDate": "15 August 2002",
+    "combatLevel": 13,
+    "hitpoints": 25,
+    "maxHit": [
+        "2"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 4,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 6,
+        "crush": 8
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

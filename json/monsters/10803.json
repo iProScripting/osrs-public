@@ -1,0 +1,37 @@
+{
+    "name": "Nylocas Prinkipas",
+    "id": 10803,
+    "isMembersOnly": false,
+    "examine": "One of Verzik's slightly larger pets.",
+    "releaseDate": "3 June 2021",
+    "versionAnchor": "Melee",
+    "combatLevel": 400,
+    "hitpoints": 400,
+    "maxHit": [
+        "38"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 175,
+    "defenceLevel": 25,
+    "rangedLevel": 175,
+    "magicLevel": 25,
+    "attackBonuses": {
+        "magic": 300,
+        "strength": 30,
+        "rangedStrength": 30,
+        "magicDamage": 300
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 15
+}

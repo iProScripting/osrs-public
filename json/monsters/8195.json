@@ -1,0 +1,40 @@
+{
+    "name": "Bryophyta",
+    "id": 8195,
+    "isMembersOnly": false,
+    "examine": "This is what organic growth looks like!",
+    "releaseDate": "3 May 2018",
+    "combatLevel": 128,
+    "hitpoints": 115,
+    "maxHit": [
+        "16"
+    ],
+    "slayerExperience": 115.0,
+    "slayerCategory": [
+        "Moss Giants"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "attackLevel": 130,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "melee": 33,
+        "strength": 31
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic"
+    ],
+    "attackSpeed": 6,
+    "experienceBonus": 2.5,
+    "size": 3,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
+}

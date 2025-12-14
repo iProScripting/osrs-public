@@ -1,0 +1,49 @@
+{
+    "name": "Pyrelord",
+    "id": 6795,
+    "isMembersOnly": false,
+    "examine": "A large fire demon.",
+    "releaseDate": "6 February 2020",
+    "versionAnchor": "2",
+    "combatLevel": 60,
+    "attributes": [
+        "demon"
+    ],
+    "hitpoints": 80,
+    "maxHit": [
+        "5"
+    ],
+    "slayerLevel": 30,
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Pyrefiends"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 40,
+    "defenceLevel": 30,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 10,
+        "slash": 10,
+        "crush": 10,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "attackStyle": [
+        "Magical melee"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
+}

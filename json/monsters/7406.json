@@ -1,0 +1,48 @@
+{
+    "name": "Nuclear smoke devil",
+    "id": 7406,
+    "isMembersOnly": false,
+    "examine": "I don't think he is good for my lungs.",
+    "releaseDate": "15 September 2016",
+    "combatLevel": 280,
+    "hitpoints": 240,
+    "maxHit": [
+        "29"
+    ],
+    "slayerLevel": 93,
+    "slayerExperience": 2400.0,
+    "slayerCategory": [
+        "Smoke Devils"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 240,
+    "strengthLevel": 230,
+    "defenceLevel": 390,
+    "rangedLevel": 280,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "magic": 850,
+        "ranged": 80,
+        "lightRanged": 80,
+        "standardRanged": 80,
+        "heavyRanged": 80
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Magical ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 20
+}

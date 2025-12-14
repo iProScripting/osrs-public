@@ -1,0 +1,50 @@
+{
+    "name": "Rock (Troll)",
+    "id": 925,
+    "isMembersOnly": false,
+    "examine": "The biggest and baddest troll.",
+    "releaseDate": "9 August 2004",
+    "combatLevel": 111,
+    "hitpoints": 140,
+    "maxHit": [
+        "30"
+    ],
+    "slayerExperience": 150.5,
+    "slayerCategory": [
+        "Trolls"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 70,
+    "strengthLevel": 110,
+    "defenceLevel": 70,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 100
+    },
+    "defenceBonuses": {
+        "stab": 35,
+        "slash": 60,
+        "crush": 35,
+        "magic": 200,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 180
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 20
+}

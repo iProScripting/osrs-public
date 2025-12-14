@@ -1,0 +1,27 @@
+{
+    "name": "Frogeel",
+    "id": 3600,
+    "isMembersOnly": false,
+    "examine": "Is it a frog, or is it an eel?",
+    "releaseDate": "19 February 2007",
+    "combatLevel": 103,
+    "hitpoints": 90,
+    "maxHit": [
+        "10"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 91,
+    "strengthLevel": 89,
+    "defenceLevel": 90,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -2,
+    "size": 2,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

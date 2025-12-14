@@ -1,0 +1,27 @@
+{
+    "name": "Crystalline Scorpion",
+    "id": 9030,
+    "isMembersOnly": false,
+    "examine": "Every miner's nightmare.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 64,
+    "hitpoints": 38,
+    "maxHit": [
+        "11"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 48,
+    "strengthLevel": 106,
+    "defenceLevel": 18,
+    "magicLevel": 18,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2
+}

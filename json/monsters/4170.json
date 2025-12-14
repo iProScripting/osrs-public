@@ -1,0 +1,29 @@
+{
+    "name": "Outlaw",
+    "id": 4170,
+    "isMembersOnly": false,
+    "examine": "A mean looking outlaw. Don't get too close!",
+    "releaseDate": "27 March 2007",
+    "versionAnchor": "4",
+    "combatLevel": 32,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 35,
+    "strengthLevel": 30,
+    "defenceLevel": 25,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "strength": -21
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 1
+}

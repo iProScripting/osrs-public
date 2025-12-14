@@ -1,0 +1,38 @@
+{
+    "name": "Nazastarool",
+    "id": 5353,
+    "isMembersOnly": false,
+    "examine": "A giant zombie of huge strength and devastating power.",
+    "releaseDate": "27 January 2003",
+    "versionAnchor": "Zombie",
+    "combatLevel": 91,
+    "attributes": [
+        "undead"
+    ],
+    "hitpoints": 70,
+    "maxHit": [
+        "9"
+    ],
+    "slayerExperience": 70.0,
+    "slayerCategory": [
+        "Zombies"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
+    "attackLevel": 85,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

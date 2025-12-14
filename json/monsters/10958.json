@@ -1,0 +1,25 @@
+{
+    "name": "Phantom Hand",
+    "id": 10958,
+    "isMembersOnly": false,
+    "examine": "Need a hand?",
+    "releaseDate": "16 June 2021",
+    "versionAnchor": "Right Hand",
+    "combatLevel": 47,
+    "hitpoints": 12,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 100,
+    "strengthLevel": 50,
+    "defenceLevel": 8,
+    "rangedLevel": 1,
+    "magicLevel": 8,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

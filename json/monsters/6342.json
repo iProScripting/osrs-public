@@ -1,0 +1,30 @@
+{
+    "name": "Barrelchest (Nightmare Zone)",
+    "id": 6342,
+    "isMembersOnly": false,
+    "examine": "It's trying to mash you flat! Less examine, more fight!",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 190,
+    "hitpoints": 134,
+    "maxHit": [
+        "35"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 170,
+    "strengthLevel": 145,
+    "defenceLevel": 140,
+    "rangedLevel": 1,
+    "magicLevel": 90,
+    "attackBonuses": {
+        "melee": 80,
+        "strength": 80
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 10.0,
+    "size": 3
+}

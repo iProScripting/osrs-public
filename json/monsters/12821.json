@@ -1,0 +1,48 @@
+{
+    "name": "Sol Heredit",
+    "id": 12821,
+    "isMembersOnly": false,
+    "examine": "Its stompin' time!",
+    "releaseDate": "20 March 2024",
+    "combatLevel": 1563,
+    "hitpoints": 1500,
+    "maxHit": [
+        "45 (Typeless AOE",
+        "Triple Parry)",
+        "45 (Grapple)",
+        ""
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 350,
+    "strengthLevel": 400,
+    "defenceLevel": 200,
+    "rangedLevel": 350,
+    "magicLevel": 300,
+    "attackBonuses": {
+        "ranged": 150,
+        "melee": 250,
+        "strength": 5,
+        "rangedStrength": 5
+    },
+    "defenceBonuses": {
+        "stab": 65,
+        "slash": 5,
+        "crush": 30,
+        "magic": 750,
+        "ranged": 825,
+        "lightRanged": 825,
+        "standardRanged": 825,
+        "heavyRanged": 825
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "experienceBonus": 85.0,
+    "size": 5
+}

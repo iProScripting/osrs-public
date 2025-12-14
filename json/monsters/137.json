@@ -1,0 +1,39 @@
+{
+    "name": "Baby red dragon (Construction)",
+    "id": 137,
+    "isMembersOnly": false,
+    "examine": "Young, but still dangerous.",
+    "releaseDate": "31 May 2006",
+    "combatLevel": 65,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 65,
+    "maxHit": [
+        "6"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 55,
+    "strengthLevel": 55,
+    "defenceLevel": 55,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 50,
+        "crush": 50,
+        "magic": 40,
+        "ranged": 30,
+        "lightRanged": 30,
+        "standardRanged": 30,
+        "heavyRanged": 30
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 2,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}

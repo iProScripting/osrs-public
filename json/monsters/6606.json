@@ -1,0 +1,43 @@
+{
+    "name": "Dark warrior",
+    "id": 6606,
+    "isMembersOnly": false,
+    "examine": "A warrior touched by chaos.",
+    "releaseDate": "13 March 2014",
+    "versionAnchor": "Level 145",
+    "combatLevel": 145,
+    "hitpoints": 165,
+    "maxHit": [
+        "18"
+    ],
+    "slayerExperience": 182.0,
+    "slayerCategory": [
+        "Dark Warriors"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 55,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 80,
+        "strength": 76
+    },
+    "defenceBonuses": {
+        "stab": 106,
+        "slash": 109,
+        "crush": 139
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 10.0,
+    "size": 1
+}

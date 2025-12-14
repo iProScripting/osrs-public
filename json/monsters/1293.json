@@ -1,0 +1,25 @@
+{
+    "name": "Afflicted",
+    "id": 1293,
+    "isMembersOnly": false,
+    "examine": "A local villager of Mort'ton.",
+    "releaseDate": "18 October 2004",
+    "versionAnchor": "Level 37",
+    "combatLevel": 37,
+    "hitpoints": 30,
+    "maxHit": [
+        "4"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Baboon Shaman",
+    "id": 11715,
+    "isMembersOnly": false,
+    "examine": "An undead baboon shaman.",
+    "releaseDate": "24 August 2022",
+    "combatLevel": 74,
+    "hitpoints": 40,
+    "maxHit": [
+        "7"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 20,
+    "rangedLevel": 60,
+    "magicLevel": 60,
+    "attackBonuses": {
+        "magic": 25,
+        "ranged": 25,
+        "melee": 25
+    },
+    "defenceBonuses": {
+        "stab": 900,
+        "slash": 900,
+        "crush": 900,
+        "magic": 900,
+        "ranged": -50,
+        "lightRanged": -50,
+        "standardRanged": -50,
+        "heavyRanged": -50
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 8,
+    "size": 1
+}

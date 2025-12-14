@@ -1,0 +1,55 @@
+{
+    "name": "The Jormungand",
+    "id": 9290,
+    "isMembersOnly": false,
+    "examine": "The serpent king.",
+    "releaseDate": "26 September 2019",
+    "combatLevel": 363,
+    "hitpoints": 600,
+    "maxHit": [
+        "22",
+        "35+ (Gaze attack)"
+    ],
+    "slayerLevel": 40,
+    "slayerExperience": 600.0,
+    "slayerCategory": [
+        "Basilisks"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "attackLevel": 214,
+    "strengthLevel": 214,
+    "defenceLevel": 214,
+    "rangedLevel": 214,
+    "magicLevel": 214,
+    "defenceBonuses": {
+        "stab": 50,
+        "slash": 50,
+        "crush": 10,
+        "magic": 50,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic",
+        "Melee"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 5.0,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
+}

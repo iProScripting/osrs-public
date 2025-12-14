@@ -1,0 +1,37 @@
+{
+    "name": "Highwayman",
+    "id": 519,
+    "isMembersOnly": false,
+    "examine": "He holds up passers by.",
+    "releaseDate": "26 September 2005",
+    "versionAnchor": "Hood",
+    "combatLevel": 5,
+    "hitpoints": 13,
+    "maxHit": [
+        "1"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 4,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 6,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "slash": 3,
+        "crush": 2,
+        "ranged": 2,
+        "lightRanged": 2,
+        "standardRanged": 2,
+        "heavyRanged": 2
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

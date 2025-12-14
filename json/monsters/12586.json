@@ -1,0 +1,55 @@
+{
+    "name": "Bloodthirsty Drake",
+    "id": 12586,
+    "isMembersOnly": false,
+    "examine": "It's really winging the whole dragon thing, isn't it?",
+    "releaseDate": "15 November 2023",
+    "combatLevel": 576,
+    "attributes": [
+        "dragon"
+    ],
+    "hitpoints": 945,
+    "maxHit": [
+        "37"
+    ],
+    "slayerLevel": 84,
+    "slayerCategory": [
+        "Drakes"
+    ],
+    "usesSkill": [
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 405,
+    "strengthLevel": 420,
+    "defenceLevel": 200,
+    "rangedLevel": 360,
+    "magicLevel": 450,
+    "attackBonuses": {
+        "strength": 12,
+        "rangedStrength": 40
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 100,
+        "crush": 100,
+        "magic": 20,
+        "ranged": 150,
+        "lightRanged": 150,
+        "standardRanged": 150,
+        "heavyRanged": 150
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Ranged melee",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 5
+}

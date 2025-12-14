@@ -1,0 +1,40 @@
+{
+    "name": "Black Knight Titan (Nightmare Zone)",
+    "id": 6360,
+    "isMembersOnly": false,
+    "examine": "He looks mean and powerful.",
+    "releaseDate": "5 September 2013",
+    "versionAnchor": "Normal Mode",
+    "combatLevel": 120,
+    "hitpoints": 142,
+    "maxHit": [
+        "15"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 91,
+    "strengthLevel": 100,
+    "defenceLevel": 91,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 27,
+        "strength": 22
+    },
+    "defenceBonuses": {
+        "stab": 18,
+        "slash": 27,
+        "crush": 18,
+        "magic": 1000,
+        "ranged": 1000,
+        "lightRanged": 1000,
+        "standardRanged": 1000,
+        "heavyRanged": 1000
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 7,
+    "experienceBonus": 2.5,
+    "size": 1
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Golem (Zalcano)",
+    "id": 9051,
+    "isMembersOnly": false,
+    "examine": "A golem made of tephra.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 64,
+    "hitpoints": 14,
+    "maxHit": [
+        "0"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "None"
+    ],
+    "attackSpeed": -1,
+    "size": 1
+}

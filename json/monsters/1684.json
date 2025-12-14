@@ -1,0 +1,45 @@
+{
+    "name": "Giant crypt spider",
+    "id": 1684,
+    "isMembersOnly": false,
+    "examine": "Not very incey wincey.",
+    "releaseDate": "9 May 2005",
+    "combatLevel": 79,
+    "hitpoints": 80,
+    "maxHit": [
+        "8"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "Spiders"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 65,
+    "strengthLevel": 67,
+    "defenceLevel": 65,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 10,
+        "magic": 17,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
+    },
+    "attackStyle": [
+        "Stab"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 40
+}

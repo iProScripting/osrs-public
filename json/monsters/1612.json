@@ -1,0 +1,28 @@
+{
+    "name": "Battle mage",
+    "id": 1612,
+    "isMembersOnly": false,
+    "examine": "He kills in the name of Guthix.",
+    "releaseDate": "22 September 2003",
+    "versionAnchor": "Guthix",
+    "combatLevel": 54,
+    "hitpoints": 120,
+    "maxHit": [
+        "20"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "rangedLevel": 1,
+    "magicLevel": 50,
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Magic"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

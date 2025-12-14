@@ -1,0 +1,44 @@
+{
+    "name": "Rabbit (Prifddinas)",
+    "id": 9118,
+    "isMembersOnly": false,
+    "examine": "A cute bunny rabbit.",
+    "releaseDate": "25 July 2019",
+    "combatLevel": 2,
+    "hitpoints": 2000,
+    "maxHit": [
+        "40"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 600,
+    "strengthLevel": 200,
+    "defenceLevel": 450,
+    "rangedLevel": 1,
+    "magicLevel": 300,
+    "attackBonuses": {
+        "melee": 80,
+        "strength": 60
+    },
+    "defenceBonuses": {
+        "stab": 150,
+        "slash": 150,
+        "crush": 150,
+        "magic": 150,
+        "ranged": 200,
+        "lightRanged": 200,
+        "standardRanged": 200,
+        "heavyRanged": 200
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true
+    },
+    "attackStyle": [
+        "Typeless Crush"
+    ],
+    "attackSpeed": 3,
+    "experienceBonus": 112.5,
+    "size": 1
+}

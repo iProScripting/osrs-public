@@ -1,0 +1,40 @@
+{
+    "name": "Pirate",
+    "id": 6995,
+    "isMembersOnly": false,
+    "examine": "A fine example of piracy's equal opportunities program.",
+    "releaseDate": "7 January 2016",
+    "versionAnchor": "Port Piscarilius",
+    "combatLevel": 23,
+    "hitpoints": 20,
+    "maxHit": [
+        "3"
+    ],
+    "slayerExperience": 20.0,
+    "slayerCategory": [
+        "Pirates"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 10,
+        "strength": 9
+    },
+    "defenceBonuses": {
+        "slash": 1
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

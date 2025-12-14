@@ -1,0 +1,44 @@
+{
+    "name": "Fiyr Shade",
+    "id": 1286,
+    "isMembersOnly": false,
+    "examine": "The shadowy remains of a long departed soul.",
+    "releaseDate": "18 October 2004",
+    "versionAnchor": "Shade",
+    "combatLevel": 120,
+    "attributes": [
+        "shade",
+        "undead",
+        "spectral"
+    ],
+    "hitpoints": 110,
+    "maxHit": [
+        "11"
+    ],
+    "slayerExperience": 110.0,
+    "slayerCategory": [
+        "Shades"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "attackLevel": 120,
+    "strengthLevel": 100,
+    "defenceLevel": 85,
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 4,
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
+}

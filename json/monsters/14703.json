@@ -1,0 +1,54 @@
+{
+    "name": "Mature custodian stalker",
+    "id": 14703,
+    "isMembersOnly": false,
+    "examine": "Grown just enough.",
+    "releaseDate": "23 July 2025",
+    "combatLevel": 117,
+    "hitpoints": 190,
+    "maxHit": [
+        "8"
+    ],
+    "slayerLevel": 67,
+    "slayerExperience": 190.0,
+    "slayerCategory": [
+        "Custodian Stalker"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE"
+    ],
+    "attackLevel": 105,
+    "strengthLevel": 75,
+    "defenceLevel": 45,
+    "rangedLevel": 1,
+    "magicLevel": 40,
+    "attackBonuses": {
+        "magic": 15
+    },
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": -10,
+        "crush": 50,
+        "magic": 35,
+        "ranged": 5,
+        "lightRanged": -10,
+        "standardRanged": 5,
+        "heavyRanged": 30
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush",
+        "Magic (Bleed)"
+    ],
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 30
+}

@@ -1,0 +1,36 @@
+{
+    "name": "TzHaar-Hur",
+    "id": 2164,
+    "isMembersOnly": false,
+    "examine": "Looks like a craftsman of some kind.",
+    "releaseDate": "19 September 2005",
+    "combatLevel": 74,
+    "hitpoints": 80,
+    "maxHit": [
+        "7"
+    ],
+    "slayerExperience": 80.0,
+    "slayerCategory": [
+        "TzHaar"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "rangedLevel": 1,
+    "magicLevel": 80,
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
+}

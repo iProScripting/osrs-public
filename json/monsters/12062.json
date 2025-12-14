@@ -1,0 +1,46 @@
+{
+    "name": "Assassin",
+    "id": 12062,
+    "isMembersOnly": false,
+    "examine": "A stealthy assassin.",
+    "releaseDate": "11 January 2023",
+    "combatLevel": 262,
+    "hitpoints": 400,
+    "maxHit": [
+        "39"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 140,
+    "strengthLevel": 140,
+    "defenceLevel": 140,
+    "rangedLevel": 140,
+    "magicLevel": 140,
+    "attackBonuses": {
+        "ranged": 66,
+        "melee": 66,
+        "strength": 12,
+        "rangedStrength": 12
+    },
+    "defenceBonuses": {
+        "stab": 60,
+        "slash": 30,
+        "crush": 80,
+        "magic": 200,
+        "ranged": 50,
+        "lightRanged": 50,
+        "standardRanged": 50,
+        "heavyRanged": 50
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Slash",
+        "Ranged"
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}
