@@ -30,7 +30,7 @@
         "Stab"
     ],
     "attackSpeed": 4,
-    "size": 2,
+    "size": 1,
     "elementalWeakness": "FIRE",
     "elementalWeaknessPercent": 25
 }

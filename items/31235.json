@@ -4,6 +4,6 @@
     "members": false,
     "examine": "A feather from a gryphon.",
     "value": 15,
-    "weight": 0.002,
+    "weight": 0.0,
     "buyLimit": 11000
 }
