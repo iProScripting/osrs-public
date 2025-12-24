@@ -4,5 +4,5 @@
     "members": false,
     "examine": "You'll need something to break through that shell.",
     "value": 100,
-    "weight": 600.0
+    "weight": 0.6
 }

@@ -2,9 +2,9 @@
     "name": "Dwarf",
     "id": 1408,
     "isMembersOnly": false,
-    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> A dwarven worker.<br/><span style=\"user-select:none;\">'''&bull;'''</span> A short angry guy.",
-    "releaseDate": "6 April 2001",
-    "versionAnchor": "Level 7",
+    "examine": "A dwarven worker.",
+    "releaseDate": "20 February 2006",
+    "versionAnchor": "Worker (8)",
     "combatLevel": 7,
     "hitpoints": 10,
     "maxHit": [

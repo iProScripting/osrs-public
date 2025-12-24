@@ -9,7 +9,6 @@
     "equipment": {
         "stabAttack": 2,
         "crushAttack": 21,
-        "magicAttack": 7,
         "slashDefence": 7,
         "crushDefence": 3,
         "magicDefence": 11,

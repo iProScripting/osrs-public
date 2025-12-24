@@ -2,15 +2,15 @@
     "name": "Dwarf",
     "id": 1405,
     "isMembersOnly": false,
-    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> A dwarven worker.<br/><span style=\"user-select:none;\">'''&bull;'''</span> A short angry guy.",
-    "releaseDate": "6 April 2001",
-    "versionAnchor": "Level 10",
+    "examine": "A dwarven worker.",
+    "releaseDate": "20 February 2006",
+    "versionAnchor": "Worker (5)",
     "combatLevel": 10,
-    "hitpoints": 16,
+    "hitpoints": 12,
     "maxHit": [
         "2"
     ],
-    "slayerExperience": 16.0,
+    "slayerExperience": 12.0,
     "slayerCategory": [
         "Dwarves"
     ],
@@ -21,9 +21,6 @@
         "TURTAEL",
         "SPRIA"
     ],
-    "attackLevel": 8,
-    "strengthLevel": 8,
-    "defenceLevel": 6,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {
@@ -36,6 +33,5 @@
     "attackStyle": [
         "Crush"
     ],
-    "attackSpeed": 5,
     "size": 1
 }

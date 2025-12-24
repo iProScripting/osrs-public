@@ -4,6 +4,6 @@
     "members": false,
     "examine": "A flax plant seed - plant in a hops patch.",
     "value": 5,
-    "weight": 0.001,
+    "weight": 0.0,
     "buyLimit": 2000
 }

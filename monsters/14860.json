@@ -12,16 +12,18 @@
     "slayerLevel": 51,
     "slayerExperience": 400.0,
     "slayerCategory": [
-        "Gryphons"
+        "Gryphons",
+        "Bosses"
     ],
     "usesSkill": [
         "Slayer"
     ],
     "assignedBy": [
-        "NIEVE",
-        "DURADEL",
+        "VANNAKA",
         "CHAELDAR",
-        "VANNAKA"
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
     ],
     "attackLevel": 160,
     "strengthLevel": 210,

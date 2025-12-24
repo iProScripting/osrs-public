@@ -5,7 +5,7 @@
     "examine": "Occasionally prevents slayer kill count being decremented.",
     "value": 2500,
     "weight": 0.25,
-    "buyLimit": 10000,
+    "buyLimit": 15000,
     "equipment": {
         "slot": "HANDS"
     }

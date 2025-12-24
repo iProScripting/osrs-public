@@ -2,9 +2,9 @@
     "name": "Dwarf",
     "id": 290,
     "isMembersOnly": false,
-    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> A dwarven worker.<br/><span style=\"user-select:none;\">'''&bull;'''</span> A short angry guy.",
+    "examine": "A short angry guy.",
     "releaseDate": "6 April 2001",
-    "versionAnchor": "Level 10",
+    "versionAnchor": "Standard",
     "combatLevel": 10,
     "hitpoints": 16,
     "maxHit": [
@@ -23,7 +23,7 @@
     ],
     "attackLevel": 8,
     "strengthLevel": 8,
-    "defenceLevel": 6,
+    "defenceLevel": 8,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {

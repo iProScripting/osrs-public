@@ -2,28 +2,22 @@
     "name": "Dwarf",
     "id": 294,
     "isMembersOnly": false,
-    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> A dwarven worker.<br/><span style=\"user-select:none;\">'''&bull;'''</span> A short angry guy.",
-    "releaseDate": "6 April 2001",
-    "versionAnchor": "Level 11",
+    "examine": "Loves mining.",
+    "releaseDate": "28 May 2002",
+    "versionAnchor": "Mining Guild (1)",
     "combatLevel": 11,
-    "hitpoints": 18,
     "maxHit": [
         "2"
     ],
-    "slayerExperience": 16.0,
     "slayerCategory": [
         "Dwarves"
     ],
     "usesSkill": [
-        "Slayer"
     ],
     "assignedBy": [
         "TURTAEL",
         "SPRIA"
     ],
-    "attackLevel": 8,
-    "strengthLevel": 8,
-    "defenceLevel": 8,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {
@@ -31,15 +25,10 @@
         "strength": 7
     },
     "defenceBonuses": {
-        "magic": 5,
-        "ranged": 10,
-        "lightRanged": 10,
-        "standardRanged": 10,
-        "heavyRanged": 10
+        "magic": 5
     },
     "attackStyle": [
         "Crush"
     ],
-    "attackSpeed": 5,
     "size": 1
 }

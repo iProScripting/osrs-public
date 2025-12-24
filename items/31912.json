@@ -4,6 +4,6 @@
     "members": false,
     "examine": "Ammo suited for a boat's cannon.",
     "value": 180,
-    "weight": 3.628,
+    "weight": 0.0,
     "buyLimit": 11000
 }

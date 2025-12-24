@@ -2,7 +2,7 @@
     "name": "Haemostatic dressing",
     "id": 31596,
     "members": false,
-    "examine": "3 applications of haemostatic dressing.<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "examine": "3<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> applications of haemostatic dressing.",
     "value": 250,
     "weight": 0.02
 }

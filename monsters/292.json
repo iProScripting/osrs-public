@@ -2,9 +2,9 @@
     "name": "Dwarf",
     "id": 292,
     "isMembersOnly": false,
-    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> A dwarven worker.<br/><span style=\"user-select:none;\">'''&bull;'''</span> A short angry guy.",
+    "examine": "A mountain dwelling short angry guy.",
     "releaseDate": "28 May 2002",
-    "versionAnchor": "Level 20",
+    "versionAnchor": "Standard (Level 20)",
     "combatLevel": 20,
     "hitpoints": 26,
     "maxHit": [

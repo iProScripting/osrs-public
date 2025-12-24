@@ -4,6 +4,6 @@
     "members": false,
     "examine": "A paste made by crushing a crab.",
     "value": 300,
-    "weight": 0.3,
+    "weight": 0.0,
     "buyLimit": 13000
 }
