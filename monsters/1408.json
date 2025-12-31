@@ -38,7 +38,7 @@
         "heavyRanged": 10
     },
     "attackStyle": [
-        "Crush"
+        "Stab"
     ],
     "attackSpeed": 4,
     "size": 1

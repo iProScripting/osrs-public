@@ -23,7 +23,7 @@
     ],
     "attackLevel": 8,
     "strengthLevel": 8,
-    "defenceLevel": 8,
+    "defenceLevel": 6,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {
@@ -34,7 +34,7 @@
         "magic": 5
     },
     "attackStyle": [
-        "Crush"
+        "Stab"
     ],
     "attackSpeed": 5,
     "size": 1

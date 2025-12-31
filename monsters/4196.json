@@ -24,8 +24,7 @@
         "magic": 50
     },
     "attackStyle": [
-        "Magic",
-        "Slash"
+        "Magic"
     ],
     "attackSpeed": 4,
     "size": 1,

@@ -21,6 +21,9 @@
         "TURTAEL",
         "SPRIA"
     ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 8,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {
@@ -28,10 +31,15 @@
         "strength": 7
     },
     "defenceBonuses": {
-        "magic": 5
+        "magic": 5,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
     },
     "attackStyle": [
-        "Crush"
+        "Stab"
     ],
+    "attackSpeed": 6,
     "size": 1
 }

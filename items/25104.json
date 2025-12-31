@@ -3,5 +3,6 @@
     "id": 25104,
     "members": false,
     "examine": "A strong enough memory can take you back to a familiar place.",
-    "value": 10
+    "value": 10,
+    "weight": 0.0
 }

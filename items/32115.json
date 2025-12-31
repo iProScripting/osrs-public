@@ -4,5 +4,6 @@
     "members": false,
     "examine": "An old part of a dragon cannon.",
     "value": 50000,
-    "weight": 12.0
+    "weight": 12.0,
+    "buyLimit": 100
 }

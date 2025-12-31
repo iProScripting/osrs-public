@@ -6,18 +6,24 @@
     "releaseDate": "28 May 2002",
     "versionAnchor": "Mining Guild (3)",
     "combatLevel": 10,
+    "hitpoints": 12,
     "maxHit": [
         "2"
     ],
+    "slayerExperience": 12.0,
     "slayerCategory": [
         "Dwarves"
     ],
     "usesSkill": [
+        "Slayer"
     ],
     "assignedBy": [
         "TURTAEL",
         "SPRIA"
     ],
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 10,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {
@@ -28,7 +34,8 @@
         "magic": 5
     },
     "attackStyle": [
-        "Crush"
+        "Stab"
     ],
+    "attackSpeed": 5,
     "size": 1
 }

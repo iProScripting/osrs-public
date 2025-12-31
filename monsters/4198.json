@@ -28,8 +28,7 @@
         "heavyRanged": 70
     },
     "attackStyle": [
-        "Magic",
-        "Slash"
+        "Magic"
     ],
     "attackSpeed": 4,
     "size": 1,

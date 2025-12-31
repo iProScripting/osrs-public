@@ -2,7 +2,7 @@
     "name": "Green marionette (torso)",
     "id": 6879,
     "members": false,
-    "examine": "The torso of a marionette.",
+    "examine": "Needs a head.",
     "value": 1,
     "weight": 0.2
 }

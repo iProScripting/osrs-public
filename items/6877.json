@@ -2,7 +2,7 @@
     "name": "Blue marionette (arms)",
     "id": 6877,
     "members": false,
-    "examine": "The torso, head and arms of a marionette.",
+    "examine": "Needs legs.",
     "value": 1,
     "weight": 0.6
 }

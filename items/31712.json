@@ -2,7 +2,7 @@
     "name": "Anti-odour salt",
     "id": 31712,
     "members": false,
-    "examine": "A special salt used by experienced hunters to remove their scent from traps.",
+    "examine": "A special salt used by experienced hunters to remove their sent<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> from traps.",
     "value": 11,
     "weight": 0.0
 }

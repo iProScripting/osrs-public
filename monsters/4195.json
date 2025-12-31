@@ -18,7 +18,6 @@
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackStyle": [
-        "Magic",
         "Slash"
     ],
     "attackSpeed": 4,

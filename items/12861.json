@@ -2,7 +2,7 @@
     "name": "Thanksgiving dinner",
     "id": 12861,
     "members": false,
-    "examine": "With all the trimmings!",
+    "examine": "''During event:'' With all the trimmings! <br>''After event:'' It's out of date.",
     "value": 1,
     "weight": 0.226
 }

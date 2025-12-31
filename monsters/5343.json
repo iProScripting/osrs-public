@@ -33,6 +33,6 @@
     ],
     "attackSpeed": 4,
     "size": 1,
-    "elementalWeakness": "FIRE",
+    "elementalWeakness": "EARTH",
     "elementalWeaknessPercent": 50
 }

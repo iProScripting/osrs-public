@@ -2,7 +2,7 @@
     "name": "Birthday cake (Mobile Anniversary)",
     "id": 24331,
     "members": false,
-    "examine": "Yummy! Happy Birthday to OSRS Mobile!",
+    "examine": "''During event:'' Yummy! Happy Birthday to OSRS Mobile!<br>''After event:'' It's gone off - you'd better throw it away.",
     "value": 1,
     "weight": 0.1
 }

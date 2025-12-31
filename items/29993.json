@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A special alchemical ingredient used for creating potions.",
     "value": 100,
-    "weight": 0.007
+    "weight": 0.007,
+    "buyLimit": 13000
 }
