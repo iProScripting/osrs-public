@@ -1,0 +1,8 @@
+{
+    "name": "Fish crate (halibut)",
+    "id": 32379,
+    "members": false,
+    "examine": "A sturdy container packed with ice and full to the brim with halibut.",
+    "value": 5,
+    "weight": 1.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Fish crate (giant krill)",
+    "id": 32370,
+    "members": false,
+    "examine": "A sturdy container packed with ice and full to the brim with Giant Krill.",
+    "value": 5,
+    "weight": 1.0
+}

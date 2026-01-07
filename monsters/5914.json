@@ -2,7 +2,7 @@
     "name": "Respiratory system",
     "id": 5914,
     "isMembersOnly": false,
-    "examine": "'\"`UNIQ--nowiki-000000F8-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000027-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "releaseDate": "1 October 2015",
     "attributes": [
         "demon"

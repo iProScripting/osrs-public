@@ -48,5 +48,7 @@
         "Slash"
     ],
     "attackSpeed": 4,
-    "size": 1
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
 }

@@ -15,11 +15,13 @@
         "96 (with explosion)"
     ],
     "slayerLevel": 85,
+    "slayerExperience": 478.0,
     "slayerCategory": [
         "Bosses",
         "Abyssal Demons"
     ],
     "usesSkill": [
+        "Slayer"
     ],
     "assignedBy": [
         "VANNAKA",

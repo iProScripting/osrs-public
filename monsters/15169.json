@@ -9,10 +9,12 @@
     "maxHit": [
         "9"
     ],
+    "slayerExperience": 110.0,
     "slayerCategory": [
         "Trolls"
     ],
     "usesSkill": [
+        "Slayer"
     ],
     "assignedBy": [
         "VANNAKA",

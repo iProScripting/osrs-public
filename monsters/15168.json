@@ -9,10 +9,12 @@
     "maxHit": [
         "? (Magic)\n23 (Melee)"
     ],
+    "slayerExperience": 147.0,
     "slayerCategory": [
         "Trolls"
     ],
     "usesSkill": [
+        "Slayer"
     ],
     "assignedBy": [
         "VANNAKA",

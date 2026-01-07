@@ -1,0 +1,54 @@
+{
+    "name": "King Black Dragon",
+    "id": 2642,
+    "isMembersOnly": false,
+    "examine": "One of the biggest, meanest dragons around.",
+    "releaseDate": "24 September 2002",
+    "combatLevel": 276,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "hitpoints": 240,
+    "maxHit": [
+        "25 (Melee)",
+        "65 (Dragonfire)"
+    ],
+    "slayerExperience": 258.0,
+    "slayerCategory": [
+        "Black Dragons",
+        "Bosses"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "KONAR_QUO_MATEN",
+        "NIEVE",
+        "DURADEL"
+    ],
+    "attackLevel": 240,
+    "strengthLevel": 240,
+    "defenceLevel": 240,
+    "rangedLevel": 1,
+    "magicLevel": 240,
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 90,
+        "crush": 90,
+        "magic": 80,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 40
+    },
+    "attackStyle": [
+        "Stab",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": 7.5,
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
+}
