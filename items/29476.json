@@ -1,0 +1,8 @@
+{
+    "name": "Prospector legs",
+    "id": 29476,
+    "members": false,
+    "examine": "Helps you when you're mining.",
+    "value": 50,
+    "weight": 0.907
+}

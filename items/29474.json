@@ -1,0 +1,8 @@
+{
+    "name": "Prospector jacket",
+    "id": 29474,
+    "members": false,
+    "examine": "Helps you when you're mining.",
+    "value": 60,
+    "weight": 1.36
+}

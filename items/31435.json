@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A plank of robust ironwood.",
     "value": 1500,
-    "weight": 0.8
+    "weight": 0.8,
+    "buyLimit": 13000
 }

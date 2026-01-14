@@ -4,5 +4,6 @@
     "members": false,
     "examine": "High fin!",
     "value": 500,
-    "weight": 0.028
+    "weight": 0.028,
+    "buyLimit": 11000
 }

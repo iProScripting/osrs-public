@@ -1,0 +1,8 @@
+{
+    "name": "Prospector boots",
+    "id": 29478,
+    "members": false,
+    "examine": "Helps you when you're mining.",
+    "value": 30,
+    "weight": 0.907
+}
