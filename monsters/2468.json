@@ -26,9 +26,6 @@
     "defenceLevel": 35,
     "rangedLevel": 1,
     "magicLevel": 1,
-    "immunities": {
-        "burn": true
-    },
     "attackStyle": [
         "Crush"
     ],

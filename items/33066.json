@@ -1,0 +1,18 @@
+{
+    "name": "Hooded slayer helmet",
+    "id": 33066,
+    "members": false,
+    "examine": "Absolutely slaying.",
+    "value": 40000,
+    "weight": 2.267,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 30,
+        "slashDefence": 32,
+        "crushDefence": 27,
+        "magicDefence": -1,
+        "rangedDefence": 30,
+        "slot": "HEAD"
+    }
+}

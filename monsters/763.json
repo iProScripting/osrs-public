@@ -34,6 +34,7 @@
         "Ranged"
     ],
     "attackSpeed": 6,
+    "experienceBonus": -90.0,
     "size": 5,
     "elementalWeakness": "AIR",
     "elementalWeaknessPercent": 35

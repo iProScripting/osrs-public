@@ -33,8 +33,7 @@
     "immunities": {
         "poison": true,
         "venom": true,
-        "thrall": true,
-        "burn": true
+        "thrall": true
     },
     "attackStyle": [
         "Crush"

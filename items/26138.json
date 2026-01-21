@@ -4,6 +4,5 @@
     "members": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "value": 30000,
-    "weight": 0.1,
-    "buyLimit": 4
+    "weight": 0.1
 }

@@ -1,0 +1,8 @@
+{
+    "name": "Myreque quest lamp",
+    "id": 33005,
+    "members": false,
+    "examine": "Completes the Myreque storyline, up to and including Night at the Theatre.",
+    "value": 1,
+    "weight": 0.1
+}

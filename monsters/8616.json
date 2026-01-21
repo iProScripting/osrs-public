@@ -18,7 +18,8 @@
     "slayerLevel": 95,
     "slayerExperience": 1320.0,
     "slayerCategory": [
-        "Hydras"
+        "Hydras",
+        "Bosses"
     ],
     "usesSkill": [
         "Slayer"

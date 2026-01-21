@@ -1,0 +1,8 @@
+{
+    "name": "Camelot quest lamp",
+    "id": 33008,
+    "members": false,
+    "examine": "Completes the Camelot storyline, up to and including King's Ransom including the training.",
+    "value": 1,
+    "weight": 0.1
+}
