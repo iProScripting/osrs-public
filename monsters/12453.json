@@ -4,20 +4,20 @@
     "isMembersOnly": false,
     "examine": "A large demonic being of fire.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
-    "combatLevel": 363,
+    "versionAnchor": "Annihilation",
+    "combatLevel": 401,
     "attributes": [
         "demon"
     ],
-    "hitpoints": 750,
+    "hitpoints": 1000,
     "maxHit": [
-        "1"
+        "21"
     ],
     "usesSkill": [
     ],
     "attackLevel": 150,
     "strengthLevel": 200,
-    "defenceLevel": 250,
+    "defenceLevel": 150,
     "rangedLevel": 1,
     "magicLevel": 1,
     "defenceBonuses": {
@@ -35,8 +35,9 @@
         "venom": true
     },
     "attackStyle": [
-        "Magic"
     ],
     "attackSpeed": 4,
-    "size": 3
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 100
 }

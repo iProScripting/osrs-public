@@ -6,17 +6,17 @@
     "value": 250000,
     "weight": 2.721,
     "equipment": {
-        "stabAttack": 3,
-        "slashAttack": 3,
-        "crushAttack": 4,
+        "stabAttack": 15,
+        "slashAttack": 15,
+        "crushAttack": 15,
         "magicAttack": -6,
         "rangedAttack": -2,
-        "stabDefence": 65,
-        "slashDefence": 70,
-        "crushDefence": 63,
+        "stabDefence": 20,
+        "slashDefence": 25,
+        "crushDefence": 23,
         "magicDefence": -1,
-        "rangedDefence": 71,
-        "strength": 3,
+        "rangedDefence": 28,
+        "strength": 5,
         "slot": "HEAD"
     }
 }

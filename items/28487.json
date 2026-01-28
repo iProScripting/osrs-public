@@ -2,7 +2,7 @@
     "name": "Sigil of the hunter",
     "id": 28487,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "You gain three chinchompas per successful chinchompa capture. Box traps catch chinchompas faster. Hunter catching will rarely fail.",
+    "value": 1,
     "weight": 0.4
 }

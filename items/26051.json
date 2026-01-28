@@ -2,7 +2,7 @@
     "name": "Sigil of the treasure hunter",
     "id": 26051,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "Clue scrolls drop 3x more often. You have a 75% chance for a clue scroll to return the reward casket after you complete a clue step for any tier. You can hold an unlimited amount of Scroll boxes.",
+    "value": 1,
     "weight": 0.1
 }

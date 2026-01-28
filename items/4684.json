@@ -4,5 +4,6 @@
     "members": false,
     "examine": "One sheet of mummy wrap.",
     "value": 30,
-    "weight": 0.907
+    "weight": 0.907,
+    "buyLimit": 15
 }

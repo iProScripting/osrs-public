@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "An ugly green creature.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
-    "combatLevel": 347,
-    "hitpoints": 750,
+    "versionAnchor": "Annihilation",
+    "combatLevel": 397,
+    "hitpoints": 1000,
     "maxHit": [
         "27"
     ],
@@ -21,7 +21,7 @@
     ],
     "attackLevel": 150,
     "strengthLevel": 150,
-    "defenceLevel": 250,
+    "defenceLevel": 200,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {
@@ -41,6 +41,6 @@
     "attackStyle": [
         "Crush"
     ],
-    "attackSpeed": 4,
+    "attackSpeed": 5,
     "size": 2
 }

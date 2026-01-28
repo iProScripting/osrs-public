@@ -2,7 +2,7 @@
     "name": "Sigil of the meticulous mage",
     "id": 26003,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "Your magic accuracy is increased by +40 and you have a 50% chance to save runes or staff charges when casting spells.",
+    "value": 1,
     "weight": 0.1
 }

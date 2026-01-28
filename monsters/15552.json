@@ -1,0 +1,14 @@
+{
+    "name": "Elidinis' Warden (Deadman)",
+    "id": 15552,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Annihilation",
+    "combatLevel": 720,
+    "hitpoints": 2000,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 5
+}

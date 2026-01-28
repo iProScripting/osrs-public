@@ -1,0 +1,13 @@
+{
+    "name": "Zemouregal Summon",
+    "id": 15559,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Shade",
+    "combatLevel": 190,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

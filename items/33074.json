@@ -1,0 +1,8 @@
+{
+    "name": "Facility bottle",
+    "id": 33074,
+    "members": false,
+    "examine": "With proper application of directed exhalations, this complicated technology doubles as a folk instrument.",
+    "value": 500,
+    "weight": 0.02
+}

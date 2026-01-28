@@ -11,8 +11,7 @@
     ],
     "hitpoints": 450,
     "maxHit": [
-        "15",
-        "33 (special attack)"
+        "15 (melee) 33 (special attack)"
     ],
     "slayerLevel": 75,
     "slayerExperience": 1350.0,
@@ -40,7 +39,7 @@
         "venom": true
     },
     "attackStyle": [
-        "Slash '\"`UNIQ--ref-000000B3-QINU`\"'"
+        "Slash '\"`UNIQ--ref-00000004-QINU`\"'"
     ],
     "attackSpeed": 6,
     "flatArmour": -1,

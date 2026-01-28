@@ -1,0 +1,18 @@
+{
+    "name": "The dogsword (Deadman Mode)",
+    "id": 33038,
+    "members": false,
+    "examine": "A dog couldn't wield a sword this powerful.",
+    "value": 1000000,
+    "weight": 10.0,
+    "equipment": {
+        "slashAttack": 132,
+        "crushAttack": 80,
+        "strength": 132,
+        "prayerBonus": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

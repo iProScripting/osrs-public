@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "Firstborn of the legendary dagannoth kings.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
-    "combatLevel": 417,
-    "hitpoints": 750,
+    "versionAnchor": "Annihilation",
+    "combatLevel": 604,
+    "hitpoints": 1500,
     "maxHit": [
         "26"
     ],
@@ -43,7 +43,7 @@
     "attackStyle": [
         "Slash"
     ],
-    "attackSpeed": 4,
+    "attackSpeed": 5,
     "size": 3,
     "elementalWeakness": "EARTH",
     "elementalWeaknessPercent": 35

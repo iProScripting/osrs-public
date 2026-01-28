@@ -1,0 +1,13 @@
+{
+    "name": "Zemouregal Summon",
+    "id": 15560,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Undead One",
+    "combatLevel": 163,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

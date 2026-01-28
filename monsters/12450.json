@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "An ancient Guthixian Ent.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
-    "combatLevel": 235,
-    "hitpoints": 320,
+    "versionAnchor": "Annihilation",
+    "combatLevel": 342,
+    "hitpoints": 750,
     "maxHit": [
         "16"
     ],

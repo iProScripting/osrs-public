@@ -2,7 +2,7 @@
     "name": "Sigil of consistency",
     "id": 25994,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "Every attack does +1 damage to the target.",
+    "value": 1,
     "weight": 0.1
 }

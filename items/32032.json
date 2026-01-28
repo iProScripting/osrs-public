@@ -2,8 +2,8 @@
     "name": "Large adamant keel parts",
     "id": 32032,
     "members": false,
-    "examine": "Parts for creating an adamant keel for a large boat.",
-    "value": 50000,
+    "examine": "Parts for creating an adamant keel for larger boats.",
+    "value": 15625,
     "weight": 4.0,
     "buyLimit": 100
 }

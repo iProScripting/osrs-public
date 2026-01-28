@@ -1,0 +1,14 @@
+{
+    "name": "Scurrius (Deadman)",
+    "id": 15548,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Annihilation",
+    "combatLevel": 970,
+    "hitpoints": 3000,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 3
+}

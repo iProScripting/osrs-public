@@ -2,7 +2,7 @@
     "name": "Sigil of resistance",
     "id": 28490,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "All attacks from monsters do 25% less damage. The damage reduction effect does not stack with the Sigil of Titanium.",
+    "value": 1,
     "weight": 0.4
 }

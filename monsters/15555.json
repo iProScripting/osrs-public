@@ -1,0 +1,14 @@
+{
+    "name": "Yama (Deadman)",
+    "id": 15555,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Annihilation",
+    "combatLevel": 1024,
+    "hitpoints": 3000,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 5
+}

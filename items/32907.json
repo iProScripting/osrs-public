@@ -4,5 +4,6 @@
     "members": false,
     "examine": "Logs cut from an ironwood tree.",
     "value": 360,
-    "weight": 2.0
+    "weight": 2.0,
+    "buyLimit": 12000
 }

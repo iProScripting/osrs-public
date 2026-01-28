@@ -7,12 +7,13 @@
     "weight": 6.803,
     "equipment": {
         "magicAttack": -15,
-        "rangedAttack": 36,
-        "stabDefence": 61,
-        "slashDefence": 53,
-        "crushDefence": 66,
-        "magicDefence": 75,
-        "rangedDefence": 62,
+        "rangedAttack": 40,
+        "stabDefence": 11,
+        "slashDefence": 13,
+        "crushDefence": 16,
+        "magicDefence": 50,
+        "rangedDefence": 20,
+        "rangedStrength": 2,
         "slot": "BODY"
     }
 }

@@ -2,7 +2,7 @@
     "name": "Sigil of enhanced harvest",
     "id": 26018,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "You always gain triple resources from Mining, Fishing, Woodcutting or Farming.",
+    "value": 1,
     "weight": 0.1
 }

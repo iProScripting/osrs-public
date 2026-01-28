@@ -2,7 +2,7 @@
     "name": "Sigil of the lightbearer",
     "id": 28508,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "Special attack regeneration will become 15 seconds per 10%. If a lightbearer ring is also equipped, special attack regeneration will become 10 seconds per 10%.",
+    "value": 1,
     "weight": 0.4
 }

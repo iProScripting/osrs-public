@@ -1,0 +1,13 @@
+{
+    "name": "Zemouregal Summon",
+    "id": 15563,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Khazard",
+    "combatLevel": 228,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

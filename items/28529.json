@@ -2,7 +2,7 @@
     "name": "Sigil of woodcraft",
     "id": 28529,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "Instead of receiving logs when chopping specific trees, you will receive the appropriate planks. Requires 50 coins per regular plank, 125 coins per oak plank, 250 coins per teak plank, and 700 coins per mahogany plank. Does not work in guarded areas or with the infernal axe.",
+    "value": 1,
     "weight": 0.4
 }

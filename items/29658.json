@@ -2,7 +2,7 @@
     "name": "Sigil of deception",
     "id": 29658,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Automatically re-pickpocket an NPC until you can no longer do so. Drastically improves pickpocketing success rates at early levels. Note: Guards will not let you pickpocket in safezones!",
     "value": 10000,
     "weight": 0.1
 }

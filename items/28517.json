@@ -2,7 +2,7 @@
     "name": "Sigil of the augmented thrall",
     "id": 28517,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "The max hits of thralls is increased by 5x. Thralls last for twice their duration.",
+    "value": 1,
     "weight": 0.4
 }

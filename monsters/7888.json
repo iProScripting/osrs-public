@@ -11,8 +11,7 @@
     ],
     "hitpoints": 450,
     "maxHit": [
-        "26",
-        "65 (special attack)"
+        "26 (melee)<br/> 15x2 (ranged)<br/> 65 (special attack)"
     ],
     "slayerLevel": 75,
     "slayerExperience": 1350.0,

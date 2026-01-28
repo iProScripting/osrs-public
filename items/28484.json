@@ -2,7 +2,7 @@
     "name": "Sigil of the alchemaniac",
     "id": 28484,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "When casting high or low alchemy on a stack of items, the spell will automatically recast over time, until the stack is depleted or moved.",
+    "value": 1,
     "weight": 0.4
 }

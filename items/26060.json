@@ -2,7 +2,7 @@
     "name": "Sigil of specialised strikes",
     "id": 26060,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 20000,
+    "examine": "Activate the sigil to reduce the cost of your next special attack by 10 (the attack must cost more than 10 energy). This effect lasts for 12 seconds and has a 10 second cooldown.",
+    "value": 1,
     "weight": 0.1
 }

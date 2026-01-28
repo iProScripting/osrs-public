@@ -1,0 +1,14 @@
+{
+    "name": "Tumeken's Warden (Deadman)",
+    "id": 15551,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Annihilation",
+    "combatLevel": 695,
+    "hitpoints": 2000,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 5
+}

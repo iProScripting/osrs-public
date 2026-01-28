@@ -1,0 +1,14 @@
+{
+    "name": "Phantom Muspah (Deadman)",
+    "id": 15549,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Annihilation",
+    "combatLevel": 482,
+    "hitpoints": 1000,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 5
+}

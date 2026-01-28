@@ -4,5 +4,6 @@
     "members": false,
     "examine": "They're rather cold.",
     "value": 160,
-    "weight": 1.6
+    "weight": 1.6,
+    "buyLimit": 7500
 }

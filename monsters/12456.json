@@ -7,9 +7,6 @@
     "versionAnchor": "Apocalypse",
     "combatLevel": 286,
     "hitpoints": 500,
-    "maxHit": [
-        "1"
-    ],
     "usesSkill": [
     ],
     "attackLevel": 1,
@@ -25,7 +22,6 @@
         "venom": true
     },
     "attackStyle": [
-        "Crush"
     ],
     "attackSpeed": 4,
     "size": 1

@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "Commander of Saradomin's forces.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
+    "versionAnchor": "Annihilation",
     "combatLevel": 596,
-    "hitpoints": 500,
+    "hitpoints": 1000,
     "maxHit": [
         "27"
     ],
@@ -22,7 +22,6 @@
     ],
     "attackLevel": 280,
     "strengthLevel": 196,
-    "defenceLevel": 300,
     "rangedLevel": 250,
     "magicLevel": 300,
     "attackBonuses": {

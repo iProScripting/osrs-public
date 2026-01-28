@@ -1,8 +1,8 @@
 {
-    "name": "Sigil of the well-fed",
+    "name": "Sigil of the well fed",
     "id": 28499,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "You have a 5% chance to gain twice the number of Hitpoints from any food or potions consumed.",
+    "value": 1,
     "weight": 0.4
 }

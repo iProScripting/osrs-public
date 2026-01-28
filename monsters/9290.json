@@ -8,7 +8,8 @@
     "hitpoints": 600,
     "maxHit": [
         "22",
-        "35+ (Gaze attack)"
+        "50+ (Gaze attack)",
+        "50+ (Bind attack)"
     ],
     "slayerLevel": 40,
     "slayerExperience": 600.0,

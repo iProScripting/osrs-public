@@ -2,7 +2,7 @@
     "name": "Sigil of the porcupine",
     "id": 26063,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 20000,
+    "examine": "On level 81-95 and 96+ Worlds: Activate the sigil to recoil 4 damage to your attacker for every hit you take. On level 3-60 and 61-80 worlds: Activate the sigil to recoil 2 damage to your attacker for every hit you take. The effect lasts for 25 seconds and has a 1 minute cooldown.",
+    "value": 1,
     "weight": 0.1
 }

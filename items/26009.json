@@ -2,7 +2,7 @@
     "name": "Sigil of barrows",
     "id": 26009,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "Barrows weapons get 40% more accuracy. Barrows gear never degrades, except upon death or after dropping the item. Barrows gear gains the effects of the amulet of the damned.",
+    "value": 1,
     "weight": 0.1
 }

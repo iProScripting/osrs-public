@@ -1,0 +1,38 @@
+{
+    "name": "Guard (Deadman Mode)",
+    "id": 15568,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Ruins of Unkah",
+    "combatLevel": 1337,
+    "hitpoints": 800,
+    "maxHit": [
+        "Varies"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 800,
+    "strengthLevel": 400,
+    "defenceLevel": 300,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "attackBonuses": {
+        "melee": 60,
+        "strength": 7
+    },
+    "defenceBonuses": {
+        "stab": 8,
+        "slash": 9,
+        "crush": 7,
+        "ranged": 8,
+        "lightRanged": 8,
+        "standardRanged": 8,
+        "heavyRanged": 8
+    },
+    "attackStyle": [
+        "Slash"
+    ],
+    "attackSpeed": 2,
+    "experienceBonus": 20.0,
+    "size": 1
+}

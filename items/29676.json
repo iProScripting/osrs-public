@@ -1,8 +1,8 @@
 {
-    "name": "Sigil of gunslinger",
+    "name": "Sigil of the gunslinger",
     "id": 29676,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "All ranged weapons with a base attack speed above 4 will have it reduced by 1. Cannot be used in conjunction with the Sigil of the Swashbuckler or the Sigil of Arcane Swiftness.",
+    "value": 1,
     "weight": 0.1
 }

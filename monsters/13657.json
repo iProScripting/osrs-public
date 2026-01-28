@@ -4,14 +4,12 @@
     "isMembersOnly": false,
     "examine": "A three-headed gigantic hound. Guardian of the River of Souls.",
     "releaseDate": "19 July 2024",
-    "combatLevel": 473,
+    "versionAnchor": "Annihilation",
+    "combatLevel": 476,
     "attributes": [
         "demon"
     ],
     "hitpoints": 1000,
-    "maxHit": [
-        "23"
-    ],
     "slayerCategory": [
         "Hellhounds",
         "Bosses"
@@ -25,8 +23,8 @@
         "NIEVE",
         "DURADEL"
     ],
-    "attackLevel": 220,
-    "strengthLevel": 220,
+    "attackLevel": 300,
+    "strengthLevel": 280,
     "defenceLevel": 150,
     "rangedLevel": 220,
     "magicLevel": 220,

@@ -2,7 +2,7 @@
     "name": "Sigil of pious protection",
     "id": 26129,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 30000,
+    "examine": "Decrease the amount of damage you take from attacks of a given combat style by 35% when using the correct protection prayer for that style. Increase the damage you take by protecting against the wrong combat style by 5%.",
+    "value": 1,
     "weight": 0.1
 }

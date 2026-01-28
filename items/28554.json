@@ -1,0 +1,8 @@
+{
+    "name": "Mahjarrat 1 quest lamp",
+    "id": 28554,
+    "members": false,
+    "examine": "Completes the Mahjarrat storyline, up to and including Desert Treasure.",
+    "value": 1,
+    "weight": 0.1
+}

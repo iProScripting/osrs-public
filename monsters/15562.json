@@ -1,0 +1,13 @@
+{
+    "name": "Zemouregal Summon",
+    "id": 15562,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Ulfric",
+    "combatLevel": 183,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

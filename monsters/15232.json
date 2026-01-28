@@ -9,11 +9,18 @@
     "maxHit": [
         "6"
     ],
+    "slayerLevel": 32,
+    "slayerExperience": 30.0,
     "slayerCategory": [
         "Mogres",
         "Ogres"
     ],
     "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
     ],
     "attackLevel": 40,
     "strengthLevel": 50,

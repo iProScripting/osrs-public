@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "A powerful Saradominist justiciar.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
-    "combatLevel": 348,
-    "hitpoints": 320,
+    "versionAnchor": "Annihilation",
+    "combatLevel": 456,
+    "hitpoints": 750,
     "usesSkill": [
     ],
     "attackLevel": 500,

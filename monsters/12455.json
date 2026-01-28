@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "Those are some powerful claws.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
+    "versionAnchor": "Annihilation",
     "combatLevel": 240,
-    "hitpoints": 750,
+    "hitpoints": 1000,
     "maxHit": [
         "49"
     ],
@@ -45,6 +45,8 @@
     "attackStyle": [
         "Slash"
     ],
-    "attackSpeed": 4,
-    "size": 4
+    "attackSpeed": 5,
+    "size": 4,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 30
 }

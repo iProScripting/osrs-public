@@ -1,0 +1,13 @@
+{
+    "name": "Zemouregal Summon",
+    "id": 15561,
+    "isMembersOnly": false,
+    "releaseDate": "21 January 2026",
+    "versionAnchor": "Pirate",
+    "combatLevel": 90,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

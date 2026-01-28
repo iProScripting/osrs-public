@@ -2,7 +2,7 @@
     "name": "Large iron keel parts",
     "id": 32023,
     "members": false,
-    "examine": "Parts for creating an iron keel for a large boat.",
+    "examine": "Parts for creating an iron keel for larger boats.",
     "value": 625,
     "weight": 4.0,
     "buyLimit": 100

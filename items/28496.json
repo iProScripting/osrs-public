@@ -2,7 +2,7 @@
     "name": "Sigil of the food master",
     "id": 28496,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "You have a 5% chance not to consume food when used. This effect has a 6 second cooldown.",
+    "value": 1,
     "weight": 0.4
 }

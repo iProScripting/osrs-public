@@ -4,15 +4,13 @@
     "isMembersOnly": false,
     "examine": "An extremely dangerous, emaciated, ape-like creature with beady red eyes.",
     "releaseDate": "23 August 2023",
-    "combatLevel": 361,
-    "hitpoints": 750,
-    "maxHit": [
-        "20"
-    ],
+    "versionAnchor": "Annihilation",
+    "combatLevel": 457,
+    "hitpoints": 1000,
     "usesSkill": [
     ],
-    "attackLevel": 230,
-    "strengthLevel": 195,
+    "attackLevel": 280,
+    "strengthLevel": 250,
     "defenceLevel": 142,
     "rangedLevel": 1,
     "magicLevel": 230,
@@ -23,6 +21,6 @@
     "attackStyle": [
         "Crush"
     ],
-    "attackSpeed": 4,
+    "attackSpeed": 5,
     "size": 3
 }

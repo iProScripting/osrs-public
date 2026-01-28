@@ -2,7 +2,7 @@
     "name": "Large bronze keel parts",
     "id": 32020,
     "members": false,
-    "examine": "Parts for creating a bronze keel for a large boat.",
+    "examine": "Parts for creating a bronze keel for larger boats.",
     "value": 175,
     "weight": 4.0,
     "buyLimit": 100

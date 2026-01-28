@@ -4,6 +4,7 @@
     "isMembersOnly": false,
     "examine": "A cold-blooded creature, partial to warmth.",
     "releaseDate": "23 August 2023",
+    "versionAnchor": "Annihilation",
     "combatLevel": 257,
     "hitpoints": 500,
     "maxHit": [
@@ -38,6 +39,6 @@
     "attackStyle": [
         "Crush"
     ],
-    "attackSpeed": 4,
+    "attackSpeed": 5,
     "size": 2
 }

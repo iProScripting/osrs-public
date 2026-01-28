@@ -6,12 +6,10 @@
     "value": 1,
     "weight": 9.071,
     "equipment": {
-        "magicAttack": -21,
-        "rangedAttack": -7,
         "stabDefence": 11,
         "slashDefence": 10,
         "crushDefence": 10,
-        "magicDefence": -4,
+        "magicDefence": -2,
         "rangedDefence": 10,
         "slot": "LEGS"
     }

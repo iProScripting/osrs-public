@@ -1,8 +1,8 @@
 {
-    "name": "Sigil of lithe",
+    "name": "Sigil of litheness",
     "id": 29661,
     "members": false,
-    "examine": "A power enhancing sigil not yet attuned to you.",
-    "value": 10000,
+    "examine": "Receive Agility XP whilst running, roughly every 6 seconds. Bypass the Agility level requirement for any Agility shortcut. Other requirements for a shortcut will still be needed.",
+    "value": 1,
     "weight": 0.1
 }
