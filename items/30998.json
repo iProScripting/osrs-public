@@ -4,5 +4,6 @@
     "members": false,
     "examine": "I can make some atlatl darts with these.",
     "value": 245,
-    "weight": 0.0
+    "weight": 0.0,
+    "buyLimit": 10000
 }

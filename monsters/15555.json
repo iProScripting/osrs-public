@@ -6,9 +6,29 @@
     "versionAnchor": "Annihilation",
     "combatLevel": 1024,
     "hitpoints": 3000,
+    "maxHit": [
+        "60 (Meteor)"
+    ],
     "usesSkill": [
     ],
+    "attackLevel": 320,
+    "strengthLevel": 350,
+    "defenceLevel": 225,
+    "rangedLevel": 210,
+    "magicLevel": 250,
+    "attackBonuses": {
+        "magic": 100,
+        "ranged": 100
+    },
+    "defenceBonuses": {
+        "stab": 100,
+        "slash": 80,
+        "crush": 333,
+        "magic": 60
+    },
     "attackStyle": [
+        "Melee"
     ],
+    "attackSpeed": 4,
     "size": 5
 }

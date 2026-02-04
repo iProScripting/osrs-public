@@ -4,12 +4,12 @@
     "isMembersOnly": false,
     "examine": "A vengeful spirit corrupted by dark magic.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
+    "versionAnchor": "Annihilation",
     "combatLevel": 666,
     "attributes": [
         "spectral"
     ],
-    "hitpoints": 200,
+    "hitpoints": 300,
     "maxHit": [
         "29"
     ],
@@ -25,7 +25,7 @@
     ],
     "attackLevel": 100,
     "strengthLevel": 100,
-    "defenceLevel": 100,
+    "defenceLevel": 200,
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackBonuses": {
@@ -47,5 +47,7 @@
         "Slash"
     ],
     "attackSpeed": 7,
-    "size": 2
+    "size": 2,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 50
 }

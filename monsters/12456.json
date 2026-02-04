@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "The evil that men do lives on and on.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
-    "combatLevel": 286,
-    "hitpoints": 500,
+    "versionAnchor": "Annihilation",
+    "combatLevel": 661,
+    "hitpoints": 2000,
     "usesSkill": [
     ],
     "attackLevel": 1,
@@ -22,7 +22,10 @@
         "venom": true
     },
     "attackStyle": [
+        "Magic"
     ],
     "attackSpeed": 4,
-    "size": 1
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
 }

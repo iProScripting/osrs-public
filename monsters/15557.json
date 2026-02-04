@@ -2,11 +2,30 @@
     "name": "TzTok-Jad-Rek",
     "id": 15557,
     "isMembersOnly": false,
+    "examine": "This is going to hurt... Slightly.",
     "releaseDate": "21 January 2026",
     "combatLevel": 186,
+    "hitpoints": 200,
+    "slayerCategory": [
+        "TzHaar"
+    ],
     "usesSkill": [
     ],
+    "attackLevel": 160,
+    "strengthLevel": 240,
+    "defenceLevel": 25,
+    "rangedLevel": 250,
+    "magicLevel": 250,
+    "immunities": {
+        "venom": true
+    },
     "attackStyle": [
+        "Stab",
+        "Magic",
+        "Ranged"
     ],
-    "size": 3
+    "attackSpeed": 8,
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
 }

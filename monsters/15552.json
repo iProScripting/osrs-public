@@ -4,11 +4,35 @@
     "isMembersOnly": false,
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
-    "combatLevel": 720,
-    "hitpoints": 2000,
+    "combatLevel": 970,
+    "hitpoints": 3000,
     "usesSkill": [
     ],
+    "attackLevel": 300,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "rangedLevel": 190,
+    "magicLevel": 400,
+    "attackBonuses": {
+        "magic": 225,
+        "ranged": 225,
+        "strength": 10
+    },
+    "defenceBonuses": {
+        "stab": 70,
+        "slash": 70,
+        "crush": 70,
+        "magic": -30
+    },
+    "immunities": {
+        "poison": true,
+        "cannon": true
+    },
     "attackStyle": [
+        "Magic"
     ],
-    "size": 5
+    "attackSpeed": 5,
+    "size": 5,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 50
 }

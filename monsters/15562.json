@@ -2,12 +2,21 @@
     "name": "Zemouregal Summon",
     "id": 15562,
     "isMembersOnly": false,
+    "examine": "What could be worse than an angry, undead fremennik?",
     "releaseDate": "21 January 2026",
-    "versionAnchor": "Ulfric",
-    "combatLevel": 183,
+    "versionAnchor": "Fremennik",
+    "combatLevel": 151,
+    "hitpoints": 35,
     "usesSkill": [
     ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "magicLevel": 1,
     "attackStyle": [
+        "Melee"
     ],
+    "attackSpeed": 4,
     "size": 1
 }

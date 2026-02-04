@@ -4,9 +4,37 @@
     "isMembersOnly": false,
     "releaseDate": "21 January 2026",
     "combatLevel": 716,
+    "hitpoints": 2000,
     "usesSkill": [
     ],
+    "attackLevel": 250,
+    "strengthLevel": 340,
+    "defenceLevel": 100,
+    "rangedLevel": 180,
+    "magicLevel": 150,
+    "attackBonuses": {
+        "ranged": 180,
+        "melee": 150,
+        "strength": 82,
+        "rangedStrength": 4
+    },
+    "defenceBonuses": {
+        "stab": 40,
+        "slash": 20,
+        "crush": 40,
+        "magic": 600,
+        "ranged": 800,
+        "lightRanged": 800,
+        "standardRanged": 800,
+        "heavyRanged": 800
+    },
+    "immunities": {
+        "poison": true,
+        "cannon": true
+    },
     "attackStyle": [
+        "Ranged"
     ],
+    "attackSpeed": 5,
     "size": 5
 }

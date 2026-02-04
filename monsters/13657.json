@@ -5,11 +5,11 @@
     "examine": "A three-headed gigantic hound. Guardian of the River of Souls.",
     "releaseDate": "19 July 2024",
     "versionAnchor": "Annihilation",
-    "combatLevel": 476,
+    "combatLevel": 726,
     "attributes": [
         "demon"
     ],
-    "hitpoints": 1000,
+    "hitpoints": 2000,
     "slayerCategory": [
         "Hellhounds",
         "Bosses"

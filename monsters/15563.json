@@ -2,12 +2,25 @@
     "name": "Zemouregal Summon",
     "id": 15563,
     "isMembersOnly": false,
+    "examine": "He looks really nasty. Smells bad too.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Khazard",
-    "combatLevel": 228,
+    "combatLevel": 163,
+    "hitpoints": 35,
     "usesSkill": [
     ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "immunities": {
+        "poison": true,
+        "cannon": true
+    },
     "attackStyle": [
+        "Melee"
     ],
+    "attackSpeed": 4,
     "size": 1
 }

@@ -2,8 +2,8 @@
     "name": "Camphor crate",
     "id": 32364,
     "members": false,
-    "examine": "A sturdy container crafted from Camphor.",
+    "examine": "A sturdy container crafted from camphor.",
     "value": 5,
-    "weight": 1.0,
+    "weight": 0.0,
     "buyLimit": 250
 }

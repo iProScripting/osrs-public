@@ -2,12 +2,23 @@
     "name": "Zemouregal Summon",
     "id": 15561,
     "isMembersOnly": false,
+    "examine": "Aaaargh, me hearty!",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Pirate",
     "combatLevel": 90,
+    "hitpoints": 35,
     "usesSkill": [
     ],
+    "attackLevel": 75,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "rangedLevel": 1,
+    "magicLevel": 1,
     "attackStyle": [
+        "Melee"
     ],
-    "size": 1
+    "attackSpeed": 5,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
 }

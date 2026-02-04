@@ -4,11 +4,31 @@
     "isMembersOnly": false,
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
-    "combatLevel": 970,
-    "hitpoints": 3000,
+    "combatLevel": 1470,
+    "hitpoints": 5000,
     "usesSkill": [
     ],
+    "attackLevel": 300,
+    "strengthLevel": 300,
+    "defenceLevel": 100,
+    "rangedLevel": 100,
+    "magicLevel": 100,
+    "attackBonuses": {
+        "magic": 150,
+        "ranged": 150
+    },
+    "defenceBonuses": {
+        "stab": 20,
+        "slash": 20,
+        "crush": 20,
+        "magic": 10
+    },
+    "immunities": {
+        "venom": true
+    },
     "attackStyle": [
+        "Melee"
     ],
+    "attackSpeed": 5,
     "size": 3
 }

@@ -5,11 +5,11 @@
     "examine": "A greater denizen of the Abyss.",
     "releaseDate": "23 August 2023",
     "versionAnchor": "Annihilation",
-    "combatLevel": 532,
+    "combatLevel": 719,
     "attributes": [
         "demon"
     ],
-    "hitpoints": 1250,
+    "hitpoints": 2000,
     "maxHit": [
         "27"
     ],

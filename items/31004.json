@@ -4,5 +4,6 @@
     "members": false,
     "examine": "An atlatl dart shaft.",
     "value": 220,
-    "weight": 0.0
+    "weight": 0.0,
+    "buyLimit": 11000
 }

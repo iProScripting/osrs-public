@@ -2,12 +2,23 @@
     "name": "Zemouregal Summon",
     "id": 15558,
     "isMembersOnly": false,
+    "examine": "A tightly-wrapped monster.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Mummy",
-    "combatLevel": 212,
+    "combatLevel": 163,
+    "hitpoints": 35,
     "usesSkill": [
     ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 150,
+    "rangedLevel": 1,
+    "magicLevel": 1,
     "attackStyle": [
+        "Melee"
     ],
-    "size": 1
+    "attackSpeed": 4,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
 }

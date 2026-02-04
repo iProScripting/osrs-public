@@ -5,11 +5,11 @@
     "examine": "A rage-filled Zamorakian Demon.",
     "releaseDate": "23 August 2023",
     "versionAnchor": "Annihilation",
-    "combatLevel": 342,
+    "combatLevel": 655,
     "attributes": [
         "demon"
     ],
-    "hitpoints": 750,
+    "hitpoints": 2000,
     "slayerCategory": [
         "Black Demons"
     ],

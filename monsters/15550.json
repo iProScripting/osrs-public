@@ -3,10 +3,17 @@
     "id": 15550,
     "isMembersOnly": false,
     "releaseDate": "21 January 2026",
-    "combatLevel": 173,
+    "combatLevel": 648,
+    "hitpoints": 2000,
     "usesSkill": [
     ],
+    "attackLevel": 200,
+    "strengthLevel": 250,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 300,
     "attackStyle": [
     ],
+    "attackSpeed": 4,
     "size": 3
 }

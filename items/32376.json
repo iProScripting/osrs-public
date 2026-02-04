@@ -2,7 +2,7 @@
     "name": "Fish crate (yellowfin)",
     "id": 32376,
     "members": false,
-    "examine": "A sturdy container packed with ice and full to the brim with Yellowfin.",
+    "examine": "A sturdy container packed with ice and full to the brim with yellowfin.",
     "value": 5,
     "weight": 1.0
 }

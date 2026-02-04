@@ -24,8 +24,10 @@
         "venom": true
     },
     "attackStyle": [
-        "Stab"
+        "Stab",
+        "Magic",
+        "Ranged"
     ],
-    "attackSpeed": 4,
+    "attackSpeed": 8,
     "size": 5
 }

@@ -5,8 +5,8 @@
     "examine": "A legendary dagannoth king, rumoured to fly on the North winds.",
     "releaseDate": "23 August 2023",
     "versionAnchor": "Annihilation",
-    "combatLevel": 572,
-    "hitpoints": 1500,
+    "combatLevel": 947,
+    "hitpoints": 3000,
     "maxHit": [
         "26"
     ],
@@ -25,6 +25,7 @@
     ],
     "attackLevel": 255,
     "strengthLevel": 255,
+    "defenceLevel": 125,
     "magicLevel": 255,
     "defenceBonuses": {
         "stab": 255,

@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "A servant of the god Zamorak.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
+    "versionAnchor": "Annihilation",
     "combatLevel": 650,
-    "hitpoints": 1000,
+    "hitpoints": 1500,
     "maxHit": [
         "46 (melee)"
     ],
@@ -49,5 +49,7 @@
         "Slash"
     ],
     "attackSpeed": 6,
-    "size": 5
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 30
 }

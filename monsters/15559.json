@@ -2,12 +2,21 @@
     "name": "Zemouregal Summon",
     "id": 15559,
     "isMembersOnly": false,
+    "examine": "The shadowy remains of a long-departed soul.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Shade",
-    "combatLevel": 190,
+    "combatLevel": 141,
+    "hitpoints": 35,
     "usesSkill": [
     ],
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 50,
     "attackStyle": [
+        "Melee"
     ],
+    "attackSpeed": 4,
     "size": 1
 }

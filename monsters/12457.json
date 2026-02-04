@@ -4,17 +4,14 @@
     "isMembersOnly": false,
     "examine": "I don't think you're ready for this jelly.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
-    "combatLevel": 333,
-    "hitpoints": 500,
-    "maxHit": [
-        "19"
-    ],
+    "versionAnchor": "Annihilation",
+    "combatLevel": 908,
+    "hitpoints": 3000,
     "usesSkill": [
     ],
     "attackLevel": 200,
     "strengthLevel": 250,
-    "defenceLevel": 250,
+    "defenceLevel": 50,
     "rangedLevel": 1,
     "magicLevel": 180,
     "immunities": {
@@ -22,8 +19,9 @@
         "venom": true
     },
     "attackStyle": [
-        "Magic"
     ],
     "attackSpeed": 4,
-    "size": 3
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 30
 }

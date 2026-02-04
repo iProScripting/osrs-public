@@ -4,7 +4,7 @@
     "members": false,
     "examine": "A powerful tome filled with the knowledge of dangerous prayers.",
     "value": 1,
-    "weight": 0.3,
+    "weight": 0.014,
     "equipment": {
         "prayerBonus": -1,
         "slot": "SHIELD"

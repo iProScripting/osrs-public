@@ -2,11 +2,36 @@
     "name": "I DSCIM YOU",
     "id": 15553,
     "isMembersOnly": false,
+    "examine": "Lives off of surge potions.",
     "releaseDate": "21 January 2026",
-    "combatLevel": 370,
+    "combatLevel": 495,
+    "hitpoints": 1500,
     "usesSkill": [
     ],
+    "attackLevel": 150,
+    "strengthLevel": 200,
+    "defenceLevel": 25,
+    "rangedLevel": 25,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "stab": 25,
+        "slash": 25,
+        "crush": 25,
+        "magic": 50,
+        "ranged": 10,
+        "lightRanged": 10,
+        "standardRanged": 10,
+        "heavyRanged": 10
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
+    },
     "attackStyle": [
+        "Melee"
     ],
-    "size": 1
+    "attackSpeed": 3,
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 50
 }

@@ -1,8 +1,8 @@
 {
-    "name": "Quest lamp",
+    "name": "Fremennik quest lamp",
     "id": 28551,
     "members": false,
-    "examine": "I wonder what happens if I rub it...",
+    "examine": "Completes the Fremennik storyline, up to and including Fremennik Exiles.",
     "value": 1,
     "weight": 0.1
 }

@@ -1,12 +1,32 @@
 {
-    "name": "Zemouregal (Deadman's chest)",
+    "name": "Zemouregal (Deadman)",
     "id": 15564,
     "isMembersOnly": false,
+    "examine": "The infamous enemy of Varrock.",
     "releaseDate": "21 January 2026",
+    "versionAnchor": "Deadman's chest",
     "combatLevel": 322,
+    "hitpoints": 500,
     "usesSkill": [
     ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 125,
+    "rangedLevel": 1,
+    "magicLevel": 255,
+    "defenceBonuses": {
+        "stab": 30,
+        "slash": 30,
+        "crush": 30,
+        "magic": 255,
+        "ranged": 15,
+        "lightRanged": 15,
+        "standardRanged": 15,
+        "heavyRanged": 15
+    },
     "attackStyle": [
+        "Magic"
     ],
+    "attackSpeed": 7,
     "size": 2
 }

@@ -4,9 +4,9 @@
     "isMembersOnly": false,
     "examine": "A huge war chief.",
     "releaseDate": "23 August 2023",
-    "versionAnchor": "Apocalypse",
+    "versionAnchor": "Annihilation",
     "combatLevel": 624,
-    "hitpoints": 1000,
+    "hitpoints": 2000,
     "maxHit": [
         "60 (Melee)"
     ],
@@ -49,5 +49,7 @@
         "Crush"
     ],
     "attackSpeed": 6,
-    "size": 4
+    "size": 4,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 40
 }
