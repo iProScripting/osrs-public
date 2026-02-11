@@ -8,7 +8,8 @@
     "combatLevel": 457,
     "hitpoints": 1000,
     "maxHit": [
-        "30"
+        "30 (Melee)",
+        "? (Magic)"
     ],
     "slayerCategory": [
         "Dark Beasts"
@@ -40,7 +41,8 @@
         "venom": true
     },
     "attackStyle": [
-        "Crush"
+        "Crush",
+        "Magic"
     ],
     "attackSpeed": 4,
     "size": 4

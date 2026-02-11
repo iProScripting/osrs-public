@@ -40,5 +40,6 @@
         "Crush"
     ],
     "attackSpeed": 5,
+    "flatArmour": -1,
     "size": 2
 }

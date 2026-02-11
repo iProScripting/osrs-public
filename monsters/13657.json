@@ -10,6 +10,9 @@
         "demon"
     ],
     "hitpoints": 2000,
+    "maxHit": [
+        "29"
+    ],
     "slayerCategory": [
         "Hellhounds",
         "Bosses"

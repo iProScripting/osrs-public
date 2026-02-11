@@ -15,7 +15,6 @@
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackStyle": [
-        "Melee"
     ],
     "attackSpeed": 4,
     "size": 1

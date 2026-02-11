@@ -2,11 +2,13 @@
     "name": "Crate of cacti",
     "id": 32781,
     "members": false,
-    "examine": "A cargo crate of cacti destined for The Summer Shore.",
+    "examine": "A cargo crate of cacti destined for the Summer Shore.",
     "value": 0,
     "weight": 1.285,
     "equipment": {
         "slot": "WEAPON",
-        "combatStyle": "BLUNT"
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
     }
 }

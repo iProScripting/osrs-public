@@ -8,7 +8,10 @@
     "combatLevel": 1157,
     "hitpoints": 2700,
     "maxHit": [
-        "86"
+        "86 (Melee orb & Bite)",
+        "41 (Ranged orb)",
+        "55 (Magic orb)",
+        "?? (Smoke Blast)"
     ],
     "slayerExperience": 2700.0,
     "slayerCategory": [

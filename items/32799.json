@@ -2,11 +2,13 @@
     "name": "Crate of maces",
     "id": 32799,
     "members": false,
-    "examine": "A cargo crate of maces destined for Void Knights' Outpost.",
+    "examine": "A cargo crate of maces destined for the Void Knights' Outpost.",
     "value": 0,
     "weight": 1.285,
     "equipment": {
         "slot": "WEAPON",
-        "combatStyle": "BLUNT"
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
     }
 }

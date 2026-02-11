@@ -2,11 +2,16 @@
     "name": "Yama (Deadman)",
     "id": 15555,
     "isMembersOnly": false,
+    "examine": "A demon of quite obviously fathomable power. The vicious grin rarely leaves his face.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
     "combatLevel": 1024,
+    "attributes": [
+        "demon"
+    ],
     "hitpoints": 3000,
     "maxHit": [
+        "44 (Melee)",
         "60 (Meteor)"
     ],
     "usesSkill": [
@@ -18,17 +23,31 @@
     "magicLevel": 250,
     "attackBonuses": {
         "magic": 100,
-        "ranged": 100
+        "ranged": 100,
+        "melee": 50,
+        "strength": 15,
+        "rangedStrength": 80,
+        "magicDamage": 65
     },
     "defenceBonuses": {
         "stab": 100,
         "slash": 80,
         "crush": 333,
-        "magic": 60
+        "magic": 60,
+        "ranged": 200,
+        "lightRanged": 333,
+        "standardRanged": 200,
+        "heavyRanged": 333
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true
     },
     "attackStyle": [
-        "Melee"
+        "Slash"
     ],
     "attackSpeed": 4,
-    "size": 5
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
 }

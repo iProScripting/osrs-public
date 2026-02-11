@@ -17,7 +17,7 @@
     "rangedLevel": 150,
     "magicLevel": 100,
     "attackBonuses": {
-        "rangedStrength": 20
+        "ranged": 20
     },
     "defenceBonuses": {
         "stab": 10,

@@ -6,7 +6,13 @@
     "releaseDate": "21 January 2026",
     "versionAnchor": "Shade",
     "combatLevel": 141,
+    "attributes": [
+        "spectral"
+    ],
     "hitpoints": 35,
+    "maxHit": [
+        "16"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 250,
@@ -15,8 +21,11 @@
     "rangedLevel": 1,
     "magicLevel": 50,
     "attackStyle": [
-        "Melee"
+        "Crush"
     ],
     "attackSpeed": 4,
-    "size": 1
+    "flatArmour": -3,
+    "size": 1,
+    "elementalWeakness": "AIR",
+    "elementalWeaknessPercent": 40
 }

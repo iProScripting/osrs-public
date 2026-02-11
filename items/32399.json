@@ -4,8 +4,5 @@
     "members": false,
     "examine": "An old crewhand's trinket.",
     "value": 351,
-    "weight": 0.06,
-    "equipment": {
-        "slot": "NECK"
-    }
+    "weight": 0.06
 }

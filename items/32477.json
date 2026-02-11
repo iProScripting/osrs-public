@@ -2,11 +2,13 @@
     "name": "Crate of spices",
     "id": 32477,
     "members": false,
-    "examine": "A cargo crate of spices destined for \tBrimhaven.",
+    "examine": "A cargo crate of spices destined for Brimhaven.",
     "value": 0,
     "weight": 1.285,
     "equipment": {
         "slot": "WEAPON",
-        "combatStyle": "BLUNT"
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
     }
 }

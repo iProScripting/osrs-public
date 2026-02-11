@@ -2,9 +2,14 @@
     "name": "Splatter (Deadman)",
     "id": 15550,
     "isMembersOnly": false,
+    "examine": "Don't burst its bubble!",
     "releaseDate": "21 January 2026",
     "combatLevel": 648,
     "hitpoints": 2000,
+    "maxHit": [
+        "26 (Melee)",
+        "100+ (Explosion)"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 200,
@@ -13,6 +18,7 @@
     "rangedLevel": 1,
     "magicLevel": 300,
     "attackStyle": [
+        "Crush"
     ],
     "attackSpeed": 4,
     "size": 3

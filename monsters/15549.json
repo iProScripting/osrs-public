@@ -2,10 +2,14 @@
     "name": "Phantom Muspah (Deadman)",
     "id": 15549,
     "isMembersOnly": false,
+    "examine": "Imagination gone wild.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
     "combatLevel": 732,
     "hitpoints": 2000,
+    "maxHit": [
+        "34"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 280,
@@ -37,7 +41,7 @@
         "cannon": true
     },
     "attackStyle": [
-        "Melee"
+        "Stab"
     ],
     "attackSpeed": 5,
     "size": 5,

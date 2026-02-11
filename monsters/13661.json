@@ -8,6 +8,7 @@
     "combatLevel": 527,
     "hitpoints": 1000,
     "maxHit": [
+        "78 (Melee)",
         "108"
     ],
     "slayerCategory": [
@@ -29,5 +30,7 @@
         "Ranged"
     ],
     "attackSpeed": 8,
-    "size": 5
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
 }

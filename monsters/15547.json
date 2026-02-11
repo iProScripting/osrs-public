@@ -2,10 +2,14 @@
     "name": "Big Evil Chicken",
     "id": 15547,
     "isMembersOnly": false,
+    "examine": "A big chicken.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
     "combatLevel": 1047,
     "hitpoints": 3500,
+    "maxHit": [
+        "26"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 255,

@@ -7,6 +7,9 @@
     "versionAnchor": "Pirate",
     "combatLevel": 90,
     "hitpoints": 35,
+    "maxHit": [
+        "11"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 75,
@@ -15,7 +18,7 @@
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackStyle": [
-        "Melee"
+        "Crush"
     ],
     "attackSpeed": 5,
     "size": 1,

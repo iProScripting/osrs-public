@@ -2,10 +2,17 @@
     "name": "Scurrius (Deadman)",
     "id": 15548,
     "isMembersOnly": false,
+    "examine": "He's escaped? Next thing you know, there will be some turtles following him.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
     "combatLevel": 1470,
+    "attributes": [
+        "rat"
+    ],
     "hitpoints": 5000,
+    "maxHit": [
+        "36"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 300,
@@ -15,19 +22,27 @@
     "magicLevel": 100,
     "attackBonuses": {
         "magic": 150,
-        "ranged": 150
+        "ranged": 150,
+        "melee": 150,
+        "strength": 10,
+        "rangedStrength": 10,
+        "magicDamage": 20
     },
     "defenceBonuses": {
         "stab": 20,
         "slash": 20,
         "crush": 20,
-        "magic": 10
+        "magic": 10,
+        "ranged": 20,
+        "lightRanged": 20,
+        "standardRanged": 20,
+        "heavyRanged": 20
     },
     "immunities": {
         "venom": true
     },
     "attackStyle": [
-        "Melee"
+        "Slash"
     ],
     "attackSpeed": 5,
     "size": 3

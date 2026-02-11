@@ -1,5 +1,5 @@
 {
-    "name": "Crate of gin",
+    "name": "Crate of glassmaking supplies",
     "id": 32640,
     "members": false,
     "examine": "A cargo crate of gin destined for Port Piscarilius.",
@@ -7,6 +7,8 @@
     "weight": 1.285,
     "equipment": {
         "slot": "WEAPON",
-        "combatStyle": "BLUNT"
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
     }
 }

@@ -7,6 +7,10 @@
     "versionAnchor": "Annihilation",
     "combatLevel": 768,
     "hitpoints": 2000,
+    "maxHit": [
+        "43 (Melee)",
+        "26 (Magic)"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 500,
@@ -35,7 +39,8 @@
         "cannon": true
     },
     "attackStyle": [
-        "Slash"
+        "Slash",
+        "Magic"
     ],
     "attackSpeed": 6,
     "size": 3

@@ -7,6 +7,9 @@
     "versionAnchor": "Annihilation",
     "combatLevel": 908,
     "hitpoints": 3000,
+    "maxHit": [
+        "19"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 200,
@@ -19,6 +22,7 @@
         "venom": true
     },
     "attackStyle": [
+        "Magic"
     ],
     "attackSpeed": 4,
     "size": 3,

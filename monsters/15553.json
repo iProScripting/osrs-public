@@ -6,6 +6,9 @@
     "releaseDate": "21 January 2026",
     "combatLevel": 495,
     "hitpoints": 1500,
+    "maxHit": [
+        "21"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 150,
@@ -28,7 +31,7 @@
         "venom": true
     },
     "attackStyle": [
-        "Melee"
+        "Slash"
     ],
     "attackSpeed": 3,
     "size": 1,

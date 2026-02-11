@@ -7,6 +7,9 @@
     "versionAnchor": "Undead One",
     "combatLevel": 147,
     "hitpoints": 35,
+    "maxHit": [
+        "16"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 200,
@@ -15,7 +18,7 @@
     "rangedLevel": 1,
     "magicLevel": 1,
     "attackStyle": [
-        "Melee"
+        "Slash"
     ],
     "attackSpeed": 4,
     "size": 1,

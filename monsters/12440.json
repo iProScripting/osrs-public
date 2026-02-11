@@ -6,12 +6,14 @@
     "releaseDate": "23 August 2023",
     "versionAnchor": "Annihilation",
     "combatLevel": 318,
+    "poisonous": true,
     "attributes": [
         "dragon"
     ],
     "hitpoints": 500,
     "maxHit": [
-        "25"
+        "25 (Melee)",
+        "65 (Dragonfire)"
     ],
     "slayerCategory": [
         "Black Dragons",
@@ -39,8 +41,11 @@
         "heavyRanged": 70
     },
     "attackStyle": [
-        "Stab"
+        "Stab",
+        "Dragonfire"
     ],
     "attackSpeed": 4,
-    "size": 5
+    "size": 5,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 50
 }

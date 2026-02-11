@@ -7,6 +7,9 @@
     "versionAnchor": "All-Stars",
     "combatLevel": 217,
     "hitpoints": 500,
+    "maxHit": [
+        "18"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 10,

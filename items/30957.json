@@ -12,6 +12,7 @@
         "prayerBonus": 2,
         "slot": "WEAPON",
         "attackSpeed": 4,
+        "attackRange": 1,
         "combatStyle": "STAB_SWORD"
     }
 }

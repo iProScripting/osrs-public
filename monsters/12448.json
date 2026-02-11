@@ -10,6 +10,10 @@
         "demon"
     ],
     "hitpoints": 2000,
+    "maxHit": [
+        "43 (Magic)",
+        "16 (Melee)"
+    ],
     "slayerCategory": [
         "Black Demons"
     ],
@@ -46,6 +50,7 @@
         "cannon": true
     },
     "attackStyle": [
+        "Magic",
         "Slash"
     ],
     "attackSpeed": 6,

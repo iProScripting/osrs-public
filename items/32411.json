@@ -2,7 +2,7 @@
     "name": "Small key (the pandemonium)",
     "id": 32411,
     "members": false,
-    "examine": "A small key dug up on The Pandemonium.",
+    "examine": "A small key dug up on the Pandemonium.",
     "value": 1,
     "weight": 0.01
 }

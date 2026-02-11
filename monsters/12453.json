@@ -11,7 +11,7 @@
     ],
     "hitpoints": 3500,
     "maxHit": [
-        "21"
+        "1 (11 with burn)"
     ],
     "usesSkill": [
     ],
@@ -35,6 +35,7 @@
         "venom": true
     },
     "attackStyle": [
+        "Magic"
     ],
     "attackSpeed": 4,
     "size": 3,

@@ -2,10 +2,14 @@
     "name": "Elidinis' Warden (Deadman)",
     "id": 15552,
     "isMembersOnly": false,
+    "examine": "An ancient automaton imbued with the power of Elidinis.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
     "combatLevel": 970,
     "hitpoints": 3000,
+    "maxHit": [
+        "41"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 300,
@@ -22,10 +26,15 @@
         "stab": 70,
         "slash": 70,
         "crush": 70,
-        "magic": -30
+        "magic": -30,
+        "ranged": 70,
+        "lightRanged": 70,
+        "standardRanged": 70,
+        "heavyRanged": 70
     },
     "immunities": {
         "poison": true,
+        "venom": true,
         "cannon": true
     },
     "attackStyle": [

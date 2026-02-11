@@ -2,10 +2,14 @@
     "name": "Tumeken's Warden (Deadman)",
     "id": 15551,
     "isMembersOnly": false,
+    "examine": "An ancient automaton imbued with the power of Tumeken.",
     "releaseDate": "21 January 2026",
     "versionAnchor": "Annihilation",
     "combatLevel": 945,
     "hitpoints": 3000,
+    "maxHit": [
+        "22"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 300,

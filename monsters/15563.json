@@ -16,10 +16,10 @@
     "magicLevel": 1,
     "immunities": {
         "poison": true,
+        "venom": true,
         "cannon": true
     },
     "attackStyle": [
-        "Melee"
     ],
     "attackSpeed": 4,
     "size": 1

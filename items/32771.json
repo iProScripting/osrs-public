@@ -2,7 +2,7 @@
     "name": "Crate of meat",
     "id": 32771,
     "members": false,
-    "examine": "A cargo crate of meat destined for The Pandemonium.",
+    "examine": "A cargo crate of meat destined for the Pandemonium.",
     "value": 0,
     "weight": 1.285,
     "equipment": {

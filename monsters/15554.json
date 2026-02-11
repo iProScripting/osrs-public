@@ -2,9 +2,13 @@
     "name": "Sol Heredit (Deadman)",
     "id": 15554,
     "isMembersOnly": false,
+    "examine": "It's stompin' time!",
     "releaseDate": "21 January 2026",
     "combatLevel": 668,
     "hitpoints": 1500,
+    "maxHit": [
+        "44"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 350,

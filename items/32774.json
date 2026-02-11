@@ -2,11 +2,13 @@
     "name": "Crate of rum",
     "id": 32774,
     "members": false,
-    "examine": "A cargo Crate of rum destined for Pandemonium.",
+    "examine": "A cargo crate of rum destined for the Pandemonium.",
     "value": 0,
     "weight": 1.285,
     "equipment": {
         "slot": "WEAPON",
-        "combatStyle": "BLUNT"
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
     }
 }

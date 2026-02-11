@@ -7,6 +7,9 @@
     "versionAnchor": "Annihilation",
     "combatLevel": 957,
     "hitpoints": 3000,
+    "maxHit": [
+        "26"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 280,

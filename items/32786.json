@@ -2,7 +2,7 @@
     "name": "Crate of meat",
     "id": 32786,
     "members": false,
-    "examine": "A cargo crate of meat destined for The Summer Shore.",
+    "examine": "A cargo crate of meat destined for the Summer Shore.",
     "value": 0,
     "weight": 1.285,
     "equipment": {

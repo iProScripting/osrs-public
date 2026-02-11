@@ -2,9 +2,13 @@
     "name": "Pestilent Bloat (Deadman)",
     "id": 15556,
     "isMembersOnly": false,
+    "examine": "An infinite mass of decay and death.",
     "releaseDate": "21 January 2026",
     "combatLevel": 716,
     "hitpoints": 2000,
+    "maxHit": [
+        "20"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 250,
@@ -30,6 +34,7 @@
     },
     "immunities": {
         "poison": true,
+        "venom": true,
         "cannon": true
     },
     "attackStyle": [

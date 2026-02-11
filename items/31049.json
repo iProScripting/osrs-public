@@ -11,6 +11,7 @@
         "crushAttack": 10,
         "slot": "WEAPON",
         "attackSpeed": 5,
+        "attackRange": 1,
         "combatStyle": "BLUNT"
     }
 }

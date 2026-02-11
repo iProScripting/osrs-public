@@ -2,11 +2,13 @@
     "name": "Crate of platebodies",
     "id": 32801,
     "members": false,
-    "examine": "A cargo crate of platebodies destined for Void Knights' Outpost.",
+    "examine": "A cargo crate of platebodies destined for the Void Knights' Outpost.",
     "value": 0,
     "weight": 1.285,
     "equipment": {
         "slot": "WEAPON",
-        "combatStyle": "BLUNT"
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
     }
 }

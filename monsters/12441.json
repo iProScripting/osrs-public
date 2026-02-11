@@ -7,9 +7,6 @@
     "versionAnchor": "Annihilation",
     "combatLevel": 936,
     "hitpoints": 3000,
-    "maxHit": [
-        "26"
-    ],
     "slayerCategory": [
         "Bosses",
         "Dagannoth"
@@ -42,7 +39,7 @@
         "venom": true
     },
     "attackStyle": [
-        "Slash"
+        "Ranged"
     ],
     "attackSpeed": 4,
     "size": 3,
