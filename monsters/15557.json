@@ -6,6 +6,10 @@
     "releaseDate": "21 January 2026",
     "combatLevel": 186,
     "hitpoints": 200,
+    "maxHit": [
+        "25 (Melee)",
+        "?"
+    ],
     "slayerCategory": [
         "TzHaar"
     ],

@@ -7,6 +7,9 @@
     "versionAnchor": "Khazard",
     "combatLevel": 163,
     "hitpoints": 35,
+    "maxHit": [
+        "16"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 250,
@@ -20,6 +23,7 @@
         "cannon": true
     },
     "attackStyle": [
+        "Slash"
     ],
     "attackSpeed": 4,
     "size": 1

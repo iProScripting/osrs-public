@@ -1,0 +1,11 @@
+{
+    "name": "25th anniversary skeleton tabard",
+    "id": 33084,
+    "members": false,
+    "examine": "Celebrating the 25th Anniversary of RuneScape.",
+    "value": 0,
+    "weight": 0.455,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

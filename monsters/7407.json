@@ -10,7 +10,7 @@
     ],
     "hitpoints": 270,
     "maxHit": [
-        "38"
+        "26 (melee)\n30 (ranged)\n38 (special)"
     ],
     "slayerLevel": 75,
     "slayerExperience": 2768.0,

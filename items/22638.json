@@ -13,7 +13,7 @@
         "crushDefence": 8,
         "magicDefence": 20,
         "rangedDefence": 7,
-        "rangedStrength": 2,
+        "rangedStrength": 1,
         "slot": "HEAD"
     }
 }

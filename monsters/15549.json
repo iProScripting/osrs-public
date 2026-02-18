@@ -44,6 +44,7 @@
         "Stab"
     ],
     "attackSpeed": 5,
+    "experienceBonus": 107.5,
     "size": 5,
     "elementalWeakness": "AIR",
     "elementalWeaknessPercent": 65

@@ -1,0 +1,11 @@
+{
+    "name": "25th anniversary helmet",
+    "id": 33080,
+    "members": false,
+    "examine": "Celebrating the 25th Anniversary of RuneScape.",
+    "value": 0,
+    "weight": 0.88,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

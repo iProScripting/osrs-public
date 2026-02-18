@@ -7,10 +7,10 @@
     "combatLevel": 1563,
     "hitpoints": 1500,
     "maxHit": [
-        "45 (Typeless AOE",
-        "Triple Parry)",
+        "45 (Typeless AOE)",
         "45 (Grapple)",
-        ""
+        "15-25-35 (Triple Parry 1)",
+        "15-30-45 (Triple Parry 2)"
     ],
     "usesSkill": [
     ],

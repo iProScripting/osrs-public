@@ -1,0 +1,11 @@
+{
+    "name": "25th anniversary 5x5 hat",
+    "id": 33086,
+    "members": false,
+    "examine": "25 years, 25 mementos in a 5x5 grid.",
+    "value": 0,
+    "weight": 0.28,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,10 +1,10 @@
 {
     "name": "Hermit crab",
-    "id": 14852,
+    "id": 14854,
     "isMembersOnly": false,
-    "examine": "Why so crabby?",
+    "examine": "Smells fishy.",
     "releaseDate": "19 November 2025",
-    "versionAnchor": "Active",
+    "versionAnchor": "Hidden",
     "combatLevel": 19,
     "hitpoints": 75,
     "maxHit": [
