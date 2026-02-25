@@ -1,9 +1,0 @@
-{
-    "name": "Diamond bolt tips",
-    "id": 9192,
-    "members": false,
-    "examine": "Diamond bolt tips.",
-    "value": 133,
-    "weight": 0.0,
-    "buyLimit": 11000
-}

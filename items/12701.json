@@ -1,9 +1,0 @@
-{
-    "name": "Super combat potion",
-    "id": 12701,
-    "members": false,
-    "examine": "1 dose of super combat potion.",
-    "value": 40,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

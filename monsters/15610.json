@@ -1,0 +1,13 @@
+{
+    "name": "King Scorpion (Realm of Memories)",
+    "id": 15610,
+    "isMembersOnly": false,
+    "examine": "Wow! Scorpions shouldn't grow that big.",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 2
+}

@@ -1,8 +1,0 @@
-{
-    "name": "Conductor mould",
-    "id": 4200,
-    "members": false,
-    "examine": "A mould for making silver lightning conductors.",
-    "value": 1,
-    "weight": 0.05
-}

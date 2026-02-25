@@ -1,8 +1,0 @@
-{
-    "name": "Strange potion",
-    "id": 4836,
-    "members": false,
-    "examine": "Some strange liquid given to you by Zavistic Rarve.",
-    "value": 1,
-    "weight": 0.001
-}

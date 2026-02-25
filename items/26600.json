@@ -1,8 +1,0 @@
-{
-    "name": "Tiny fish",
-    "id": 26600,
-    "members": false,
-    "examine": "This fish is tiny!",
-    "value": 10,
-    "weight": 0.014
-}

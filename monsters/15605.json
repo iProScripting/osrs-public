@@ -1,0 +1,26 @@
+{
+    "name": "Baby blue dragon (Realm of Memories)",
+    "id": 15605,
+    "isMembersOnly": false,
+    "examine": "A young creature from when the world was younger.",
+    "releaseDate": "6 January 2021",
+    "hitpoints": 50,
+    "usesSkill": [
+    ],
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "slash": 50,
+        "crush": 50,
+        "magic": 40
+    },
+    "attackStyle": [
+        "Melee"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 2
+}

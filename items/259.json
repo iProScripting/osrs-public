@@ -1,9 +1,0 @@
-{
-    "name": "Irit leaf",
-    "id": 259,
-    "members": false,
-    "examine": "A useful herb.",
-    "value": 40,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

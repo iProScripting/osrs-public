@@ -1,8 +1,0 @@
-{
-    "name": "Climbing rope",
-    "id": 4047,
-    "members": false,
-    "examine": "Should be long enough to scale castle walls.",
-    "value": 1,
-    "weight": 1.36
-}

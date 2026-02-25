@@ -1,9 +1,0 @@
-{
-    "name": "Larupia fur",
-    "id": 10095,
-    "members": false,
-    "examine": "It's a perfect-looking larupia fur.",
-    "value": 80,
-    "weight": 2.0,
-    "buyLimit": 10000
-}

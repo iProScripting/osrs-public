@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (hard) - Must be full of railings",
-    "id": 3574,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

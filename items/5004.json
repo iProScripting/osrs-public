@@ -1,8 +1,0 @@
-{
-    "name": "Frog spawn",
-    "id": 5004,
-    "members": false,
-    "examine": "That's disgusting!",
-    "value": 5,
-    "weight": 0.5
-}

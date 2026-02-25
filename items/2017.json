@@ -1,9 +1,0 @@
-{
-    "name": "Whisky",
-    "id": 2017,
-    "members": false,
-    "examine": "A bottle of Draynor Malt.",
-    "value": 5,
-    "weight": 1.0,
-    "buyLimit": 13000
-}

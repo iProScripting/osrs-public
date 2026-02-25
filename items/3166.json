@@ -1,8 +1,0 @@
-{
-    "name": "Monkey corpse",
-    "id": 3166,
-    "members": false,
-    "examine": "It's the body of a dead monkey.",
-    "value": 1,
-    "weight": 1.0
-}

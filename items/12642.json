@@ -1,9 +1,0 @@
-{
-    "name": "Lumberyard teleport",
-    "id": 12642,
-    "members": false,
-    "examine": "Teleports you to the Lumberyard.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 15000
-}

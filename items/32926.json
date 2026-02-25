@@ -1,8 +1,0 @@
-{
-    "name": "Serving platter",
-    "id": 32926,
-    "members": false,
-    "examine": "I can carry food and drinks on this.",
-    "value": 50,
-    "weight": 0.05
-}

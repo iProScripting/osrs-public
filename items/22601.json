@@ -1,9 +1,0 @@
-{
-    "name": "Stony basalt",
-    "id": 22601,
-    "members": false,
-    "examine": "The crushed rock seems to glow and is warm to the touch.",
-    "value": 90,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Uncooked botanical pie",
-    "id": 19656,
-    "members": false,
-    "examine": "This would be much tastier cooked.",
-    "value": 16,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

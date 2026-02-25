@@ -1,9 +1,0 @@
-{
-    "name": "Oranges",
-    "id": 5396,
-    "members": false,
-    "examine": "A fruit basket filled with oranges.",
-    "value": 1,
-    "weight": 0.17,
-    "buyLimit": 600
-}

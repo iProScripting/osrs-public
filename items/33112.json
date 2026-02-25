@@ -1,0 +1,8 @@
+{
+    "name": "Burnt t-bone steak",
+    "id": 33112,
+    "members": false,
+    "examine": "Looks a bit overdone if you ask me.",
+    "value": 10,
+    "weight": 0.34
+}

@@ -1,8 +1,0 @@
-{
-    "name": "Uncooked pizza",
-    "id": 2287,
-    "members": false,
-    "examine": "This needs cooking.",
-    "value": 25,
-    "weight": 0.8
-}

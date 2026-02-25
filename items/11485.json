@@ -1,9 +1,0 @@
-{
-    "name": "Super str. mix",
-    "id": 11485,
-    "members": false,
-    "examine": "Two doses of fishy super Strength potion.",
-    "value": 165,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

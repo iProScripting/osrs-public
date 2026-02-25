@@ -1,8 +1,0 @@
-{
-    "name": "Meter",
-    "id": 10988,
-    "members": false,
-    "examine": "A broken meter.",
-    "value": 0,
-    "weight": 1.0
-}

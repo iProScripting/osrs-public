@@ -1,9 +1,0 @@
-{
-    "name": "Forester's ration",
-    "id": 28157,
-    "members": false,
-    "examine": "Mmm this looks tasty.",
-    "value": 4,
-    "weight": 0.0,
-    "buyLimit": 6000
-}

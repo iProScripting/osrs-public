@@ -1,9 +1,0 @@
-{
-    "name": "Raw bear meat",
-    "id": 2136,
-    "members": false,
-    "examine": "I need to cook this first.",
-    "value": 1,
-    "weight": 0.425,
-    "buyLimit": 13000
-}

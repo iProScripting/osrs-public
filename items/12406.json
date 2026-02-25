@@ -1,9 +1,0 @@
-{
-    "name": "Mort'ton teleport",
-    "id": 12406,
-    "members": false,
-    "examine": "Teleports you to Mort'ton.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

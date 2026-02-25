@@ -10,7 +10,11 @@
     ],
     "hitpoints": 330,
     "maxHit": [
-        "38"
+        "29 (Melee)",
+        "31 (Ranged)",
+        "26 (Magic)",
+        "40 (range special)",
+        "50 (Dragonfire)"
     ],
     "usesSkill": [
     ],
@@ -24,14 +28,14 @@
         "magicDamage": 16
     },
     "defenceBonuses": {
-        "stab": 30,
+        "stab": 20,
         "slash": 115,
         "crush": 90,
         "magic": 30,
         "ranged": 95,
         "lightRanged": 95,
         "standardRanged": 95,
-        "heavyRanged": 95
+        "heavyRanged": 50
     },
     "immunities": {
         "poison": true,

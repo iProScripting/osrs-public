@@ -1,8 +1,0 @@
-{
-    "name": "Poisoned dagger (unobtainable item)",
-    "id": 1235,
-    "members": false,
-    "examine": "The blade is covered with poison.",
-    "value": 565,
-    "weight": 0.453
-}

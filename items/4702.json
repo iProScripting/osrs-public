@@ -1,8 +1,0 @@
-{
-    "name": "Sapphire lantern",
-    "id": 4702,
-    "members": false,
-    "examine": "A lantern casting a bright blue beam.",
-    "value": 600,
-    "weight": 1.36
-}

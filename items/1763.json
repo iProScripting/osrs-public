@@ -1,9 +1,0 @@
-{
-    "name": "Red dye",
-    "id": 1763,
-    "members": false,
-    "examine": "A little bottle of red dye.",
-    "value": 5,
-    "weight": 0.02,
-    "buyLimit": 150
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Toadflax",
-    "id": 2998,
-    "members": false,
-    "examine": "A useful herb.",
-    "value": 48,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

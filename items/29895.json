@@ -1,9 +1,0 @@
-{
-    "name": "Frozen tear",
-    "id": 29895,
-    "members": false,
-    "examine": "A strange glowing tear.",
-    "value": 500,
-    "weight": 0.0,
-    "buyLimit": 13000
-}

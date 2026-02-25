@@ -1,9 +1,0 @@
-{
-    "name": "Steel limbs",
-    "id": 9425,
-    "members": false,
-    "examine": "A pair of steel crossbow limbs.",
-    "value": 250,
-    "weight": 2.0,
-    "buyLimit": 10000
-}

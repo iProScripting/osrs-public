@@ -1,9 +1,0 @@
-{
-    "name": "Willow pyre logs",
-    "id": 3442,
-    "members": false,
-    "examine": "Willow logs prepared with sacred oil for a funeral pyre.",
-    "value": 80,
-    "weight": 1.36,
-    "buyLimit": 11000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Fine fish offcuts",
-    "id": 32307,
-    "members": false,
-    "examine": "Slices of fine inedible fish.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 8000
-}

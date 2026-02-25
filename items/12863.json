@@ -1,9 +1,0 @@
-{
-    "name": "Dwarf cannon set",
-    "id": 12863,
-    "members": false,
-    "examine": "A set containing the four parts of the Dwarf Multicannon.",
-    "value": 600000,
-    "weight": 0.1,
-    "buyLimit": 40
-}

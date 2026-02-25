@@ -1,8 +1,0 @@
-{
-    "name": "Stone right leg",
-    "id": 7000,
-    "members": false,
-    "examine": "The right leg of a large stone statue.",
-    "value": 1,
-    "weight": 9.0
-}

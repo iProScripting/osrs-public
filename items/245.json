@@ -1,9 +1,0 @@
-{
-    "name": "Wine of zamorak",
-    "id": 245,
-    "members": false,
-    "examine": "An evil wine for an evil god.",
-    "value": 1,
-    "weight": 0.085,
-    "buyLimit": 11000
-}

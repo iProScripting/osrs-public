@@ -1,9 +1,0 @@
-{
-    "name": "Divine super defence potion",
-    "id": 23730,
-    "members": false,
-    "examine": "1 dose of divine super defence potion.",
-    "value": 40,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

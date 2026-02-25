@@ -1,9 +1,0 @@
-{
-    "name": "Raw swordfish",
-    "id": 371,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 80,
-    "weight": 0.5,
-    "buyLimit": 15000
-}

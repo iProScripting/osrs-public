@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the menacing mage",
-    "id": 26078,
-    "members": false,
-    "examine": "Upon dealing magic damage, you have a 15% chance to curse the target. The curse deals 18 damage (33% less damage in 3-60 worlds) over the next 6 seconds and also heals you for the same amount. A target can only be under the effect of one curse at a time.",
-    "value": 1,
-    "weight": 0.1
-}

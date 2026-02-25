@@ -1,8 +1,0 @@
-{
-    "name": "Snake charm",
-    "id": 4605,
-    "members": false,
-    "examine": "Makes a hissing sound.",
-    "value": 1,
-    "weight": 0.1
-}

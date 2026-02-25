@@ -1,9 +1,0 @@
-{
-    "name": "Swift albatross feather",
-    "id": 31952,
-    "members": false,
-    "examine": "An elegant feather from an albatross. Not so swift anymore.",
-    "value": 8000,
-    "weight": 0.0,
-    "buyLimit": 15
-}

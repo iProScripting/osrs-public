@@ -1,9 +1,0 @@
-{
-    "name": "Pineapple",
-    "id": 2114,
-    "members": false,
-    "examine": "It can be cut up into something more manageable with a knife.",
-    "value": 2,
-    "weight": 0.15,
-    "buyLimit": 13000
-}

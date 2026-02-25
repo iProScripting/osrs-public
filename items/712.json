@@ -1,8 +1,0 @@
-{
-    "name": "Cup of tea (unobtainable item)",
-    "id": 712,
-    "members": false,
-    "examine": "A refreshing cuppa.",
-    "value": 1,
-    "weight": 0.15
-}

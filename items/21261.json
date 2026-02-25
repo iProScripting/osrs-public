@@ -1,8 +1,0 @@
-{
-    "name": "Mysterious orb (Client of Kourend)",
-    "id": 21261,
-    "members": false,
-    "examine": "Veos' client has requested me to activate this near the Dark Altar.",
-    "value": 1,
-    "weight": 0.001
-}

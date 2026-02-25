@@ -1,9 +1,0 @@
-{
-    "name": "Compost",
-    "id": 6032,
-    "members": false,
-    "examine": "Good for plants, helps them grow.",
-    "value": 20,
-    "weight": 3.0,
-    "buyLimit": 2000
-}

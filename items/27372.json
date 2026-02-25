@@ -1,8 +1,0 @@
-{
-    "name": "Masori crafting kit",
-    "id": 27372,
-    "members": false,
-    "examine": "Supplies that could be used to make Masori-themed equipment.",
-    "value": 1000,
-    "weight": 0.5
-}

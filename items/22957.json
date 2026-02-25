@@ -1,9 +1,0 @@
-{
-    "name": "Drake's claw",
-    "id": 22957,
-    "members": false,
-    "examine": "The claw of a ferocious drake. They could be combined with the boots of stone.",
-    "value": 100000,
-    "weight": 0.001,
-    "buyLimit": 15
-}

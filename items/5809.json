@@ -1,9 +1,0 @@
-{
-    "name": "Dragon bitter (keg)",
-    "id": 5809,
-    "members": false,
-    "examine": "This keg contains 4 pints of Dragon Bitter.",
-    "value": 1,
-    "weight": 0.028,
-    "buyLimit": 2000
-}

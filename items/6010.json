@@ -1,9 +1,0 @@
-{
-    "name": "Marigolds",
-    "id": 6010,
-    "members": false,
-    "examine": "A bunch of marigolds.",
-    "value": 1,
-    "weight": 0.028,
-    "buyLimit": 600
-}

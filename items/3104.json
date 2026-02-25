@@ -1,8 +1,0 @@
-{
-    "name": "Secret way map",
-    "id": 3104,
-    "members": false,
-    "examine": "This map shows the secret way up to Death Plateau.",
-    "value": 1,
-    "weight": 0.005
-}

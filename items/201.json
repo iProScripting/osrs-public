@@ -1,9 +1,0 @@
-{
-    "name": "Grimy marrentill",
-    "id": 201,
-    "members": false,
-    "examine": "It needs cleaning.",
-    "value": 14,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Sweetcorn",
-    "id": 5986,
-    "members": false,
-    "examine": "Raw sweetcorn.",
-    "value": 9,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

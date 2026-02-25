@@ -1,8 +1,0 @@
-{
-    "name": "Torch (animation item, Trouble Brewing)",
-    "id": 8987,
-    "members": false,
-    "examine": "A flaming torch.",
-    "value": 1,
-    "weight": 0.003
-}

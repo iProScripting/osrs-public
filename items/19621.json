@@ -1,9 +1,0 @@
-{
-    "name": "Fenkenstrain's castle teleport (tablet)",
-    "id": 19621,
-    "members": false,
-    "examine": "A teleport to Fenkenstrain's Castle.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

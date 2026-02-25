@@ -1,8 +1,0 @@
-{
-    "name": "Reagent pouch",
-    "id": 29996,
-    "members": false,
-    "examine": "A pouch for storing herblore potion ingredients.",
-    "value": 100,
-    "weight": 2.0
-}

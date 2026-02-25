@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - A crate found in the tower of a church",
-    "id": 2711,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

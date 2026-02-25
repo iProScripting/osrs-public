@@ -1,8 +1,0 @@
-{
-    "name": "Torn robe (bottom)",
-    "id": 6789,
-    "members": false,
-    "examine": "This robe is too torn to wear.",
-    "value": 1,
-    "weight": 0.005
-}

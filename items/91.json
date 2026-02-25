@@ -1,9 +1,0 @@
-{
-    "name": "Guam potion (unf)",
-    "id": 91,
-    "members": false,
-    "examine": "I need another ingredient to finish this Guam potion.",
-    "value": 3,
-    "weight": 0.056,
-    "buyLimit": 10000
-}

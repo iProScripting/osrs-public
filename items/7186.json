@@ -1,9 +1,0 @@
-{
-    "name": "Raw fish pie",
-    "id": 7186,
-    "members": false,
-    "examine": "Raw fish is risky, better cook it.",
-    "value": 50,
-    "weight": 0.001,
-    "buyLimit": 13000
-}

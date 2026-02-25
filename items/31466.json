@@ -1,9 +1,0 @@
-{
-    "name": "Hemp yarn",
-    "id": 31466,
-    "members": false,
-    "examine": "Spun from hemp.",
-    "value": 35,
-    "weight": 0.1,
-    "buyLimit": 13000
-}

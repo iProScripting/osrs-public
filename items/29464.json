@@ -1,8 +1,0 @@
-{
-    "name": "Large meat pouch",
-    "id": 29464,
-    "members": false,
-    "examine": "A large pouch for carrying raw meat.",
-    "value": 7500,
-    "weight": 1.0
-}

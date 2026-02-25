@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of rampage",
-    "id": 26135,
-    "members": false,
-    "examine": "Alternating combat styles will increase your rampage count, up to a maximum of 2. Consecutive attacks with the same style will reset the counter. Each rampage count increases your damage and accuracy by 7%. Your rampage count will reset after not attacking for 6 seconds.\nThis sigil does not stack with the Sigil of Aggression.",
-    "value": 1,
-    "weight": 0.1
-}

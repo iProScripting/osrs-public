@@ -1,9 +1,0 @@
-{
-    "name": "Tarromin seed",
-    "id": 5293,
-    "members": false,
-    "examine": "A tarromin seed - plant in a herb patch.",
-    "value": 3,
-    "weight": 0.0,
-    "buyLimit": 600
-}

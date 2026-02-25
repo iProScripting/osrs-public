@@ -1,8 +1,0 @@
-{
-    "name": "Necromancy book",
-    "id": 4837,
-    "members": false,
-    "examine": "A book of necromantic spells.",
-    "value": 1,
-    "weight": 1.0
-}

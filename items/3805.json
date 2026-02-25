@@ -1,8 +1,0 @@
-{
-    "name": "Tankard",
-    "id": 3805,
-    "members": false,
-    "examine": "A big cup for a big thirst.",
-    "value": 5,
-    "weight": 0.05
-}

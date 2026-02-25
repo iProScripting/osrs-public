@@ -1,0 +1,13 @@
+{
+    "name": "Lizard man (Realm of Memories)",
+    "id": 15612,
+    "isMembersOnly": false,
+    "examine": "Long before Xeric, the world still dreamed of lizard men...",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 2
+}

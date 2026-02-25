@@ -1,9 +1,0 @@
-{
-    "name": "Tatty kyatt fur",
-    "id": 10101,
-    "members": false,
-    "examine": "It's a shabby-looking kyatt fur.",
-    "value": 120,
-    "weight": 2.0,
-    "buyLimit": 10000
-}

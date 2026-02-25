@@ -1,8 +1,0 @@
-{
-    "name": "Thieving tome",
-    "id": 7787,
-    "members": false,
-    "examine": "A tome of learning which focuses on Thieving.",
-    "value": 5000,
-    "weight": 1.0
-}

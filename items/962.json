@@ -1,9 +1,0 @@
-{
-    "name": "Christmas cracker",
-    "id": 962,
-    "members": false,
-    "examine": "I need to pull this.",
-    "value": 1,
-    "weight": 0.2,
-    "buyLimit": 4
-}

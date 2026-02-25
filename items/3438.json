@@ -1,9 +1,0 @@
-{
-    "name": "Pyre logs",
-    "id": 3438,
-    "members": false,
-    "examine": "Logs prepared with sacred oil for a funeral pyre.",
-    "value": 8,
-    "weight": 1.36,
-    "buyLimit": 11000
-}

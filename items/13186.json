@@ -1,8 +1,0 @@
-{
-    "name": "Volatile mineral",
-    "id": 13186,
-    "members": false,
-    "examine": "Might explode if it hits the ground hard enough.",
-    "value": 1,
-    "weight": 0.0
-}

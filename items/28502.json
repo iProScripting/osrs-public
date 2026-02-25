@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the infernal chef",
-    "id": 28502,
-    "members": false,
-    "examine": "You have a 50% chance to instantly cook fish that are caught while Fishing, granting Cooking XP regardless of level requirements.",
-    "value": 10000,
-    "weight": 0.4
-}

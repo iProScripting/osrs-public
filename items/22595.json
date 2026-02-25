@@ -1,9 +1,0 @@
-{
-    "name": "Efh salt",
-    "id": 22595,
-    "members": false,
-    "examine": "A blue salt, that when burned with other salts provides various benefits.",
-    "value": 11,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

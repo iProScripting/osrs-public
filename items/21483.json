@@ -1,9 +1,0 @@
-{
-    "name": "Ultracompost",
-    "id": 21483,
-    "members": false,
-    "examine": "Ultra-good for the smallest or largest of plants.",
-    "value": 85,
-    "weight": 3.0,
-    "buyLimit": 2000
-}

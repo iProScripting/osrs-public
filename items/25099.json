@@ -1,9 +1,0 @@
-{
-    "name": "Trailblazer graceful ornament kit",
-    "id": 25099,
-    "members": false,
-    "examine": "An ornament kit which can be used to recolour a piece of graceful clothing.",
-    "value": 25000,
-    "weight": 0.1,
-    "buyLimit": 6
-}

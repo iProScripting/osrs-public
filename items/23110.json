@@ -1,9 +1,0 @@
-{
-    "name": "Mystic set (light)",
-    "id": 23110,
-    "members": false,
-    "examine": "A set containing light mystic hat, robe top and bottom, gloves and boots.",
-    "value": 235000,
-    "weight": 0.05,
-    "buyLimit": 70
-}

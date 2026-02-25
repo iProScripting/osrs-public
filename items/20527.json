@@ -1,8 +1,0 @@
-{
-    "name": "Survival token",
-    "id": 20527,
-    "members": false,
-    "examine": "This can be used to claim items from vending shrines.",
-    "value": 1,
-    "weight": 0.0
-}

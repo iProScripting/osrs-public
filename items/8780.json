@@ -1,9 +1,0 @@
-{
-    "name": "Teak plank",
-    "id": 8780,
-    "members": false,
-    "examine": "A plank of fine teak.",
-    "value": 500,
-    "weight": 0.8,
-    "buyLimit": 13000
-}

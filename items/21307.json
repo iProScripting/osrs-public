@@ -1,8 +1,0 @@
-{
-    "name": "Rogue's equipment crate",
-    "id": 21307,
-    "members": false,
-    "examine": "It has a piece of Rogue equipment inside!",
-    "value": 1,
-    "weight": 0.453
-}

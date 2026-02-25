@@ -1,9 +1,0 @@
-{
-    "name": "Yew bird house",
-    "id": 22198,
-    "members": false,
-    "examine": "Feed and catch the birds by placing this in the right spot.",
-    "value": 5,
-    "weight": 0.453,
-    "buyLimit": 250
-}

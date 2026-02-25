@@ -1,8 +1,0 @@
-{
-    "name": "Hay sack",
-    "id": 6058,
-    "members": false,
-    "examine": "This sack of hay has a bronze spear sticking through it.",
-    "value": 1,
-    "weight": 0.113
-}

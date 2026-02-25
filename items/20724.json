@@ -1,9 +1,0 @@
-{
-    "name": "Imbued heart",
-    "id": 20724,
-    "members": false,
-    "examine": "This heart holds a magical power within.",
-    "value": 500000,
-    "weight": 0.35,
-    "buyLimit": 8
-}

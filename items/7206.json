@@ -1,9 +1,0 @@
-{
-    "name": "Raw wild pie",
-    "id": 7206,
-    "members": false,
-    "examine": "Good as it looks, I'd better cook it.",
-    "value": 91,
-    "weight": 0.001,
-    "buyLimit": 13000
-}

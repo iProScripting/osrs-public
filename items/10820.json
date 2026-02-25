@@ -1,9 +1,0 @@
-{
-    "name": "Cured yak-hide",
-    "id": 10820,
-    "members": false,
-    "examine": "Ready to be cut and sewn into armour.",
-    "value": 100,
-    "weight": 0.453,
-    "buyLimit": 13000
-}

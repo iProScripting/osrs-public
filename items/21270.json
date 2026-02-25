@@ -1,9 +1,0 @@
-{
-    "name": "Eternal gem",
-    "id": 21270,
-    "members": false,
-    "examine": "Like the enchanted gem sold by Slayer Masters, only with an eternal charge.",
-    "value": 9500,
-    "weight": 0.004,
-    "buyLimit": 8
-}

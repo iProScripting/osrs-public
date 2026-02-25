@@ -1,8 +1,0 @@
-{
-    "name": "Clothes pouch",
-    "id": 28163,
-    "members": false,
-    "examine": "A pouch for your dirty work clothes!",
-    "value": 100,
-    "weight": 1.0
-}

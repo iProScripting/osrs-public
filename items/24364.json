@@ -1,8 +1,0 @@
-{
-    "name": "Scroll box (hard)",
-    "id": 24364,
-    "members": false,
-    "examine": "Contains a hard clue scroll.",
-    "value": 50,
-    "weight": 0.0
-}

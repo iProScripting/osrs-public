@@ -1,9 +1,0 @@
-{
-    "name": "Krandorian seed",
-    "id": 5310,
-    "members": false,
-    "examine": "A Krandorian hop seed - plant in a hops patch.",
-    "value": 8,
-    "weight": 0.0,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Wool",
-    "id": 1737,
-    "members": false,
-    "examine": "Nice and fluffy.",
-    "value": 1,
-    "weight": 0.003,
-    "buyLimit": 13000
-}

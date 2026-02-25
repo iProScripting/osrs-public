@@ -1,9 +1,0 @@
-{
-    "name": "Egg",
-    "id": 1944,
-    "members": false,
-    "examine": "A nice fresh egg.",
-    "value": 4,
-    "weight": 0.02,
-    "buyLimit": 13000
-}

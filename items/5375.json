@@ -1,8 +1,0 @@
-{
-    "name": "Spirit sapling",
-    "id": 5375,
-    "members": false,
-    "examine": "This sapling is ready to be replanted in a Spirit patch.",
-    "value": 1,
-    "weight": 0.907
-}

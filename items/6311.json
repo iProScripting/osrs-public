@@ -1,9 +1,0 @@
-{
-    "name": "Gout tuber",
-    "id": 6311,
-    "members": false,
-    "examine": "Plant this in a herb patch to grow Goutweed.",
-    "value": 200,
-    "weight": 0.2,
-    "buyLimit": 5
-}

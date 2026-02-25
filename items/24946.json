@@ -1,8 +1,0 @@
-{
-    "name": "Hallowed sack",
-    "id": 24946,
-    "members": false,
-    "examine": "Contains a bounty of treasures found within the Hallowed Sepulchre.",
-    "value": 100,
-    "weight": 1.0
-}

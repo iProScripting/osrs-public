@@ -1,9 +1,0 @@
-{
-    "name": "Pizza base",
-    "id": 2283,
-    "members": false,
-    "examine": "I need to add some tomato next.",
-    "value": 4,
-    "weight": 0.1,
-    "buyLimit": 11000
-}

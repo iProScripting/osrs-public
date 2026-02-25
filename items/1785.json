@@ -1,9 +1,0 @@
-{
-    "name": "Glassblowing pipe",
-    "id": 1785,
-    "members": false,
-    "examine": "Used to form molten glass into useful items.",
-    "value": 2,
-    "weight": 0.056,
-    "buyLimit": 40
-}

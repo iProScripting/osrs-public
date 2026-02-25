@@ -1,9 +1,0 @@
-{
-    "name": "Dust (item)",
-    "id": 30328,
-    "members": false,
-    "examine": "What you have here is some totally worthless dust. Excellent stuff!",
-    "value": 2,
-    "weight": 0.056,
-    "buyLimit": 250
-}

@@ -9,10 +9,12 @@
     "maxHit": [
         "10"
     ],
+    "slayerExperience": 35.8,
     "slayerCategory": [
         "Spiders"
     ],
     "usesSkill": [
+        "Slayer"
     ],
     "assignedBy": [
         "TURTAEL",

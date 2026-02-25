@@ -1,9 +1,0 @@
-{
-    "name": "Seaweed",
-    "id": 401,
-    "members": false,
-    "examine": "Slightly damp seaweed.",
-    "value": 2,
-    "weight": 0.2,
-    "buyLimit": 13000
-}

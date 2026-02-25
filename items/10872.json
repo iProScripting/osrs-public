@@ -1,8 +1,0 @@
-{
-    "name": "Pipe ring",
-    "id": 10872,
-    "members": false,
-    "examine": "A ring used to join two pipes together.",
-    "value": 1,
-    "weight": 0.4
-}

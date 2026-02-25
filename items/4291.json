@@ -1,8 +1,0 @@
-{
-    "name": "Cooked chicken (undead)",
-    "id": 4291,
-    "members": false,
-    "examine": "This cooked chicken looks disgusting.",
-    "value": 4,
-    "weight": 0.141
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Steel dart tip",
-    "id": 821,
-    "members": false,
-    "examine": "A deadly-looking dart tip made of steel - needs feathers for flight.",
-    "value": 5,
-    "weight": 0.0,
-    "buyLimit": 13000
-}

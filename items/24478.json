@@ -1,8 +1,0 @@
-{
-    "name": "Herb sack",
-    "id": 24478,
-    "members": false,
-    "examine": "A sack for storing grimy herbs.",
-    "value": 1,
-    "weight": 1.0
-}

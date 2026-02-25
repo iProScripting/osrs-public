@@ -1,9 +1,0 @@
-{
-    "name": "Mith grapple (unf)",
-    "id": 9418,
-    "members": false,
-    "examine": "A mithril grapple tipped bolt - needs a rope.",
-    "value": 48,
-    "weight": 0.001,
-    "buyLimit": 11000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Ruby",
-    "id": 1603,
-    "members": false,
-    "examine": "This looks valuable.",
-    "value": 1000,
-    "weight": 0.002,
-    "buyLimit": 13000
-}

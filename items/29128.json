@@ -1,9 +1,0 @@
-{
-    "name": "Cooked wild kebbit",
-    "id": 29128,
-    "members": false,
-    "examine": "Mmm, this looks tasty.",
-    "value": 4,
-    "weight": 0.283,
-    "buyLimit": 10000
-}

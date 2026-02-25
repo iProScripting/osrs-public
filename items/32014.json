@@ -1,9 +1,0 @@
-{
-    "name": "Rune keel parts",
-    "id": 32014,
-    "members": false,
-    "examine": "Parts for creating a runite keel for a boat.",
-    "value": 20000,
-    "weight": 4.0,
-    "buyLimit": 100
-}

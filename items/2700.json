@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the drawers in Catherby's Archery shop",
-    "id": 2700,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

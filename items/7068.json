@@ -1,9 +1,0 @@
-{
-    "name": "Tuna and corn",
-    "id": 7068,
-    "members": false,
-    "examine": "A bowl of cooked tuna and sweetcorn.",
-    "value": 113,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

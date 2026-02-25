@@ -1,9 +1,0 @@
-{
-    "name": "Maple roots",
-    "id": 6047,
-    "members": false,
-    "examine": "The roots of the Maple tree.",
-    "value": 1,
-    "weight": 0.001,
-    "buyLimit": 11000
-}

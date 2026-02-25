@@ -1,9 +1,0 @@
-{
-    "name": "Dragon bones",
-    "id": 536,
-    "members": false,
-    "examine": "These would feed a dog for months!",
-    "value": 160,
-    "weight": 1.5,
-    "buyLimit": 7500
-}

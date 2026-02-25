@@ -1,9 +1,0 @@
-{
-    "name": "Swamp paste",
-    "id": 1941,
-    "members": false,
-    "examine": "A tar-like substance mixed with flour and warmed.",
-    "value": 30,
-    "weight": 0.0,
-    "buyLimit": 13000
-}

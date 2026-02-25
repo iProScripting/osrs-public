@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of restoration",
-    "id": 29670,
-    "members": false,
-    "examine": "Upon a successful hit, your Hitpoints are restored by 10% of the damage dealt, rounded up. Excludes attacks on multiple targets and special attacks.",
-    "value": 1,
-    "weight": 0.1
-}

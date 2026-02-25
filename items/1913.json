@@ -1,9 +1,0 @@
-{
-    "name": "Dwarven stout",
-    "id": 1913,
-    "members": false,
-    "examine": "A pint of thick dark beer.",
-    "value": 2,
-    "weight": 0.55,
-    "buyLimit": 2000
-}

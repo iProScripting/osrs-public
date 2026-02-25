@@ -1,9 +1,0 @@
-{
-    "name": "Stamina potion",
-    "id": 12625,
-    "members": false,
-    "examine": "4 doses of stamina potion.",
-    "value": 400,
-    "weight": 0.035,
-    "buyLimit": 2000
-}

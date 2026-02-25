@@ -1,9 +1,0 @@
-{
-    "name": "Supercompost",
-    "id": 6034,
-    "members": false,
-    "examine": "Super-good for the smallest or largest of plants.",
-    "value": 85,
-    "weight": 3.0,
-    "buyLimit": 2000
-}

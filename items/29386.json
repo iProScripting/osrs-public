@@ -1,8 +1,0 @@
-{
-    "name": "Jug of blessed wine",
-    "id": 29386,
-    "members": false,
-    "examine": "A jug of wine that's been blessed by Ralos.",
-    "value": 1,
-    "weight": 0.3
-}

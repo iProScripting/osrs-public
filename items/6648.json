@@ -1,8 +1,0 @@
-{
-    "name": "Item list",
-    "id": 6648,
-    "members": false,
-    "examine": "It's a list of items I need to collect.",
-    "value": 1,
-    "weight": 0.028
-}

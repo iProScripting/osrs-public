@@ -1,9 +1,0 @@
-{
-    "name": "Runescroll of bloodbark",
-    "id": 25481,
-    "members": false,
-    "examine": "A rough scroll with faint writing, on a malevolent dark red parchment.",
-    "value": 600,
-    "weight": 0.015,
-    "buyLimit": 50
-}

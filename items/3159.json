@@ -1,9 +1,0 @@
-{
-    "name": "Karambwan vessel",
-    "id": 3159,
-    "members": false,
-    "examine": "This Karambwan Vessel is loaded with Karambwanji.",
-    "value": 40,
-    "weight": 3.15,
-    "buyLimit": 15
-}

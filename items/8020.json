@@ -1,9 +1,0 @@
-{
-    "name": "Enchant dragonstone",
-    "id": 8020,
-    "members": false,
-    "examine": "A tablet containing a magic spell.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

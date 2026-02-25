@@ -1,9 +1,0 @@
-{
-    "name": "Log brace",
-    "id": 28146,
-    "members": false,
-    "examine": "With some rope, adamantite bars and steel nails, I can create a sturdy harness.",
-    "value": 3000,
-    "weight": 0.907,
-    "buyLimit": 40
-}

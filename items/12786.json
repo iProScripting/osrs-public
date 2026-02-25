@@ -1,9 +1,0 @@
-{
-    "name": "Magic shortbow scroll",
-    "id": 12786,
-    "members": false,
-    "examine": "Use on a Magic shortbow to imbue the bow.",
-    "value": 5000,
-    "weight": 0.002,
-    "buyLimit": 10000
-}

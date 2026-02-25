@@ -1,9 +1,0 @@
-{
-    "name": "Dragon metal sheet",
-    "id": 31996,
-    "members": false,
-    "examine": "A very old sheet of dragon metal.",
-    "value": 50000,
-    "weight": 1.814,
-    "buyLimit": 64
-}

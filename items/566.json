@@ -1,9 +1,0 @@
-{
-    "name": "Soul rune",
-    "id": 566,
-    "members": false,
-    "examine": "Used for high level curse spells.",
-    "value": 300,
-    "weight": 0.0,
-    "buyLimit": 25000
-}

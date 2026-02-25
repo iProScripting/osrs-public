@@ -1,9 +1,0 @@
-{
-    "name": "Desert goat horn",
-    "id": 9735,
-    "members": false,
-    "examine": "Not much good for blowing.",
-    "value": 12,
-    "weight": 0.453,
-    "buyLimit": 13000
-}

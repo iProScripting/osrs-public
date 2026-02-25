@@ -1,9 +1,0 @@
-{
-    "name": "Leaves",
-    "id": 6020,
-    "members": false,
-    "examine": "A pile of leaves.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 13000
-}

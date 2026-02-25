@@ -1,9 +1,0 @@
-{
-    "name": "Saradomin's light",
-    "id": 13256,
-    "members": false,
-    "examine": "The starlight enlightens your mind to dispel the darkness of Zamorakian evil.",
-    "value": 34600,
-    "weight": 0.25,
-    "buyLimit": 5
-}

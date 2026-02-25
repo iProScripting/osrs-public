@@ -1,9 +1,0 @@
-{
-    "name": "Strength mix",
-    "id": 11441,
-    "members": false,
-    "examine": "One dose of fishy strength potion.",
-    "value": 11,
-    "weight": 0.045,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Potato",
-    "id": 1942,
-    "members": false,
-    "examine": "This could be used to make a good stew.",
-    "value": 1,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

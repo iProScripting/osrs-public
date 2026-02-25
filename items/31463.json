@@ -1,9 +1,0 @@
-{
-    "name": "Linen yarn",
-    "id": 31463,
-    "members": false,
-    "examine": "Spun from flax.",
-    "value": 6,
-    "weight": 0.1,
-    "buyLimit": 13000
-}

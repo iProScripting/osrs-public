@@ -1,9 +1,0 @@
-{
-    "name": "Torva platelegs",
-    "id": 26380,
-    "members": false,
-    "examine": "An ancient warrior's platelegs.",
-    "value": 400000,
-    "weight": 9.071,
-    "buyLimit": 8
-}

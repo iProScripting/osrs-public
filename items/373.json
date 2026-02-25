@@ -1,9 +1,0 @@
-{
-    "name": "Swordfish",
-    "id": 373,
-    "members": false,
-    "examine": "I'd better be careful eating this!",
-    "value": 80,
-    "weight": 0.45,
-    "buyLimit": 6000
-}

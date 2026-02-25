@@ -1,9 +1,0 @@
-{
-    "name": "Ogre coffin key",
-    "id": 4850,
-    "members": false,
-    "examine": "A key which opens coffins! (Opens the locked coffins in the cave at Jiggig).",
-    "value": 100,
-    "weight": 0.055,
-    "buyLimit": 3000
-}

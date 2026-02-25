@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of finality",
-    "id": 26126,
-    "members": false,
-    "examine": "Activate the sigil to guarantee 100% accuracy on your next special attack within the next 12 seconds. Once activated, the sigil has a 10 second cooldown.",
-    "value": 1,
-    "weight": 0.1
-}

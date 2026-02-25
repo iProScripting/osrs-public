@@ -1,9 +1,0 @@
-{
-    "name": "Trailblazer rug",
-    "id": 25096,
-    "members": false,
-    "examine": "A rug which can be built into a rug hotspot in your PoH League Trophy Room.",
-    "value": 50000,
-    "weight": 0.1,
-    "buyLimit": 5
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Hallowed crystal shard",
-    "id": 24709,
-    "members": false,
-    "examine": "A teleport crystal for the Hallowed Sepulchre lobby.",
-    "value": 1000,
-    "weight": 0.0
-}

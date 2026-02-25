@@ -1,8 +1,0 @@
-{
-    "name": "Wrought iron key",
-    "id": 1843,
-    "members": false,
-    "examine": "This key unlocks a very sturdy gate of some sort. Ana gave me this key (Access to the Desert Mining Camp's mine).",
-    "value": 1,
-    "weight": 0.01
-}

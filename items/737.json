@@ -1,8 +1,0 @@
-{
-    "name": "Snakeweed mixture",
-    "id": 737,
-    "members": false,
-    "examine": "It's a mixture of Snakeweed and water. Needs another ingredient.",
-    "value": 1,
-    "weight": 0.025
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Oak logs",
-    "id": 1521,
-    "members": false,
-    "examine": "Logs cut from an oak tree.",
-    "value": 20,
-    "weight": 2.0,
-    "buyLimit": 15000
-}

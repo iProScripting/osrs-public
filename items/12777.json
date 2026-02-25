@@ -1,9 +1,0 @@
-{
-    "name": "Dareeyak teleport (tablet)",
-    "id": 12777,
-    "members": false,
-    "examine": "A teleport to Dareeyak, in level 23 Wilderness.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Sliding piece (Troll)",
-    "id": 3665,
-    "members": false,
-    "examine": "A piece of the puzzle",
-    "value": 1,
-    "weight": 0.001
-}

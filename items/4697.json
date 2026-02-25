@@ -1,9 +1,0 @@
-{
-    "name": "Smoke rune",
-    "id": 4697,
-    "members": false,
-    "examine": "A combined Air and Fire Rune.",
-    "value": 20,
-    "weight": 0.0,
-    "buyLimit": 18000
-}

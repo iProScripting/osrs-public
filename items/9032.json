@@ -1,9 +1,0 @@
-{
-    "name": "Pottery scarab",
-    "id": 9032,
-    "members": false,
-    "examine": "Little ornament in the shape of a scarab.",
-    "value": 10,
-    "weight": 0.01,
-    "buyLimit": 13000
-}

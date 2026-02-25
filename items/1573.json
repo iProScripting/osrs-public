@@ -1,9 +1,0 @@
-{
-    "name": "Doogle leaves",
-    "id": 1573,
-    "members": false,
-    "examine": "A tasty herb, good for seasoning.",
-    "value": 2,
-    "weight": 0.007,
-    "buyLimit": 15
-}

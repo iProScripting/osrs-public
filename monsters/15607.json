@@ -1,0 +1,14 @@
+{
+    "name": "Greater demon (Realm of Memories)",
+    "id": 15607,
+    "isMembersOnly": false,
+    "examine": "Greater and also slightly boxy.",
+    "releaseDate": "6 January 2021",
+    "hitpoints": 89,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 3
+}

@@ -1,9 +1,0 @@
-{
-    "name": "Steel bolts (unf)",
-    "id": 9378,
-    "members": false,
-    "examine": "Unfeathered steel crossbow bolts.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 13000
-}

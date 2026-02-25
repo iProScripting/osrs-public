@@ -1,9 +1,0 @@
-{
-    "name": "Rabbit snare",
-    "id": 10031,
-    "members": false,
-    "examine": "The snare will tighten around animals passing through.",
-    "value": 15,
-    "weight": 0.0,
-    "buyLimit": 250
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Hair",
-    "id": 10814,
-    "members": false,
-    "examine": "I can spin this into rope.",
-    "value": 2,
-    "weight": 0.001,
-    "buyLimit": 13000
-}

@@ -1,0 +1,24 @@
+{
+    "name": "Bull",
+    "id": 15625,
+    "isMembersOnly": false,
+    "examine": "Doesn't skip leg day.",
+    "releaseDate": "25 February 2026",
+    "combatLevel": 30,
+    "hitpoints": 58,
+    "usesSkill": [
+    ],
+    "attackLevel": 12,
+    "defenceLevel": 10,
+    "magicLevel": 8,
+    "defenceBonuses": {
+        "stab": -7,
+        "slash": -7,
+        "crush": -7,
+        "magic": -3
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 5,
+    "size": 3
+}

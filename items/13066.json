@@ -1,9 +1,0 @@
-{
-    "name": "Super potion set",
-    "id": 13066,
-    "members": false,
-    "examine": "A set containing 4-dose vials of Super Attack, Super Strength and Super Defence potions.",
-    "value": 100,
-    "weight": 0.05,
-    "buyLimit": 2000
-}

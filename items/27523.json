@@ -1,8 +1,0 @@
-{
-    "name": "Wood carving",
-    "id": 27523,
-    "members": false,
-    "examine": "A wood carving found in a ruin south east of Mount Quidamortem.",
-    "value": 30,
-    "weight": 0.05
-}

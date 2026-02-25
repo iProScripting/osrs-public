@@ -1,9 +1,0 @@
-{
-    "name": "Rosemary",
-    "id": 6014,
-    "members": false,
-    "examine": "Some rosemary.",
-    "value": 2,
-    "weight": 0.028,
-    "buyLimit": 600
-}

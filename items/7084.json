@@ -1,9 +1,0 @@
-{
-    "name": "Fried onions",
-    "id": 7084,
-    "members": false,
-    "examine": "A bowl of sliced, fried onions.",
-    "value": 7,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

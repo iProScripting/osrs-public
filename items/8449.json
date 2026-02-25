@@ -1,9 +1,0 @@
-{
-    "name": "Tall box hedge (bagged)",
-    "id": 8449,
-    "members": false,
-    "examine": "You can plant this in your garden.",
-    "value": 100000,
-    "weight": 10.0,
-    "buyLimit": 10000
-}

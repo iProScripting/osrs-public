@@ -1,9 +1,0 @@
-{
-    "name": "Grimy kwuarm",
-    "id": 213,
-    "members": false,
-    "examine": "It needs cleaning.",
-    "value": 20,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

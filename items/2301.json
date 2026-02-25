@@ -1,9 +1,0 @@
-{
-    "name": "Pineapple pizza",
-    "id": 2301,
-    "members": false,
-    "examine": "A tropicana pizza.",
-    "value": 100,
-    "weight": 0.9,
-    "buyLimit": 10000
-}

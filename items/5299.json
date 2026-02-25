@@ -1,9 +1,0 @@
-{
-    "name": "Kwuarm seed",
-    "id": 5299,
-    "members": false,
-    "examine": "A kwuarm seed - plant in a herb patch.",
-    "value": 11,
-    "weight": 0.0,
-    "buyLimit": 200
-}

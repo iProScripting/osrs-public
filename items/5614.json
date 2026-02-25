@@ -1,8 +1,0 @@
-{
-    "name": "Magic carpet (animation item)",
-    "id": 5614,
-    "members": false,
-    "examine": "A flying Magic carpet.",
-    "value": 1,
-    "weight": 0.005
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Elf quest lamp",
-    "id": 28552,
-    "members": false,
-    "examine": "Completes the Elf storyline, up to and including Roving Elves.",
-    "value": 1,
-    "weight": 0.1
-}

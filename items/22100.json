@@ -1,9 +1,0 @@
-{
-    "name": "Dragon metal slice",
-    "id": 22100,
-    "members": false,
-    "examine": "A badly damaged slice of dragon metal.",
-    "value": 100000,
-    "weight": 2.721,
-    "buyLimit": 50
-}

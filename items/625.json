@@ -1,8 +1,0 @@
-{
-    "name": "Wampum belt",
-    "id": 625,
-    "members": false,
-    "examine": "A decorated belt used to trade information between distant villages.",
-    "value": 5,
-    "weight": 0.453
-}

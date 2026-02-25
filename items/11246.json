@@ -1,9 +1,0 @@
-{
-    "name": "Essence impling jar",
-    "id": 11246,
-    "members": false,
-    "examine": "Essence impling in a jar.",
-    "value": 50,
-    "weight": 2.267,
-    "buyLimit": 18000
-}

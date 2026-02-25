@@ -1,9 +1,0 @@
-{
-    "name": "Jogre bones",
-    "id": 3125,
-    "members": false,
-    "examine": "Fairly big bones which smell distinctly of Jogre.",
-    "value": 1,
-    "weight": 0.8,
-    "buyLimit": 3000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Yew longbow (u)",
-    "id": 66,
-    "members": false,
-    "examine": "An unstrung yew longbow; I need a bowstring for this.",
-    "value": 640,
-    "weight": 1.332,
-    "buyLimit": 10000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Cooked rabbit",
-    "id": 3228,
-    "members": false,
-    "examine": "Mmm this looks tasty.",
-    "value": 4,
-    "weight": 0.141,
-    "buyLimit": 6000
-}

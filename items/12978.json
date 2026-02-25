@@ -1,9 +1,0 @@
-{
-    "name": "Iron trimmed set (sk)",
-    "id": 12978,
-    "members": false,
-    "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "value": 900,
-    "weight": 6.0,
-    "buyLimit": 8
-}

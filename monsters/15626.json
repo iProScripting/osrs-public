@@ -1,0 +1,49 @@
+{
+    "name": "Brutus",
+    "id": 15626,
+    "isMembersOnly": false,
+    "examine": "Doesn't skip leg day.",
+    "releaseDate": "25 February 2026",
+    "combatLevel": 30,
+    "hitpoints": 58,
+    "maxHit": [
+        "3 (Melee)\n19 (Special)"
+    ],
+    "slayerExperience": 116.0,
+    "slayerCategory": [
+        "Cows"
+    ],
+    "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 12,
+    "strengthLevel": 25,
+    "defenceLevel": 10,
+    "rangedLevel": 1,
+    "magicLevel": 8,
+    "defenceBonuses": {
+        "stab": -7,
+        "slash": -7,
+        "crush": -7,
+        "magic": -3,
+        "ranged": -7,
+        "lightRanged": -7,
+        "standardRanged": -7,
+        "heavyRanged": -7
+    },
+    "immunities": {
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "experienceBonus": 100.0,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

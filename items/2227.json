@@ -1,9 +1,0 @@
-{
-    "name": "Premade veg batta",
-    "id": 2227,
-    "members": false,
-    "examine": "A Premade Vegetable Batta.",
-    "value": 120,
-    "weight": 0.25,
-    "buyLimit": 6000
-}

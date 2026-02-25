@@ -1,9 +1,0 @@
-{
-    "name": "Monkey nuts",
-    "id": 4012,
-    "members": false,
-    "examine": "These are monkey nuts. Yummy.",
-    "value": 3,
-    "weight": 0.007,
-    "buyLimit": 6000
-}

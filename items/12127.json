@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (elite) - Show this to Sherlock",
-    "id": 12127,
-    "members": false,
-    "examine": "A clue suggested by Load 07!",
-    "value": 20,
-    "weight": 0.02
-}

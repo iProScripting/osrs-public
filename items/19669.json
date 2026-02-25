@@ -1,9 +1,0 @@
-{
-    "name": "Redwood logs",
-    "id": 19669,
-    "members": false,
-    "examine": "Logs cut from a redwood tree.",
-    "value": 450,
-    "weight": 2.0,
-    "buyLimit": 12000
-}

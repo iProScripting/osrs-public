@@ -1,9 +1,0 @@
-{
-    "name": "Unstrung light ballista",
-    "id": 19604,
-    "members": false,
-    "examine": "Needs a suitably simian rope.",
-    "value": 50000,
-    "weight": 2.75,
-    "buyLimit": 8
-}

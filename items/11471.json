@@ -1,9 +1,0 @@
-{
-    "name": "Superattack mix",
-    "id": 11471,
-    "members": false,
-    "examine": "One dose of fishy super Attack potion.",
-    "value": 90,
-    "weight": 0.045,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Slayer's respite(m)",
-    "id": 5761,
-    "members": false,
-    "examine": "This looks a good deal stronger than normal Slayer's Respite.",
-    "value": 2,
-    "weight": 0.55,
-    "buyLimit": 2000
-}

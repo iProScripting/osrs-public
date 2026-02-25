@@ -1,8 +1,0 @@
-{
-    "name": "Pot of flour (Tutorial Island)",
-    "id": 2516,
-    "members": false,
-    "examine": "There is flour in this pot.",
-    "value": 10,
-    "weight": 1.36
-}

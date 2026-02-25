@@ -1,9 +1,0 @@
-{
-    "name": "Stretched hide",
-    "id": 6173,
-    "members": false,
-    "examine": "A weathered chunk of dagannoth hide.",
-    "value": 60,
-    "weight": 3.175,
-    "buyLimit": 11000
-}

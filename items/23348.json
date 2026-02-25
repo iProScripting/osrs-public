@@ -1,9 +1,0 @@
-{
-    "name": "Tormented ornament kit",
-    "id": 23348,
-    "members": false,
-    "examine": "Use on a tormented bracelet to make it look fancier!",
-    "value": 5000,
-    "weight": 0.5,
-    "buyLimit": 4
-}

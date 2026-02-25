@@ -1,9 +1,0 @@
-{
-    "name": "Uncut opal",
-    "id": 1625,
-    "members": false,
-    "examine": "This would be worth more cut.",
-    "value": 20,
-    "weight": 0.003,
-    "buyLimit": 10000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Redwood tree seed",
-    "id": 22871,
-    "members": false,
-    "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "value": 650,
-    "weight": 0.0,
-    "buyLimit": 200
-}

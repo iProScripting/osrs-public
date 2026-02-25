@@ -1,9 +1,0 @@
-{
-    "name": "Nihil shard",
-    "id": 26231,
-    "members": false,
-    "examine": "An ancient magical shard.",
-    "value": 5000,
-    "weight": 0.0,
-    "buyLimit": 30000
-}

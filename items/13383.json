@@ -1,9 +1,0 @@
-{
-    "name": "Xerician fabric",
-    "id": 13383,
-    "members": false,
-    "examine": "An old scrap of cloth, containing remnants of Xeric's forgotten magicks.",
-    "value": 3,
-    "weight": 0.06,
-    "buyLimit": 13000
-}

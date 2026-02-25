@@ -1,9 +1,0 @@
-{
-    "name": "Halloween mask set",
-    "id": 13175,
-    "members": false,
-    "examine": "A set containing red, green and blue Halloween masks.",
-    "value": 8,
-    "weight": 0.05,
-    "buyLimit": 5
-}

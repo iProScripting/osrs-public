@@ -1,9 +1,0 @@
-{
-    "name": "Zamorak godsword ornament kit",
-    "id": 20077,
-    "members": false,
-    "examine": "Use on a Zamorak godsword to make it look fancier!",
-    "value": 5000,
-    "weight": 0.5,
-    "buyLimit": 4
-}

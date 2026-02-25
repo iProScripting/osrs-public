@@ -1,9 +1,0 @@
-{
-    "name": "Onions",
-    "id": 5458,
-    "members": false,
-    "examine": "There are 10 onions in this sack.",
-    "value": 1,
-    "weight": 4.989,
-    "buyLimit": 600
-}

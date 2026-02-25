@@ -1,9 +1,0 @@
-{
-    "name": "Divine super combat potion",
-    "id": 23685,
-    "members": false,
-    "examine": "4 doses of divine super combat potion.",
-    "value": 250,
-    "weight": 0.035,
-    "buyLimit": 2000
-}

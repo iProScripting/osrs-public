@@ -1,8 +1,0 @@
-{
-    "name": "Spell (unobtainable item)",
-    "id": 9108,
-    "members": false,
-    "examine": "It's a Spell.",
-    "value": 1,
-    "weight": 0.0
-}

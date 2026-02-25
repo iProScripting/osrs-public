@@ -1,9 +1,0 @@
-{
-    "name": "Red feather",
-    "id": 10088,
-    "members": false,
-    "examine": "A vivid red feather.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 8000
-}

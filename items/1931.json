@@ -1,9 +1,0 @@
-{
-    "name": "Pot",
-    "id": 1931,
-    "members": false,
-    "examine": "This pot is empty.",
-    "value": 1,
-    "weight": 0.453,
-    "buyLimit": 13000
-}

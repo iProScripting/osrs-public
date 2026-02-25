@@ -1,9 +1,0 @@
-{
-    "name": "Maple seed",
-    "id": 5314,
-    "members": false,
-    "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "value": 48,
-    "weight": 0.0,
-    "buyLimit": 200
-}

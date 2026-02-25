@@ -1,9 +1,0 @@
-{
-    "name": "Guthan's armour set",
-    "id": 12873,
-    "members": false,
-    "examine": "A set containing a Guthan's helm, chainskirt, platebody and warspear.",
-    "value": 400000,
-    "weight": 0.05,
-    "buyLimit": 8
-}

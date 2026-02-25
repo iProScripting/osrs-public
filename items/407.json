@@ -1,9 +1,0 @@
-{
-    "name": "Oyster",
-    "id": 407,
-    "members": false,
-    "examine": "Maybe there are pearls inside?",
-    "value": 200,
-    "weight": 0.1,
-    "buyLimit": 11000
-}

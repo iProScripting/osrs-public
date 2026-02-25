@@ -1,9 +1,0 @@
-{
-    "name": "Yanillian seed",
-    "id": 5309,
-    "members": false,
-    "examine": "A Yanillian hop seed - plant in a hops patch.",
-    "value": 6,
-    "weight": 0.0,
-    "buyLimit": 2000
-}

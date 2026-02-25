@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search through some drawers in the upstairs of a house in Rimmington",
-    "id": 3494,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

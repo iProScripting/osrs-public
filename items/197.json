@@ -1,9 +1,0 @@
-{
-    "name": "Poison chalice",
-    "id": 197,
-    "members": false,
-    "examine": "A cup of a strange brew...",
-    "value": 20,
-    "weight": 0.056,
-    "buyLimit": 2000
-}

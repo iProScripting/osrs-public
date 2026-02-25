@@ -1,9 +1,0 @@
-{
-    "name": "Sapphire",
-    "id": 1607,
-    "members": false,
-    "examine": "This looks valuable.",
-    "value": 250,
-    "weight": 0.002,
-    "buyLimit": 13000
-}

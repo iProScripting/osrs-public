@@ -1,0 +1,42 @@
+{
+    "name": "Demonic Brutus",
+    "id": 15629,
+    "isMembersOnly": false,
+    "examine": "Doesn't look particularly happy.",
+    "releaseDate": "25 February 2026",
+    "versionAnchor": "Ghost",
+    "combatLevel": 1224,
+    "hitpoints": 750,
+    "maxHit": [
+        "43 (Melee) 56+ (Special)"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 380,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 272,
+    "defenceBonuses": {
+        "stab": 182,
+        "slash": 65,
+        "crush": 216,
+        "magic": 520,
+        "ranged": 418,
+        "lightRanged": 460,
+        "standardRanged": 418,
+        "heavyRanged": 110
+    },
+    "immunities": {
+        "poison": true,
+        "venom": true,
+        "thrall": true,
+        "cannon": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "size": 3,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 25
+}

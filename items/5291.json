@@ -1,9 +1,0 @@
-{
-    "name": "Guam seed",
-    "id": 5291,
-    "members": false,
-    "examine": "A guam seed - plant in a herb patch.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 600
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Iron spit",
-    "id": 7225,
-    "members": false,
-    "examine": "An iron spit.",
-    "value": 64,
-    "weight": 1.5,
-    "buyLimit": 11000
-}

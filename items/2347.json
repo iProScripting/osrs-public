@@ -1,9 +1,0 @@
-{
-    "name": "Hammer",
-    "id": 2347,
-    "members": false,
-    "examine": "Good for hitting things!",
-    "value": 1,
-    "weight": 0.907,
-    "buyLimit": 40
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Vile ashes",
-    "id": 25769,
-    "members": false,
-    "examine": "A heap of ashes.",
-    "value": 1,
-    "weight": 0.056,
-    "buyLimit": 3000
-}

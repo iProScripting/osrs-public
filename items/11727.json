@@ -1,8 +1,0 @@
-{
-    "name": "Super magic potion",
-    "id": 11727,
-    "members": false,
-    "examine": "3 doses of super magic potion.",
-    "value": 250,
-    "weight": 0.03
-}

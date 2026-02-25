@@ -1,9 +1,0 @@
-{
-    "name": "Watermelon slice",
-    "id": 5984,
-    "members": false,
-    "examine": "A slice of watermelon.",
-    "value": 16,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Stone scarab",
-    "id": 9030,
-    "members": false,
-    "examine": "Little ornament in the shape of a scarab.",
-    "value": 20,
-    "weight": 0.01,
-    "buyLimit": 13000
-}

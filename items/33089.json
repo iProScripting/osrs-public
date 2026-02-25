@@ -1,0 +1,8 @@
+{
+    "name": "Bottomless milk bucket",
+    "id": 33089,
+    "members": false,
+    "examine": "It's a bucket that can hold a lot of milk at once.",
+    "value": 45000,
+    "weight": 1.0
+}

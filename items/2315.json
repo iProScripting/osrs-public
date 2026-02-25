@@ -1,9 +1,0 @@
-{
-    "name": "Pie shell",
-    "id": 2315,
-    "members": false,
-    "examine": "I need to find a filling for this pie.",
-    "value": 4,
-    "weight": 0.25,
-    "buyLimit": 13000
-}

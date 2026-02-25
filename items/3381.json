@@ -1,9 +1,0 @@
-{
-    "name": "Cooked slimy eel",
-    "id": 3381,
-    "members": false,
-    "examine": "A cooked slimy eel - not delicious, but pretty nutritious.",
-    "value": 1,
-    "weight": 2.0,
-    "buyLimit": 6000
-}

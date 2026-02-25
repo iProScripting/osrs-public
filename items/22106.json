@@ -1,9 +1,0 @@
-{
-    "name": "Jar of decay",
-    "id": 22106,
-    "members": false,
-    "examine": "Very healthy.",
-    "value": 1,
-    "weight": 0.04,
-    "buyLimit": 4
-}

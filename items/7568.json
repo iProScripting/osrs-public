@@ -1,9 +1,0 @@
-{
-    "name": "Cooked jubbly",
-    "id": 7568,
-    "members": false,
-    "examine": "Lovely Jubbly!",
-    "value": 150,
-    "weight": 10.0,
-    "buyLimit": 10000
-}

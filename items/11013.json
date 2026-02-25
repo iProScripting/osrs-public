@@ -1,8 +1,0 @@
-{
-    "name": "Infused wand",
-    "id": 11013,
-    "members": false,
-    "examine": "This wand is glowing with chaos magic.",
-    "value": 1,
-    "weight": 0.001
-}

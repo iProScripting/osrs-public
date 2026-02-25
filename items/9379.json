@@ -1,9 +1,0 @@
-{
-    "name": "Mithril bolts (unf)",
-    "id": 9379,
-    "members": false,
-    "examine": "Unfeathered mithril crossbow bolts.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 13000
-}

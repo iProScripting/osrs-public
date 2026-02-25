@@ -1,8 +1,0 @@
-{
-    "name": "Strange hallowed tome",
-    "id": 24761,
-    "members": false,
-    "examine": "A tome found in the lobby of the Hallowed Sepulchre.",
-    "value": 1,
-    "weight": 0.226
-}

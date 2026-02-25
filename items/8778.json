@@ -1,9 +1,0 @@
-{
-    "name": "Oak plank",
-    "id": 8778,
-    "members": false,
-    "examine": "A plank of sturdy oak.",
-    "value": 250,
-    "weight": 0.8,
-    "buyLimit": 13000
-}

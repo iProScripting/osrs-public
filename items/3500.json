@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search through some drawers found in Taverley's houses",
-    "id": 3500,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

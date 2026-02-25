@@ -1,8 +1,0 @@
-{
-    "name": "Tears of elidinis",
-    "id": 27333,
-    "members": false,
-    "examine": "Restores combat abilities and prayer for you and for nearby allies.",
-    "value": 30,
-    "weight": 0.453
-}

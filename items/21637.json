@@ -1,9 +1,0 @@
-{
-    "name": "Wyvern visage",
-    "id": 21637,
-    "members": false,
-    "examine": "It looks like this could be attached to a shield somehow.",
-    "value": 750000,
-    "weight": 0.907,
-    "buyLimit": 5
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Limpwurt root",
-    "id": 225,
-    "members": false,
-    "examine": "The root of a limpwurt plant.",
-    "value": 7,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

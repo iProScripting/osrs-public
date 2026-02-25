@@ -1,9 +1,0 @@
-{
-    "name": "Red firelighter",
-    "id": 7329,
-    "members": false,
-    "examine": "Makes firelighting a lot easier.",
-    "value": 15,
-    "weight": 0.0,
-    "buyLimit": 250
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of slaughter",
-    "id": 26108,
-    "members": false,
-    "examine": "Pay 45 Slayer Points to choose your own non-boss specific Slayer Task. Double the chance of a superior slayer monster appearing. Toggled on, you have a 25% chance for a Slayer Task kill to not count towards the task while still gaining you Slayer XP. Toggled off, 25% chance for a kill to count as 2. This Sigil does not stack with any bracelet effects.",
-    "value": 1,
-    "weight": 0.1
-}

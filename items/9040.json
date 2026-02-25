@@ -1,9 +1,0 @@
-{
-    "name": "Gold seal",
-    "id": 9040,
-    "members": false,
-    "examine": "A seal. It's gold.",
-    "value": 30,
-    "weight": 0.01,
-    "buyLimit": 13000
-}

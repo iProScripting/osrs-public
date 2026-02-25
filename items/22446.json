@@ -1,9 +1,0 @@
-{
-    "name": "Vial of blood",
-    "id": 22446,
-    "members": false,
-    "examine": "A glass vial containing blood.",
-    "value": 100,
-    "weight": 0.1,
-    "buyLimit": 13000
-}

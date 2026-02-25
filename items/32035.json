@@ -1,9 +1,0 @@
-{
-    "name": "Large rune keel parts",
-    "id": 32035,
-    "members": false,
-    "examine": "Parts for creating a runite keel for larger boats.",
-    "value": 100000,
-    "weight": 4.0,
-    "buyLimit": 100
-}

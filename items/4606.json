@@ -1,8 +1,0 @@
-{
-    "name": "Snake basket",
-    "id": 4606,
-    "members": false,
-    "examine": "This is used to hold snakes.",
-    "value": 1,
-    "weight": 0.5
-}

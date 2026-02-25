@@ -1,8 +1,0 @@
-{
-    "name": "Servery stew",
-    "id": 13418,
-    "members": false,
-    "examine": "Put it on the servery table to feed the troops.",
-    "value": 1,
-    "weight": 1.5
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Tatty larupia fur",
-    "id": 10093,
-    "members": false,
-    "examine": "It's a shabby-looking Larupia fur.",
-    "value": 60,
-    "weight": 2.0,
-    "buyLimit": 10000
-}

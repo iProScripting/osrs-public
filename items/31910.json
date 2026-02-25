@@ -1,9 +1,0 @@
-{
-    "name": "Mithril cannonball",
-    "id": 31910,
-    "members": false,
-    "examine": "Ammo suited for a boat's cannon.",
-    "value": 90,
-    "weight": 0.0,
-    "buyLimit": 11000
-}

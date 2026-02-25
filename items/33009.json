@@ -1,8 +1,0 @@
-{
-    "name": "Recipe for disaster quest lamp",
-    "id": 33009,
-    "members": false,
-    "examine": "Completes Recipe for Disaster, excluding any pre-quest requirements.",
-    "value": 1,
-    "weight": 0.1
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Conch shell",
-    "id": 24543,
-    "members": false,
-    "examine": "Turns into a bit of an echo chamber.",
-    "value": 1,
-    "weight": 10.0
-}

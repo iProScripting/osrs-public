@@ -1,9 +1,0 @@
-{
-    "name": "Red dragonhide",
-    "id": 1749,
-    "members": false,
-    "examine": "The scaly rough hide from a Red Dragon.",
-    "value": 145,
-    "weight": 3.175,
-    "buyLimit": 11000
-}

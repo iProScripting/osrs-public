@@ -1,9 +1,0 @@
-{
-    "name": "Demonic tallow",
-    "id": 30800,
-    "members": false,
-    "examine": "Somebody's been avoiding their cardio...",
-    "value": 500,
-    "weight": 0.0,
-    "buyLimit": 11000
-}

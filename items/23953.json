@@ -1,9 +1,0 @@
-{
-    "name": "Crystal tool seed",
-    "id": 23953,
-    "members": false,
-    "examine": "A seed to be sung into the best tools of the craft.",
-    "value": 500000,
-    "weight": 0.0,
-    "buyLimit": 100
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Spicy tomato",
-    "id": 9994,
-    "members": false,
-    "examine": "A bowl of chopped tomatoes with an extra kick.",
-    "value": 3,
-    "weight": 0.2,
-    "buyLimit": 8000
-}

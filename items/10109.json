@@ -1,9 +1,0 @@
-{
-    "name": "Kebbit teeth",
-    "id": 10109,
-    "members": false,
-    "examine": "A kebbit-sized set of dentures.",
-    "value": 160,
-    "weight": 0.02,
-    "buyLimit": 10000
-}

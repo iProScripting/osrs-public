@@ -1,9 +1,0 @@
-{
-    "name": "Graahk fur",
-    "id": 10099,
-    "members": false,
-    "examine": "It's a perfect-looking graahk fur.",
-    "value": 120,
-    "weight": 2.0,
-    "buyLimit": 10000
-}

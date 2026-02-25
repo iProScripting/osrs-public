@@ -1,9 +1,0 @@
-{
-    "name": "Toad's legs",
-    "id": 2152,
-    "members": false,
-    "examine": "They're a gnome delicacy apparently.",
-    "value": 2,
-    "weight": 0.15,
-    "buyLimit": 13000
-}

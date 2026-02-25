@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the crate in the Toad and Chicken pub",
-    "id": 12185,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

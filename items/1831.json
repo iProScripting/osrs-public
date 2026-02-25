@@ -1,9 +1,0 @@
-{
-    "name": "Waterskin",
-    "id": 1831,
-    "members": false,
-    "examine": "A completely empty waterskin - you'll need to fill it up.",
-    "value": 15,
-    "weight": 0.1,
-    "buyLimit": 10000
-}

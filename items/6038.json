@@ -1,9 +1,0 @@
-{
-    "name": "Magic string",
-    "id": 6038,
-    "members": false,
-    "examine": "I could use this to make jewellery.",
-    "value": 1,
-    "weight": 0.014,
-    "buyLimit": 11000
-}

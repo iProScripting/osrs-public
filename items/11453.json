@@ -1,9 +1,0 @@
-{
-    "name": "Energy mix",
-    "id": 11453,
-    "members": false,
-    "examine": "Two doses of fishy energy potion.",
-    "value": 72,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

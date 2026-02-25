@@ -1,9 +1,0 @@
-{
-    "name": "Riyl remains",
-    "id": 3400,
-    "members": false,
-    "examine": "The remains of a deadly shade.",
-    "value": 1,
-    "weight": 1.36,
-    "buyLimit": 7500
-}

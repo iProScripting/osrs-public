@@ -1,8 +1,0 @@
-{
-    "name": "Key master teleport",
-    "id": 13249,
-    "members": false,
-    "examine": "Teleports you to the Key Master.",
-    "value": 10,
-    "weight": 0.0
-}

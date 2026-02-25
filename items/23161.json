@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Talk to Charles at Port Piscarilius",
-    "id": 23161,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

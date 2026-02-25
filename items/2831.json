@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (medium) - Look for a locked chest in the town's chapel",
-    "id": 2831,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

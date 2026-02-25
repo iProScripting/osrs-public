@@ -1,9 +1,0 @@
-{
-    "name": "Grog",
-    "id": 1915,
-    "members": false,
-    "examine": "A murky glass of some sort of drink.",
-    "value": 3,
-    "weight": 0.55,
-    "buyLimit": 2000
-}

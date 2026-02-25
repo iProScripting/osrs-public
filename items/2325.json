@@ -1,9 +1,0 @@
-{
-    "name": "Redberry pie",
-    "id": 2325,
-    "members": false,
-    "examine": "Looks tasty.",
-    "value": 12,
-    "weight": 0.45,
-    "buyLimit": 15
-}

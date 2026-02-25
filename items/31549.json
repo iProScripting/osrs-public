@@ -1,9 +1,0 @@
-{
-    "name": "Ironwood seed",
-    "id": 31549,
-    "members": false,
-    "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "value": 72,
-    "weight": 0.0,
-    "buyLimit": 200
-}

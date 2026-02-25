@@ -1,9 +1,0 @@
-{
-    "name": "Fangs of venenatis",
-    "id": 27670,
-    "members": false,
-    "examine": "The fangs of a matriarch spider. They seem to maintain a sense of her power.",
-    "value": 80000,
-    "weight": 2.0,
-    "buyLimit": 8
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Dagannoth bones",
-    "id": 6729,
-    "members": false,
-    "examine": "These would feed a dogfish for months!",
-    "value": 150,
-    "weight": 1.5,
-    "buyLimit": 7500
-}

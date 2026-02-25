@@ -1,9 +1,0 @@
-{
-    "name": "Spice",
-    "id": 2007,
-    "members": false,
-    "examine": "This could liven up an otherwise bland stew.",
-    "value": 230,
-    "weight": 0.2,
-    "buyLimit": 11000
-}

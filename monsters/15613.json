@@ -1,0 +1,13 @@
+{
+    "name": "Troll (Realm of Memories)",
+    "id": 15613,
+    "isMembersOnly": false,
+    "examine": "Trollish.",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 1
+}

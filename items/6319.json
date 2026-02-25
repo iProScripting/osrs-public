@@ -1,9 +1,0 @@
-{
-    "name": "Proboscis",
-    "id": 6319,
-    "members": false,
-    "examine": "A giant mosquito's proboscis, aerodynamic and sharp!",
-    "value": 5,
-    "weight": 0.0,
-    "buyLimit": 100
-}

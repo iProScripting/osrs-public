@@ -1,8 +1,0 @@
-{
-    "name": "Mushrooms",
-    "id": 10968,
-    "members": false,
-    "examine": "Tasty sautéed mushrooms.",
-    "value": 50,
-    "weight": 0.001
-}

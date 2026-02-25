@@ -1,9 +1,0 @@
-{
-    "name": "Magic essence mix",
-    "id": 11491,
-    "members": false,
-    "examine": "One dose of fishy Magic essence.",
-    "value": 130,
-    "weight": 0.045,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Muddy key",
-    "id": 991,
-    "members": false,
-    "examine": "It looks like the key to a chest (Used to open the muddy chest in the lava maze).",
-    "value": 80,
-    "weight": 0.01,
-    "buyLimit": 11000
-}

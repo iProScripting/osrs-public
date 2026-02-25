@@ -1,9 +1,0 @@
-{
-    "name": "Chromium ingot",
-    "id": 28276,
-    "members": false,
-    "examine": "A dense clump of corroded metal.",
-    "value": 50000,
-    "weight": 3.0,
-    "buyLimit": 8
-}

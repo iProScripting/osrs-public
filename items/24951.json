@@ -1,9 +1,0 @@
-{
-    "name": "Ourania teleport (tablet)",
-    "id": 24951,
-    "members": false,
-    "examine": "A teleport to the Ourania cave.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

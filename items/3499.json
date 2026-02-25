@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the boxes in a shop in Taverley",
-    "id": 3499,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

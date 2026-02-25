@@ -1,9 +1,0 @@
-{
-    "name": "Willow branch",
-    "id": 5933,
-    "members": false,
-    "examine": "A branch from a willow tree.",
-    "value": 2,
-    "weight": 0.907,
-    "buyLimit": 11000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Water block",
-    "id": 29555,
-    "members": false,
-    "examine": "An elemental block of water.",
-    "value": 30,
-    "weight": 1.0
-}

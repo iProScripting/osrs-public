@@ -1,9 +1,0 @@
-{
-    "name": "Choc saturday",
-    "id": 2074,
-    "members": false,
-    "examine": "A warm creamy alcoholic beverage.",
-    "value": 30,
-    "weight": 0.5,
-    "buyLimit": 2000
-}

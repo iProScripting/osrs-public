@@ -1,8 +1,0 @@
-{
-    "name": "Herb box",
-    "id": 11739,
-    "members": false,
-    "examine": "This herb box has been opened.",
-    "value": 30,
-    "weight": 0.2
-}

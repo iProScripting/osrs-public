@@ -1,9 +1,0 @@
-{
-    "name": "Cooking apple",
-    "id": 1955,
-    "members": false,
-    "examine": "Keeps the doctor away.",
-    "value": 1,
-    "weight": 0.085,
-    "buyLimit": 13000
-}

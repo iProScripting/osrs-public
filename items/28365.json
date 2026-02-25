@@ -1,8 +1,0 @@
-{
-    "name": "Superior shadow torch",
-    "id": 28365,
-    "members": false,
-    "examine": "A torch that can pierce the Shadow Realm.",
-    "value": 30,
-    "weight": 0.5
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Ground guam",
-    "id": 6681,
-    "members": false,
-    "examine": "One of the ingredients for making fish food.",
-    "value": 2,
-    "weight": 0.056,
-    "buyLimit": 100
-}

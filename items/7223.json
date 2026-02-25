@@ -1,9 +1,0 @@
-{
-    "name": "Roast rabbit",
-    "id": 7223,
-    "members": false,
-    "examine": "A delicious looking piece of roast rabbit.",
-    "value": 20,
-    "weight": 0.3,
-    "buyLimit": 6000
-}

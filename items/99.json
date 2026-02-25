@@ -1,9 +1,0 @@
-{
-    "name": "Ranarr potion (unf)",
-    "id": 99,
-    "members": false,
-    "examine": "I need another ingredient to finish this Ranarr potion.",
-    "value": 25,
-    "weight": 0.056,
-    "buyLimit": 10000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Marble magic wardrobe (flatpack)",
-    "id": 9858,
-    "members": false,
-    "examine": "Marble magic wardrobe.",
-    "value": 10,
-    "weight": 1.0,
-    "buyLimit": 500
-}

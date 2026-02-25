@@ -1,9 +1,0 @@
-{
-    "name": "Chocolate dust",
-    "id": 1975,
-    "members": false,
-    "examine": "It's ground up chocolate.",
-    "value": 2,
-    "weight": 0.15,
-    "buyLimit": 13000
-}

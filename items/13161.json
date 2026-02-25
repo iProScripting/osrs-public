@@ -1,9 +1,0 @@
-{
-    "name": "Zamorak dragonhide set",
-    "id": 13161,
-    "members": false,
-    "examine": "A set containing a Zamorak dragonhide coif, body, chaps and vambraces.",
-    "value": 9000,
-    "weight": 0.05,
-    "buyLimit": 8
-}

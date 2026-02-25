@@ -1,8 +1,0 @@
-{
-    "name": "Weathervane pillar",
-    "id": 4434,
-    "members": false,
-    "examine": "A fixed weathervane rotating pillar.",
-    "value": 1,
-    "weight": 0.001
-}

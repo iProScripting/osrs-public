@@ -1,9 +1,0 @@
-{
-    "name": "Torstol seed",
-    "id": 5304,
-    "members": false,
-    "examine": "A torstol seed - plant in a herb patch.",
-    "value": 70,
-    "weight": 0.0,
-    "buyLimit": 200
-}

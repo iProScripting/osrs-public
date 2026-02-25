@@ -1,9 +1,0 @@
-{
-    "name": "Teak seed",
-    "id": 21486,
-    "members": false,
-    "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "value": 48,
-    "weight": 0.0,
-    "buyLimit": 200
-}

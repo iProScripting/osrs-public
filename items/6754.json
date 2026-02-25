@@ -1,8 +1,0 @@
-{
-    "name": "Enchanted key (item)",
-    "id": 6754,
-    "members": false,
-    "examine": "It seems to change temperature as I walk.",
-    "value": 1,
-    "weight": 0.01
-}

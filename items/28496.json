@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the food master",
-    "id": 28496,
-    "members": false,
-    "examine": "You have a 5% chance not to consume food when used. This effect has a 6 second cooldown.",
-    "value": 1,
-    "weight": 0.4
-}

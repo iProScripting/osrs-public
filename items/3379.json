@@ -1,9 +1,0 @@
-{
-    "name": "Raw slimy eel",
-    "id": 3379,
-    "members": false,
-    "examine": "A slime covered eel - yuck!",
-    "value": 1,
-    "weight": 2.0,
-    "buyLimit": 13000
-}

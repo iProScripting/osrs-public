@@ -1,9 +1,0 @@
-{
-    "name": "Cornflour",
-    "id": 7466,
-    "members": false,
-    "examine": "It's cornflour.",
-    "value": 1,
-    "weight": 0.003,
-    "buyLimit": 15
-}

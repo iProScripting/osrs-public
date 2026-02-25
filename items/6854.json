@@ -1,8 +1,0 @@
-{
-    "name": "Puppet box",
-    "id": 6854,
-    "members": false,
-    "examine": "A box full of puppets. Bring to the Taverley members gate.",
-    "value": 1,
-    "weight": 6.35
-}

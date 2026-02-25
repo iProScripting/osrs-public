@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the boxes in the goblin house near Lumbridge",
-    "id": 2679,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Flour (unobtainable item)",
-    "id": 1946,
-    "members": false,
-    "examine": "A little heap of flour.",
-    "value": 1,
-    "weight": 0.5
-}

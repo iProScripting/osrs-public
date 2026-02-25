@@ -1,9 +1,0 @@
-{
-    "name": "Sea turtle",
-    "id": 397,
-    "members": false,
-    "examine": "Tasty!",
-    "value": 200,
-    "weight": 0.35,
-    "buyLimit": 10000
-}

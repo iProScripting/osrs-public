@@ -1,9 +1,0 @@
-{
-    "name": "Tanzanite fang",
-    "id": 12922,
-    "members": false,
-    "examine": "Maybe you could use a chisel to fletch this into a blowpipe.",
-    "value": 110000,
-    "weight": 0.35,
-    "buyLimit": 5
-}

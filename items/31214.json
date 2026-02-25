@@ -1,8 +1,0 @@
-{
-    "name": "Craftsman scroll",
-    "id": 31214,
-    "members": false,
-    "examine": "Use this to select three Artisan skills to bond together, and share gained experience points.",
-    "value": 1,
-    "weight": 0.01
-}

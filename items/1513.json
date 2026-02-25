@@ -1,9 +1,0 @@
-{
-    "name": "Magic logs",
-    "id": 1513,
-    "members": false,
-    "examine": "Logs cut from a magic tree.",
-    "value": 320,
-    "weight": 2.0,
-    "buyLimit": 12000
-}

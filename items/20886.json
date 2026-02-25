@@ -1,8 +1,0 @@
-{
-    "name": "Creature keeper's journal",
-    "id": 20886,
-    "members": false,
-    "examine": "Journal of a deceased creature keeper.",
-    "value": 1,
-    "weight": 0.28
-}

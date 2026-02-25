@@ -1,9 +1,0 @@
-{
-    "name": "Elemental talisman",
-    "id": 5516,
-    "members": false,
-    "examine": "A mysterious power emanates from the talisman...",
-    "value": 500,
-    "weight": 0.015,
-    "buyLimit": 40
-}

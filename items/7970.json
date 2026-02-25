@@ -1,8 +1,0 @@
-{
-    "name": "Long pulley beam",
-    "id": 7970,
-    "members": false,
-    "examine": "A long beam with a pulley attached.",
-    "value": 5,
-    "weight": 0.01
-}

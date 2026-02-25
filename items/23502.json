@@ -1,8 +1,0 @@
-{
-    "name": "Temple key",
-    "id": 23502,
-    "members": false,
-    "examine": "It looks like the key to an old door (Used to open the temple doors in Forthos Dungeon).",
-    "value": 1,
-    "weight": 0.001
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Ornate maul handle",
-    "id": 24229,
-    "members": false,
-    "examine": "This handle can be applied to the granite maul.",
-    "value": 5000,
-    "weight": 0.5,
-    "buyLimit": 50
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Oil lantern",
-    "id": 4537,
-    "members": false,
-    "examine": "An unlit oil lantern.",
-    "value": 125,
-    "weight": 0.907,
-    "buyLimit": 40
-}

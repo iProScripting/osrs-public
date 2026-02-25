@@ -1,9 +1,0 @@
-{
-    "name": "Raw cave eel",
-    "id": 5001,
-    "members": false,
-    "examine": "It's incredibly slimy.",
-    "value": 15,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

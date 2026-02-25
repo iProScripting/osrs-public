@@ -1,9 +1,0 @@
-{
-    "name": "Maple shortbow (u)",
-    "id": 64,
-    "members": false,
-    "examine": "An unstrung maple shortbow; I need a bowstring for this.",
-    "value": 200,
-    "weight": 0.992,
-    "buyLimit": 10000
-}

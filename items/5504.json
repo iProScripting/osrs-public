@@ -1,9 +1,0 @@
-{
-    "name": "Strawberry",
-    "id": 5504,
-    "members": false,
-    "examine": "A freshly picked strawberry.",
-    "value": 17,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

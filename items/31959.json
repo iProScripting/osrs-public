@@ -1,9 +1,0 @@
-{
-    "name": "Ray barbs",
-    "id": 31959,
-    "members": false,
-    "examine": "The barbed tip of a ray's tail.",
-    "value": 8000,
-    "weight": 0.0,
-    "buyLimit": 15
-}

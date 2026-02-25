@@ -1,8 +1,0 @@
-{
-    "name": "Expert potion pack",
-    "id": 29973,
-    "members": false,
-    "examine": "A pack of potions made by an expert alchemist.",
-    "value": 400,
-    "weight": 5.15
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Copper ore",
-    "id": 436,
-    "members": false,
-    "examine": "This needs refining.",
-    "value": 3,
-    "weight": 2.267,
-    "buyLimit": 13000
-}

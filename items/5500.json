@@ -1,9 +1,0 @@
-{
-    "name": "Pineapple sapling",
-    "id": 5500,
-    "members": false,
-    "examine": "This sapling is ready to be replanted in a fruit tree patch.",
-    "value": 1,
-    "weight": 0.907,
-    "buyLimit": 200
-}

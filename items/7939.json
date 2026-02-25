@@ -1,9 +1,0 @@
-{
-    "name": "Tortoise shell",
-    "id": 7939,
-    "members": false,
-    "examine": "A word in your shell-like.",
-    "value": 1000,
-    "weight": 6.803,
-    "buyLimit": 7500
-}

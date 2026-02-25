@@ -1,9 +1,0 @@
-{
-    "name": "Kyatt fur",
-    "id": 10103,
-    "members": false,
-    "examine": "It's a perfect-looking kyatt fur.",
-    "value": 160,
-    "weight": 2.0,
-    "buyLimit": 10000
-}

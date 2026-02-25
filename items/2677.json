@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the chest in the Duke of Lumbridge's bedroom",
-    "id": 2677,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

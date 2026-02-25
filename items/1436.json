@@ -1,9 +1,0 @@
-{
-    "name": "Rune essence",
-    "id": 1436,
-    "members": false,
-    "examine": "An unimbued rune.",
-    "value": 4,
-    "weight": 0.002,
-    "buyLimit": 20000
-}

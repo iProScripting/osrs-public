@@ -1,9 +1,0 @@
-{
-    "name": "Marrentill",
-    "id": 251,
-    "members": false,
-    "examine": "A herb used in poison cures.",
-    "value": 5,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

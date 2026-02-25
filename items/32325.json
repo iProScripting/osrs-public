@@ -1,9 +1,0 @@
-{
-    "name": "Raw yellowfin",
-    "id": 32325,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 170,
-    "weight": 0.7,
-    "buyLimit": 15000
-}

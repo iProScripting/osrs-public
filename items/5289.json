@@ -1,9 +1,0 @@
-{
-    "name": "Palm tree seed",
-    "id": 5289,
-    "members": false,
-    "examine": "Plant in a plantpot of soil to grow a sapling.",
-    "value": 254,
-    "weight": 0.0,
-    "buyLimit": 200
-}

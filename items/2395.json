@@ -1,8 +1,0 @@
-{
-    "name": "Magic ogre potion",
-    "id": 2395,
-    "members": false,
-    "examine": "A dangerous magical liquid.",
-    "value": 120,
-    "weight": 0.025
-}

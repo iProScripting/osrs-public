@@ -1,9 +1,0 @@
-{
-    "name": "Magic stone",
-    "id": 8788,
-    "members": false,
-    "examine": "A magic stone to make high-level furniture.",
-    "value": 750000,
-    "weight": 1.0,
-    "buyLimit": 11000
-}

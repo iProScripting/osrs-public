@@ -1,9 +1,0 @@
-{
-    "name": "Partyhat set",
-    "id": 13173,
-    "members": false,
-    "examine": "A set containing red, yellow, blue, purple, green and white partyhats.",
-    "value": 10,
-    "weight": 0.05,
-    "buyLimit": 5
-}

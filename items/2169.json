@@ -1,9 +1,0 @@
-{
-    "name": "Gnome spice",
-    "id": 2169,
-    "members": false,
-    "examine": "It's Aluft Gianne's secret mix of spices.",
-    "value": 2,
-    "weight": 0.15,
-    "buyLimit": 13000
-}

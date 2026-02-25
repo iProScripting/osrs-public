@@ -1,9 +1,0 @@
-{
-    "name": "Wildblood hops",
-    "id": 6002,
-    "members": false,
-    "examine": "A handful of Wildblood Hops.",
-    "value": 15,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

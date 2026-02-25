@@ -1,9 +1,0 @@
-{
-    "name": "Jade",
-    "id": 1611,
-    "members": false,
-    "examine": "A semi precious stone.",
-    "value": 150,
-    "weight": 0.002,
-    "buyLimit": 13000
-}

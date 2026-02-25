@@ -1,9 +1,0 @@
-{
-    "name": "Pot lid",
-    "id": 4440,
-    "members": false,
-    "examine": "This should fit on a normal-sized pot.",
-    "value": 15,
-    "weight": 0.198,
-    "buyLimit": 15
-}

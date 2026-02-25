@@ -1,8 +1,0 @@
-{
-    "name": "Cook's shopping list",
-    "id": 23103,
-    "members": false,
-    "examine": "The Cook gave you a shopping list of items he needs.",
-    "value": 1,
-    "weight": 0.005
-}

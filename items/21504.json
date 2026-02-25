@@ -1,9 +1,0 @@
-{
-    "name": "Giant seaweed",
-    "id": 21504,
-    "members": false,
-    "examine": "Seaweed of large size.",
-    "value": 2,
-    "weight": 0.2,
-    "buyLimit": 11000
-}

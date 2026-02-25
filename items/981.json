@@ -1,9 +1,0 @@
-{
-    "name": "Disk of returning",
-    "id": 981,
-    "members": false,
-    "examine": "Used to get out of Thordur's blackhole.",
-    "value": 120,
-    "weight": 0.453,
-    "buyLimit": 50
-}

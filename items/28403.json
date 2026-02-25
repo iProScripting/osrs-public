@@ -1,8 +1,0 @@
-{
-    "name": "Charged cell",
-    "id": 28403,
-    "members": false,
-    "examine": "It's been charged with ancient runic energy.",
-    "value": 30,
-    "weight": 0.0
-}

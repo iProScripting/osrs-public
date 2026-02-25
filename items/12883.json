@@ -1,9 +1,0 @@
-{
-    "name": "Karil's armour set",
-    "id": 12883,
-    "members": false,
-    "examine": "A set containing a Karil's coif, leatherskirt, leathertop and crossbow.",
-    "value": 200000,
-    "weight": 0.05,
-    "buyLimit": 8
-}

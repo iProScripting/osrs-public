@@ -1,8 +1,0 @@
-{
-    "name": "Scarecrow",
-    "id": 6059,
-    "members": false,
-    "examine": "This should scare the birds.",
-    "value": 1,
-    "weight": 0.113
-}

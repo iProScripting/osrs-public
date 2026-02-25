@@ -1,9 +1,0 @@
-{
-    "name": "Watering can",
-    "id": 5331,
-    "members": false,
-    "examine": "This watering can is empty.",
-    "value": 8,
-    "weight": 0.1,
-    "buyLimit": 40
-}

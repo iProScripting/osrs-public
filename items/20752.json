@@ -1,8 +1,0 @@
-{
-    "name": "Zamorak's unfermented wine",
-    "id": 20752,
-    "members": false,
-    "examine": "This wine needs to ferment before it can be used.",
-    "value": 60,
-    "weight": 1.5
-}

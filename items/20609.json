@@ -1,8 +1,0 @@
-{
-    "name": "Fairy enchantment",
-    "id": 20609,
-    "members": false,
-    "examine": "A scroll containing a fairy enchantment.",
-    "value": 100,
-    "weight": 0.08
-}

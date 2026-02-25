@@ -1,9 +1,0 @@
-{
-    "name": "Fur",
-    "id": 6814,
-    "members": false,
-    "examine": "This would make warm clothing.",
-    "value": 10,
-    "weight": 3.0,
-    "buyLimit": 18000
-}

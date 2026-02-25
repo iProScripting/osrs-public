@@ -1,9 +1,0 @@
-{
-    "name": "Raw rabbit",
-    "id": 3226,
-    "members": false,
-    "examine": "Might taste better cooked.",
-    "value": 20,
-    "weight": 0.17,
-    "buyLimit": 13000
-}

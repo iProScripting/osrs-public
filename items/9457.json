@@ -1,9 +1,0 @@
-{
-    "name": "Iron crossbow (u)",
-    "id": 9457,
-    "members": false,
-    "examine": "An unstrung iron crossbow.",
-    "value": 123,
-    "weight": 8.0,
-    "buyLimit": 10000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Fox whistle",
-    "id": 28626,
-    "members": false,
-    "examine": "A wooden whistle that could attract a fox to follow you.",
-    "value": 30000,
-    "weight": 0.005
-}

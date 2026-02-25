@@ -1,9 +1,0 @@
-{
-    "name": "Steel arrowtips",
-    "id": 41,
-    "members": false,
-    "examine": "I can make some arrows with these.",
-    "value": 6,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Zogre bones",
-    "id": 4812,
-    "members": false,
-    "examine": "A pile of Zombie Ogre bones.",
-    "value": 1,
-    "weight": 0.8,
-    "buyLimit": 3000
-}

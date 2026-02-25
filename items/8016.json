@@ -1,9 +1,0 @@
-{
-    "name": "Enchant sapphire or opal",
-    "id": 8016,
-    "members": false,
-    "examine": "A tablet containing a magic spell.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

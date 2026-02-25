@@ -1,9 +1,0 @@
-{
-    "name": "Cooked moonlight antelope",
-    "id": 29143,
-    "members": false,
-    "examine": "Mmm, this looks tasty.",
-    "value": 4,
-    "weight": 0.283,
-    "buyLimit": 6000
-}

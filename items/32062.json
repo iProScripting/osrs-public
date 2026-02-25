@@ -1,9 +1,0 @@
-{
-    "name": "Large wooden hull parts",
-    "id": 32062,
-    "members": false,
-    "examine": "Large parts for creating a wooden hull for a large boat.",
-    "value": 1250,
-    "weight": 4.0,
-    "buyLimit": 100
-}

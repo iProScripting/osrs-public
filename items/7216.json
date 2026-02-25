@@ -1,9 +1,0 @@
-{
-    "name": "Raw summer pie",
-    "id": 7216,
-    "members": false,
-    "examine": "Fresh fruit may be good for you, but I should really cook this.",
-    "value": 70,
-    "weight": 0.001,
-    "buyLimit": 13000
-}

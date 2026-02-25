@@ -1,0 +1,13 @@
+{
+    "name": "Cave Bug (Realm of Memories)",
+    "id": 15614,
+    "isMembersOnly": false,
+    "examine": "A nasty crawling critter.",
+    "releaseDate": "18 February 2026",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 1
+}

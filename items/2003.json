@@ -1,9 +1,0 @@
-{
-    "name": "Stew",
-    "id": 2003,
-    "members": false,
-    "examine": "It's a meat and potato stew.",
-    "value": 20,
-    "weight": 1.5,
-    "buyLimit": 10000
-}

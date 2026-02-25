@@ -1,9 +1,0 @@
-{
-    "name": "Iron bar",
-    "id": 2351,
-    "members": false,
-    "examine": "It's a bar of iron.",
-    "value": 28,
-    "weight": 1.814,
-    "buyLimit": 10000
-}

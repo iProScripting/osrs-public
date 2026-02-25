@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Talk to Morgan in his house at Draynor Village",
-    "id": 23162,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

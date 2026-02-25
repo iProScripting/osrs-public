@@ -1,9 +1,0 @@
-{
-    "name": "Raw anchovies",
-    "id": 321,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 15,
-    "weight": 0.12,
-    "buyLimit": 13000
-}

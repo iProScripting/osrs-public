@@ -1,8 +1,0 @@
-{
-    "name": "Holy grail (item)",
-    "id": 19,
-    "members": false,
-    "examine": "A holy and powerful artefact.",
-    "value": 3,
-    "weight": 0.085
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Cooked sweetcorn",
-    "id": 5988,
-    "members": false,
-    "examine": "Delicious cooked sweetcorn.",
-    "value": 9,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

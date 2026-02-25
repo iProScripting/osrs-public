@@ -1,8 +1,0 @@
-{
-    "name": "Ornate lockbox",
-    "id": 25651,
-    "members": false,
-    "examine": "A heavy, well decorated box that could contain something valuable.",
-    "value": 500,
-    "weight": 20.0
-}

@@ -1,0 +1,13 @@
+{
+    "name": "Scorpion (Realm of Memories)",
+    "id": 15609,
+    "isMembersOnly": false,
+    "examine": "Watch the tail.",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 2
+}

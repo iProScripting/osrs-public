@@ -1,9 +1,0 @@
-{
-    "name": "Raw monkfish",
-    "id": 7944,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 230,
-    "weight": 0.45,
-    "buyLimit": 13000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Unsealed letter",
-    "id": 24256,
-    "members": false,
-    "examine": "A letter which has had its seal opened.",
-    "value": 100,
-    "weight": 0.005
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Sweetcorn (bowl)",
-    "id": 7088,
-    "members": false,
-    "examine": "A bowl of cooked sweetcorn.",
-    "value": 13,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

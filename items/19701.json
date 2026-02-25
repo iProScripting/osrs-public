@@ -1,9 +1,0 @@
-{
-    "name": "Jar of darkness",
-    "id": 19701,
-    "members": false,
-    "examine": "It smells like it's been where the sun doesn't shine.",
-    "value": 1,
-    "weight": 0.04,
-    "buyLimit": 4
-}

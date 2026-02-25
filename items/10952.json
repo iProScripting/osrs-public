@@ -1,9 +1,0 @@
-{
-    "name": "Slayer bell",
-    "id": 10952,
-    "members": false,
-    "examine": "Don't make anyone jump when you ring this!",
-    "value": 150,
-    "weight": 0.028,
-    "buyLimit": 40
-}

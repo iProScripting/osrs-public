@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the drawers of houses in Burthorpe",
-    "id": 3490,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

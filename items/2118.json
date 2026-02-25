@@ -1,9 +1,0 @@
-{
-    "name": "Pineapple ring",
-    "id": 2118,
-    "members": false,
-    "examine": "Exotic fruit.",
-    "value": 1,
-    "weight": 0.03,
-    "buyLimit": 13000
-}

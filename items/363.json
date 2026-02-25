@@ -1,9 +1,0 @@
-{
-    "name": "Raw bass",
-    "id": 363,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 40,
-    "weight": 0.4,
-    "buyLimit": 15000
-}

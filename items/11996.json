@@ -1,8 +1,0 @@
-{
-    "name": "Holiday tool",
-    "id": 11996,
-    "members": false,
-    "examine": "Spawns an allowance of holiday gifts each day.",
-    "value": 0,
-    "weight": 0.001
-}

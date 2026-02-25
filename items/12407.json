@@ -1,9 +1,0 @@
-{
-    "name": "Pest control teleport",
-    "id": 12407,
-    "members": false,
-    "examine": "Teleports you to Pest control.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

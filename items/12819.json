@@ -1,9 +1,0 @@
-{
-    "name": "Elysian sigil",
-    "id": 12819,
-    "members": false,
-    "examine": "A sigil in the shape of an elysian symbol.",
-    "value": 750000,
-    "weight": 3.0,
-    "buyLimit": 5
-}

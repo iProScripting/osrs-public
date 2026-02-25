@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the well fed",
-    "id": 28499,
-    "members": false,
-    "examine": "You have a 5% chance to gain twice the number of Hitpoints from any food or potions consumed.",
-    "value": 1,
-    "weight": 0.4
-}

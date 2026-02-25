@@ -1,9 +1,0 @@
-{
-    "name": "Serum 207",
-    "id": 3408,
-    "members": false,
-    "examine": "4 doses serum 207 as described in Herbi Flax's diary.",
-    "value": 14,
-    "weight": 0.035,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Plant cure",
-    "id": 6036,
-    "members": false,
-    "examine": "Use this on plants to cure disease.",
-    "value": 40,
-    "weight": 0.035,
-    "buyLimit": 2000
-}

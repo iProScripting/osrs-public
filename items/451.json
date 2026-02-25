@@ -1,9 +1,0 @@
-{
-    "name": "Runite ore",
-    "id": 451,
-    "members": false,
-    "examine": "This needs refining.",
-    "value": 3200,
-    "weight": 2.267,
-    "buyLimit": 4500
-}

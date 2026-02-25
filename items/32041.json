@@ -1,9 +1,0 @@
-{
-    "name": "Wooden hull parts",
-    "id": 32041,
-    "members": false,
-    "examine": "Parts for creating a wooden hull for a boat.",
-    "value": 250,
-    "weight": 4.0,
-    "buyLimit": 100
-}

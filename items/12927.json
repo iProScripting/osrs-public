@@ -1,9 +1,0 @@
-{
-    "name": "Serpentine visage",
-    "id": 12927,
-    "members": false,
-    "examine": "Maybe you could use a chisel to craft this into a helmet.",
-    "value": 105000,
-    "weight": 1.0,
-    "buyLimit": 5
-}

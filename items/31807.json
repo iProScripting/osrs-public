@@ -1,8 +1,0 @@
-{
-    "name": "Crowbar",
-    "id": 31807,
-    "members": false,
-    "examine": "Not actually smelted from crow ore.",
-    "value": 50,
-    "weight": 1.5
-}

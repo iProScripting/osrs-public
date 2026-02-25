@@ -1,9 +1,0 @@
-{
-    "name": "Mushroom spore",
-    "id": 5282,
-    "members": false,
-    "examine": "A Bittercap mushroom spore - plant in a mushroom patch.",
-    "value": 86,
-    "weight": 0.0,
-    "buyLimit": 200
-}

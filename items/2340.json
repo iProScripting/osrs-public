@@ -1,8 +1,0 @@
-{
-    "name": "Palm leaf (unobtainable item)",
-    "id": 2340,
-    "members": false,
-    "examine": "A thick green palm leaf used by natives to cook meat in.",
-    "value": 5,
-    "weight": 0.0
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Torva platebody",
-    "id": 26378,
-    "members": false,
-    "examine": "An ancient warrior's platebody.",
-    "value": 600000,
-    "weight": 9.979,
-    "buyLimit": 8
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Raw sunlight antelope",
-    "id": 29116,
-    "members": false,
-    "examine": "I should probably cook this first.",
-    "value": 1,
-    "weight": 0.34,
-    "buyLimit": 13000
-}

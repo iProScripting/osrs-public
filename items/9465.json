@@ -1,9 +1,0 @@
-{
-    "name": "Runite crossbow (u)",
-    "id": 9465,
-    "members": false,
-    "examine": "An unstrung runite crossbow.",
-    "value": 16167,
-    "weight": 8.0,
-    "buyLimit": 10000
-}

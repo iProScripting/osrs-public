@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the adroit",
-    "id": 29664,
-    "members": false,
-    "examine": "Accuracy is increased by 1% for each Hitpoint missing. This increases to 2% accuracy per Hitpoint if the player is at or below 20 Hitpoints.",
-    "value": 1,
-    "weight": 0.1
-}

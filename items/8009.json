@@ -1,9 +1,0 @@
-{
-    "name": "Falador teleport (tablet)",
-    "id": 8009,
-    "members": false,
-    "examine": "A teleport to Falador.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 15000
-}

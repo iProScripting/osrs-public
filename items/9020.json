@@ -1,8 +1,0 @@
-{
-    "name": "Queen's secateurs",
-    "id": 9020,
-    "members": false,
-    "examine": "Contains the Fairy Queen's magic essence.",
-    "value": 1,
-    "weight": 0.453
-}

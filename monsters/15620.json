@@ -1,0 +1,13 @@
+{
+    "name": "Hill Giant (Realm of Memories)",
+    "id": 15620,
+    "isMembersOnly": false,
+    "examine": "A very large foe.",
+    "releaseDate": "18 February 2026",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 2
+}

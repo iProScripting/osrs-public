@@ -1,9 +1,0 @@
-{
-    "name": "Chopped tuna",
-    "id": 7086,
-    "members": false,
-    "examine": "A bowl of finely chopped tuna.",
-    "value": 104,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

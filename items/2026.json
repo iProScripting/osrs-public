@@ -1,9 +1,0 @@
-{
-    "name": "Cocktail glass",
-    "id": 2026,
-    "members": false,
-    "examine": "For sipping cocktails.",
-    "value": 1,
-    "weight": 0.1,
-    "buyLimit": 13000
-}

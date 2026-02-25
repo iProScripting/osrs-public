@@ -1,9 +1,0 @@
-{
-    "name": "Divine super attack potion",
-    "id": 23706,
-    "members": false,
-    "examine": "1 dose of divine super attack potion.",
-    "value": 40,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

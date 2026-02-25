@@ -1,9 +1,0 @@
-{
-    "name": "Jar of dreams",
-    "id": 24495,
-    "members": false,
-    "examine": "With this jar, your dreams can come true!",
-    "value": 1,
-    "weight": 0.04,
-    "buyLimit": 4
-}

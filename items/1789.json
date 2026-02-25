@@ -1,9 +1,0 @@
-{
-    "name": "Unfired pie dish",
-    "id": 1789,
-    "members": false,
-    "examine": "I need to put this in a pottery oven.",
-    "value": 3,
-    "weight": 0.68,
-    "buyLimit": 10000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Skull (item)",
-    "id": 964,
-    "members": false,
-    "examine": "Ooooh spooky!",
-    "value": 1,
-    "weight": 0.08
-}

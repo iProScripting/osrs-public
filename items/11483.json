@@ -1,9 +1,0 @@
-{
-    "name": "Super energy mix",
-    "id": 11483,
-    "members": false,
-    "examine": "One dose of fishy super energy potion.",
-    "value": 90,
-    "weight": 0.045,
-    "buyLimit": 2000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Haemostatic dressing",
-    "id": 31590,
-    "members": false,
-    "examine": "4 applications of haemostatic dressing.",
-    "value": 250,
-    "weight": 0.02
-}

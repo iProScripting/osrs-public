@@ -1,9 +1,0 @@
-{
-    "name": "Nardah teleport",
-    "id": 12402,
-    "members": false,
-    "examine": "Teleports you to Nardah.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

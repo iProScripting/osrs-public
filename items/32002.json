@@ -1,9 +1,0 @@
-{
-    "name": "Iron keel parts",
-    "id": 32002,
-    "members": false,
-    "examine": "Parts for creating an iron keel for a boat.",
-    "value": 125,
-    "weight": 4.0,
-    "buyLimit": 100
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Piece of railing",
-    "id": 1486,
-    "members": false,
-    "examine": "A broken piece of railing.",
-    "value": 10,
-    "weight": 2.0
-}

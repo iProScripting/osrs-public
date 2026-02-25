@@ -1,9 +1,0 @@
-{
-    "name": "Scrambled egg",
-    "id": 7078,
-    "members": false,
-    "examine": "A bowl of scrambled egg.",
-    "value": 8,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

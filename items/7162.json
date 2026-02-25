@@ -1,9 +1,0 @@
-{
-    "name": "Pie recipe book",
-    "id": 7162,
-    "members": false,
-    "examine": "Lots of pie recipes for me to try.",
-    "value": 5,
-    "weight": 0.001,
-    "buyLimit": 15
-}

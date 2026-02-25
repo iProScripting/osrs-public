@@ -1,9 +1,0 @@
-{
-    "name": "Iron cannonball",
-    "id": 31908,
-    "members": false,
-    "examine": "Ammo suited for a boat's cannon.",
-    "value": 5,
-    "weight": 0.0,
-    "buyLimit": 11000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Kharidian headpiece",
-    "id": 4591,
-    "members": false,
-    "examine": "Wear it on your head.",
-    "value": 1,
-    "weight": 0.07,
-    "buyLimit": 15
-}

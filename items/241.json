@@ -1,9 +1,0 @@
-{
-    "name": "Dragon scale dust",
-    "id": 241,
-    "members": false,
-    "examine": "Finely ground scale of Dragon.",
-    "value": 52,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

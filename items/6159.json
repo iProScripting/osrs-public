@@ -1,9 +1,0 @@
-{
-    "name": "Rock-shell shard",
-    "id": 6159,
-    "members": false,
-    "examine": "A curved piece of rock-shell.",
-    "value": 60,
-    "weight": 3.175,
-    "buyLimit": 11000
-}

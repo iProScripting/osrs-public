@@ -1,9 +1,0 @@
-{
-    "name": "Chocolate bar",
-    "id": 1973,
-    "members": false,
-    "examine": "Mmmmmmm chocolate.",
-    "value": 10,
-    "weight": 0.15,
-    "buyLimit": 13000
-}

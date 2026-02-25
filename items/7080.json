@@ -1,9 +1,0 @@
-{
-    "name": "Sliced mushrooms",
-    "id": 7080,
-    "members": false,
-    "examine": "A bowl of sliced Bittercap mushrooms.",
-    "value": 42,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

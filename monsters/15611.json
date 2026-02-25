@@ -1,0 +1,13 @@
+{
+    "name": "Orc (Realm of Memories)",
+    "id": 15611,
+    "isMembersOnly": false,
+    "examine": "Ugly, smelly and full of bad attitude.",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 1
+}

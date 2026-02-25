@@ -1,9 +1,0 @@
-{
-    "name": "Dragonfruit pie",
-    "id": 22795,
-    "members": false,
-    "examine": "Mmm dragonfruit pie.",
-    "value": 70,
-    "weight": 0.45,
-    "buyLimit": 10000
-}

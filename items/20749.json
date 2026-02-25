@@ -1,9 +1,0 @@
-{
-    "name": "Zamorak's grapes",
-    "id": 20749,
-    "members": false,
-    "examine": "The Grapes of Wrath.",
-    "value": 50,
-    "weight": 0.25,
-    "buyLimit": 11000
-}

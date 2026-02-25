@@ -1,9 +1,0 @@
-{
-    "name": "Swamp tar",
-    "id": 1939,
-    "members": false,
-    "examine": "A foul smelling thick tar-like substance.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 13000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Cooked barb-tailed kebbit",
-    "id": 29131,
-    "members": false,
-    "examine": "Mmm, this looks tasty.",
-    "value": 4,
-    "weight": 0.283,
-    "buyLimit": 10000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Raw chicken (undead)",
-    "id": 4289,
-    "members": false,
-    "examine": "This raw chicken is rancid.",
-    "value": 1,
-    "weight": 0.17
-}

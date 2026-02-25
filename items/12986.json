@@ -1,9 +1,0 @@
-{
-    "name": "Steel set (sk)",
-    "id": 12986,
-    "members": false,
-    "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "value": 1400,
-    "weight": 6.0,
-    "buyLimit": 8
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Key (Biohazard)",
-    "id": 423,
-    "members": false,
-    "examine": "Opens things (Used in the Biohazard quest).",
-    "value": 1,
-    "weight": 0.01
-}

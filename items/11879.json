@@ -1,8 +1,0 @@
-{
-    "name": "Water-filled vial pack",
-    "id": 11879,
-    "members": false,
-    "examine": "A pack containing 100 vials of water.",
-    "value": 201,
-    "weight": 2.1
-}

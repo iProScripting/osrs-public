@@ -1,8 +1,0 @@
-{
-    "name": "Magic essence",
-    "id": 9022,
-    "members": false,
-    "examine": "3 doses of magic essence potion.",
-    "value": 230,
-    "weight": 0.03
-}

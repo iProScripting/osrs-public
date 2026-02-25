@@ -1,9 +1,0 @@
-{
-    "name": "Jug",
-    "id": 1935,
-    "members": false,
-    "examine": "This jug is empty.",
-    "value": 1,
-    "weight": 0.453,
-    "buyLimit": 13000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Sack pack",
-    "id": 13252,
-    "members": false,
-    "examine": "A pack containing 100 sacks.",
-    "value": 100,
-    "weight": 0.453
-}

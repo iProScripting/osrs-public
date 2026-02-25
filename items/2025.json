@@ -1,9 +1,0 @@
-{
-    "name": "Cocktail shaker",
-    "id": 2025,
-    "members": false,
-    "examine": "Used for mixing cocktails.",
-    "value": 2,
-    "weight": 0.15,
-    "buyLimit": 40
-}

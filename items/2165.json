@@ -1,9 +1,0 @@
-{
-    "name": "Crunchy tray",
-    "id": 2165,
-    "members": false,
-    "examine": "A shallow tray used for baking crunchies in.",
-    "value": 10,
-    "weight": 0.1,
-    "buyLimit": 40
-}

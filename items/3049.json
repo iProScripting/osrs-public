@@ -1,9 +1,0 @@
-{
-    "name": "Grimy toadflax",
-    "id": 3049,
-    "members": false,
-    "examine": "It needs cleaning.",
-    "value": 19,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

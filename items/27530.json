@@ -1,8 +1,0 @@
-{
-    "name": "Wood carving",
-    "id": 27530,
-    "members": false,
-    "examine": "A wood carving found in a ruin beneath Kebos Swamp.",
-    "value": 30,
-    "weight": 0.05
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Relicym's balm",
-    "id": 4844,
-    "members": false,
-    "examine": "3 doses of Relicym's balm, which helps cure disease.",
-    "value": 200,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

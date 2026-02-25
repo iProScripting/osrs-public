@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Dig under Ithoi's cabin",
-    "id": 22001,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

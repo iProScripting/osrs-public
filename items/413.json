@@ -1,9 +1,0 @@
-{
-    "name": "Oyster pearls",
-    "id": 413,
-    "members": false,
-    "examine": "I could work wonders with a chisel on these pearls.",
-    "value": 1400,
-    "weight": 0.004,
-    "buyLimit": 11000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Sinew",
-    "id": 9436,
-    "members": false,
-    "examine": "I can use this to make a crossbow string.",
-    "value": 2,
-    "weight": 0.002,
-    "buyLimit": 13000
-}

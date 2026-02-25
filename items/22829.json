@@ -1,9 +1,0 @@
-{
-    "name": "Common tench",
-    "id": 22829,
-    "members": false,
-    "examine": "The most common of the tench.",
-    "value": 3,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

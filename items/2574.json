@@ -1,8 +1,0 @@
-{
-    "name": "Sextant",
-    "id": 2574,
-    "members": false,
-    "examine": "Used by navigators to find their position in Gielinor.",
-    "value": 50,
-    "weight": 0.2
-}

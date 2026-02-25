@@ -1,8 +1,0 @@
-{
-    "name": "Worm (unobtainable item)",
-    "id": 943,
-    "members": false,
-    "examine": "Ugh! It's wriggling!",
-    "value": 0,
-    "weight": 0.003
-}

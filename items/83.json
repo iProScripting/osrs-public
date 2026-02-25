@@ -1,8 +1,0 @@
-{
-    "name": "Lever (Temple of Ikov)",
-    "id": 83,
-    "members": false,
-    "examine": "A lever to open something perhaps?",
-    "value": 15,
-    "weight": 0.056
-}

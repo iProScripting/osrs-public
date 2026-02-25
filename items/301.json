@@ -1,9 +1,0 @@
-{
-    "name": "Lobster pot",
-    "id": 301,
-    "members": false,
-    "examine": "Useful for catching lobsters.",
-    "value": 20,
-    "weight": 0.255,
-    "buyLimit": 40
-}

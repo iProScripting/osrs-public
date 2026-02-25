@@ -1,8 +1,0 @@
-{
-    "name": "Colossal pouch",
-    "id": 26784,
-    "members": false,
-    "examine": "A colossal-sized pouch used for storing essence.",
-    "value": 1200,
-    "weight": 1.0
-}

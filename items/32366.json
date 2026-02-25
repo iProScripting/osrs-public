@@ -1,9 +1,0 @@
-{
-    "name": "Fish crate (empty)",
-    "id": 32366,
-    "members": false,
-    "examine": "A sturdy container packed with ice for storing special fish caught at sea.",
-    "value": 5,
-    "weight": 0.0,
-    "buyLimit": 250
-}

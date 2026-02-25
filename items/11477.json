@@ -1,9 +1,0 @@
-{
-    "name": "Fishing mix",
-    "id": 11477,
-    "members": false,
-    "examine": "Two doses of fishy Fishing potion.",
-    "value": 150,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Forgotten lockbox",
-    "id": 30763,
-    "members": false,
-    "examine": "Once stored by somebody in Yama's vaults, but now forgotten.",
-    "value": 100,
-    "weight": 2.1
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Secateurs blade",
-    "id": 28159,
-    "members": false,
-    "examine": "An ingredient for the secateurs attachment.",
-    "value": 1000,
-    "weight": 0.0
-}

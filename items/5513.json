@@ -1,8 +1,0 @@
-{
-    "name": "Large pouch",
-    "id": 5513,
-    "members": false,
-    "examine": "A large damaged pouch used for storing essence.",
-    "value": 600,
-    "weight": 1.0
-}

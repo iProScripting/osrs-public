@@ -1,9 +1,0 @@
-{
-    "name": "Hammerstone hops",
-    "id": 5994,
-    "members": false,
-    "examine": "A handful of Hammerstone Hops.",
-    "value": 4,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

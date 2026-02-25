@@ -1,8 +1,0 @@
-{
-    "name": "Water container",
-    "id": 22094,
-    "members": false,
-    "examine": "It has lots of water in it.",
-    "value": 1,
-    "weight": 2.0
-}

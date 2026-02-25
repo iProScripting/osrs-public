@@ -1,9 +1,0 @@
-{
-    "name": "Combat mix",
-    "id": 11445,
-    "members": false,
-    "examine": "Two doses of fishy combat potion.",
-    "value": 105,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

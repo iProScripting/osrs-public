@@ -1,9 +1,0 @@
-{
-    "name": "Hydra leather",
-    "id": 22983,
-    "members": false,
-    "examine": "Hide from a ferocious Hydra. It looks pretty tough.",
-    "value": 100000,
-    "weight": 0.226,
-    "buyLimit": 15
-}

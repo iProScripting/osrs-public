@@ -1,9 +1,0 @@
-{
-    "name": "Moonlight mead(m)",
-    "id": 5749,
-    "members": false,
-    "examine": "This looks a good deal stronger than normal Moonlight Mead.",
-    "value": 5,
-    "weight": 0.55,
-    "buyLimit": 2000
-}

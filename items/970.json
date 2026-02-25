@@ -1,9 +1,0 @@
-{
-    "name": "Papyrus",
-    "id": 970,
-    "members": false,
-    "examine": "Used for making notes.",
-    "value": 10,
-    "weight": 0.02,
-    "buyLimit": 13000
-}

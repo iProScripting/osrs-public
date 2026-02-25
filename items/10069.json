@@ -1,9 +1,0 @@
-{
-    "name": "Spotted cape",
-    "id": 10069,
-    "members": false,
-    "examine": "A surprisingly aerodynamic cape.",
-    "value": 400,
-    "weight": 0.453,
-    "buyLimit": 125
-}

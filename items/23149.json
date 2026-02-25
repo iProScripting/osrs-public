@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the boxes next to a chest that needs a crystal key",
-    "id": 23149,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

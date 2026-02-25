@@ -1,9 +1,0 @@
-{
-    "name": "Defence mix",
-    "id": 11457,
-    "members": false,
-    "examine": "Two doses of fishy Defence potion.",
-    "value": 90,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

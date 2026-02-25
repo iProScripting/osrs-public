@@ -1,8 +1,0 @@
-{
-    "name": "Panning tray (unobtainable item)",
-    "id": 678,
-    "members": false,
-    "examine": "This tray contains gold.",
-    "value": 1,
-    "weight": 0.141
-}

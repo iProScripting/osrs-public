@@ -1,9 +1,0 @@
-{
-    "name": "Worm batta",
-    "id": 2253,
-    "members": false,
-    "examine": "It actually smells quite good.",
-    "value": 1,
-    "weight": 0.25,
-    "buyLimit": 6000
-}

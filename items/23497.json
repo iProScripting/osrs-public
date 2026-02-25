@@ -1,8 +1,0 @@
-{
-    "name": "Temple coin",
-    "id": 23497,
-    "members": false,
-    "examine": "An old coin from a ruined temple. It feels ominous to the touch.",
-    "value": 1,
-    "weight": 0.005
-}

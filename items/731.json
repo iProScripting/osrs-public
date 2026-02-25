@@ -1,8 +1,0 @@
-{
-    "name": "Enchanted vial",
-    "id": 731,
-    "members": false,
-    "examine": "An enchanted empty glass vial.",
-    "value": 1,
-    "weight": 0.01
-}

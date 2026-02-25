@@ -1,9 +1,0 @@
-{
-    "name": "Divine bastion potion",
-    "id": 24644,
-    "members": false,
-    "examine": "1 dose of divine bastion potion.",
-    "value": 180,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Huasca potion (unf)",
-    "id": 30100,
-    "members": false,
-    "examine": "I need another ingredient to finish this Huasca potion.",
-    "value": 25,
-    "weight": 0.056,
-    "buyLimit": 10000
-}

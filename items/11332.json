@@ -1,9 +1,0 @@
-{
-    "name": "Leaping sturgeon",
-    "id": 11332,
-    "members": false,
-    "examine": "A bloated sturgeon.",
-    "value": 4,
-    "weight": 1.0,
-    "buyLimit": 13000
-}

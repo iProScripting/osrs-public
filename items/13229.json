@@ -1,9 +1,0 @@
-{
-    "name": "Pegasian crystal",
-    "id": 13229,
-    "members": false,
-    "examine": "A powerful crystal of flight.",
-    "value": 45000,
-    "weight": 0.05,
-    "buyLimit": 15
-}

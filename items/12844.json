@@ -1,8 +1,0 @@
-{
-    "name": "Voice potion",
-    "id": 12844,
-    "members": false,
-    "examine": "A 'voice of doom' potion used to deepen your voice.",
-    "value": 1,
-    "weight": 20.0
-}

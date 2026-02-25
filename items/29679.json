@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of arcane swiftness",
-    "id": 29679,
-    "members": false,
-    "examine": "All magic weapons with a base attack speed above 4 will have it reduced by 1. Cannot be used in conjunction with the Sigil of the Swashbuckler or the Sigil of the Gunslinger.",
-    "value": 1,
-    "weight": 0.1
-}

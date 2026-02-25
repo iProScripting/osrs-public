@@ -1,9 +1,0 @@
-{
-    "name": "Lemon chunks",
-    "id": 2104,
-    "members": false,
-    "examine": "Fresh chunks of lemon.",
-    "value": 2,
-    "weight": 0.08,
-    "buyLimit": 13000
-}

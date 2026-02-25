@@ -1,8 +1,0 @@
-{
-    "name": "Door key (Witch's House)",
-    "id": 2409,
-    "members": false,
-    "examine": "A key to the Witch's house's front door.",
-    "value": 1,
-    "weight": 0.01
-}

@@ -1,0 +1,14 @@
+{
+    "name": "Minotaur",
+    "id": 2482,
+    "isMembersOnly": false,
+    "examine": "He doesn't look very pleased to see you.",
+    "releaseDate": "4 July 2006",
+    "versionAnchor": "Unused",
+    "combatLevel": 19,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 1
+}

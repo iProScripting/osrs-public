@@ -1,9 +1,0 @@
-{
-    "name": "Magic potion",
-    "id": 3046,
-    "members": false,
-    "examine": "1 dose of Magic potion.",
-    "value": 150,
-    "weight": 0.02,
-    "buyLimit": 2000
-}

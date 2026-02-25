@@ -1,9 +1,0 @@
-{
-    "name": "Egg and tomato",
-    "id": 7064,
-    "members": false,
-    "examine": "A bowl of scrambled eggs and tomato.",
-    "value": 12,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

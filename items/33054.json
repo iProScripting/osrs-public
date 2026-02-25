@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the gods",
-    "id": 33054,
-    "members": false,
-    "examine": "Against players, gain 10% damage increase when using god spells. Flames of Zamorak has a 10% chance to burn. Claws of Guthix lowers your targets defence level equal to 50% of damage dealt. Saradomin Strike drains enemy prayer points by 30% of damage dealt.",
-    "value": 1,
-    "weight": 0.1
-}

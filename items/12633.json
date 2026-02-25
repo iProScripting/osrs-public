@@ -1,9 +1,0 @@
-{
-    "name": "Stamina mix",
-    "id": 12633,
-    "members": false,
-    "examine": "Two doses of fishy stamina potion.",
-    "value": 160,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

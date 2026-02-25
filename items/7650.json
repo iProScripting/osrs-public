@@ -1,9 +1,0 @@
-{
-    "name": "Silver dust",
-    "id": 7650,
-    "members": false,
-    "examine": "It's ground up silver.",
-    "value": 200,
-    "weight": 0.15,
-    "buyLimit": 13000
-}

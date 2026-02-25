@@ -1,8 +1,0 @@
-{
-    "name": "Crystal chime",
-    "id": 28577,
-    "members": false,
-    "examine": "It makes a sound.",
-    "value": 3000,
-    "weight": 1.0
-}

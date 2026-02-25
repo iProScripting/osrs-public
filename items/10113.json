@@ -1,9 +1,0 @@
-{
-    "name": "Kebbit claws",
-    "id": 10113,
-    "members": false,
-    "examine": "More menacing when attached to the owner.",
-    "value": 43,
-    "weight": 0.02,
-    "buyLimit": 10000
-}

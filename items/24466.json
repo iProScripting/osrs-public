@@ -1,9 +1,0 @@
-{
-    "name": "Twisted horns",
-    "id": 24466,
-    "members": false,
-    "examine": "These look like they can be attached to a slayer helmet.",
-    "value": 100000,
-    "weight": 0.5,
-    "buyLimit": 5
-}

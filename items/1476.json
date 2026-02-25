@@ -1,9 +1,0 @@
-{
-    "name": "White bead",
-    "id": 1476,
-    "members": false,
-    "examine": "A small round white bead.",
-    "value": 4,
-    "weight": 0.003,
-    "buyLimit": 11000
-}

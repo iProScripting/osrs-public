@@ -1,9 +1,0 @@
-{
-    "name": "Raw mackerel",
-    "id": 353,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 15,
-    "weight": 0.35,
-    "buyLimit": 15000
-}

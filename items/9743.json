@@ -1,9 +1,0 @@
-{
-    "name": "Combat potion",
-    "id": 9743,
-    "members": false,
-    "examine": "2 doses of combat potion.",
-    "value": 105,
-    "weight": 0.025,
-    "buyLimit": 2000
-}

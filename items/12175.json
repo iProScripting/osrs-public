@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the bush at the digsite centre",
-    "id": 12175,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Enhanced crystal teleport seed",
-    "id": 23959,
-    "members": false,
-    "examine": "A seed to be sung into an infinite teleport crystal.",
-    "value": 100000,
-    "weight": 0.0,
-    "buyLimit": 100
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Dragon longsword imbue scroll",
-    "id": 28078,
-    "members": false,
-    "examine": "Use on a Dragon longsword to imbue the weapon.",
-    "value": 10000,
-    "weight": 0.002
-}

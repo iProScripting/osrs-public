@@ -1,9 +1,0 @@
-{
-    "name": "White berries",
-    "id": 239,
-    "members": false,
-    "examine": "Sour berries, used in potions.",
-    "value": 10,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

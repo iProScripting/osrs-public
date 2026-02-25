@@ -1,8 +1,0 @@
-{
-    "name": "Church lectern",
-    "id": 22687,
-    "members": false,
-    "examine": "Holds books for reading aloud, stylishly.",
-    "value": 1,
-    "weight": 10.0
-}

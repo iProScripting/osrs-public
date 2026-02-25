@@ -1,9 +1,0 @@
-{
-    "name": "Charcoal",
-    "id": 973,
-    "members": false,
-    "examine": "A lump of charcoal.",
-    "value": 45,
-    "weight": 0.005,
-    "buyLimit": 13000
-}

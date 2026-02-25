@@ -1,9 +1,0 @@
-{
-    "name": "Raw herring",
-    "id": 345,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 10,
-    "weight": 0.55,
-    "buyLimit": 15000
-}

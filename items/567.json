@@ -1,9 +1,0 @@
-{
-    "name": "Unpowered orb",
-    "id": 567,
-    "members": false,
-    "examine": "I'd prefer it if it was powered.",
-    "value": 100,
-    "weight": 0.453,
-    "buyLimit": 10000
-}

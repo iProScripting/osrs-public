@@ -1,9 +1,0 @@
-{
-    "name": "Strength potion",
-    "id": 115,
-    "members": false,
-    "examine": "3 doses of Strength potion.",
-    "value": 13,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

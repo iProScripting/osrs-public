@@ -1,8 +1,0 @@
-{
-    "name": "Zombie champion scroll",
-    "id": 6807,
-    "members": false,
-    "examine": "It's a challenge from the Zombie Champion!",
-    "value": 1,
-    "weight": 0.001
-}

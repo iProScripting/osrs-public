@@ -1,0 +1,12 @@
+{
+    "name": "Brutus slippers",
+    "id": 33099,
+    "members": false,
+    "examine": "Less cute cow slippers.",
+    "value": 1000,
+    "weight": 0.2,
+    "equipment": {
+        "slot": "FEET",
+        "combatStyle": "UNARMED"
+    }
+}

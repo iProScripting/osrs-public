@@ -1,9 +1,0 @@
-{
-    "name": "Polar kebbit fur",
-    "id": 10117,
-    "members": false,
-    "examine": "A thick fur for a cold climate.",
-    "value": 10,
-    "weight": 0.453,
-    "buyLimit": 100
-}

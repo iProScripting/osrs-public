@@ -1,8 +1,0 @@
-{
-    "name": "Flyer",
-    "id": 956,
-    "members": false,
-    "examine": "Get your axes from Bob's Axes.",
-    "value": 1,
-    "weight": 0.015
-}

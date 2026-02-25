@@ -1,9 +1,0 @@
-{
-    "name": "Green firelighter",
-    "id": 7330,
-    "members": false,
-    "examine": "Makes firelighting a lot easier.",
-    "value": 15,
-    "weight": 0.0,
-    "buyLimit": 250
-}

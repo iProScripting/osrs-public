@@ -1,8 +1,0 @@
-{
-    "name": "Teleport crystal",
-    "id": 6102,
-    "members": false,
-    "examine": "An enchanted teleportation crystal.",
-    "value": 15,
-    "weight": 0.001
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Hydra tail",
-    "id": 22988,
-    "members": false,
-    "examine": "Tail of a hydra, can be attached to a bonecrusher.",
-    "value": 100000,
-    "weight": 0.226,
-    "buyLimit": 15
-}

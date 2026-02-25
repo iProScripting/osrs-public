@@ -1,9 +1,0 @@
-{
-    "name": "Raw rainbow fish",
-    "id": 10138,
-    "members": false,
-    "examine": "A colourful fish, attracted to colourful flies.",
-    "value": 120,
-    "weight": 0.45,
-    "buyLimit": 13000
-}

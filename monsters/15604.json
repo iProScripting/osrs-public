@@ -1,0 +1,16 @@
+{
+    "name": "King black dragon (Realm of Memories)",
+    "id": 15604,
+    "isMembersOnly": false,
+    "examine": "The toughest boss in the world, at one time.",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+        "Stab",
+        "Dragonfire"
+    ],
+    "attackSpeed": 4,
+    "experienceBonus": -97.5,
+    "size": 5
+}

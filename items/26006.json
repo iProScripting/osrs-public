@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of fortification",
-    "id": 26006,
-    "members": false,
-    "examine": "Your defence is increased by +50 for stab, slash, crush and ranged.",
-    "value": 1,
-    "weight": 0.1
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Dragon bitter(m) (keg)",
-    "id": 5889,
-    "members": false,
-    "examine": "This keg contains 4 pints of mature Dragon Bitter.",
-    "value": 1,
-    "weight": 0.028,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Unfinished potion",
-    "id": 3406,
-    "members": false,
-    "examine": "I need another ingredient to finish this potion.",
-    "value": 11,
-    "weight": 0.056,
-    "buyLimit": 10000
-}

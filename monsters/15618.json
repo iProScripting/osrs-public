@@ -1,0 +1,13 @@
+{
+    "name": "Kalphite Queen (Realm of Memories)",
+    "id": 15618,
+    "isMembersOnly": false,
+    "examine": "I don't think insect repellent ever worked...",
+    "releaseDate": "18 February 2026",
+    "versionAnchor": "Airborne",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "size": 5
+}

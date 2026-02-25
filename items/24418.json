@@ -1,8 +1,0 @@
-{
-    "name": "Gravestone (unobtainable item)",
-    "id": 24418,
-    "members": false,
-    "examine": "A simple marker for the dead.",
-    "value": 1,
-    "weight": 10.0
-}

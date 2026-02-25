@@ -1,9 +1,0 @@
-{
-    "name": "Garlic powder",
-    "id": 4668,
-    "members": false,
-    "examine": "Finely ground garlic powder.",
-    "value": 10,
-    "weight": 0.007,
-    "buyLimit": 15
-}

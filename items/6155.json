@@ -1,9 +1,0 @@
-{
-    "name": "Dagannoth hide",
-    "id": 6155,
-    "members": false,
-    "examine": "A sturdy piece of dagannoth hide.",
-    "value": 60,
-    "weight": 3.175,
-    "buyLimit": 11000
-}

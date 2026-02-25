@@ -1,9 +1,0 @@
-{
-    "name": "Marble block",
-    "id": 8786,
-    "members": false,
-    "examine": "A beautifully carved marble block.",
-    "value": 250000,
-    "weight": 13.607,
-    "buyLimit": 11000
-}

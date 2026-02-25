@@ -1,9 +1,0 @@
-{
-    "name": "Coconut",
-    "id": 5974,
-    "members": false,
-    "examine": "It's a coconut.",
-    "value": 87,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

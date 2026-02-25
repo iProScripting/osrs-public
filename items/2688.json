@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the crates in Horvik's armoury",
-    "id": 2688,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

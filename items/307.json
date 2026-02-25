@@ -1,9 +1,0 @@
-{
-    "name": "Fishing rod",
-    "id": 307,
-    "members": false,
-    "examine": "Useful for catching sardine or herring.",
-    "value": 5,
-    "weight": 1.36,
-    "buyLimit": 40
-}

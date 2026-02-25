@@ -1,9 +1,0 @@
-{
-    "name": "Ship ticket",
-    "id": 621,
-    "members": false,
-    "examine": "Allows you passage on the 'Lady of the waves' ship.",
-    "value": 5,
-    "weight": 0.004,
-    "buyLimit": 18000
-}

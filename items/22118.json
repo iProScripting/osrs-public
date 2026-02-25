@@ -1,9 +1,0 @@
-{
-    "name": "Wrath talisman",
-    "id": 22118,
-    "members": false,
-    "examine": "A mysterious power emanates from the talisman...",
-    "value": 4,
-    "weight": 0.015,
-    "buyLimit": 11000
-}

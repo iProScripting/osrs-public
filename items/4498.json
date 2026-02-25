@@ -1,8 +1,0 @@
-{
-    "name": "Rope (animation item)",
-    "id": 4498,
-    "members": false,
-    "examine": "It's the rope you're holding.",
-    "value": 1,
-    "weight": 0.005
-}

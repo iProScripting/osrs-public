@@ -1,8 +1,0 @@
-{
-    "name": "Fishing trophy",
-    "id": 26,
-    "members": false,
-    "examine": "Hemenster fishing contest trophy.",
-    "value": 1,
-    "weight": 0.085
-}

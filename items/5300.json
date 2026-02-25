@@ -1,9 +1,0 @@
-{
-    "name": "Snapdragon seed",
-    "id": 5300,
-    "members": false,
-    "examine": "A snapdragon seed - plant in a herb patch.",
-    "value": 60,
-    "weight": 0.0,
-    "buyLimit": 200
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Wizard's mind bomb",
-    "id": 1907,
-    "members": false,
-    "examine": "It's got strange bubbles in it.",
-    "value": 2,
-    "weight": 0.55,
-    "buyLimit": 2000
-}

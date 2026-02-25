@@ -1,9 +1,0 @@
-{
-    "name": "Trading sticks",
-    "id": 6306,
-    "members": false,
-    "examine": "Karamja currency.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 18000
-}

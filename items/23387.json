@@ -1,9 +1,0 @@
-{
-    "name": "Watson teleport",
-    "id": 23387,
-    "members": false,
-    "examine": "Teleports you to Watson's house in Great Kourend.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

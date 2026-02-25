@@ -1,9 +1,0 @@
-{
-    "name": "Cowhide",
-    "id": 1739,
-    "members": false,
-    "examine": "I should take this to the tannery.",
-    "value": 2,
-    "weight": 2.721,
-    "buyLimit": 13000
-}

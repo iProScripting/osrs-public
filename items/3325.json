@@ -1,9 +1,0 @@
-{
-    "name": "Vampyre dust",
-    "id": 3325,
-    "members": false,
-    "examine": "That used to be a vampyre!",
-    "value": 2,
-    "weight": 0.056,
-    "buyLimit": 11000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Super antifire mix",
-    "id": 21994,
-    "members": false,
-    "examine": "Two doses of fishy super anti-firebreath potion.",
-    "value": 198,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

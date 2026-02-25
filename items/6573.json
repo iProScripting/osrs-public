@@ -1,9 +1,0 @@
-{
-    "name": "Onyx",
-    "id": 6573,
-    "members": false,
-    "examine": "This looks valuable.",
-    "value": 200000,
-    "weight": 0.002,
-    "buyLimit": 11000
-}

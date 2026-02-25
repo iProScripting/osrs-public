@@ -1,9 +1,0 @@
-{
-    "name": "Marigold seed",
-    "id": 5096,
-    "members": false,
-    "examine": "A marigold seed - plant in a flower patch.",
-    "value": 2,
-    "weight": 0.0,
-    "buyLimit": 600
-}

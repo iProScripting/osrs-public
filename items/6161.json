@@ -1,9 +1,0 @@
-{
-    "name": "Rock-shell splinter",
-    "id": 6161,
-    "members": false,
-    "examine": "A slim piece of rock-shell.",
-    "value": 60,
-    "weight": 3.175,
-    "buyLimit": 11000
-}

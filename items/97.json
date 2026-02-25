@@ -1,9 +1,0 @@
-{
-    "name": "Harralander potion (unf)",
-    "id": 97,
-    "members": false,
-    "examine": "I need another ingredient to finish this Harralander potion.",
-    "value": 20,
-    "weight": 0.056,
-    "buyLimit": 10000
-}

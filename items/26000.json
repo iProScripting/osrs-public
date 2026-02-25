@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the rigorous ranger",
-    "id": 26000,
-    "members": false,
-    "examine": "Your ranged accuracy is increased by +20, and you have a 50% chance to save ammunition when using ranged weapons, except when throwing chinchompas.",
-    "value": 1,
-    "weight": 0.1
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Potato cactus seed",
-    "id": 22873,
-    "members": false,
-    "examine": "A Potato cactus seed - plant in a cactus patch.",
-    "value": 140,
-    "weight": 0.0,
-    "buyLimit": 200
-}

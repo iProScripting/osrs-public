@@ -1,8 +1,0 @@
-{
-    "name": "Requisition note",
-    "id": 28423,
-    "members": false,
-    "examine": "A note about item requisitions.",
-    "value": 30,
-    "weight": 0.003
-}

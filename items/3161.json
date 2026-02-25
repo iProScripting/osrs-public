@@ -1,8 +1,0 @@
-{
-    "name": "Crafting manual",
-    "id": 3161,
-    "members": false,
-    "examine": "A set of instructions explaining how to construct a Karambwan vessel.",
-    "value": 5,
-    "weight": 0.05
-}

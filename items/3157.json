@@ -1,9 +1,0 @@
-{
-    "name": "Karambwan vessel",
-    "id": 3157,
-    "members": false,
-    "examine": "A wide bodied and thin necked vessel, encrusted with sea salt.",
-    "value": 5,
-    "weight": 3.0,
-    "buyLimit": 15
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Locust meat",
-    "id": 9052,
-    "members": false,
-    "examine": "Delicious and nutritious. Well, nutritious anyway.",
-    "value": 1,
-    "weight": 0.003,
-    "buyLimit": 6000
-}

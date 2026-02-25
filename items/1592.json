@@ -1,9 +1,0 @@
-{
-    "name": "Ring mould",
-    "id": 1592,
-    "members": false,
-    "examine": "Used to make rings.",
-    "value": 5,
-    "weight": 0.453,
-    "buyLimit": 40
-}

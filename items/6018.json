@@ -1,9 +1,0 @@
-{
-    "name": "Poison ivy berries",
-    "id": 6018,
-    "members": false,
-    "examine": "They look sweet and juicy, but only a fool would eat them.",
-    "value": 65,
-    "weight": 0.007,
-    "buyLimit": 11000
-}

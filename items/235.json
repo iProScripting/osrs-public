@@ -1,9 +1,0 @@
-{
-    "name": "Unicorn horn dust",
-    "id": 235,
-    "members": false,
-    "examine": "Finely ground horn of Unicorn.",
-    "value": 20,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

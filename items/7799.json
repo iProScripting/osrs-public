@@ -1,8 +1,0 @@
-{
-    "name": "Woodcutting tome",
-    "id": 7799,
-    "members": false,
-    "examine": "A tome of learning which focuses on the Woodcutting skill.",
-    "value": 5000,
-    "weight": 1.0
-}

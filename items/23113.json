@@ -1,9 +1,0 @@
-{
-    "name": "Mystic set (blue)",
-    "id": 23113,
-    "members": false,
-    "examine": "A set containing blue mystic hat, robe top and bottom, gloves and boots.",
-    "value": 235000,
-    "weight": 0.05,
-    "buyLimit": 70
-}

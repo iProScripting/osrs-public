@@ -1,9 +1,0 @@
-{
-    "name": "Shark lure",
-    "id": 30900,
-    "members": false,
-    "examine": "Sharks just can't get enough of these<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"No full stop.\">sic</span>&#93;</sup>",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

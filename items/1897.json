@@ -1,9 +1,0 @@
-{
-    "name": "Chocolate cake",
-    "id": 1897,
-    "members": false,
-    "examine": "This looks very tasty.",
-    "value": 70,
-    "weight": 0.3,
-    "buyLimit": 6000
-}

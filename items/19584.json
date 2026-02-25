@@ -1,9 +1,0 @@
-{
-    "name": "Javelin shaft",
-    "id": 19584,
-    "members": false,
-    "examine": "It's not very strong, but it could be pointy if you put a pointy tip on it.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 7000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Curry",
-    "id": 2011,
-    "members": false,
-    "examine": "It's a spicy hot curry.",
-    "value": 20,
-    "weight": 1.5,
-    "buyLimit": 10000
-}

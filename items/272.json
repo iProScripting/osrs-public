@@ -1,9 +1,0 @@
-{
-    "name": "Fish food",
-    "id": 272,
-    "members": false,
-    "examine": "Keeps your pet fish strong and healthy.",
-    "value": 1,
-    "weight": 0.028,
-    "buyLimit": 15
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Willow shortbow (u)",
-    "id": 60,
-    "members": false,
-    "examine": "An unstrung willow shortbow; I need a bowstring for this.",
-    "value": 100,
-    "weight": 0.992,
-    "buyLimit": 10000
-}

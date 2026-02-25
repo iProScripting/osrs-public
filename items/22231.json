@@ -1,9 +1,0 @@
-{
-    "name": "Dragon boots ornament kit",
-    "id": 22231,
-    "members": false,
-    "examine": "Use on some dragon boots to make them look fancier!",
-    "value": 5000,
-    "weight": 0.5,
-    "buyLimit": 4
-}

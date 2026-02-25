@@ -1,9 +1,0 @@
-{
-    "name": "Pearl bolt tips",
-    "id": 46,
-    "members": false,
-    "examine": "Pearl bolt tips.",
-    "value": 12,
-    "weight": 0.0,
-    "buyLimit": 11000
-}

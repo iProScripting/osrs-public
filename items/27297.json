@@ -1,8 +1,0 @@
-{
-    "name": "Neutralising potion",
-    "id": 27297,
-    "members": false,
-    "examine": "For neutralising toxic fumes and corruption.",
-    "value": 1,
-    "weight": 0.0
-}

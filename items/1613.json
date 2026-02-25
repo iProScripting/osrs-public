@@ -1,9 +1,0 @@
-{
-    "name": "Red topaz",
-    "id": 1613,
-    "members": false,
-    "examine": "A semi precious stone.",
-    "value": 200,
-    "weight": 0.002,
-    "buyLimit": 11000
-}

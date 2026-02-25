@@ -1,8 +1,0 @@
-{
-    "name": "Emissary scroll",
-    "id": 30949,
-    "members": false,
-    "examine": "A scroll with a message for Metzli.",
-    "value": 30,
-    "weight": 0.1
-}

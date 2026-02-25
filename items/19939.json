@@ -1,8 +1,0 @@
-{
-    "name": "Strange device",
-    "id": 19939,
-    "members": false,
-    "examine": "You can sense strange powers emanating from it.",
-    "value": 2,
-    "weight": 0.01
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Divine ranging potion",
-    "id": 23742,
-    "members": false,
-    "examine": "1 dose of divine ranging potion.",
-    "value": 40,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

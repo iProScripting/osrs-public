@@ -1,9 +1,0 @@
-{
-    "name": "Grey wolf fur",
-    "id": 958,
-    "members": false,
-    "examine": "This would make warm clothing.",
-    "value": 50,
-    "weight": 3.0,
-    "buyLimit": 18000
-}

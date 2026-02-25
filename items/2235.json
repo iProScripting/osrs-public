@@ -1,9 +1,0 @@
-{
-    "name": "Premade veg ball",
-    "id": 2235,
-    "members": false,
-    "examine": "A premade Vegetable Ball.",
-    "value": 150,
-    "weight": 0.35,
-    "buyLimit": 6000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Ironwood repair kit",
-    "id": 31979,
-    "members": false,
-    "examine": "An excellent boat repair kit made from ironwood.",
-    "value": 4000,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

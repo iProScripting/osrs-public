@@ -1,0 +1,13 @@
+{
+    "name": "Black demon (Realm of Memories)",
+    "id": 15608,
+    "isMembersOnly": false,
+    "examine": "Nearly as dark as the sky.",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 3
+}

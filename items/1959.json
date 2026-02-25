@@ -1,9 +1,0 @@
-{
-    "name": "Pumpkin",
-    "id": 1959,
-    "members": false,
-    "examine": "Happy Halloween.",
-    "value": 30,
-    "weight": 0.5,
-    "buyLimit": 50
-}

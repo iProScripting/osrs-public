@@ -1,0 +1,13 @@
+{
+    "name": "Goblin (Realm of Memories)",
+    "id": 15621,
+    "isMembersOnly": false,
+    "examine": "A very ugly green creature.",
+    "releaseDate": "18 February 2026",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 1
+}

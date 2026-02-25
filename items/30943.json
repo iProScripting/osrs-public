@@ -1,8 +1,0 @@
-{
-    "name": "Coin purse",
-    "id": 30943,
-    "members": false,
-    "examine": "A sand-filled leather coin purse.",
-    "value": 30,
-    "weight": 0.475
-}

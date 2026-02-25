@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the potion master",
-    "id": 26045,
-    "members": false,
-    "examine": "You have a 5% chance not to consume potions when using them. Once the effect activates, it cannot be triggered again within 6 seconds.",
-    "value": 1,
-    "weight": 0.1
-}

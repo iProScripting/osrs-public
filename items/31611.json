@@ -1,8 +1,0 @@
-{
-    "name": "Super fishing potion",
-    "id": 31611,
-    "members": false,
-    "examine": "1 dose of super fishing potion.",
-    "value": 40,
-    "weight": 0.03
-}

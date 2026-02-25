@@ -1,9 +1,0 @@
-{
-    "name": "Coconut milk",
-    "id": 5935,
-    "members": false,
-    "examine": "A vial filled with coconut milk",
-    "value": 1,
-    "weight": 0.035,
-    "buyLimit": 11000
-}

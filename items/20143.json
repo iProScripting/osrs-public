@@ -1,9 +1,0 @@
-{
-    "name": "Dragon defender ornament kit",
-    "id": 20143,
-    "members": false,
-    "examine": "Use on the dragon defender to trim it with gold.",
-    "value": 5000,
-    "weight": 0.5,
-    "buyLimit": 4
-}

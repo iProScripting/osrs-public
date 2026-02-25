@@ -1,9 +1,0 @@
-{
-    "name": "Dragon arrowtips",
-    "id": 11237,
-    "members": false,
-    "examine": "Dragon talons, usable as arrowheads.",
-    "value": 500,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

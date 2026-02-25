@@ -1,9 +1,0 @@
-{
-    "name": "Jar of stone",
-    "id": 21745,
-    "members": false,
-    "examine": "Stones aren't very useful in this capacity.",
-    "value": 1,
-    "weight": 1.0,
-    "buyLimit": 4
-}

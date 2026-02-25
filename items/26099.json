@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of devotion",
-    "id": 26099,
-    "members": false,
-    "examine": "Dropped bones are automatically buried. Ashes are automatically scattered. Prayer XP gained from these activities is increased by 200%.",
-    "value": 1,
-    "weight": 0.1
-}

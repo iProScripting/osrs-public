@@ -1,8 +1,0 @@
-{
-    "name": "Death's coffer (unobtainable item)",
-    "id": 24523,
-    "members": false,
-    "examine": "Sacrifice items to pay down item reclamation fees.",
-    "value": 1,
-    "weight": 10.0
-}

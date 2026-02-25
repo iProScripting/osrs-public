@@ -1,9 +1,0 @@
-{
-    "name": "Premade w'm crun'",
-    "id": 2237,
-    "members": false,
-    "examine": "Some Premade Worm Crunchies.",
-    "value": 85,
-    "weight": 0.25,
-    "buyLimit": 6000
-}

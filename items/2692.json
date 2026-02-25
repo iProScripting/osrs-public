@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Search the boxes of Falador's general store",
-    "id": 2692,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

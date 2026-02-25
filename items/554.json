@@ -1,9 +1,0 @@
-{
-    "name": "Fire rune",
-    "id": 554,
-    "members": false,
-    "examine": "One of the 4 basic elemental Runes.",
-    "value": 4,
-    "weight": 0.0,
-    "buyLimit": 50000
-}

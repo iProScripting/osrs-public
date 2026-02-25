@@ -1,8 +1,0 @@
-{
-    "name": "Frozen jug",
-    "id": 3733,
-    "members": false,
-    "examine": "This jug of water is frozen solid.",
-    "value": 1,
-    "weight": 0.453
-}

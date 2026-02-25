@@ -1,9 +1,0 @@
-{
-    "name": "Grimy tarromin",
-    "id": 203,
-    "members": false,
-    "examine": "It needs cleaning.",
-    "value": 15,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

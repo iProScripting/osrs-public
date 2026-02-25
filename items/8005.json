@@ -1,8 +1,0 @@
-{
-    "name": "Medium map (item)",
-    "id": 8005,
-    "members": false,
-    "examine": "A medium map of Gielinor.",
-    "value": 1000,
-    "weight": 1.0
-}

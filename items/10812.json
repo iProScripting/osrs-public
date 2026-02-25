@@ -1,9 +1,0 @@
-{
-    "name": "Split log",
-    "id": 10812,
-    "members": false,
-    "examine": "Used to repair bridges.",
-    "value": 90,
-    "weight": 1.814,
-    "buyLimit": 11000
-}

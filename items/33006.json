@@ -1,8 +1,0 @@
-{
-    "name": "Dragonkin quest lamp",
-    "id": 33006,
-    "members": false,
-    "examine": "Completes the Dragonkin storyline, up to and including Dragon Slayer 2.",
-    "value": 1,
-    "weight": 0.1
-}

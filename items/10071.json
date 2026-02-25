@@ -1,9 +1,0 @@
-{
-    "name": "Spottier cape",
-    "id": 10071,
-    "members": false,
-    "examine": "A really surprisingly aerodynamic cape.",
-    "value": 800,
-    "weight": 0.453,
-    "buyLimit": 125
-}

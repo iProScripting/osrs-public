@@ -1,9 +1,0 @@
-{
-    "name": "Target teleport scroll",
-    "id": 12846,
-    "members": false,
-    "examine": "Unlocks the level 85 Teleport to Target spell.",
-    "value": 30000,
-    "weight": 0.005,
-    "buyLimit": 5
-}

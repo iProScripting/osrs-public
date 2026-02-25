@@ -1,9 +1,0 @@
-{
-    "name": "Loop half of key",
-    "id": 987,
-    "members": false,
-    "examine": "The loop end of the mysterious Crystal Key. Can you find the other half?",
-    "value": 100,
-    "weight": 0.005,
-    "buyLimit": 11000
-}

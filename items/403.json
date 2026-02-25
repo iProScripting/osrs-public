@@ -1,9 +1,0 @@
-{
-    "name": "Edible seaweed",
-    "id": 403,
-    "members": false,
-    "examine": "Slightly damp seaweed.",
-    "value": 2,
-    "weight": 0.25,
-    "buyLimit": 13000
-}

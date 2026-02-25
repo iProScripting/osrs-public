@@ -1,9 +1,0 @@
-{
-    "name": "Silver bar",
-    "id": 2355,
-    "members": false,
-    "examine": "It's a bar of silver.",
-    "value": 150,
-    "weight": 1.814,
-    "buyLimit": 10000
-}

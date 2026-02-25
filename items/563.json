@@ -1,9 +1,0 @@
-{
-    "name": "Law rune",
-    "id": 563,
-    "members": false,
-    "examine": "Used for teleport spells.",
-    "value": 240,
-    "weight": 0.0,
-    "buyLimit": 18000
-}

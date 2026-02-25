@@ -1,9 +1,0 @@
-{
-    "name": "Raw sardine",
-    "id": 327,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 10,
-    "weight": 0.14,
-    "buyLimit": 15000
-}

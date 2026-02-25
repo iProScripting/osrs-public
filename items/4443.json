@@ -1,8 +1,0 @@
-{
-    "name": "Chicken cage",
-    "id": 4443,
-    "members": false,
-    "examine": "A large cage for transporting chickens.",
-    "value": 1,
-    "weight": 1.0
-}

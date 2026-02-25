@@ -1,8 +1,0 @@
-{
-    "name": "Uncooked stew",
-    "id": 2001,
-    "members": false,
-    "examine": "I need to cook this.",
-    "value": 10,
-    "weight": 1.5
-}

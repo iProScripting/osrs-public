@@ -1,9 +1,0 @@
-{
-    "name": "Dragon keel parts",
-    "id": 32017,
-    "members": false,
-    "examine": "Parts for creating a dragon keel for a boat.",
-    "value": 37500,
-    "weight": 4.0,
-    "buyLimit": 100
-}

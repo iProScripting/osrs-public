@@ -1,9 +1,0 @@
-{
-    "name": "Mithril ore",
-    "id": 447,
-    "members": false,
-    "examine": "This needs refining.",
-    "value": 162,
-    "weight": 1.814,
-    "buyLimit": 13000
-}

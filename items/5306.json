@@ -1,9 +1,0 @@
-{
-    "name": "Jute seed",
-    "id": 5306,
-    "members": false,
-    "examine": "A jute plant seed - plant in a hops patch.",
-    "value": 5,
-    "weight": 0.0,
-    "buyLimit": 2000
-}

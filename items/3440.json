@@ -1,9 +1,0 @@
-{
-    "name": "Oak pyre logs",
-    "id": 3440,
-    "members": false,
-    "examine": "Oak logs prepared with sacred oil for a funeral pyre.",
-    "value": 40,
-    "weight": 1.814,
-    "buyLimit": 11000
-}

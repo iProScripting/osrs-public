@@ -1,9 +1,0 @@
-{
-    "name": "Premade dr' dragon",
-    "id": 2032,
-    "members": false,
-    "examine": "A premade Drunk Dragon.",
-    "value": 30,
-    "weight": 0.45,
-    "buyLimit": 2000
-}

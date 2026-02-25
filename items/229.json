@@ -1,9 +1,0 @@
-{
-    "name": "Vial",
-    "id": 229,
-    "members": false,
-    "examine": "An empty glass vial.",
-    "value": 2,
-    "weight": 0.015,
-    "buyLimit": 13000
-}

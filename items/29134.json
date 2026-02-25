@@ -1,9 +1,0 @@
-{
-    "name": "Cooked dashing kebbit",
-    "id": 29134,
-    "members": false,
-    "examine": "I should eat this quickly.",
-    "value": 4,
-    "weight": 0.283,
-    "buyLimit": 6000
-}

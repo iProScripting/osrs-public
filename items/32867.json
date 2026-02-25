@@ -1,8 +1,0 @@
-{
-    "name": "Rusty coin",
-    "id": 32867,
-    "members": false,
-    "examine": "A rusty coin with some strange markings on it.",
-    "value": 100,
-    "weight": 0.01
-}

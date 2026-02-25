@@ -1,9 +1,0 @@
-{
-    "name": "Knife",
-    "id": 946,
-    "members": false,
-    "examine": "A dangerous looking knife.",
-    "value": 6,
-    "weight": 0.453,
-    "buyLimit": 40
-}

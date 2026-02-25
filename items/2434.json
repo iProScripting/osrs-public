@@ -1,9 +1,0 @@
-{
-    "name": "Prayer potion",
-    "id": 2434,
-    "members": false,
-    "examine": "4 doses of Prayer restore potion.",
-    "value": 190,
-    "weight": 0.035,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Nihil dust",
-    "id": 26368,
-    "members": false,
-    "examine": "Dust from a crushed magical shard.",
-    "value": 500,
-    "weight": 0.0,
-    "buyLimit": 11000
-}

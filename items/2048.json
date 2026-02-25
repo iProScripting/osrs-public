@@ -1,9 +1,0 @@
-{
-    "name": "Pineapple punch",
-    "id": 2048,
-    "members": false,
-    "examine": "A fresh healthy fruit mix.",
-    "value": 30,
-    "weight": 0.5,
-    "buyLimit": 2000
-}

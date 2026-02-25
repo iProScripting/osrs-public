@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (easy) - Talk to the bartender of the Rusty Anchor in Port Sarim",
-    "id": 2696,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

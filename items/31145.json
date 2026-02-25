@@ -1,8 +1,0 @@
-{
-    "name": "Torva armour set",
-    "id": 31145,
-    "members": false,
-    "examine": "A set containing a Torva full helm, Torva platebody and Torva platelegs.",
-    "value": 145000,
-    "weight": 0.05
-}

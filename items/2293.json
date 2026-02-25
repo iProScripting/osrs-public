@@ -1,9 +1,0 @@
-{
-    "name": "Meat pizza",
-    "id": 2293,
-    "members": false,
-    "examine": "A pizza with bits of meat on it.",
-    "value": 50,
-    "weight": 0.9,
-    "buyLimit": 10000
-}

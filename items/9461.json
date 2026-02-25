@@ -1,9 +1,0 @@
-{
-    "name": "Mithril crossbow (u)",
-    "id": 9461,
-    "members": false,
-    "examine": "An unstrung mithril crossbow.",
-    "value": 750,
-    "weight": 8.0,
-    "buyLimit": 10000
-}

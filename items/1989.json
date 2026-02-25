@@ -1,9 +1,0 @@
-{
-    "name": "Half full wine jug",
-    "id": 1989,
-    "members": false,
-    "examine": "An optimist would say it's half full.",
-    "value": 1,
-    "weight": 1.0,
-    "buyLimit": 50
-}

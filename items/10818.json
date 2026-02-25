@@ -1,9 +1,0 @@
-{
-    "name": "Yak-hide",
-    "id": 10818,
-    "members": false,
-    "examine": "Thakkrad, of Neitiznot, can cure this.",
-    "value": 50,
-    "weight": 0.453,
-    "buyLimit": 13000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Super attack",
-    "id": 147,
-    "members": false,
-    "examine": "2 doses of super Attack potion.",
-    "value": 135,
-    "weight": 0.025,
-    "buyLimit": 2000
-}

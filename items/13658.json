@@ -1,9 +1,0 @@
-{
-    "name": "Teleport card",
-    "id": 13658,
-    "members": false,
-    "examine": "A card which has magical properties.",
-    "value": 100,
-    "weight": 0.02,
-    "buyLimit": 500
-}

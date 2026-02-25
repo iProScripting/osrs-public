@@ -1,9 +1,0 @@
-{
-    "name": "Divine battlemage potion",
-    "id": 24626,
-    "members": false,
-    "examine": "3 doses of divine battlemage potion.",
-    "value": 540,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

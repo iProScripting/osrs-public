@@ -1,9 +1,0 @@
-{
-    "name": "Potato cactus",
-    "id": 3138,
-    "members": false,
-    "examine": "How am I supposed to eat that?!",
-    "value": 1,
-    "weight": 0.5,
-    "buyLimit": 11000
-}

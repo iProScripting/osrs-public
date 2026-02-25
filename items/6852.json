@@ -1,8 +1,0 @@
-{
-    "name": "Puppet box",
-    "id": 6852,
-    "members": false,
-    "examine": "A box for storing completed puppets.",
-    "value": 1,
-    "weight": 0.907
-}

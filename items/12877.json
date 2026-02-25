@@ -1,9 +1,0 @@
-{
-    "name": "Dharok's armour set",
-    "id": 12877,
-    "members": false,
-    "examine": "A set containing a Dharok's helm, platelegs, platebody and greataxe.",
-    "value": 400000,
-    "weight": 0.05,
-    "buyLimit": 8
-}

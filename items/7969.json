@@ -1,8 +1,0 @@
-{
-    "name": "Pulley beam",
-    "id": 7969,
-    "members": false,
-    "examine": "A beam with a pulley attached.",
-    "value": 5,
-    "weight": 0.01
-}

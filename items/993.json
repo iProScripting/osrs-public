@@ -1,9 +1,0 @@
-{
-    "name": "Sinister key",
-    "id": 993,
-    "members": false,
-    "examine": "You get a sense of dread from this key (Used to open the sinister chest in Yanille dungeon).",
-    "value": 80,
-    "weight": 0.01,
-    "buyLimit": 11000
-}

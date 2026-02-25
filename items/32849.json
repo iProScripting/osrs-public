@@ -1,8 +1,0 @@
-{
-    "name": "Fishy salvage",
-    "id": 32849,
-    "members": false,
-    "examine": "Salvage collected from a fisherman shipwreck.",
-    "value": 200,
-    "weight": 3.0
-}

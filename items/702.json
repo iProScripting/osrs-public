@@ -1,8 +1,0 @@
-{
-    "name": "Nitroglycerin",
-    "id": 702,
-    "members": false,
-    "examine": "A strong chemical.",
-    "value": 1,
-    "weight": 0.025
-}

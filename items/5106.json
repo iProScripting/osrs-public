@@ -1,9 +1,0 @@
-{
-    "name": "Poison ivy seed",
-    "id": 5106,
-    "members": false,
-    "examine": "A poison ivy bush seed - plant in a bush patch.",
-    "value": 166,
-    "weight": 0.0,
-    "buyLimit": 200
-}

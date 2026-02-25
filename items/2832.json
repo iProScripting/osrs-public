@@ -1,8 +1,0 @@
-{
-    "name": "Key (Treasure Trails)",
-    "id": 2832,
-    "members": false,
-    "examine": "A key to unlock a treasure chest.<br/>A key to some drawers.<br/>A key to a chest.",
-    "value": 20,
-    "weight": 0.01
-}

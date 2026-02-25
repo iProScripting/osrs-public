@@ -1,9 +1,0 @@
-{
-    "name": "Restore mix",
-    "id": 11449,
-    "members": false,
-    "examine": "Two doses of fishy restore potion.",
-    "value": 66,
-    "weight": 0.075,
-    "buyLimit": 2000
-}

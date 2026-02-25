@@ -1,8 +1,0 @@
-{
-    "name": "Potion of power",
-    "id": 25203,
-    "members": false,
-    "examine": "Gives a helpful boost.",
-    "value": 1,
-    "weight": 0.035
-}

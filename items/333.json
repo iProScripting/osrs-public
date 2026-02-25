@@ -1,9 +1,0 @@
-{
-    "name": "Trout",
-    "id": 333,
-    "members": false,
-    "examine": "Some nicely cooked trout.",
-    "value": 10,
-    "weight": 0.4,
-    "buyLimit": 6000
-}

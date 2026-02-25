@@ -1,9 +1,0 @@
-{
-    "name": "Ranging potion",
-    "id": 173,
-    "members": false,
-    "examine": "1 dose of ranging potion.",
-    "value": 144,
-    "weight": 0.02,
-    "buyLimit": 2000
-}

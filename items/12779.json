@@ -1,9 +1,0 @@
-{
-    "name": "Kharyrll teleport (tablet)",
-    "id": 12779,
-    "members": false,
-    "examine": "A teleport to Kharyrll.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

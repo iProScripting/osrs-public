@@ -1,9 +1,0 @@
-{
-    "name": "Grimy snapdragon",
-    "id": 3051,
-    "members": false,
-    "examine": "It needs cleaning.",
-    "value": 21,
-    "weight": 0.007,
-    "buyLimit": 11000
-}

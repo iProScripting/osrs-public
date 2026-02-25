@@ -1,9 +1,0 @@
-{
-    "name": "Lumbridge teleport (tablet)",
-    "id": 8008,
-    "members": false,
-    "examine": "A teleport to Lumbridge.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Secateurs attachment",
-    "id": 28161,
-    "members": false,
-    "examine": "Collects leaves when chopping trees.",
-    "value": 100,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

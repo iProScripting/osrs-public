@@ -1,9 +1,0 @@
-{
-    "name": "Snowy knight (item)",
-    "id": 10016,
-    "members": false,
-    "examine": "There's a snowy knight butterfly in here.",
-    "value": 50,
-    "weight": 0.02,
-    "buyLimit": 125
-}

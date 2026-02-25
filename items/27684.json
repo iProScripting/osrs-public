@@ -1,9 +1,0 @@
-{
-    "name": "Voidwaker blade",
-    "id": 27684,
-    "members": false,
-    "examine": "The blade of a broken sword.",
-    "value": 800000,
-    "weight": 0.9,
-    "buyLimit": 8
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Ghorrock teleport (tablet)",
-    "id": 12778,
-    "members": false,
-    "examine": "A teleport to Ghorrock, in level 45 Wilderness.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

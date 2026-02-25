@@ -1,9 +1,0 @@
-{
-    "name": "Chopped tomato",
-    "id": 1869,
-    "members": false,
-    "examine": "A mixture of tomatoes in a bowl.",
-    "value": 3,
-    "weight": 0.2,
-    "buyLimit": 11000
-}

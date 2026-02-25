@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the ruthless ranger",
-    "id": 26072,
-    "members": false,
-    "examine": "Upon dealing ranged damage, you have a 15% chance to cripple the target's movement. The effect deals 15 damage (33% less damage in 3-60 worlds) over the next 6 seconds and also drains a total of 15 run energy in that time. The damage is doubled against targets with less than 10% run energy. A target can only suffer from one crippling effect at a time.",
-    "value": 1,
-    "weight": 0.1
-}

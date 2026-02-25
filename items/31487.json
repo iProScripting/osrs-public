@@ -1,9 +1,0 @@
-{
-    "name": "Umbral coral",
-    "id": 31487,
-    "members": false,
-    "examine": "Seems to absorb light from all around it.",
-    "value": 75,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

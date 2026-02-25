@@ -1,9 +1,0 @@
-{
-    "name": "Chilli con carne",
-    "id": 7062,
-    "members": false,
-    "examine": "A bowl of meat in chilli-con-carne sauce.",
-    "value": 13,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

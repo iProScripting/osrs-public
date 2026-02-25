@@ -1,9 +1,0 @@
-{
-    "name": "Eye of newt",
-    "id": 221,
-    "members": false,
-    "examine": "It seems to be looking at me.",
-    "value": 3,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

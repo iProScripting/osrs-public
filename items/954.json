@@ -1,9 +1,0 @@
-{
-    "name": "Rope",
-    "id": 954,
-    "members": false,
-    "examine": "A coil of rope.",
-    "value": 18,
-    "weight": 1.36,
-    "buyLimit": 250
-}

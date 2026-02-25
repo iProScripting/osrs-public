@@ -1,9 +1,0 @@
-{
-    "name": "White firelighter",
-    "id": 10327,
-    "members": false,
-    "examine": "Makes firelighting a lot easier.",
-    "value": 15,
-    "weight": 0.0,
-    "buyLimit": 250
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Raw anglerfish",
-    "id": 13439,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 450,
-    "weight": 0.4,
-    "buyLimit": 15000
-}

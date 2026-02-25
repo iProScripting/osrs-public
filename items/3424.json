@@ -1,9 +1,0 @@
-{
-    "name": "Olive oil",
-    "id": 3424,
-    "members": false,
-    "examine": "3 doses of olive oil.",
-    "value": 20,
-    "weight": 0.03,
-    "buyLimit": 10000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Cure crate",
-    "id": 26962,
-    "members": false,
-    "examine": "A crate full of vials.",
-    "value": 30,
-    "weight": 5.0
-}

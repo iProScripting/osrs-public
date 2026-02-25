@@ -1,8 +1,0 @@
-{
-    "name": "Prayer book (animation item)",
-    "id": 10886,
-    "members": false,
-    "examine": "Used to cure poison through prayer.",
-    "value": 1,
-    "weight": 0.1
-}

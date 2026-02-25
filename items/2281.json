@@ -1,9 +1,0 @@
-{
-    "name": "Vegetable batta",
-    "id": 2281,
-    "members": false,
-    "examine": "Well... it looks healthy.",
-    "value": 2,
-    "weight": 0.25,
-    "buyLimit": 6000
-}

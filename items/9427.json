@@ -1,9 +1,0 @@
-{
-    "name": "Mithril limbs",
-    "id": 9427,
-    "members": false,
-    "examine": "A pair of mithril crossbow limbs.",
-    "value": 650,
-    "weight": 2.0,
-    "buyLimit": 10000
-}

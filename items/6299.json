@@ -1,9 +1,0 @@
-{
-    "name": "Spider on shaft",
-    "id": 6299,
-    "members": false,
-    "examine": "A nicely roasted spider threaded onto an arrow shaft.",
-    "value": 40,
-    "weight": 0.9,
-    "buyLimit": 6000
-}

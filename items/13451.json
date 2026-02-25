@@ -1,9 +1,0 @@
-{
-    "name": "Ensouled monkey head",
-    "id": 13451,
-    "members": false,
-    "examine": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
-    "value": 104,
-    "weight": 0.453,
-    "buyLimit": 3000
-}

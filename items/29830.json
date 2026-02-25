@@ -1,9 +1,0 @@
-{
-    "name": "Extended anti-venom+",
-    "id": 29830,
-    "members": false,
-    "examine": "2 doses of extended super antivenom potion.",
-    "value": 222,
-    "weight": 0.035,
-    "buyLimit": 2000
-}

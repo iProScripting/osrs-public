@@ -1,8 +1,0 @@
-{
-    "name": "Teleport crystal (The Gauntlet)",
-    "id": 23904,
-    "members": false,
-    "examine": "A tiny crystal enchanted to return the user to the start of the Gauntlet.",
-    "value": 1,
-    "weight": 0.0
-}

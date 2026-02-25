@@ -1,8 +1,0 @@
-{
-    "name": "Mystic vigour prayer scroll",
-    "id": 30627,
-    "members": false,
-    "examine": "Scrawled words that can invoke the power of the gods.",
-    "value": 5000,
-    "weight": 0.015
-}

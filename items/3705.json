@@ -1,8 +1,0 @@
-{
-    "name": "Weather forecast",
-    "id": 3705,
-    "members": false,
-    "examine": "An estimate of expected local weather patterns.",
-    "value": 1,
-    "weight": 0.005
-}

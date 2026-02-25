@@ -1,9 +1,0 @@
-{
-    "name": "Purple sweets",
-    "id": 10476,
-    "members": false,
-    "examine": "Remember to brush after eating!",
-    "value": 15,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

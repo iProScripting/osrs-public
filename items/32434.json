@@ -1,8 +1,0 @@
-{
-    "name": "Holy sheet",
-    "id": 32434,
-    "members": false,
-    "examine": "Someone blessed this sheet and you're not entirely sure why.",
-    "value": 30,
-    "weight": 0.125
-}

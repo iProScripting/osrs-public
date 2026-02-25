@@ -1,9 +1,0 @@
-{
-    "name": "Small box hedge (bagged)",
-    "id": 8441,
-    "members": false,
-    "examine": "You can plant this in your garden.",
-    "value": 15000,
-    "weight": 10.0,
-    "buyLimit": 10000
-}

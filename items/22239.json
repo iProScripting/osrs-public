@@ -1,9 +1,0 @@
-{
-    "name": "Dragon kiteshield ornament kit",
-    "id": 22239,
-    "members": false,
-    "examine": "Use on a dragon kiteshield to make it look fancier!",
-    "value": 5000,
-    "weight": 0.5,
-    "buyLimit": 4
-}

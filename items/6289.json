@@ -1,9 +1,0 @@
-{
-    "name": "Snakeskin",
-    "id": 6289,
-    "members": false,
-    "examine": "Nicely tanned skin from a snake.",
-    "value": 50,
-    "weight": 0.5,
-    "buyLimit": 13000
-}

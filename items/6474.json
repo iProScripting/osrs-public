@@ -1,9 +1,0 @@
-{
-    "name": "Compost potion",
-    "id": 6474,
-    "members": false,
-    "examine": "Pour this on compost to turn it into super-compost.",
-    "value": 60,
-    "weight": 0.025,
-    "buyLimit": 50
-}

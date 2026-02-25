@@ -1,9 +1,0 @@
-{
-    "name": "Fly fishing rod",
-    "id": 309,
-    "members": false,
-    "examine": "Useful for catching salmon or trout.",
-    "value": 5,
-    "weight": 1.36,
-    "buyLimit": 40
-}

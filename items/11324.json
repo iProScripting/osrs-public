@@ -1,9 +1,0 @@
-{
-    "name": "Roe",
-    "id": 11324,
-    "members": false,
-    "examine": "Roe, or cheap fishy eggs.",
-    "value": 20,
-    "weight": 0.05,
-    "buyLimit": 13000
-}

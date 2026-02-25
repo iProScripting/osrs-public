@@ -1,9 +1,0 @@
-{
-    "name": "Sunfire rune",
-    "id": 28929,
-    "members": false,
-    "examine": "A fire rune empowered by the sun.",
-    "value": 20,
-    "weight": 0.0,
-    "buyLimit": 18000
-}

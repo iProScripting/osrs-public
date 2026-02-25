@@ -1,9 +1,0 @@
-{
-    "name": "Steel keel parts",
-    "id": 32005,
-    "members": false,
-    "examine": "Parts for creating a steel keel for a boat.",
-    "value": 500,
-    "weight": 4.0,
-    "buyLimit": 100
-}

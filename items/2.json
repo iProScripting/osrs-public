@@ -1,9 +1,0 @@
-{
-    "name": "Steel cannonball",
-    "id": 2,
-    "members": false,
-    "examine": "Ammo suited for a boat's cannon or for a dwarf multicannon.",
-    "value": 5,
-    "weight": 0.0,
-    "buyLimit": 11000
-}

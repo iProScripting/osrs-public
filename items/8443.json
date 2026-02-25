@@ -1,9 +1,0 @@
-{
-    "name": "Topiary hedge (bagged)",
-    "id": 8443,
-    "members": false,
-    "examine": "You can plant this in your garden.",
-    "value": 20000,
-    "weight": 10.0,
-    "buyLimit": 10000
-}

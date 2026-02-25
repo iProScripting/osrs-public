@@ -1,9 +1,0 @@
-{
-    "name": "Chugging barrel",
-    "id": 30002,
-    "members": false,
-    "examine": "Can be assembled to consume multiple potions.",
-    "value": 1000,
-    "weight": 0.453,
-    "buyLimit": 5
-}

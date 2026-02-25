@@ -1,9 +1,0 @@
-{
-    "name": "Strange fruit",
-    "id": 464,
-    "members": false,
-    "examine": "I wonder what this tastes like?",
-    "value": 1,
-    "weight": 0.085,
-    "buyLimit": 2000
-}

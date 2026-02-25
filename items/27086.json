@@ -1,8 +1,0 @@
-{
-    "name": "Rune pouch (Emir's Arena)",
-    "id": 27086,
-    "members": false,
-    "examine": "Supplies a selection of runes for spellcasting.",
-    "value": 1,
-    "weight": 1.0
-}

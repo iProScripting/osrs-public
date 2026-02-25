@@ -1,9 +1,0 @@
-{
-    "name": "Torture ornament kit",
-    "id": 20062,
-    "members": false,
-    "examine": "Use on an amulet of torture to make it look fancier!",
-    "value": 5000,
-    "weight": 0.5,
-    "buyLimit": 4
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Dark bow imbue scroll",
-    "id": 28072,
-    "members": false,
-    "examine": "Use on a Dark Bow to imbue the weapon.",
-    "value": 10000,
-    "weight": 0.002
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Steel javelin tips",
-    "id": 19574,
-    "members": false,
-    "examine": "Needs a shaft.",
-    "value": 90,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

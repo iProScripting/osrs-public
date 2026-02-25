@@ -1,9 +1,0 @@
-{
-    "name": "Raw salmon",
-    "id": 331,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 30,
-    "weight": 0.55,
-    "buyLimit": 15000
-}

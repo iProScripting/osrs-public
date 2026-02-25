@@ -1,9 +1,0 @@
-{
-    "name": "Whiteberry seed",
-    "id": 5105,
-    "members": false,
-    "examine": "A whiteberry bush seed - plant in a bush patch.",
-    "value": 133,
-    "weight": 0.0,
-    "buyLimit": 200
-}

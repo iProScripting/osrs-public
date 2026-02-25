@@ -1,9 +1,0 @@
-{
-    "name": "Death rune",
-    "id": 560,
-    "members": false,
-    "examine": "Used for medium level missile spells.",
-    "value": 180,
-    "weight": 0.0,
-    "buyLimit": 25000
-}

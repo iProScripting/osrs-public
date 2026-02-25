@@ -1,8 +1,0 @@
-{
-    "name": "Treasure stone",
-    "id": 7677,
-    "members": false,
-    "examine": "It knows where the treasure is.",
-    "value": 1,
-    "weight": 1.814
-}

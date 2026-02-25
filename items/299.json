@@ -1,9 +1,0 @@
-{
-    "name": "Mithril seeds",
-    "id": 299,
-    "members": false,
-    "examine": "Magical seeds in a mithril case.",
-    "value": 200,
-    "weight": 0.0,
-    "buyLimit": 18000
-}

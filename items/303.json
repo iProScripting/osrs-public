@@ -1,9 +1,0 @@
-{
-    "name": "Small fishing net",
-    "id": 303,
-    "members": false,
-    "examine": "Useful for catching small fish.",
-    "value": 5,
-    "weight": 4.535,
-    "buyLimit": 40
-}

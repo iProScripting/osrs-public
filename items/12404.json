@@ -1,9 +1,0 @@
-{
-    "name": "Feldip hills teleport",
-    "id": 12404,
-    "members": false,
-    "examine": "Teleports you to Feldip hills.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

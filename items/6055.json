@@ -1,9 +1,0 @@
-{
-    "name": "Weeds",
-    "id": 6055,
-    "members": false,
-    "examine": "A handful of weeds.",
-    "value": 1,
-    "weight": 0.007,
-    "buyLimit": 600
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Pat of butter",
-    "id": 6697,
-    "members": false,
-    "examine": "A pat of freshly churned butter.",
-    "value": 4,
-    "weight": 0.2,
-    "buyLimit": 11000
-}

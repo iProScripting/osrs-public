@@ -1,9 +1,0 @@
-{
-    "name": "Mature wmb",
-    "id": 5741,
-    "members": false,
-    "examine": "This looks a good deal stronger than normal Wizards Mind Bomb.",
-    "value": 2,
-    "weight": 0.55,
-    "buyLimit": 2000
-}

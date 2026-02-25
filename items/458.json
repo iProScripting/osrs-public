@@ -1,8 +1,0 @@
-{
-    "name": "Scorpion cage",
-    "id": 458,
-    "members": false,
-    "examine": "There are 2 scorpions inside.",
-    "value": 10,
-    "weight": 0.2
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of onslaught",
-    "id": 29667,
-    "members": false,
-    "examine": "Increases the maximum number of targets chinchompas and multi-target ancient spells can hit by 2. Black chinchompa max targets is only increased by 1.",
-    "value": 1,
-    "weight": 0.1
-}

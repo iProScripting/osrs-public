@@ -1,9 +1,0 @@
-{
-    "name": "Grapes",
-    "id": 1987,
-    "members": false,
-    "examine": "Good grapes for wine making.",
-    "value": 1,
-    "weight": 0.25,
-    "buyLimit": 20000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Extreme energy potion",
-    "id": 31614,
-    "members": false,
-    "examine": "4 doses of extreme energy potion.",
-    "value": 250,
-    "weight": 0.03
-}

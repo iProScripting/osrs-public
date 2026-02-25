@@ -1,9 +1,0 @@
-{
-    "name": "Premade p' punch",
-    "id": 2036,
-    "members": false,
-    "examine": "A premade Pineapple punch.",
-    "value": 30,
-    "weight": 0.45,
-    "buyLimit": 2000
-}

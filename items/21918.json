@@ -1,9 +1,0 @@
-{
-    "name": "Dragon limbs",
-    "id": 21918,
-    "members": false,
-    "examine": "A pair of dragon crossbow limbs.",
-    "value": 35000,
-    "weight": 3.2,
-    "buyLimit": 10000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Raw yak meat",
-    "id": 10816,
-    "members": false,
-    "examine": "I need to cook this.",
-    "value": 2,
-    "weight": 0.34,
-    "buyLimit": 11000
-}

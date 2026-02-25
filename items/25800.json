@@ -1,8 +1,0 @@
-{
-    "name": "Cultist robe",
-    "id": 25800,
-    "members": false,
-    "examine": "A cultist robe found at the home of Councillor Hughes.",
-    "value": 30,
-    "weight": 0.907
-}

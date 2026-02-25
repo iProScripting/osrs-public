@@ -1,0 +1,13 @@
+{
+    "name": "Black dragon (Realm of Memories)",
+    "id": 15601,
+    "isMembersOnly": false,
+    "examine": "They don't make 'em like they used to!",
+    "releaseDate": "6 January 2021",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 4
+}

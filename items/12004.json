@@ -1,9 +1,0 @@
-{
-    "name": "Kraken tentacle",
-    "id": 12004,
-    "members": false,
-    "examine": "Ewwww... it's still sucky.",
-    "value": 83340,
-    "weight": 0.005,
-    "buyLimit": 70
-}

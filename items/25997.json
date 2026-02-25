@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of the formidable fighter",
-    "id": 25997,
-    "members": false,
-    "examine": "Your melee accuracy is increased by +30 in stab, slash and crush. Additionally, upon a successful hit, you have a 30% chance for your next successful hit to deal +10 damage. There is a 10 second cooldown before this can reoccur. Does not work for special attacks.",
-    "value": 1,
-    "weight": 0.1
-}

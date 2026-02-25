@@ -1,9 +1,0 @@
-{
-    "name": "Cup of tea",
-    "id": 1978,
-    "members": false,
-    "examine": "A nice cup of tea.",
-    "value": 10,
-    "weight": 0.15,
-    "buyLimit": 2000
-}

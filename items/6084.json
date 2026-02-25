@@ -1,8 +1,0 @@
-{
-    "name": "Worn key",
-    "id": 6084,
-    "members": false,
-    "examine": "This key has seen a lot of use (used in the Mourning's End Part I quest).",
-    "value": 1,
-    "weight": 0.01
-}

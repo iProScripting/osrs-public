@@ -1,9 +1,0 @@
-{
-    "name": "Heavy frame",
-    "id": 19589,
-    "members": false,
-    "examine": "A heavy wooden frame.",
-    "value": 50000,
-    "weight": 5.25,
-    "buyLimit": 8
-}

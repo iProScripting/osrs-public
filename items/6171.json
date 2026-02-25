@@ -1,9 +1,0 @@
-{
-    "name": "Flattened hide",
-    "id": 6171,
-    "members": false,
-    "examine": "A tattered chunk of dagannoth hide.",
-    "value": 60,
-    "weight": 3.175,
-    "buyLimit": 11000
-}

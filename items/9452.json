@@ -1,9 +1,0 @@
-{
-    "name": "Yew stock",
-    "id": 9452,
-    "members": false,
-    "examine": "A yew crossbow stock.",
-    "value": 167,
-    "weight": 3.0,
-    "buyLimit": 10000
-}

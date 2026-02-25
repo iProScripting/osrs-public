@@ -1,9 +1,0 @@
-{
-    "name": "Red bead",
-    "id": 1470,
-    "members": false,
-    "examine": "A small round red bead.",
-    "value": 4,
-    "weight": 0.003,
-    "buyLimit": 11000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Plant cure (Garden of Tranquillity)",
-    "id": 6468,
-    "members": false,
-    "examine": "This plant cure emits potency.",
-    "value": 1,
-    "weight": 0.035
-}

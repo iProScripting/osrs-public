@@ -1,9 +1,0 @@
-{
-    "name": "Dust rune",
-    "id": 4696,
-    "members": false,
-    "examine": "A combined Air and Earth Rune.",
-    "value": 20,
-    "weight": 0.0,
-    "buyLimit": 18000
-}

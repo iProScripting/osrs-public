@@ -1,9 +1,0 @@
-{
-    "name": "Numulite",
-    "id": 21555,
-    "members": false,
-    "examine": "A form of currency on Fossil Island.",
-    "value": 10,
-    "weight": 0.0,
-    "buyLimit": 30000
-}

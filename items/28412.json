@@ -1,8 +1,0 @@
-{
-    "name": "Prisoner's letter",
-    "id": 28412,
-    "members": false,
-    "examine": "A letter written to a prisoner.",
-    "value": 30,
-    "weight": 0.003
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Jerboa tail",
-    "id": 29166,
-    "members": false,
-    "examine": "The long tail of an embertailed jerboa.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 18000
-}

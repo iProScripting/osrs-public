@@ -1,9 +1,0 @@
-{
-    "name": "Shears",
-    "id": 1735,
-    "members": false,
-    "examine": "For shearing sheep.",
-    "value": 1,
-    "weight": 0.113,
-    "buyLimit": 40
-}

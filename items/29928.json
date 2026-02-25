@@ -1,8 +1,0 @@
-{
-    "name": "Wine labels",
-    "id": 29928,
-    "members": false,
-    "examine": "Labels used specifically for wine jugs.",
-    "value": 30,
-    "weight": 0.01
-}

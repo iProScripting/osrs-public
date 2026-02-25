@@ -1,9 +1,0 @@
-{
-    "name": "Rosewood hull parts",
-    "id": 32059,
-    "members": false,
-    "examine": "Parts for creating a rosewood hull for a boat.",
-    "value": 18750,
-    "weight": 4.0,
-    "buyLimit": 100
-}

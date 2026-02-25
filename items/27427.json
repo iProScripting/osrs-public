@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (special)",
-    "id": 27427,
-    "members": false,
-    "examine": "A special clue scroll.",
-    "value": 20,
-    "weight": 0.02
-}

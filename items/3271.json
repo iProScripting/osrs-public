@@ -1,8 +1,0 @@
-{
-    "name": "Compost bin (unobtainable item)",
-    "id": 3271,
-    "members": false,
-    "examine": "A compost bin.",
-    "value": 1,
-    "weight": 0.0
-}

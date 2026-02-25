@@ -1,9 +1,0 @@
-{
-    "name": "Fruit blast",
-    "id": 2084,
-    "members": false,
-    "examine": "A cool refreshing fruit mix.",
-    "value": 30,
-    "weight": 0.5,
-    "buyLimit": 2000
-}

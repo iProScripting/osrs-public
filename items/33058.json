@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of automation",
-    "id": 33058,
-    "members": false,
-    "examine": "When you're within 10 tiles of your cannon and your cannon has 5 cannonballs or less, your cannon will automatically be reloaded, provided you have enough cannonballs.",
-    "value": 1,
-    "weight": 0.1
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Potion (Watchtower)",
-    "id": 2394,
-    "members": false,
-    "examine": "A strange brew.",
-    "value": 120,
-    "weight": 0.025
-}

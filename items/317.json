@@ -1,9 +1,0 @@
-{
-    "name": "Raw shrimps",
-    "id": 317,
-    "members": false,
-    "examine": "I should try cooking this.",
-    "value": 5,
-    "weight": 0.12,
-    "buyLimit": 15000
-}

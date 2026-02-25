@@ -1,9 +1,0 @@
-{
-    "name": "Fayrg bones",
-    "id": 4830,
-    "members": false,
-    "examine": "Ancient ogre bones from the ogre burial tomb.",
-    "value": 1,
-    "weight": 0.8,
-    "buyLimit": 7500
-}

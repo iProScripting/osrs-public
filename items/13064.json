@@ -1,9 +1,0 @@
-{
-    "name": "Combat potion set",
-    "id": 13064,
-    "members": false,
-    "examine": "A set containing 4-dose vials of Attack, Strength and Defence potions.",
-    "value": 70,
-    "weight": 0.05,
-    "buyLimit": 2000
-}

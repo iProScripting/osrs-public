@@ -1,9 +1,0 @@
-{
-    "name": "Lily of the sands",
-    "id": 27272,
-    "members": false,
-    "examine": "A beautiful lily.",
-    "value": 200,
-    "weight": 0.003,
-    "buyLimit": 13000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Raw jubbly",
-    "id": 7566,
-    "members": false,
-    "examine": "The uncooked meat of a Jubbly bird.",
-    "value": 100,
-    "weight": 10.0,
-    "buyLimit": 11000
-}

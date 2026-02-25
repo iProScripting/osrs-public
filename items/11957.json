@@ -1,9 +1,0 @@
-{
-    "name": "Extended antifire",
-    "id": 11957,
-    "members": false,
-    "examine": "1 dose of extended anti-firebreath potion.",
-    "value": 110,
-    "weight": 0.02,
-    "buyLimit": 2000
-}

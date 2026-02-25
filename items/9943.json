@@ -1,8 +1,0 @@
-{
-    "name": "Sandbag",
-    "id": 9943,
-    "members": false,
-    "examine": "A bag full of sand.",
-    "value": 1,
-    "weight": 1.5
-}

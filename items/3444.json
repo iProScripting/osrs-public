@@ -1,9 +1,0 @@
-{
-    "name": "Maple pyre logs",
-    "id": 3444,
-    "members": false,
-    "examine": "Maple logs prepared with sacred oil for a funeral pyre.",
-    "value": 160,
-    "weight": 1.36,
-    "buyLimit": 11000
-}

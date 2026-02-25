@@ -1,9 +1,0 @@
-{
-    "name": "Diabolic worms",
-    "id": 30773,
-    "members": false,
-    "examine": "Their subtle, pulsing glow would be great for catching anglerfish.",
-    "value": 90,
-    "weight": 0.0,
-    "buyLimit": 8000
-}

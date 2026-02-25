@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of revoked limitation",
-    "id": 29652,
-    "members": false,
-    "examine": "Revenant weapon damage and accuracy bonuses are no longer restricted to the Wilderness when this sigil is attuned.",
-    "value": 1,
-    "weight": 0.1
-}

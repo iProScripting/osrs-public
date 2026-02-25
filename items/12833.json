@@ -1,9 +1,0 @@
-{
-    "name": "Holy elixir",
-    "id": 12833,
-    "members": false,
-    "examine": "A bottle of holy elixir.",
-    "value": 750000,
-    "weight": 2.0,
-    "buyLimit": 5
-}

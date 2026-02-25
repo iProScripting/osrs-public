@@ -1,8 +1,0 @@
-{
-    "name": "Jail key",
-    "id": 1591,
-    "members": false,
-    "examine": "Key to a cell (Provides access to the Black Knights jail cell in Taverley Dungeon).",
-    "value": 1,
-    "weight": 0.01
-}

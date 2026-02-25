@@ -1,9 +1,0 @@
-{
-    "name": "Hard leather",
-    "id": 1743,
-    "members": false,
-    "examine": "It's a piece of hard leather.",
-    "value": 1,
-    "weight": 3.175,
-    "buyLimit": 13000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Teleport anchoring scroll",
-    "id": 29455,
-    "members": false,
-    "examine": "A formidable magic spell which prevents unwanted teleportation.",
-    "value": 50000,
-    "weight": 0.015,
-    "buyLimit": 5
-}

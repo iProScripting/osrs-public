@@ -1,9 +1,0 @@
-{
-    "name": "Saturated heart",
-    "id": 27641,
-    "members": false,
-    "examine": "This heart holds an ancient magical power within.",
-    "value": 600000,
-    "weight": 0.45,
-    "buyLimit": 8
-}

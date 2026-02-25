@@ -1,9 +1,0 @@
-{
-    "name": "Premade choc s'dy",
-    "id": 2030,
-    "members": false,
-    "examine": "A premade Chocolate Saturday.",
-    "value": 30,
-    "weight": 0.45,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Sawmill voucher",
-    "id": 28628,
-    "members": false,
-    "examine": "Used to provide additional planks at the sawmill.",
-    "value": 100,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

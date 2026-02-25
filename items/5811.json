@@ -1,8 +1,0 @@
-{
-    "name": "Moonlight mead (keg)",
-    "id": 5811,
-    "members": false,
-    "examine": "This keg contains 1 pint of Moonlight Mead.",
-    "value": 1,
-    "weight": 0.028
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Mint cake",
-    "id": 9475,
-    "members": false,
-    "examine": "It looks very minty.",
-    "value": 250,
-    "weight": 0.1,
-    "buyLimit": 10000
-}

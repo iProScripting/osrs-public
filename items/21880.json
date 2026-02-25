@@ -1,9 +1,0 @@
-{
-    "name": "Wrath rune",
-    "id": 21880,
-    "members": false,
-    "examine": "Used for very high level missile spells.",
-    "value": 500,
-    "weight": 0.0,
-    "buyLimit": 25000
-}

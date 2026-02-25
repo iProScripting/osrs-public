@@ -1,9 +1,0 @@
-{
-    "name": "Fake beard",
-    "id": 4593,
-    "members": false,
-    "examine": "Makes me itch.",
-    "value": 1,
-    "weight": 0.03,
-    "buyLimit": 15
-}

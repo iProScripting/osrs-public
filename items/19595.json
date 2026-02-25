@@ -1,9 +1,0 @@
-{
-    "name": "Incomplete light ballista",
-    "id": 19595,
-    "members": false,
-    "examine": "The limbs have been attached to the frame.",
-    "value": 50000,
-    "weight": 2.5,
-    "buyLimit": 8
-}

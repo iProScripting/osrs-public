@@ -1,8 +1,0 @@
-{
-    "name": "Martial salvage",
-    "id": 32857,
-    "members": false,
-    "examine": "Salvage collected from a mercenary shipwreck.",
-    "value": 200,
-    "weight": 3.0
-}

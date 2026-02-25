@@ -7,6 +7,9 @@
     "versionAnchor": "Breach",
     "combatLevel": 984,
     "hitpoints": 2500,
+    "maxHit": [
+        "23+"
+    ],
     "usesSkill": [
     ],
     "attackLevel": 1,

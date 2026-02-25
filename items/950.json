@@ -1,9 +1,0 @@
-{
-    "name": "Silk",
-    "id": 950,
-    "members": false,
-    "examine": "It's a sheet of silk.",
-    "value": 30,
-    "weight": 1.0,
-    "buyLimit": 18000
-}

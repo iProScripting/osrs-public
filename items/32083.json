@@ -1,8 +1,0 @@
-{
-    "name": "Sawmill coupon (wood plank)",
-    "id": 32083,
-    "members": false,
-    "examine": "Used to cover plank costs for regular logs at the sawmill. Must be used in person.",
-    "value": 100,
-    "weight": 0.0
-}

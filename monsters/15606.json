@@ -1,0 +1,14 @@
+{
+    "name": "Lesser demon (Realm of Memories)",
+    "id": 15606,
+    "isMembersOnly": false,
+    "examine": "Why the long face?",
+    "releaseDate": "6 January 2021",
+    "hitpoints": 80,
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 2
+}

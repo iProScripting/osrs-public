@@ -1,9 +1,0 @@
-{
-    "name": "Krandorian hops",
-    "id": 6000,
-    "members": false,
-    "examine": "A handful of Krandorian Hops.",
-    "value": 10,
-    "weight": 0.028,
-    "buyLimit": 11000
-}

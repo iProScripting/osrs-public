@@ -1,9 +1,0 @@
-{
-    "name": "Contract of oathplate acquisition",
-    "id": 30825,
-    "members": false,
-    "examine": "A contract issued by Yama. Present it to him to discuss some new terms.",
-    "value": 75000,
-    "weight": 0.4,
-    "buyLimit": 50
-}

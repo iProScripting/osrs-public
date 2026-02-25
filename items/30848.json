@@ -1,9 +1,0 @@
-{
-    "name": "Crushed infernal shale",
-    "id": 30848,
-    "members": false,
-    "examine": "Speckled with smouldering rock.",
-    "value": 80,
-    "weight": 0.0,
-    "buyLimit": 25000
-}

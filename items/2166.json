@@ -1,9 +1,0 @@
-{
-    "name": "Gnomebowl mould",
-    "id": 2166,
-    "members": false,
-    "examine": "A large ovenproof bowl.",
-    "value": 10,
-    "weight": 0.15,
-    "buyLimit": 40
-}

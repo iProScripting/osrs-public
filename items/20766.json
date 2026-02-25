@@ -1,8 +1,0 @@
-{
-    "name": "Manor key",
-    "id": 20766,
-    "members": false,
-    "examine": "This should open the main doors of the manor house (Used in the Halloween 2016 event).",
-    "value": 1,
-    "weight": 0.01
-}

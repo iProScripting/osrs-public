@@ -1,9 +1,0 @@
-{
-    "name": "Diamond",
-    "id": 1601,
-    "members": false,
-    "examine": "This looks valuable.",
-    "value": 2000,
-    "weight": 0.002,
-    "buyLimit": 11000
-}

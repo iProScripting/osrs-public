@@ -1,8 +1,0 @@
-{
-    "name": "Granite cannonball",
-    "id": 21728,
-    "members": false,
-    "examine": "Ammo suited for a boat's cannon or for a dwarf multicannon.",
-    "value": 85,
-    "weight": 0.0
-}

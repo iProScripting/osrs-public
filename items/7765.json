@@ -1,9 +1,0 @@
-{
-    "name": "Toy doll",
-    "id": 7765,
-    "members": false,
-    "examine": "Nice bit of crafting!",
-    "value": 10,
-    "weight": 1.0,
-    "buyLimit": 150
-}

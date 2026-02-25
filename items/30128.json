@@ -1,9 +1,0 @@
-{
-    "name": "Prayer regeneration potion",
-    "id": 30128,
-    "members": false,
-    "examine": "3 doses of Prayer Regeneration potion.",
-    "value": 250,
-    "weight": 0.03,
-    "buyLimit": 2000
-}

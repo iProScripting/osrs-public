@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (medium) - Go to this building to be illuminated",
-    "id": 7298,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

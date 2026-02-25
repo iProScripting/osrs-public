@@ -1,8 +1,0 @@
-{
-    "name": "Pole (animation item)",
-    "id": 4500,
-    "members": false,
-    "examine": "It's the pole you're holding.",
-    "value": 1,
-    "weight": 0.01
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Makeshift bandages",
-    "id": 31392,
-    "members": false,
-    "examine": "Bandages made from seaweed and a palm leaf.",
-    "value": 30,
-    "weight": 0.325
-}

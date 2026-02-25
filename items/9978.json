@@ -1,9 +1,0 @@
-{
-    "name": "Raw bird meat",
-    "id": 9978,
-    "members": false,
-    "examine": "This certainly needs cooking!",
-    "value": 17,
-    "weight": 0.15,
-    "buyLimit": 11000
-}

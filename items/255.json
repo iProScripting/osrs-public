@@ -1,9 +1,0 @@
-{
-    "name": "Harralander",
-    "id": 255,
-    "members": false,
-    "examine": "A useful herb.",
-    "value": 20,
-    "weight": 0.007,
-    "buyLimit": 13000
-}

@@ -1,9 +1,0 @@
-{
-    "name": "Premade t'd batta",
-    "id": 2221,
-    "members": false,
-    "examine": "A Premade Toad Batta.",
-    "value": 120,
-    "weight": 0.25,
-    "buyLimit": 6000
-}

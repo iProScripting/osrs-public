@@ -1,9 +1,0 @@
-{
-    "name": "West ardougne teleport (tablet)",
-    "id": 19623,
-    "members": false,
-    "examine": "A teleport to West Ardougne.",
-    "value": 1,
-    "weight": 0.0,
-    "buyLimit": 10000
-}

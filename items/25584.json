@@ -1,8 +1,0 @@
-{
-    "name": "Fish barrel",
-    "id": 25584,
-    "members": false,
-    "examine": "Like stashing fish in a barrel.",
-    "value": 720,
-    "weight": 1.39
-}

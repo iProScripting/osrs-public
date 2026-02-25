@@ -1,8 +1,0 @@
-{
-    "name": "Spell scroll",
-    "id": 2396,
-    "members": false,
-    "examine": "A spell is written on this parchment.",
-    "value": 5,
-    "weight": 0.01
-}

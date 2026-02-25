@@ -1,9 +1,0 @@
-{
-    "name": "Golden scarab",
-    "id": 9028,
-    "members": false,
-    "examine": "Little ornament in the shape of a scarab.",
-    "value": 30,
-    "weight": 0.01,
-    "buyLimit": 13000
-}

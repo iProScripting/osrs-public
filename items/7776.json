@@ -1,8 +1,0 @@
-{
-    "name": "Reward token (unobtainable item)",
-    "id": 7776,
-    "members": false,
-    "examine": "Blue reward token exchanged at Burgh de Rott.",
-    "value": 1,
-    "weight": 0.01
-}

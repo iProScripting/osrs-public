@@ -1,9 +1,0 @@
-{
-    "name": "Ensouled abyssal head",
-    "id": 13508,
-    "members": false,
-    "examine": "The creature's soul is still in here. I could reanimate it with Master Reanimation.",
-    "value": 585,
-    "weight": 0.453,
-    "buyLimit": 3000
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Sigil of remote storage",
-    "id": 26141,
-    "members": false,
-    "examine": "Resources gathered from Mining, Fishing, Woodcutting and Farming will be automatically noted and placed in your inventory.",
-    "value": 1,
-    "weight": 0.1
-}

@@ -1,8 +1,0 @@
-{
-    "name": "Clue scroll (hard) - Try not to let yourself be dazzled when you search these drawers",
-    "id": 7255,
-    "members": false,
-    "examine": "A clue!",
-    "value": 20,
-    "weight": 0.02
-}

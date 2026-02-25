@@ -1,9 +1,0 @@
-{
-    "name": "Defence potion",
-    "id": 137,
-    "members": false,
-    "examine": "1 dose of Defence potion.",
-    "value": 60,
-    "weight": 0.02,
-    "buyLimit": 2000
-}

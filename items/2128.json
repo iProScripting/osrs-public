@@ -1,9 +1,0 @@
-{
-    "name": "Equa leaves",
-    "id": 2128,
-    "members": false,
-    "examine": "Small sweet smelling leaves.",
-    "value": 2,
-    "weight": 0.014,
-    "buyLimit": 13000
-}

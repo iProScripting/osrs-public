@@ -1,0 +1,13 @@
+{
+    "name": "Fire giant (Realm of Memories)",
+    "id": 15619,
+    "isMembersOnly": false,
+    "examine": "A very large elemental adversary.",
+    "releaseDate": "18 February 2026",
+    "usesSkill": [
+    ],
+    "attackStyle": [
+    ],
+    "experienceBonus": -97.5,
+    "size": 2
+}
