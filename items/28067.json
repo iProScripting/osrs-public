@@ -1,0 +1,18 @@
+{
+    "name": "Fighter torso (or)",
+    "id": 28067,
+    "members": false,
+    "examine": "A Penance Fighter torso armour.",
+    "value": 65006,
+    "weight": 4.0,
+    "equipment": {
+        "magicAttack": -40,
+        "stabDefence": 62,
+        "slashDefence": 85,
+        "crushDefence": 62,
+        "magicDefence": -10,
+        "rangedDefence": 67,
+        "strength": 4,
+        "slot": "BODY"
+    }
+}

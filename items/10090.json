@@ -1,0 +1,9 @@
+{
+    "name": "Yellow feather",
+    "id": 10090,
+    "members": false,
+    "examine": "A bright yellow feather.",
+    "value": 13,
+    "weight": 0.0,
+    "buyLimit": 8000
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Crystal axe",
+    "id": 23675,
+    "members": false,
+    "examine": "A very powerful axe.",
+    "value": 520000,
+    "weight": 0.907,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 38,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Fighter hat",
+    "id": 24173,
+    "members": false,
+    "examine": "A Penance Fighter hat.",
+    "value": 65001,
+    "weight": 2.0,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 5,
+        "crushAttack": 5,
+        "magicAttack": -7,
+        "rangedAttack": -7,
+        "stabDefence": 27,
+        "slashDefence": 29,
+        "crushDefence": 26,
+        "magicDefence": -3,
+        "rangedDefence": 28,
+        "slot": "HEAD"
+    }
+}

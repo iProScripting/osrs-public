@@ -1,0 +1,9 @@
+{
+    "name": "Swamp weed",
+    "id": 10978,
+    "members": false,
+    "examine": "Swamp weed found in the caves near Dorgesh-Kaan.",
+    "value": 2,
+    "weight": 0.2,
+    "buyLimit": 13000
+}

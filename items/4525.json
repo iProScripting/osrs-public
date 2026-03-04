@@ -1,0 +1,9 @@
+{
+    "name": "Empty oil lamp",
+    "id": 4525,
+    "members": false,
+    "examine": "An oil lamp with no oil in it.",
+    "value": 25,
+    "weight": 0.453,
+    "buyLimit": 10000
+}

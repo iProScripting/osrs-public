@@ -1,0 +1,8 @@
+{
+    "name": "Weight (5kg)",
+    "id": 29529,
+    "members": false,
+    "examine": "A 5kg weight.",
+    "value": 30,
+    "weight": 5.0
+}

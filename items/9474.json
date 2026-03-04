@@ -1,0 +1,8 @@
+{
+    "name": "Reward token (Gnome Restaurant)",
+    "id": 9474,
+    "members": false,
+    "examine": "This entitles you to one free gnome food delivery.",
+    "value": 250,
+    "weight": 0.001
+}

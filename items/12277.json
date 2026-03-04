@@ -1,0 +1,19 @@
+{
+    "name": "Mithril platebody (g)",
+    "id": 12277,
+    "members": false,
+    "examine": "Mithril platebody with gold trim.",
+    "value": 5200,
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 46,
+        "slashDefence": 44,
+        "crushDefence": 38,
+        "magicDefence": -6,
+        "rangedDefence": 44,
+        "slot": "BODY"
+    }
+}

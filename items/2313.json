@@ -1,0 +1,9 @@
+{
+    "name": "Pie dish",
+    "id": 2313,
+    "members": false,
+    "examine": "Deceptively pie shaped.",
+    "value": 3,
+    "weight": 0.1,
+    "buyLimit": 500
+}

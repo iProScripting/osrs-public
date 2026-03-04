@@ -1,0 +1,8 @@
+{
+    "name": "Wester papaya",
+    "id": 21241,
+    "members": false,
+    "examine": "A tasty papaya, plucked fresh from Wester Island.",
+    "value": 1,
+    "weight": 0.15
+}

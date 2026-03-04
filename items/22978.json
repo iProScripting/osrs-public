@@ -1,0 +1,19 @@
+{
+    "name": "Dragon hunter lance",
+    "id": 22978,
+    "members": false,
+    "examine": "A lance that is exceptionally good at killing dragons and their ilk.",
+    "value": 300000,
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 85,
+        "slashAttack": 65,
+        "crushAttack": 65,
+        "strength": 70,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

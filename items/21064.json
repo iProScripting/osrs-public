@@ -1,0 +1,8 @@
+{
+    "name": "Graceful cape (Agility Arena)",
+    "id": 21064,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 40,
+    "weight": 0.8
+}

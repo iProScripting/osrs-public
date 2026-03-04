@@ -1,0 +1,9 @@
+{
+    "name": "Unfired pot",
+    "id": 1787,
+    "members": false,
+    "examine": "I need to put this in a pottery oven.",
+    "value": 1,
+    "weight": 0.68,
+    "buyLimit": 10000
+}

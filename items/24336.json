@@ -1,0 +1,8 @@
+{
+    "name": "Target teleport",
+    "id": 24336,
+    "members": false,
+    "examine": "A teleport to your target.",
+    "value": 1,
+    "weight": 0.0
+}

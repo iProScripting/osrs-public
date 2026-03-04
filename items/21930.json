@@ -1,0 +1,9 @@
+{
+    "name": "Dragon bolts (unf)",
+    "id": 21930,
+    "members": false,
+    "examine": "Unfeathered dragon crossbow bolts.",
+    "value": 141,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

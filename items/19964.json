@@ -1,0 +1,12 @@
+{
+    "name": "Dark trousers",
+    "id": 19964,
+    "members": false,
+    "examine": "Dark tuxedo trousers with white stockings.",
+    "value": 6000,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

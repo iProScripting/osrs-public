@@ -1,0 +1,11 @@
+{
+    "name": "Snow imp costume head",
+    "id": 21841,
+    "members": false,
+    "examine": "A poorly made fake snow imp head.",
+    "value": 1,
+    "weight": 9.071,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

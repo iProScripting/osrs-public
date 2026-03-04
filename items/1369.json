@@ -1,0 +1,20 @@
+{
+    "name": "Mithril battleaxe",
+    "id": 1369,
+    "members": false,
+    "examine": "A vicious looking axe.",
+    "value": 1690,
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 22,
+        "crushAttack": 17,
+        "rangedDefence": -1,
+        "strength": 29,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

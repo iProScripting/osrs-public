@@ -1,0 +1,14 @@
+{
+    "name": "Crystal grail",
+    "id": 24000,
+    "members": false,
+    "examine": "Smells of victory.",
+    "value": 30000,
+    "weight": 0.001,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

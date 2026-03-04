@@ -1,0 +1,17 @@
+{
+    "name": "Volatile nightmare staff",
+    "id": 24424,
+    "members": false,
+    "examine": "An ancient staff corrupted by darkness. A volatile orb has been added to it.",
+    "value": 4600000,
+    "weight": 1.6,
+    "equipment": {
+        "magicAttack": 16,
+        "magicDefence": 14,
+        "magicDamage": 15.0,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

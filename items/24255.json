@@ -1,0 +1,8 @@
+{
+    "name": "Venom gland",
+    "id": 24255,
+    "members": false,
+    "examine": "A gland filled with venom.",
+    "value": 100,
+    "weight": 0.005
+}

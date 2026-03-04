@@ -1,0 +1,9 @@
+{
+    "name": "Raw tuna",
+    "id": 359,
+    "members": false,
+    "examine": "I should try cooking this.",
+    "value": 40,
+    "weight": 0.45,
+    "buyLimit": 15000
+}

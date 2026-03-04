@@ -1,0 +1,8 @@
+{
+    "name": "Rotten onion",
+    "id": 13327,
+    "members": false,
+    "examine": "Spawns green banners.",
+    "value": 0,
+    "weight": 0.001
+}

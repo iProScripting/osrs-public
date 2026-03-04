@@ -1,0 +1,8 @@
+{
+    "name": "Empty box",
+    "id": 7960,
+    "members": false,
+    "examine": "It says 'To the dungeons' on the side.",
+    "value": 10,
+    "weight": 0.01
+}

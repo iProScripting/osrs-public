@@ -1,0 +1,19 @@
+{
+    "name": "Gilded platebody",
+    "id": 3481,
+    "members": false,
+    "examine": "Rune platebody with gold plate.",
+    "value": 65000,
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 82,
+        "slashDefence": 80,
+        "crushDefence": 72,
+        "magicDefence": -6,
+        "rangedDefence": 80,
+        "slot": "BODY"
+    }
+}

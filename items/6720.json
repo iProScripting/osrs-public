@@ -1,0 +1,14 @@
+{
+    "name": "Slayer gloves",
+    "id": 6720,
+    "members": false,
+    "examine": "Especially good against diseased arachnids.",
+    "value": 200,
+    "weight": 0.226,
+    "equipment": {
+        "stabDefence": 4,
+        "slashDefence": 5,
+        "crushDefence": 3,
+        "slot": "HANDS"
+    }
+}

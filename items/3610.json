@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Find a crate close to the monks that like to paaarty!",
+    "id": 3610,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

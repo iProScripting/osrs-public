@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Panic on the pier where you catch the Fishing trawler",
+    "id": 10224,
+    "members": false,
+    "examine": "A set of instructions to be followed.",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Strongroom key",
+    "id": 28574,
+    "members": false,
+    "examine": "This opens the door into Golrie's strongroom (used in the Path of Glouphrie quest).",
+    "value": 30,
+    "weight": 0.01
+}

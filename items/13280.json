@@ -1,0 +1,8 @@
+{
+    "name": "Max cape",
+    "id": 13280,
+    "members": false,
+    "examine": "The cape worn by only the most experienced players.",
+    "value": 99000,
+    "weight": 0.453
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Temple library key",
+    "id": 7632,
+    "members": false,
+    "examine": "A key for the Temple Library (Used in the In Aid of the Myreque quest).",
+    "value": 1,
+    "weight": 0.01
+}

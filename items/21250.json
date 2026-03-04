@@ -1,0 +1,8 @@
+{
+    "name": "Rock (2017 Easter event)",
+    "id": 21250,
+    "members": false,
+    "examine": "If found, return to a hard place.",
+    "value": 1,
+    "weight": 0.15
+}

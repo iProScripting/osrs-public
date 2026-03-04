@@ -1,0 +1,8 @@
+{
+    "name": "Dusty lamp",
+    "id": 28132,
+    "members": false,
+    "examine": "Good for rubbing.",
+    "value": 1,
+    "weight": 0.1
+}

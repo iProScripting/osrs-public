@@ -1,0 +1,9 @@
+{
+    "name": "Meat pie",
+    "id": 2327,
+    "members": false,
+    "examine": "Not for vegetarians.",
+    "value": 15,
+    "weight": 0.45,
+    "buyLimit": 10000
+}

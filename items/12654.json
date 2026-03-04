@@ -1,0 +1,8 @@
+{
+    "name": "Kalphite princess",
+    "id": 12654,
+    "members": false,
+    "examine": "Suggests there's a king nearby.",
+    "value": 1,
+    "weight": 0.015
+}

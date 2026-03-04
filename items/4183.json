@@ -1,0 +1,8 @@
+{
+    "name": "Star amulet",
+    "id": 4183,
+    "members": false,
+    "examine": "A six-pointed marble and obsidian amulet",
+    "value": 1,
+    "weight": 0.01
+}

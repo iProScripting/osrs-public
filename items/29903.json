@@ -1,0 +1,8 @@
+{
+    "name": "Tattered sails",
+    "id": 29903,
+    "members": false,
+    "examine": "These sails have seen better days.",
+    "value": 30,
+    "weight": 1.0
+}

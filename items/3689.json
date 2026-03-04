@@ -1,0 +1,14 @@
+{
+    "name": "Lyre",
+    "id": 3689,
+    "members": false,
+    "examine": "It's a musical instrument I don't know how to play.",
+    "value": 1,
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

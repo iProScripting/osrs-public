@@ -1,0 +1,9 @@
+{
+    "name": "Spicy sauce",
+    "id": 7072,
+    "members": false,
+    "examine": "A bowl of spicy sauce.",
+    "value": 9,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

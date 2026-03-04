@@ -1,0 +1,8 @@
+{
+    "name": "Tiger toy",
+    "id": 13215,
+    "members": false,
+    "examine": "A tiger toy.",
+    "value": 100,
+    "weight": 0.05
+}

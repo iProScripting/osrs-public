@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - This crate holds a better reward than a broken arrow",
+    "id": 7304,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

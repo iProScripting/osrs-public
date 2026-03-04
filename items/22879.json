@@ -1,0 +1,9 @@
+{
+    "name": "Snape grass seed",
+    "id": 22879,
+    "members": false,
+    "examine": "A snape grass seed - plant in an allotment.",
+    "value": 94,
+    "weight": 0.0,
+    "buyLimit": 200
+}

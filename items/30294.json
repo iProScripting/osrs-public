@@ -1,0 +1,11 @@
+{
+    "name": "Powder grey pumpkin",
+    "id": 30294,
+    "members": false,
+    "examine": "That pumpkin is not very detailed at all.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

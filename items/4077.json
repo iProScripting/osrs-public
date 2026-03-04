@@ -1,0 +1,8 @@
+{
+    "name": "Crystal-mine key",
+    "id": 4077,
+    "members": false,
+    "examine": "A key I found in the lower levels of the Morytanian mines (Allows access to the Crystal mine from the Haunted mine quest).",
+    "value": 1,
+    "weight": 0.01
+}

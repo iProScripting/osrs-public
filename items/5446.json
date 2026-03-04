@@ -1,0 +1,8 @@
+{
+    "name": "Onions",
+    "id": 5446,
+    "members": false,
+    "examine": "There are 4 onions in this sack.",
+    "value": 1,
+    "weight": 2.267
+}

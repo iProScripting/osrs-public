@@ -1,0 +1,20 @@
+{
+    "name": "Rolling pin",
+    "id": 7445,
+    "members": false,
+    "examine": "That's how I roll!",
+    "value": 14400,
+    "weight": 1.814,
+    "buyLimit": 50,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": -2,
+        "crushAttack": 39,
+        "strength": 36,
+        "prayerBonus": 4,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

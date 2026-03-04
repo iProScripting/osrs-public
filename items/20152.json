@@ -1,0 +1,17 @@
+{
+    "name": "Gilded sq shield",
+    "id": 20152,
+    "members": false,
+    "examine": "A medium square shield in gold plate.",
+    "value": 38400,
+    "weight": 3.628,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -6,
+        "stabDefence": 38,
+        "slashDefence": 40,
+        "crushDefence": 36,
+        "rangedDefence": 38,
+        "slot": "SHIELD"
+    }
+}

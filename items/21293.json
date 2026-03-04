@@ -1,0 +1,8 @@
+{
+    "name": "Infernal eel",
+    "id": 21293,
+    "members": false,
+    "examine": "An infernal eel that has now hardened. Perhaps it could be cracked open.",
+    "value": 165,
+    "weight": 0.6
+}

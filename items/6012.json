@@ -1,0 +1,9 @@
+{
+    "name": "Nasturtiums",
+    "id": 6012,
+    "members": false,
+    "examine": "A bunch of nasturtiums.",
+    "value": 4,
+    "weight": 0.028,
+    "buyLimit": 600
+}

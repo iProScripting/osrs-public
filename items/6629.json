@@ -1,0 +1,15 @@
+{
+    "name": "White gloves",
+    "id": 6629,
+    "members": false,
+    "examine": "These will keep my hands warm!",
+    "value": 6,
+    "weight": 0.226,
+    "buyLimit": 125,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 2,
+        "prayerBonus": 1,
+        "slot": "HANDS"
+    }
+}

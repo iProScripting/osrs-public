@@ -1,0 +1,12 @@
+{
+    "name": "Crate of flax",
+    "id": 32608,
+    "members": false,
+    "examine": "A cargo crate of flax destined for Piscatoris.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Shaman mask",
+    "id": 21838,
+    "members": false,
+    "examine": "The mask worn by ogre shamans.",
+    "value": 8000,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -2,
+        "stabDefence": 6,
+        "slashDefence": 7,
+        "crushDefence": 5,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

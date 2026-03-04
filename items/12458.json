@@ -1,0 +1,14 @@
+{
+    "name": "Dark infinity top",
+    "id": 12458,
+    "members": false,
+    "examine": "Mystical robes with a dark recolour.",
+    "value": 140000,
+    "weight": 2.267,
+    "equipment": {
+        "magicAttack": 22,
+        "magicDefence": 22,
+        "magicDamage": 1.0,
+        "slot": "BODY"
+    }
+}

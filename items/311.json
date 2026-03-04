@@ -1,0 +1,9 @@
+{
+    "name": "Harpoon",
+    "id": 311,
+    "members": false,
+    "examine": "Useful for catching really big fish.",
+    "value": 5,
+    "weight": 1.36,
+    "buyLimit": 40
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Rune gold-trimmed set (sk)",
+    "id": 13034,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
+    "value": 80000,
+    "weight": 6.0,
+    "buyLimit": 8
+}

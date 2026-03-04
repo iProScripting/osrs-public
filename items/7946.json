@@ -1,0 +1,9 @@
+{
+    "name": "Monkfish",
+    "id": 7946,
+    "members": false,
+    "examine": "A tasty fish.",
+    "value": 230,
+    "weight": 0.4,
+    "buyLimit": 13000
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Purple cape",
+    "id": 1029,
+    "members": false,
+    "examine": "A thick purple cape.",
+    "value": 32,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

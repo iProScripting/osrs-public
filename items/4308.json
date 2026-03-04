@@ -1,0 +1,14 @@
+{
+    "name": "Ham gloves",
+    "id": 4308,
+    "members": false,
+    "examine": "HAM gloves as worn by the Humans Against Monsters group.",
+    "value": 75,
+    "weight": 0.453,
+    "buyLimit": 15,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 2,
+        "slot": "HANDS"
+    }
+}

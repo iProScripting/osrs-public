@@ -1,0 +1,17 @@
+{
+    "name": "Shayzien platebody (2)",
+    "id": 13366,
+    "members": false,
+    "examine": "Dress like a tier 2 Shayzien soldier.",
+    "value": 50,
+    "weight": 9.979,
+    "equipment": {
+        "magicAttack": -7,
+        "stabDefence": 20,
+        "slashDefence": 25,
+        "crushDefence": 30,
+        "magicDefence": -3,
+        "rangedDefence": 20,
+        "slot": "BODY"
+    }
+}

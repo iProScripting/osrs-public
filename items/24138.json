@@ -1,0 +1,22 @@
+{
+    "name": "Steel defender",
+    "id": 24138,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 7,
+        "slashAttack": 6,
+        "crushAttack": 5,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 7,
+        "slashDefence": 6,
+        "crushDefence": 5,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "strength": 1,
+        "slot": "SHIELD"
+    }
+}

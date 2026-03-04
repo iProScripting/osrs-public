@@ -1,0 +1,9 @@
+{
+    "name": "Easter egg",
+    "id": 1961,
+    "members": false,
+    "examine": "Happy Easter.",
+    "value": 10,
+    "weight": 0.085,
+    "buyLimit": 50
+}

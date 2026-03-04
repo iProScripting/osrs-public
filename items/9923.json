@@ -1,0 +1,11 @@
+{
+    "name": "Skeleton leggings",
+    "id": 9923,
+    "members": false,
+    "examine": "Does my pelvis look big in this?",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

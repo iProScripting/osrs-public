@@ -1,0 +1,18 @@
+{
+    "name": "Moonclan hat",
+    "id": 9069,
+    "members": false,
+    "examine": "A mystical hat.",
+    "value": 1000,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": 3,
+        "rangedAttack": -5,
+        "stabDefence": 3,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "magicDefence": 3,
+        "rangedDefence": -5,
+        "slot": "HEAD"
+    }
+}

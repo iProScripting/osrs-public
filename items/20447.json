@@ -1,0 +1,23 @@
+{
+    "name": "Fire max cape",
+    "id": 20447,
+    "members": false,
+    "examine": "This cape is broken.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 1,
+        "slashAttack": 1,
+        "crushAttack": 1,
+        "magicAttack": 1,
+        "rangedAttack": 1,
+        "stabDefence": 11,
+        "slashDefence": 11,
+        "crushDefence": 11,
+        "magicDefence": 11,
+        "rangedDefence": 11,
+        "strength": 4,
+        "prayerBonus": 2,
+        "slot": "CAPE"
+    }
+}

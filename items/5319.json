@@ -1,0 +1,9 @@
+{
+    "name": "Onion seed",
+    "id": 5319,
+    "members": false,
+    "examine": "An onion seed - plant in an allotment.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 600
+}

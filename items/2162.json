@@ -1,0 +1,9 @@
+{
+    "name": "King worm",
+    "id": 2162,
+    "members": false,
+    "examine": "They're a gnome delicacy apparently.",
+    "value": 2,
+    "weight": 0.12,
+    "buyLimit": 13000
+}

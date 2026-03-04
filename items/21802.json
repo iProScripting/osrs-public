@@ -1,0 +1,9 @@
+{
+    "name": "Revenant cave teleport",
+    "id": 21802,
+    "members": false,
+    "examine": "Teleports you to the Revenant cave in the Wilderness.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 15000
+}

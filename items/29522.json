@@ -1,0 +1,8 @@
+{
+    "name": "Waste-paper basket",
+    "id": 29522,
+    "members": false,
+    "examine": "A receptacle for rubbish.",
+    "value": 30,
+    "weight": 0.5
+}

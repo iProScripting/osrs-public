@@ -1,0 +1,21 @@
+{
+    "name": "Dragon dagger",
+    "id": 5680,
+    "members": false,
+    "examine": "A powerful dagger.",
+    "value": 24000,
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 40,
+        "slashAttack": 25,
+        "crushAttack": -4,
+        "magicAttack": 1,
+        "magicDefence": 1,
+        "strength": 40,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

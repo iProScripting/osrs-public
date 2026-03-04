@@ -1,0 +1,22 @@
+{
+    "name": "Wristbands of the arena (i)",
+    "id": 26697,
+    "members": false,
+    "examine": "A pair of hardened wristbands to protect your hands in combat, but they're broken.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "stabAttack": 14,
+        "slashAttack": 13,
+        "crushAttack": 15,
+        "magicAttack": 7,
+        "rangedAttack": 13,
+        "stabDefence": 12,
+        "slashDefence": 12,
+        "crushDefence": 12,
+        "magicDefence": 6,
+        "rangedDefence": 12,
+        "strength": 12,
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Void knight robe",
+    "id": 8840,
+    "members": false,
+    "examine": "Leg armour from the order of the Void Knights.",
+    "value": 45000,
+    "weight": 8.164,
+    "equipment": {
+        "stabDefence": 30,
+        "slashDefence": 30,
+        "crushDefence": 30,
+        "magicDefence": 30,
+        "rangedDefence": 30,
+        "slot": "LEGS"
+    }
+}

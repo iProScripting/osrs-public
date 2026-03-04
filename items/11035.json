@@ -1,0 +1,8 @@
+{
+    "name": "Windswept logs",
+    "id": 11035,
+    "members": false,
+    "examine": "Logs taken from the exotic-looking windswept tree.",
+    "value": 0,
+    "weight": 0.05
+}

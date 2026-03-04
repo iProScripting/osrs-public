@@ -1,0 +1,19 @@
+{
+    "name": "Coif",
+    "id": 1169,
+    "members": false,
+    "examine": "Light weight head protection.",
+    "value": 200,
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -1,
+        "rangedAttack": 2,
+        "stabDefence": 4,
+        "slashDefence": 6,
+        "crushDefence": 8,
+        "magicDefence": 4,
+        "rangedDefence": 4,
+        "slot": "HEAD"
+    }
+}

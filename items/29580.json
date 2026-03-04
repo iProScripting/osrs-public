@@ -1,0 +1,9 @@
+{
+    "name": "Tormented synapse",
+    "id": 29580,
+    "members": false,
+    "examine": "Glowing hot and writhing in pain.",
+    "value": 800000,
+    "weight": 1.814,
+    "buyLimit": 5
+}

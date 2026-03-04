@@ -1,0 +1,12 @@
+{
+    "name": "Strung rabbit foot",
+    "id": 10132,
+    "members": false,
+    "examine": "Not so lucky for the rabbit.",
+    "value": 30,
+    "weight": 0.03,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

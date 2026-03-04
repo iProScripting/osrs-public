@@ -1,0 +1,11 @@
+{
+    "name": "Socks of ruin",
+    "id": 27436,
+    "members": false,
+    "examine": "A pair of magical-looking socks.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

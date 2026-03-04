@@ -1,0 +1,11 @@
+{
+    "name": "Grain (Recruitment Drive)",
+    "id": 5607,
+    "members": false,
+    "examine": "A sack full of grain.",
+    "value": 1,
+    "weight": 5.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Short green guy",
+    "id": 2080,
+    "members": false,
+    "examine": "A Short Green Guy... looks good.",
+    "value": 30,
+    "weight": 0.5,
+    "buyLimit": 2000
+}

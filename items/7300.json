@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Try not to step on any aquatic nasties while searching this crate",
+    "id": 7300,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

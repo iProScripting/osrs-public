@@ -1,0 +1,22 @@
+{
+    "name": "Corrupted body (basic)",
+    "id": 23843,
+    "members": false,
+    "examine": "A not so sturdy piece of armour with a little protection from corrupted creatures.",
+    "value": 1,
+    "weight": 9.979,
+    "equipment": {
+        "stabAttack": 8,
+        "slashAttack": 8,
+        "crushAttack": 3,
+        "magicAttack": 8,
+        "rangedAttack": 8,
+        "stabDefence": 86,
+        "slashDefence": 86,
+        "crushDefence": 86,
+        "magicDefence": 86,
+        "rangedDefence": 86,
+        "prayerBonus": 3,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Confession",
+    "id": 31341,
+    "members": false,
+    "examine": "A written confession.",
+    "value": 0,
+    "weight": 0.005
+}

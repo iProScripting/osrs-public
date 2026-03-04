@@ -1,0 +1,8 @@
+{
+    "name": "Model ship",
+    "id": 4254,
+    "members": false,
+    "examine": "A small wooden ship with a silk flag.",
+    "value": 1,
+    "weight": 0.01
+}

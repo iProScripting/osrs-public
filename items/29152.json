@@ -1,0 +1,9 @@
+{
+    "name": "Cooked kyatt",
+    "id": 29152,
+    "members": false,
+    "examine": "Mmm, this looks tasty.",
+    "value": 4,
+    "weight": 0.283,
+    "buyLimit": 10000
+}

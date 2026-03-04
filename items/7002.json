@@ -1,0 +1,8 @@
+{
+    "name": "Stone head (Cavity)",
+    "id": 7002,
+    "members": false,
+    "examine": "A granite head that will fit exactly into the pedestal.",
+    "value": 1,
+    "weight": 0.5
+}

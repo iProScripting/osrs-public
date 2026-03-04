@@ -1,0 +1,8 @@
+{
+    "name": "Moonlight mead (player-owned house)",
+    "id": 7750,
+    "members": false,
+    "examine": "A foul smelling brew.",
+    "value": 5,
+    "weight": 0.55
+}

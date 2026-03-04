@@ -1,0 +1,9 @@
+{
+    "name": "Torva full helm",
+    "id": 26376,
+    "members": false,
+    "examine": "An ancient warrior's full helm.",
+    "value": 200000,
+    "weight": 2.721,
+    "buyLimit": 8
+}

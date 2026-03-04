@@ -1,0 +1,8 @@
+{
+    "name": "Rune pouch",
+    "id": 24416,
+    "members": false,
+    "examine": "You can store runes in here.",
+    "value": 10000,
+    "weight": 1.0
+}

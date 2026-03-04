@@ -1,0 +1,14 @@
+{
+    "name": "Humphrey Dumphrey",
+    "id": 30970,
+    "members": false,
+    "examine": "An egg.",
+    "value": 30,
+    "weight": 0.2,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

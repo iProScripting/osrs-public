@@ -1,0 +1,9 @@
+{
+    "name": "Pastry dough",
+    "id": 1953,
+    "members": false,
+    "examine": "Potentially pastry.",
+    "value": 1,
+    "weight": 0.17,
+    "buyLimit": 13000
+}

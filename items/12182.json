@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Talk to Ambassador Spanfipple",
+    "id": 12182,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

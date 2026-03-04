@@ -1,0 +1,11 @@
+{
+    "name": "Smiths gloves (i)",
+    "id": 27031,
+    "members": false,
+    "examine": "They fit suprisingly<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> well and are stuffed with a pair of ice gloves.",
+    "value": 390,
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

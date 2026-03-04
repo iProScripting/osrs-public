@@ -1,0 +1,9 @@
+{
+    "name": "Insect repellent",
+    "id": 28,
+    "members": false,
+    "examine": "Drives away all known 6 legged creatures.",
+    "value": 3,
+    "weight": 0.028,
+    "buyLimit": 15
+}

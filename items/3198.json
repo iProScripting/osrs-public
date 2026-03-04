@@ -1,0 +1,22 @@
+{
+    "name": "Mithril halberd",
+    "id": 3198,
+    "members": false,
+    "examine": "A mithril halberd.",
+    "value": 2600,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 22,
+        "slashAttack": 28,
+        "magicAttack": -4,
+        "stabDefence": -1,
+        "slashDefence": 2,
+        "crushDefence": 4,
+        "strength": 29,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 2,
+        "combatStyle": "POLEARM"
+    }
+}

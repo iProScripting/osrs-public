@@ -1,0 +1,20 @@
+{
+    "name": "Saradomin d'hide body",
+    "id": 10386,
+    "members": false,
+    "examine": "Saradomin blessed dragonhide body armour.",
+    "value": 13000,
+    "weight": 6.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": 30,
+        "stabDefence": 55,
+        "slashDefence": 47,
+        "crushDefence": 60,
+        "magicDefence": 50,
+        "rangedDefence": 55,
+        "prayerBonus": 1,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Iron set (lg)",
+    "id": 12972,
+    "members": false,
+    "examine": "A set containing a full helm, platebody, legs and kiteshield.",
+    "value": 900,
+    "weight": 6.0,
+    "buyLimit": 8
+}

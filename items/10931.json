@@ -1,0 +1,9 @@
+{
+    "name": "Sanfew serum",
+    "id": 10931,
+    "members": false,
+    "examine": "A 1 dose Sanfew Serum.",
+    "value": 120,
+    "weight": 0.02,
+    "buyLimit": 2000
+}

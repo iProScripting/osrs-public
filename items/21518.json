@@ -1,0 +1,9 @@
+{
+    "name": "Willow bird house",
+    "id": 21518,
+    "members": false,
+    "examine": "Feed and catch the birds by placing this in the right spot.",
+    "value": 5,
+    "weight": 0.453,
+    "buyLimit": 250
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Glarial's pebble",
+    "id": 294,
+    "members": false,
+    "examine": "A small pebble with elven inscription.",
+    "value": 1,
+    "weight": 0.01
+}

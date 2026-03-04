@@ -1,0 +1,9 @@
+{
+    "name": "Slayer's respite",
+    "id": 5759,
+    "members": false,
+    "examine": "Ale with bite.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

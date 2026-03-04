@@ -1,0 +1,13 @@
+{
+    "name": "Devout boots",
+    "id": 22954,
+    "members": false,
+    "examine": "A pair of Devout Boots.",
+    "value": 20000,
+    "weight": 0.5,
+    "buyLimit": 70,
+    "equipment": {
+        "prayerBonus": 5,
+        "slot": "FEET"
+    }
+}

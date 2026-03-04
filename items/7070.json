@@ -1,0 +1,9 @@
+{
+    "name": "Minced meat",
+    "id": 7070,
+    "members": false,
+    "examine": "A bowl of finely minced meat.",
+    "value": 8,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

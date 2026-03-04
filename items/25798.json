@@ -1,0 +1,8 @@
+{
+    "name": "Demonic incantations",
+    "id": 25798,
+    "members": false,
+    "examine": "A book of incantations found at the home of Councillor Hughes.",
+    "value": 30,
+    "weight": 0.226
+}

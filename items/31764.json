@@ -1,0 +1,11 @@
+{
+    "name": "Crystal glider's trousers",
+    "id": 31764,
+    "members": false,
+    "examine": "The trousers of a captain who loved to sail the most graceful of seas.",
+    "value": 35,
+    "weight": 0.6,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Mort myre fungus",
+    "id": 2970,
+    "members": false,
+    "examine": "A mushroom from the swamps of Mort Myre.",
+    "value": 1,
+    "weight": 0.01,
+    "buyLimit": 13000
+}

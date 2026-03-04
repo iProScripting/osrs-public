@@ -1,0 +1,13 @@
+{
+    "name": "Ghostly robe (top)",
+    "id": 6107,
+    "members": false,
+    "examine": "A particularly spooky robe top.",
+    "value": 30,
+    "weight": 0.001,
+    "equipment": {
+        "magicAttack": 5,
+        "magicDefence": 5,
+        "slot": "BODY"
+    }
+}

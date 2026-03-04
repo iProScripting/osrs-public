@@ -1,0 +1,15 @@
+{
+    "name": "Royal sceptre",
+    "id": 12439,
+    "members": false,
+    "examine": "I dub thee...",
+    "value": 5000,
+    "weight": 4.535,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "POLESTAFF"
+    }
+}

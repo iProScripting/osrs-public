@@ -1,0 +1,23 @@
+{
+    "name": "Zaryte vambraces",
+    "id": 26235,
+    "members": false,
+    "examine": "A pair of ancient vambraces.",
+    "value": 200000,
+    "weight": 1.0,
+    "buyLimit": 7,
+    "equipment": {
+        "stabAttack": -8,
+        "slashAttack": -8,
+        "crushAttack": -8,
+        "rangedAttack": 18,
+        "stabDefence": 8,
+        "slashDefence": 8,
+        "crushDefence": 8,
+        "magicDefence": 5,
+        "rangedDefence": 8,
+        "rangedStrength": 2,
+        "prayerBonus": 1,
+        "slot": "HANDS"
+    }
+}

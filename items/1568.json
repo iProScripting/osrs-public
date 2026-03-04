@@ -1,0 +1,8 @@
+{
+    "name": "Overgrown cat",
+    "id": 1568,
+    "members": false,
+    "examine": "This cat is so well fed it can hardly move.",
+    "value": 1,
+    "weight": 2.5
+}

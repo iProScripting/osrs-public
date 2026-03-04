@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - Subterranea",
+    "id": 23176,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

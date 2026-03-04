@@ -1,0 +1,11 @@
+{
+    "name": "Robe top of ruin",
+    "id": 27430,
+    "members": false,
+    "examine": "A magical-looking robe top.",
+    "value": 1,
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Redberries",
+    "id": 1951,
+    "members": false,
+    "examine": "Very bright red berries.",
+    "value": 3,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

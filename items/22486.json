@@ -1,0 +1,22 @@
+{
+    "name": "Scythe of vitur",
+    "id": 22486,
+    "members": false,
+    "examine": "A powerful scythe. It is currently uncharged.",
+    "value": 4000000,
+    "weight": 3.175,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 50,
+        "slashAttack": 75,
+        "crushAttack": 10,
+        "magicAttack": -6,
+        "stabDefence": -2,
+        "slashDefence": 6,
+        "strength": 50,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SCYTHE"
+    }
+}

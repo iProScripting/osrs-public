@@ -1,0 +1,8 @@
+{
+    "name": "Tome of experience (Sins of the Father)",
+    "id": 24690,
+    "members": false,
+    "examine": "A tome of experience that awards 15,000 XP per chapter.",
+    "value": 1,
+    "weight": 1.0
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Ice plateau teleport (tablet)",
+    "id": 24963,
+    "members": false,
+    "examine": "A teleport to the Ice Plateau in level 53 Wilderness.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

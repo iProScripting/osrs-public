@@ -1,0 +1,9 @@
+{
+    "name": "Magic fang",
+    "id": 12932,
+    "members": false,
+    "examine": "This can be attached to a Staff of the Dead or a Trident of the Seas.",
+    "value": 102000,
+    "weight": 0.3,
+    "buyLimit": 5
+}

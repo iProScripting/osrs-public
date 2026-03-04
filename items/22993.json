@@ -1,0 +1,8 @@
+{
+    "name": "Seed pack",
+    "id": 22993,
+    "members": false,
+    "examine": "Contains a selection of random seeds.",
+    "value": 100,
+    "weight": 0.2
+}

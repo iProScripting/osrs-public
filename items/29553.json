@@ -1,0 +1,8 @@
+{
+    "name": "Earth block",
+    "id": 29553,
+    "members": false,
+    "examine": "An elemental block of earth.",
+    "value": 30,
+    "weight": 1.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Dwarven rock cake",
+    "id": 7510,
+    "members": false,
+    "examine": "Cool and heavy as a brick. Only for dwarf consumption.",
+    "value": 1,
+    "weight": 0.453
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cider(m) (keg)",
+    "id": 5923,
+    "members": false,
+    "examine": "This keg contains 1 pint of mature Cider.",
+    "value": 1,
+    "weight": 0.028
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Scarecrow shirt",
+    "id": 30232,
+    "members": false,
+    "examine": "I completed the Halloween event and all I got was this rather nice shirt.",
+    "value": 1,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

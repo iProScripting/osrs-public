@@ -1,0 +1,8 @@
+{
+    "name": "Wintumber tree",
+    "id": 10508,
+    "members": false,
+    "examine": "A wintumber tree for your player-owned house.",
+    "value": 1,
+    "weight": 10.0
+}

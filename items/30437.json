@@ -1,0 +1,19 @@
+{
+    "name": "Echo virtus mask",
+    "id": 30437,
+    "members": false,
+    "examine": "Virtus mask in the style of Leagues V: Raging Echoes.",
+    "value": 200000,
+    "weight": 0.1,
+    "equipment": {
+        "magicAttack": 8,
+        "rangedAttack": -3,
+        "stabDefence": 15,
+        "slashDefence": 14,
+        "crushDefence": 16,
+        "magicDefence": 6,
+        "prayerBonus": 1,
+        "magicDamage": 2.0,
+        "slot": "HEAD"
+    }
+}

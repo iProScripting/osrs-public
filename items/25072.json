@@ -1,0 +1,8 @@
+{
+    "name": "Graceful cape (Trailblazer)",
+    "id": 25072,
+    "members": false,
+    "examine": "A sign of your grace while trailblazing.",
+    "value": 40,
+    "weight": 0.8
+}

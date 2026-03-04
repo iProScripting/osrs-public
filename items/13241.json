@@ -1,0 +1,19 @@
+{
+    "name": "Infernal axe",
+    "id": 13241,
+    "members": false,
+    "examine": "A very powerful, fiery hatchet.",
+    "value": 99801,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 38,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Elite black platelegs",
+    "id": 29564,
+    "members": false,
+    "examine": "These look pretty heavy and very elite.",
+    "value": 1500,
+    "weight": 9.071,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 24,
+        "slashDefence": 22,
+        "crushDefence": 20,
+        "magicDefence": -4,
+        "rangedDefence": 22,
+        "prayerBonus": 6,
+        "slot": "LEGS"
+    }
+}

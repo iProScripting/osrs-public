@@ -1,0 +1,11 @@
+{
+    "name": "Jester hat",
+    "id": 6858,
+    "members": false,
+    "examine": "A woolly jester hat.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

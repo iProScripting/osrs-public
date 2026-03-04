@@ -1,0 +1,8 @@
+{
+    "name": "Justiciar's hand",
+    "id": 21797,
+    "members": false,
+    "examine": "The hand of a Saradominist justiciar.",
+    "value": 14,
+    "weight": 0.35
+}

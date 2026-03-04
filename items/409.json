@@ -1,0 +1,8 @@
+{
+    "name": "Empty oyster",
+    "id": 409,
+    "members": false,
+    "examine": "Aww, it's empty.",
+    "value": 5,
+    "weight": 0.08
+}

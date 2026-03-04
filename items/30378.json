@@ -1,0 +1,25 @@
+{
+    "name": "Emperor ring",
+    "id": 30378,
+    "members": false,
+    "examine": "A ring only worn by true kings.",
+    "value": 50000,
+    "weight": 0.004,
+    "equipment": {
+        "stabAttack": 30,
+        "slashAttack": 30,
+        "crushAttack": 30,
+        "magicAttack": 30,
+        "rangedAttack": 30,
+        "stabDefence": 30,
+        "slashDefence": 30,
+        "crushDefence": 30,
+        "magicDefence": 30,
+        "rangedDefence": 30,
+        "strength": 15,
+        "rangedStrength": 15,
+        "prayerBonus": 10,
+        "magicDamage": 5.0,
+        "slot": "RING"
+    }
+}

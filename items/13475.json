@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled giant head",
+    "id": 13475,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Adept Reanimation.",
+    "value": 319,
+    "weight": 0.453,
+    "buyLimit": 3000
+}

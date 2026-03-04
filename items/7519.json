@@ -1,0 +1,8 @@
+{
+    "name": "Crab meat (unobtainable item)",
+    "id": 7519,
+    "members": false,
+    "examine": "A smelly meat.",
+    "value": 1,
+    "weight": 0.907
+}

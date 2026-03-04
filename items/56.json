@@ -1,0 +1,9 @@
+{
+    "name": "Oak longbow (u)",
+    "id": 56,
+    "members": false,
+    "examine": "An unstrung oak longbow; I need a bowstring for this.",
+    "value": 80,
+    "weight": 1.332,
+    "buyLimit": 10000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Old school bond",
+    "id": 13192,
+    "members": false,
+    "examine": "This bond can be redeemed for membership. It can be made tradeable again through the membership bonds interface.",
+    "value": 1,
+    "weight": 0.003
+}

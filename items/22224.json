@@ -1,0 +1,9 @@
+{
+    "name": "Extended super antifire mix",
+    "id": 22224,
+    "members": false,
+    "examine": "One dose of fishy extended super anti-firebreath potion.",
+    "value": 160,
+    "weight": 0.05,
+    "buyLimit": 2000
+}

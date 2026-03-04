@@ -1,0 +1,9 @@
+{
+    "name": "Dwarf weed seed",
+    "id": 5303,
+    "members": false,
+    "examine": "A dwarf weed seed - plant in a herb patch.",
+    "value": 6,
+    "weight": 0.0,
+    "buyLimit": 200
+}

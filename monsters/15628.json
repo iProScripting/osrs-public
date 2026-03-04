@@ -8,7 +8,8 @@
     "combatLevel": 1224,
     "hitpoints": 750,
     "maxHit": [
-        "43 (Melee) 56+ (Special)"
+        "43 (Melee)",
+        "56+ (Special)"
     ],
     "usesSkill": [
     ],
@@ -30,7 +31,6 @@
     "immunities": {
         "poison": true,
         "venom": true,
-        "thrall": true,
         "cannon": true
     },
     "attackStyle": [

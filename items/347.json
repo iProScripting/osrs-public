@@ -1,0 +1,9 @@
+{
+    "name": "Herring",
+    "id": 347,
+    "members": false,
+    "examine": "Some nicely cooked herring.",
+    "value": 10,
+    "weight": 0.5,
+    "buyLimit": 6000
+}

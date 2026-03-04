@@ -1,0 +1,8 @@
+{
+    "name": "Eye of the duke",
+    "id": 28321,
+    "members": false,
+    "examine": "It's still moving...",
+    "value": 50000,
+    "weight": 0.001
+}

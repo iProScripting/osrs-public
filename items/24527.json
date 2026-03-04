@@ -1,0 +1,11 @@
+{
+    "name": "Hell cat ears",
+    "id": 24527,
+    "members": false,
+    "examine": "A hellish piece of head gear.",
+    "value": 2,
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

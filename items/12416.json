@@ -1,0 +1,18 @@
+{
+    "name": "Dragon plateskirt (g)",
+    "id": 12416,
+    "members": false,
+    "examine": "Heavy protective legwear with a gold trim.",
+    "value": 270000,
+    "weight": 9.071,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 68,
+        "slashDefence": 66,
+        "crushDefence": 63,
+        "magicDefence": -4,
+        "rangedDefence": 65,
+        "slot": "LEGS"
+    }
+}

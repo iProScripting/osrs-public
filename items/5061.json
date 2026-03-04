@@ -1,0 +1,8 @@
+{
+    "name": "Dwarven battleaxe (animation item)",
+    "id": 5061,
+    "members": false,
+    "examine": "This battleaxe is in the process of having sapphires fitted onto it.",
+    "value": 1,
+    "weight": 2.0
+}

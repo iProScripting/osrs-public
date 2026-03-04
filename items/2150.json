@@ -1,0 +1,9 @@
+{
+    "name": "Swamp toad (item)",
+    "id": 2150,
+    "members": false,
+    "examine": "A slippery little blighter.",
+    "value": 2,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

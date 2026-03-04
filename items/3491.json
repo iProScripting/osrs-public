@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crates in a house in Yanille that has a piano",
+    "id": 3491,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

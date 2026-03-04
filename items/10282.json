@@ -1,0 +1,16 @@
+{
+    "name": "Yew comp bow",
+    "id": 10282,
+    "members": false,
+    "examine": "A powerful bow made from yew wood.",
+    "value": 1800,
+    "weight": 1.8,
+    "buyLimit": 8,
+    "equipment": {
+        "rangedAttack": 49,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 10,
+        "combatStyle": "BOW"
+    }
+}

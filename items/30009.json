@@ -1,0 +1,8 @@
+{
+    "name": "Lye paste",
+    "id": 30009,
+    "members": false,
+    "examine": "A sticky, red, acrid-smelling substance.",
+    "value": 30,
+    "weight": 0.51
+}

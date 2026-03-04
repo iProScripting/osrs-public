@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - NOD MED",
+    "id": 7282,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

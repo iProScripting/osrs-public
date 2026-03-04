@@ -1,0 +1,21 @@
+{
+    "name": "Vesta's blighted longsword",
+    "id": 24619,
+    "members": false,
+    "examine": "Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds, once activated.",
+    "value": 800000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 106,
+        "slashAttack": 121,
+        "crushAttack": -2,
+        "stabDefence": 1,
+        "slashDefence": 4,
+        "crushDefence": 3,
+        "strength": 118,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Green gloop soup",
+    "id": 10960,
+    "members": false,
+    "examine": "Thick and tasty soup.",
+    "value": 10,
+    "weight": 0.001
+}

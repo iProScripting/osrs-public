@@ -1,0 +1,8 @@
+{
+    "name": "Rod dust",
+    "id": 7636,
+    "members": false,
+    "examine": "Rod of Ivandis dust.",
+    "value": 1,
+    "weight": 0.05
+}

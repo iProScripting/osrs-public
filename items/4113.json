@@ -1,0 +1,14 @@
+{
+    "name": "Mystic robe bottom (light)",
+    "id": 4113,
+    "members": false,
+    "examine": "The lower half of a bright magical robe.",
+    "value": 80000,
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 15,
+        "magicDefence": 15,
+        "slot": "LEGS"
+    }
+}

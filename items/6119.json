@@ -1,0 +1,8 @@
+{
+    "name": "Square stone",
+    "id": 6119,
+    "members": false,
+    "examine": "There is a strange yellow marking on this stone.",
+    "value": 1,
+    "weight": 0.0
+}

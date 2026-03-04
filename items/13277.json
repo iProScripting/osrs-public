@@ -1,0 +1,9 @@
+{
+    "name": "Jar of miasma",
+    "id": 13277,
+    "members": false,
+    "examine": "It smells abysmal.",
+    "value": 1,
+    "weight": 0.04,
+    "buyLimit": 4
+}

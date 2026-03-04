@@ -1,0 +1,8 @@
+{
+    "name": "Incomplete pizza",
+    "id": 2285,
+    "members": false,
+    "examine": "I need to add some cheese next.",
+    "value": 10,
+    "weight": 0.6
+}

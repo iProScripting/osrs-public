@@ -1,0 +1,18 @@
+{
+    "name": "Saradomin's blessed sword",
+    "id": 12809,
+    "members": false,
+    "examine": "The blade of an Icyene, blessed with a tear from Saradomin himself.",
+    "value": 289850,
+    "weight": 3.0,
+    "equipment": {
+        "slashAttack": 100,
+        "crushAttack": 60,
+        "strength": 88,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

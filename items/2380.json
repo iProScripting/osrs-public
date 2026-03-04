@@ -1,0 +1,8 @@
+{
+    "name": "Crystal (Watchtower)",
+    "id": 2380,
+    "members": false,
+    "examine": "A yellow crystal that's meant to power the Watchtower in Yanille.",
+    "value": 1,
+    "weight": 0.907
+}

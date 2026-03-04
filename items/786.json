@@ -1,0 +1,8 @@
+{
+    "name": "Hazelmere's scroll",
+    "id": 786,
+    "members": false,
+    "examine": "Hazelmere wrote something down on this scroll.",
+    "value": 2,
+    "weight": 0.02
+}

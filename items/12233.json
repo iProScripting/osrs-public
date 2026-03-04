@@ -1,0 +1,19 @@
+{
+    "name": "Iron kiteshield (t)",
+    "id": 12233,
+    "members": false,
+    "examine": "Iron kiteshield with trim.",
+    "value": 240,
+    "weight": 5.443,
+    "buyLimit": 4,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -2,
+        "stabDefence": 8,
+        "slashDefence": 10,
+        "crushDefence": 9,
+        "magicDefence": -1,
+        "rangedDefence": 9,
+        "slot": "SHIELD"
+    }
+}

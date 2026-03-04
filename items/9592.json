@@ -1,0 +1,8 @@
+{
+    "name": "Magic glue",
+    "id": 9592,
+    "members": false,
+    "examine": "Glue made from tree sap and ground mud runes.",
+    "value": 1,
+    "weight": 2.5
+}

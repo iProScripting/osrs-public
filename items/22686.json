@@ -1,0 +1,8 @@
+{
+    "name": "Dead person",
+    "id": 22686,
+    "members": false,
+    "examine": "Just because you're dead doesn't mean you stop being useful.",
+    "value": 1,
+    "weight": 10.0
+}

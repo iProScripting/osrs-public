@@ -1,0 +1,9 @@
+{
+    "name": "Mahogany hull parts",
+    "id": 32050,
+    "members": false,
+    "examine": "Parts for creating a mahogany hull for a boat.",
+    "value": 3750,
+    "weight": 4.0,
+    "buyLimit": 100
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Phoenix crossbow",
+    "id": 767,
+    "members": false,
+    "examine": "Former property of the Phoenix Gang.",
+    "value": 10,
+    "weight": 3.628,
+    "equipment": {
+        "rangedAttack": 6,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 5,
+        "combatStyle": "CROSSBOW"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Cheese+tom batta",
+    "id": 2259,
+    "members": false,
+    "examine": "This smells really good.",
+    "value": 2,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the eastern bookcase in Father Urhney's house",
+    "id": 23150,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

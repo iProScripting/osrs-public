@@ -1,0 +1,8 @@
+{
+    "name": "Corrupted escape crystal",
+    "id": 25959,
+    "members": false,
+    "examine": "A corrupted crystal enchanted to allow the user to escape the Gauntlet.",
+    "value": 1,
+    "weight": 0.001
+}

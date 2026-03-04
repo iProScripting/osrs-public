@@ -1,0 +1,8 @@
+{
+    "name": "Grubby key (Defender of Varrock)",
+    "id": 28803,
+    "members": false,
+    "examine": "A key found while tracking zombies (Used in the Defender of Varrock quest).",
+    "value": 30,
+    "weight": 0.01
+}

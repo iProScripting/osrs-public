@@ -1,0 +1,11 @@
+{
+    "name": "Ring of wealth",
+    "id": 11984,
+    "members": false,
+    "examine": "An enchanted ring with three teleport charges.",
+    "value": 17625,
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

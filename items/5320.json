@@ -1,0 +1,9 @@
+{
+    "name": "Sweetcorn seed",
+    "id": 5320,
+    "members": false,
+    "examine": "A sweetcorn seed - plant in an allotment.",
+    "value": 8,
+    "weight": 0.0,
+    "buyLimit": 600
+}

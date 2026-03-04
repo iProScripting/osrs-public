@@ -1,0 +1,8 @@
+{
+    "name": "Trouver parchment",
+    "id": 24187,
+    "members": false,
+    "examine": "Take it to Perdu to help you avoid losing certain items.",
+    "value": 200,
+    "weight": 0.0
+}

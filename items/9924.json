@@ -1,0 +1,11 @@
+{
+    "name": "Skeleton shirt",
+    "id": 9924,
+    "members": false,
+    "examine": "The shirt of a full body skeleton costume.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

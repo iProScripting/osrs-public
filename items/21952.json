@@ -1,0 +1,9 @@
+{
+    "name": "Magic stock",
+    "id": 21952,
+    "members": false,
+    "examine": "A magic crossbow stock.",
+    "value": 280,
+    "weight": 3.0,
+    "buyLimit": 10000
+}

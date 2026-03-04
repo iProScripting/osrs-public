@@ -1,0 +1,21 @@
+{
+    "name": "Skewer",
+    "id": 7443,
+    "members": false,
+    "examine": "Generally used for impaling fresh meat.",
+    "value": 3200,
+    "weight": 2.041,
+    "buyLimit": 50,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": 29,
+        "crushAttack": -2,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "strength": 31,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

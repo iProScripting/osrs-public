@@ -1,0 +1,8 @@
+{
+    "name": "Wyvern bonemeal",
+    "id": 6810,
+    "members": false,
+    "examine": "A pot of crushed wyvern bones.",
+    "value": 1,
+    "weight": 0.5
+}

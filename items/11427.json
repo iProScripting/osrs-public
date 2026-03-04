@@ -1,0 +1,8 @@
+{
+    "name": "Fish vial",
+    "id": 11427,
+    "members": false,
+    "examine": "This vial is half-filled with mashed fish, yuck.",
+    "value": 3,
+    "weight": 0.003
+}

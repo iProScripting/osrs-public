@@ -1,0 +1,9 @@
+{
+    "name": "Crushed superior dragon bones",
+    "id": 21975,
+    "members": false,
+    "examine": "Ground up superior dragon bones.",
+    "value": 50,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

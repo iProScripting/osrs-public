@@ -1,0 +1,9 @@
+{
+    "name": "Leaping salmon",
+    "id": 11330,
+    "members": false,
+    "examine": "Some non-tasty salmon.",
+    "value": 3,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

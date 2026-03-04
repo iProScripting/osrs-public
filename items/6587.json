@@ -1,0 +1,23 @@
+{
+    "name": "White claws",
+    "id": 6587,
+    "members": false,
+    "examine": "A set of fighting claws.",
+    "value": 360,
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 14,
+        "crushAttack": -4,
+        "stabDefence": 4,
+        "slashDefence": 7,
+        "crushDefence": 2,
+        "strength": 14,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "CLAWS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Willow longbow",
+    "id": 847,
+    "members": false,
+    "examine": "A nice sturdy bow made out of willow.",
+    "value": 320,
+    "weight": 1.814,
+    "buyLimit": 18000,
+    "equipment": {
+        "rangedAttack": 20,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 10,
+        "combatStyle": "BOW"
+    }
+}

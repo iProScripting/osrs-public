@@ -1,0 +1,9 @@
+{
+    "name": "Moonlight mead (keg)",
+    "id": 5817,
+    "members": false,
+    "examine": "This keg contains 4 pints of Moonlight Mead.",
+    "value": 1,
+    "weight": 0.028,
+    "buyLimit": 2000
+}

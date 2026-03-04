@@ -1,0 +1,9 @@
+{
+    "name": "Runite bolts (unf)",
+    "id": 9381,
+    "members": false,
+    "examine": "Unfeathered runite crossbow bolts.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

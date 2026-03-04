@@ -1,0 +1,16 @@
+{
+    "name": "Morrigan's throwing axe (Deadman Mode)",
+    "id": 22634,
+    "members": false,
+    "examine": "A vicious throwing axe.",
+    "value": 4000,
+    "weight": 0.0,
+    "equipment": {
+        "rangedAttack": 93,
+        "rangedStrength": 117,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

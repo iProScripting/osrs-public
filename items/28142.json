@@ -1,0 +1,11 @@
+{
+    "name": "Log basket",
+    "id": 28142,
+    "members": false,
+    "examine": "A lumberjack's favourite tool, other than an axe, of course.",
+    "value": 720,
+    "weight": 1.39,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

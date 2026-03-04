@@ -1,0 +1,8 @@
+{
+    "name": "Explosive potion (Song of the Elves)",
+    "id": 23818,
+    "members": false,
+    "examine": "A mix of chemicals that will violently explode when disturbed.",
+    "value": 30,
+    "weight": 0.0
+}

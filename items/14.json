@@ -1,0 +1,8 @@
+{
+    "name": "Railing",
+    "id": 14,
+    "members": false,
+    "examine": "A metal railing replacement.",
+    "value": 1,
+    "weight": 0.0
+}

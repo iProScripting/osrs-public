@@ -1,0 +1,16 @@
+{
+    "name": "Iron crossbow",
+    "id": 9177,
+    "members": false,
+    "examine": "An iron crossbow.",
+    "value": 157,
+    "weight": 4.0,
+    "buyLimit": 125,
+    "equipment": {
+        "rangedAttack": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

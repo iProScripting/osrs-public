@@ -1,0 +1,8 @@
+{
+    "name": "Stethoscope",
+    "id": 5560,
+    "members": false,
+    "examine": "A useful hearing aid.",
+    "value": 10,
+    "weight": 0.453
+}

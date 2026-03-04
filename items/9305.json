@@ -1,0 +1,13 @@
+{
+    "name": "Runite bolts",
+    "id": 9305,
+    "members": false,
+    "examine": "Super poisoned runite bolts.",
+    "value": 300,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 115,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Loop half of key (moon key)",
+    "id": 30107,
+    "members": false,
+    "examine": "The loop end of the mysterious Moon Key.",
+    "value": 100,
+    "weight": 0.005
+}

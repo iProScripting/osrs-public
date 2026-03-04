@@ -1,0 +1,8 @@
+{
+    "name": "Guam-marr vial",
+    "id": 9090,
+    "members": false,
+    "examine": "A vessel with water, Guam and Marrentill inside.",
+    "value": 1,
+    "weight": 0.5
+}

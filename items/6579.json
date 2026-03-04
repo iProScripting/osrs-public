@@ -1,0 +1,9 @@
+{
+    "name": "Onyx amulet (u)",
+    "id": 6579,
+    "members": false,
+    "examine": "It needs a string so I can wear it.",
+    "value": 201000,
+    "weight": 0.004,
+    "buyLimit": 10000
+}

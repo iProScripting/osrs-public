@@ -1,0 +1,11 @@
+{
+    "name": "Horn of plenty",
+    "id": 31241,
+    "members": false,
+    "examine": "Sound the horn for a better hunt.",
+    "value": 20000,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

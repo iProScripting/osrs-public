@@ -1,0 +1,13 @@
+{
+    "name": "Holy blessing",
+    "id": 20220,
+    "members": false,
+    "examine": "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.",
+    "value": 80,
+    "weight": 0.51,
+    "buyLimit": 5,
+    "equipment": {
+        "prayerBonus": 1,
+        "slot": "AMMO"
+    }
+}

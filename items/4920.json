@@ -1,0 +1,12 @@
+{
+    "name": "Guthan's platebody",
+    "id": 4920,
+    "members": false,
+    "examine": "Guthan the Infested's platebody armour.",
+    "value": 280000,
+    "weight": 9.979,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

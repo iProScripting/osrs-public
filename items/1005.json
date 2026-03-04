@@ -1,0 +1,12 @@
+{
+    "name": "White apron",
+    "id": 1005,
+    "members": false,
+    "examine": "A mostly clean apron.",
+    "value": 2,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

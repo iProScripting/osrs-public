@@ -1,0 +1,9 @@
+{
+    "name": "Chopped ugthanki",
+    "id": 1873,
+    "members": false,
+    "examine": "Strips of ugthanki meat in a bowl.",
+    "value": 5,
+    "weight": 0.2,
+    "buyLimit": 11000
+}

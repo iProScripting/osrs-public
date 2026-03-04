@@ -1,0 +1,8 @@
+{
+    "name": "Watch",
+    "id": 2575,
+    "members": false,
+    "examine": "A fine looking time piece.",
+    "value": 100,
+    "weight": 0.1
+}

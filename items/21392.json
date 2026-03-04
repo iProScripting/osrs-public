@@ -1,0 +1,11 @@
+{
+    "name": "Expert mining gloves",
+    "id": 21392,
+    "members": false,
+    "examine": "These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.",
+    "value": 120,
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

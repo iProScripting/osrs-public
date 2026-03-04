@@ -1,0 +1,8 @@
+{
+    "name": "Corrupted orb",
+    "id": 23833,
+    "members": false,
+    "examine": "A magical looking orb made of corrupted crystal.",
+    "value": 50,
+    "weight": 0.0
+}

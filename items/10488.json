@@ -1,0 +1,8 @@
+{
+    "name": "Selected iron",
+    "id": 10488,
+    "members": false,
+    "examine": "An iron bar supplied by an insane old crone.",
+    "value": 10,
+    "weight": 0.25
+}

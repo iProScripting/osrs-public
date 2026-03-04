@@ -1,0 +1,8 @@
+{
+    "name": "War ship",
+    "id": 795,
+    "members": false,
+    "examine": "A model of a Karamja warship.",
+    "value": 2,
+    "weight": 0.4
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Nectar",
+    "id": 27317,
+    "members": false,
+    "examine": "Provides immediate healing at the cost of combat prowess.",
+    "value": 30,
+    "weight": 0.453
+}

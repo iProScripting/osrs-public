@@ -1,0 +1,9 @@
+{
+    "name": "Yew shortbow (u)",
+    "id": 68,
+    "members": false,
+    "examine": "An unstrung yew shortbow; I need a bowstring for this.",
+    "value": 400,
+    "weight": 0.992,
+    "buyLimit": 10000
+}

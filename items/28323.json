@@ -1,0 +1,8 @@
+{
+    "name": "Siren's staff",
+    "id": 28323,
+    "members": false,
+    "examine": "A staff that writhes with shadows.",
+    "value": 50000,
+    "weight": 0.001
+}

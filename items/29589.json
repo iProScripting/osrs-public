@@ -1,0 +1,20 @@
+{
+    "name": "Emberlight",
+    "id": 29589,
+    "members": false,
+    "examine": "Silver, blood and crystal smelted in tormenting flames.",
+    "value": 800000,
+    "weight": 0.907,
+    "equipment": {
+        "stabAttack": 63,
+        "slashAttack": 70,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "magicDefence": 5,
+        "strength": 13,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

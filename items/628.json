@@ -1,0 +1,14 @@
+{
+    "name": "Green boots",
+    "id": 628,
+    "members": false,
+    "examine": "They're soft, silky and green.",
+    "value": 200,
+    "weight": 0.34,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "FEET"
+    }
+}

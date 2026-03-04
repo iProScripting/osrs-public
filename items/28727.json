@@ -1,0 +1,11 @@
+{
+    "name": "Trailblazer reloaded top (t2)",
+    "id": 28727,
+    "members": false,
+    "examine": "The shirt of a Trailblazer Reloaded Relic Hunter.",
+    "value": 15000,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

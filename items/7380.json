@@ -1,0 +1,19 @@
+{
+    "name": "Green d'hide chaps (t)",
+    "id": 7380,
+    "members": false,
+    "examine": "Made from 100% real dragonhide. With colourful trim!",
+    "value": 3900,
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 8,
+        "stabDefence": 12,
+        "slashDefence": 15,
+        "crushDefence": 18,
+        "magicDefence": 8,
+        "rangedDefence": 17,
+        "slot": "LEGS"
+    }
+}

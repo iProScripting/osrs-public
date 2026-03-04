@@ -1,0 +1,8 @@
+{
+    "name": "Greenmans ale (keg)",
+    "id": 5787,
+    "members": false,
+    "examine": "This keg contains 1 pint of Greenmans Ale.",
+    "value": 1,
+    "weight": 0.028
+}

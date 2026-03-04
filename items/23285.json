@@ -1,0 +1,12 @@
+{
+    "name": "Mole slippers",
+    "id": 23285,
+    "members": false,
+    "examine": "Cute mole slippers.",
+    "value": 1000,
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

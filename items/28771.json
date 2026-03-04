@@ -1,0 +1,11 @@
+{
+    "name": "Sage's greaves",
+    "id": 28771,
+    "members": false,
+    "examine": "Greaves that give you blazing speed.",
+    "value": 1,
+    "weight": 0.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

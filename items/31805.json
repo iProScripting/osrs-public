@@ -1,0 +1,8 @@
+{
+    "name": "Current duck",
+    "id": 31805,
+    "members": false,
+    "examine": "Used to track current flow at sea. There is simply no other way to achieve this.",
+    "value": 50,
+    "weight": 0.453
+}

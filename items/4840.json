@@ -1,0 +1,8 @@
+{
+    "name": "Unfinished potion (Rogue's Purse)",
+    "id": 4840,
+    "members": false,
+    "examine": "I need another ingredient to finish this Rogue's Purse potion.",
+    "value": 5,
+    "weight": 0.03
+}

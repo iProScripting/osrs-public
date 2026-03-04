@@ -1,0 +1,11 @@
+{
+    "name": "Robe top of the eye",
+    "id": 26860,
+    "members": false,
+    "examine": "The perfect robe top for runecrafting.",
+    "value": 350,
+    "weight": 0.6,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

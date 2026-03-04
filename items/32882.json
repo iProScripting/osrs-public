@@ -1,0 +1,8 @@
+{
+    "name": "Reef snake gland",
+    "id": 32882,
+    "members": false,
+    "examine": "The venom gland of a reef snake.",
+    "value": 1,
+    "weight": 0.04
+}

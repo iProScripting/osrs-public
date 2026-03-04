@@ -1,0 +1,9 @@
+{
+    "name": "Mystic set (dark)",
+    "id": 23116,
+    "members": false,
+    "examine": "A set containing dark mystic hat, robe top and bottom, gloves and boots.",
+    "value": 235000,
+    "weight": 0.05,
+    "buyLimit": 70
+}

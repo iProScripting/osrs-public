@@ -1,0 +1,12 @@
+{
+    "name": "Topaz necklace",
+    "id": 21096,
+    "members": false,
+    "examine": "I wonder if this is valuable.",
+    "value": 1425,
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

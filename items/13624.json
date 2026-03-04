@@ -1,0 +1,11 @@
+{
+    "name": "Graceful gloves (Shayzien)",
+    "id": 13624,
+    "members": false,
+    "examine": "A sign of your grace and loyalty.",
+    "value": 30,
+    "weight": -3.0,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

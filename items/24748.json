@@ -1,0 +1,11 @@
+{
+    "name": "Graceful cape (Hallowed)",
+    "id": 24748,
+    "members": false,
+    "examine": "A sign of your grace under fire.",
+    "value": 40,
+    "weight": -4.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

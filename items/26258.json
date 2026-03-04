@@ -1,0 +1,11 @@
+{
+    "name": "Ugly halloween jumper",
+    "id": 26258,
+    "members": false,
+    "examine": "A reversible jumper knitted lovingly by Iffie.",
+    "value": 1,
+    "weight": 0.4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

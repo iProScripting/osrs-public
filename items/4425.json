@@ -1,0 +1,8 @@
+{
+    "name": "Stodgy mattress",
+    "id": 4425,
+    "members": false,
+    "examine": "A half-filled feather mattress.",
+    "value": 1,
+    "weight": 10.0
+}

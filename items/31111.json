@@ -1,0 +1,9 @@
+{
+    "name": "Demon tear",
+    "id": 31111,
+    "members": false,
+    "examine": "A strange glowing tear.",
+    "value": 500,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

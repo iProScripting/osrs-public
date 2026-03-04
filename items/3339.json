@@ -1,0 +1,19 @@
+{
+    "name": "Pointed blood'n'tar snelm",
+    "id": 3339,
+    "members": false,
+    "examine": "A red and black pointed snail shell helmet.",
+    "value": 300,
+    "weight": 2.0,
+    "buyLimit": 150,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 7,
+        "slashDefence": 8,
+        "crushDefence": 6,
+        "magicDefence": -1,
+        "rangedDefence": 7,
+        "slot": "HEAD"
+    }
+}

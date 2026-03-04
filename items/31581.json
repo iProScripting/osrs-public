@@ -1,0 +1,16 @@
+{
+    "name": "Ironwood blowpipe",
+    "id": 31581,
+    "members": false,
+    "examine": "Breath powered dart delivering system with a hint of ironwood.",
+    "value": 3600,
+    "weight": 0.3,
+    "equipment": {
+        "rangedAttack": 16,
+        "rangedStrength": 4,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 5,
+        "combatStyle": "THROWN"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Intricate pouch",
+    "id": 26908,
+    "members": false,
+    "examine": "A strange pouch with intricate symbols on it.",
+    "value": 50,
+    "weight": 0.396
+}

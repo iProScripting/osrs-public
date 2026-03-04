@@ -1,0 +1,8 @@
+{
+    "name": "Khali brew",
+    "id": 77,
+    "members": false,
+    "examine": "A bottle of Khazard's worst brew.",
+    "value": 5,
+    "weight": 0.113
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Warrior guild token",
+    "id": 8851,
+    "members": false,
+    "examine": "Warrior Guild Token.",
+    "value": 1,
+    "weight": 0.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Pirate message",
+    "id": 433,
+    "members": false,
+    "examine": "Pirates don't have the best handwriting...",
+    "value": 1,
+    "weight": 0.02
+}

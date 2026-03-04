@@ -1,0 +1,13 @@
+{
+    "name": "Sapphire dragon bolts",
+    "id": 21963,
+    "members": false,
+    "examine": "Dragon crossbow bolts, tipped with sapphire.",
+    "value": 750,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Compost pack",
+    "id": 19704,
+    "members": false,
+    "examine": "A pack containing 100 buckets of compost.",
+    "value": 2000,
+    "weight": 0.453
+}

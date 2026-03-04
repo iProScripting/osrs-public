@@ -1,0 +1,11 @@
+{
+    "name": "Grim reaper gloves",
+    "id": 31233,
+    "members": false,
+    "examine": "My hands feel colder than they did before.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

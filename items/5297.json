@@ -1,0 +1,9 @@
+{
+    "name": "Irit seed",
+    "id": 5297,
+    "members": false,
+    "examine": "An irit seed - plant in a herb patch.",
+    "value": 5,
+    "weight": 0.0,
+    "buyLimit": 600
+}

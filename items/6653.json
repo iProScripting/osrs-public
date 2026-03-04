@@ -1,0 +1,8 @@
+{
+    "name": "Crystal trinket",
+    "id": 6653,
+    "members": false,
+    "examine": "A small crystal trinket.",
+    "value": 1,
+    "weight": 0.01
+}

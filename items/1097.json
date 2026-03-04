@@ -1,0 +1,19 @@
+{
+    "name": "Studded chaps",
+    "id": 1097,
+    "members": false,
+    "examine": "Those studs should provide a bit more protection.",
+    "value": 750,
+    "weight": 4.535,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -5,
+        "rangedAttack": 6,
+        "stabDefence": 15,
+        "slashDefence": 16,
+        "crushDefence": 17,
+        "magicDefence": 6,
+        "rangedDefence": 16,
+        "slot": "LEGS"
+    }
+}

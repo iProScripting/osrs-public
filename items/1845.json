@@ -1,0 +1,11 @@
+{
+    "name": "Slave robe",
+    "id": 1845,
+    "members": false,
+    "examine": "A filthy, smelly, flea infested robe.",
+    "value": 40,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

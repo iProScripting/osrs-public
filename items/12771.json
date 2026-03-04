@@ -1,0 +1,9 @@
+{
+    "name": "Volcanic whip mix",
+    "id": 12771,
+    "members": false,
+    "examine": "How has lava been stored like this...?",
+    "value": 1,
+    "weight": 0.001,
+    "buyLimit": 4
+}

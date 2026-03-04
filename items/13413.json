@@ -1,0 +1,8 @@
+{
+    "name": "Servery cooked meat",
+    "id": 13413,
+    "members": false,
+    "examine": "There's plenty of cattle around Hosidius. Let's assume that's what this is.",
+    "value": 1,
+    "weight": 0.283
+}

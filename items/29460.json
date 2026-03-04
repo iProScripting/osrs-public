@@ -1,0 +1,8 @@
+{
+    "name": "Wilderness agility ticket",
+    "id": 29460,
+    "members": false,
+    "examine": "Redeemable for agility training.",
+    "value": 10,
+    "weight": 0.0
+}

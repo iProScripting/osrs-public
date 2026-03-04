@@ -1,0 +1,9 @@
+{
+    "name": "Cocktail guide",
+    "id": 2023,
+    "members": false,
+    "examine": "A book on tree gnome cocktails.",
+    "value": 2,
+    "weight": 0.51,
+    "buyLimit": 15
+}

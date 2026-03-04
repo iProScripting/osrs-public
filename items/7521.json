@@ -1,0 +1,9 @@
+{
+    "name": "Cooked giant crab meat",
+    "id": 7521,
+    "members": false,
+    "examine": "Nice and tasty!",
+    "value": 50,
+    "weight": 0.907,
+    "buyLimit": 6000
+}

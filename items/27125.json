@@ -1,0 +1,14 @@
+{
+    "name": "Dagon'hai robe top (or)",
+    "id": 27125,
+    "members": false,
+    "examine": "A robe worn by members of the Dagon'hai, tastefully decorated.",
+    "value": 140000,
+    "weight": 2.267,
+    "equipment": {
+        "magicAttack": 25,
+        "magicDefence": 21,
+        "prayerBonus": 2,
+        "slot": "BODY"
+    }
+}

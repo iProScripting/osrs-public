@@ -1,0 +1,8 @@
+{
+    "name": "Grimy buchu leaf",
+    "id": 20907,
+    "members": false,
+    "examine": "Eww, it's grimy.",
+    "value": 2,
+    "weight": 0.007
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Pygmy kraken ink sac",
+    "id": 32834,
+    "members": false,
+    "examine": "The ink sac of a pygmy kraken.",
+    "value": 200,
+    "weight": 0.8
+}

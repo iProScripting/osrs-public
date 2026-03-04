@@ -1,0 +1,11 @@
+{
+    "name": "Red tricorn hat",
+    "id": 8961,
+    "members": false,
+    "examine": "I could never look square in this.",
+    "value": 50,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

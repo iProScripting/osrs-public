@@ -1,0 +1,8 @@
+{
+    "name": "Dwarven lore",
+    "id": 4568,
+    "members": false,
+    "examine": "The book is almost falling apart, you'll have to handle it quite carefully.",
+    "value": 1,
+    "weight": 0.08
+}

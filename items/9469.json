@@ -1,0 +1,9 @@
+{
+    "name": "Grand seed pod",
+    "id": 9469,
+    "members": false,
+    "examine": "A seed pod of the Grand Tree.",
+    "value": 250,
+    "weight": 0.0,
+    "buyLimit": 15
+}

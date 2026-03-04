@@ -1,0 +1,11 @@
+{
+    "name": "Graceful top (Piscarilius)",
+    "id": 13596,
+    "members": false,
+    "examine": "A sign of your grace and loyalty.",
+    "value": 55,
+    "weight": -5.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

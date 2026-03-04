@@ -1,0 +1,9 @@
+{
+    "name": "Ivory comb",
+    "id": 9026,
+    "members": false,
+    "examine": "Gets knots and kinks out of your hair.",
+    "value": 10,
+    "weight": 0.01,
+    "buyLimit": 13000
+}

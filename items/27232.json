@@ -1,0 +1,20 @@
+{
+    "name": "Masori chaps",
+    "id": 27232,
+    "members": false,
+    "examine": "Ancient armour once worn by a powerful ranger.",
+    "value": 1000000,
+    "weight": 7.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -2,
+        "rangedAttack": 27,
+        "stabDefence": 26,
+        "slashDefence": 24,
+        "crushDefence": 29,
+        "magicDefence": 19,
+        "rangedDefence": 22,
+        "rangedStrength": 2,
+        "slot": "LEGS"
+    }
+}

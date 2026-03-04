@@ -1,0 +1,9 @@
+{
+    "name": "Chaos rune",
+    "id": 562,
+    "members": false,
+    "examine": "Used for low level missile spells.",
+    "value": 90,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

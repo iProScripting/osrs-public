@@ -1,0 +1,8 @@
+{
+    "name": "Goblin kitchen key",
+    "id": 601,
+    "members": false,
+    "examine": "A small key for a large door (Allows access to the goblin kitchen in the Observatory Dungeon).",
+    "value": 1,
+    "weight": 0.01
+}

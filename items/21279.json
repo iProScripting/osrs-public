@@ -1,0 +1,9 @@
+{
+    "name": "Obsidian armour set",
+    "id": 21279,
+    "members": false,
+    "examine": "A set containing an Obsidian helmet, platebody and platelegs.",
+    "value": 126000,
+    "weight": 0.05,
+    "buyLimit": 5
+}

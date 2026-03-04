@@ -1,0 +1,16 @@
+{
+    "name": "Group ironman bracers",
+    "id": 26168,
+    "members": false,
+    "examine": "Brace yourself.",
+    "value": 0,
+    "weight": 0.2,
+    "equipment": {
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "magicDefence": 1,
+        "rangedDefence": 1,
+        "slot": "HANDS"
+    }
+}

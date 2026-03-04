@@ -1,0 +1,8 @@
+{
+    "name": "Mind core",
+    "id": 25696,
+    "members": false,
+    "examine": "The corrupted core of a Mind Golem.",
+    "value": 8,
+    "weight": 0.02
+}

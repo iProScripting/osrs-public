@@ -1,0 +1,8 @@
+{
+    "name": "Magnet (Witch's House)",
+    "id": 2410,
+    "members": false,
+    "examine": "A very attractive magnet.",
+    "value": 3,
+    "weight": 0.02
+}

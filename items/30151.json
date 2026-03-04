@@ -1,0 +1,8 @@
+{
+    "name": "Giant squirrel",
+    "id": 30151,
+    "members": false,
+    "examine": "A giant squirrel with a skeletal aesthetic.",
+    "value": 1,
+    "weight": 0.015
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Raging echoes portal scroll",
+    "id": 30461,
+    "members": false,
+    "examine": "Used on a portal inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.",
+    "value": 25000,
+    "weight": 0.1
+}

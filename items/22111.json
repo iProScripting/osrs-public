@@ -1,0 +1,24 @@
+{
+    "name": "Dragonbone necklace",
+    "id": 22111,
+    "members": false,
+    "examine": "A necklace made out of dragon bones.",
+    "value": 80000,
+    "weight": 0.005,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 10,
+        "magicAttack": 10,
+        "rangedAttack": 10,
+        "stabDefence": 2,
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "magicDefence": 2,
+        "rangedDefence": 2,
+        "strength": 2,
+        "prayerBonus": 12,
+        "slot": "NECK"
+    }
+}

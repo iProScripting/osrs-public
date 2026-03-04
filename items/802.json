@@ -1,0 +1,17 @@
+{
+    "name": "Steel thrownaxe",
+    "id": 802,
+    "members": false,
+    "examine": "A finely balanced throwing axe.",
+    "value": 26,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedAttack": 8,
+        "rangedStrength": 11,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

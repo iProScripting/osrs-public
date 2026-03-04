@@ -1,0 +1,12 @@
+{
+    "name": "Goblin mask",
+    "id": 12251,
+    "members": false,
+    "examine": "Let's start a flash mob!",
+    "value": 2000,
+    "weight": 0.002,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

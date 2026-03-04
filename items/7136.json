@@ -1,0 +1,12 @@
+{
+    "name": "Pirate bandana (brown)",
+    "id": 7136,
+    "members": false,
+    "examine": "Essential pirate wear.",
+    "value": 100,
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

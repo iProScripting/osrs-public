@@ -1,0 +1,19 @@
+{
+    "name": "Radiant oathplate helm",
+    "id": 30777,
+    "members": false,
+    "examine": "A helm forged from infernal metal, then purified by an ancient rite.",
+    "value": 200000,
+    "weight": 2.721,
+    "equipment": {
+        "slashAttack": 10,
+        "magicAttack": -2,
+        "rangedAttack": -7,
+        "stabDefence": 50,
+        "slashDefence": 72,
+        "crushDefence": 45,
+        "rangedDefence": 50,
+        "strength": 6,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Scaperune teleport",
+    "id": 24441,
+    "members": false,
+    "examine": "A teleport to ScapeRune.",
+    "value": 0,
+    "weight": 0.0
+}

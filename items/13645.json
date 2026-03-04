@@ -1,0 +1,11 @@
+{
+    "name": "Farmer's boots",
+    "id": 13645,
+    "members": false,
+    "examine": "This will help with farming.",
+    "value": 50,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

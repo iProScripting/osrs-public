@@ -1,0 +1,8 @@
+{
+    "name": "Glarial's urn",
+    "id": 296,
+    "members": false,
+    "examine": "An urn containing Glarial's ashes.",
+    "value": 1,
+    "weight": 0.141
+}

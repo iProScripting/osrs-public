@@ -1,0 +1,8 @@
+{
+    "name": "Musca mushroom",
+    "id": 28341,
+    "members": false,
+    "examine": "A cold mushroom.",
+    "value": 200,
+    "weight": 0.01
+}

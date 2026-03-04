@@ -1,0 +1,11 @@
+{
+    "name": "Torva platelegs (unobtainable item)",
+    "id": 30304,
+    "members": false,
+    "examine": "An ancient warrior's platelegs.",
+    "value": 1,
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

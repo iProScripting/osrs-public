@@ -1,0 +1,9 @@
+{
+    "name": "Lava dragon bones",
+    "id": 11943,
+    "members": false,
+    "examine": "Bones of a lava dragon.",
+    "value": 150,
+    "weight": 1.6,
+    "buyLimit": 7500
+}

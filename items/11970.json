@@ -1,0 +1,11 @@
+{
+    "name": "Skills necklace",
+    "id": 11970,
+    "members": false,
+    "examine": "This will help me travel.",
+    "value": 20200,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

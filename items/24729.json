@@ -1,0 +1,8 @@
+{
+    "name": "Dark dye",
+    "id": 24729,
+    "members": false,
+    "examine": "A dye which can be used to recolour a piece of graceful clothing.",
+    "value": 300,
+    "weight": 0.02
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Dragon hunter crossbow (b)",
+    "id": 25918,
+    "members": false,
+    "examine": "A crossbow used for dragon hunting.",
+    "value": 80000,
+    "weight": 7.0,
+    "equipment": {
+        "rangedAttack": 95,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

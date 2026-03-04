@@ -1,0 +1,8 @@
+{
+    "name": "Golden candle",
+    "id": 2947,
+    "members": false,
+    "examine": "A replica candle made of solid gold.",
+    "value": 300,
+    "weight": 0.028
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Holy mould",
+    "id": 1599,
+    "members": false,
+    "examine": "Used to make holy symbols of Saradomin.",
+    "value": 5,
+    "weight": 0.453,
+    "buyLimit": 40
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Spooky boots",
+    "id": 24304,
+    "members": false,
+    "examine": "A spooky pair of boots cut from a bedsheet!",
+    "value": 1,
+    "weight": 0.1
+}

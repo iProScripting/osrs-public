@@ -1,0 +1,8 @@
+{
+    "name": "Tome of the temple",
+    "id": 23508,
+    "members": false,
+    "examine": "Ancient literature detailing the existence of the Forthos Dungeon under Hosidius.",
+    "value": 1,
+    "weight": 1.0
+}

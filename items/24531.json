@@ -1,0 +1,16 @@
+{
+    "name": "Runner hat",
+    "id": 24531,
+    "members": false,
+    "examine": "A broken Penance Runner hat.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "stabDefence": 30,
+        "slashDefence": 32,
+        "crushDefence": 27,
+        "magicDefence": 1,
+        "rangedDefence": 30,
+        "slot": "HEAD"
+    }
+}

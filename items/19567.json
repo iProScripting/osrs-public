@@ -1,0 +1,8 @@
+{
+    "name": "Combat scarred key",
+    "id": 19567,
+    "members": false,
+    "examine": "A key to a door in a maze beneath Ape Atoll.",
+    "value": 1,
+    "weight": 0.01
+}

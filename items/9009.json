@@ -1,0 +1,8 @@
+{
+    "name": "Strange skull",
+    "id": 9009,
+    "members": false,
+    "examine": "Seems to be for use with a staff or sceptre of some sort.",
+    "value": 1,
+    "weight": 0.08
+}

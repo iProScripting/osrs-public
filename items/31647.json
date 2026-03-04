@@ -1,0 +1,8 @@
+{
+    "name": "Extended stamina potion",
+    "id": 31647,
+    "members": false,
+    "examine": "1 dose of extended stamina potion.",
+    "value": 40,
+    "weight": 0.03
+}

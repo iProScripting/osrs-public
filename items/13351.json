@@ -1,0 +1,8 @@
+{
+    "name": "Vial of tears",
+    "id": 13351,
+    "members": false,
+    "examine": "A vial filled with tears.",
+    "value": 1,
+    "weight": 0.035
+}

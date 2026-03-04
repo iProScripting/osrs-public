@@ -1,0 +1,12 @@
+{
+    "name": "Ring of stone",
+    "id": 6583,
+    "members": false,
+    "examine": "An enchanted ring.",
+    "value": 202000,
+    "weight": 0.006,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "RING"
+    }
+}

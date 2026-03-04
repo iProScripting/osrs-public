@@ -1,0 +1,12 @@
+{
+    "name": "Menaphite purple kilt",
+    "id": 6398,
+    "members": false,
+    "examine": "Look at those nobbily knees.",
+    "value": 20,
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

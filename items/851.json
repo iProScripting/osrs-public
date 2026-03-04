@@ -1,0 +1,16 @@
+{
+    "name": "Maple longbow",
+    "id": 851,
+    "members": false,
+    "examine": "A nice sturdy bow made out of Maple.",
+    "value": 640,
+    "weight": 1.814,
+    "buyLimit": 18000,
+    "equipment": {
+        "rangedAttack": 29,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 10,
+        "combatStyle": "BOW"
+    }
+}

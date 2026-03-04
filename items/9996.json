@@ -1,0 +1,9 @@
+{
+    "name": "Spicy minced meat",
+    "id": 9996,
+    "members": false,
+    "examine": "A bowl of fiery minced meat.",
+    "value": 8,
+    "weight": 0.5,
+    "buyLimit": 8000
+}

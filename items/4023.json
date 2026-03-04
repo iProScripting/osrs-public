@@ -1,0 +1,14 @@
+{
+    "name": "Monkey talisman",
+    "id": 4023,
+    "members": false,
+    "examine": "A magical talisman in the shape of a monkey head.",
+    "value": 1000,
+    "weight": 0.085,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

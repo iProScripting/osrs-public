@@ -1,0 +1,8 @@
+{
+    "name": "Rotten barrel",
+    "id": 11045,
+    "members": false,
+    "examine": "Looks like it might still float...",
+    "value": 0,
+    "weight": 0.001
+}

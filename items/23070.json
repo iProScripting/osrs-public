@@ -1,0 +1,8 @@
+{
+    "name": "Treasure scroll",
+    "id": 23070,
+    "members": false,
+    "examine": "A scroll that I found while hunting treasure for Veos.",
+    "value": 30,
+    "weight": 0.02
+}

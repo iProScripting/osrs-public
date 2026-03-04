@@ -1,0 +1,12 @@
+{
+    "name": "Pink skirt",
+    "id": 1013,
+    "members": false,
+    "examine": "A ladies skirt.",
+    "value": 2,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

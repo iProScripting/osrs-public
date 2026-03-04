@@ -1,0 +1,11 @@
+{
+    "name": "Iced gingerbread shield",
+    "id": 24439,
+    "members": false,
+    "examine": "It looks delicious.",
+    "value": 0,
+    "weight": 3.175,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

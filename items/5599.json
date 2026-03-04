@@ -1,0 +1,8 @@
+{
+    "name": "Tin (Recruitment Drive)",
+    "id": 5599,
+    "members": false,
+    "examine": "There is a strange concoction filling this tin.",
+    "value": 20,
+    "weight": 0.101
+}

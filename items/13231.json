@@ -1,0 +1,9 @@
+{
+    "name": "Primordial crystal",
+    "id": 13231,
+    "members": false,
+    "examine": "A powerful crystal of strength.",
+    "value": 45000,
+    "weight": 0.05,
+    "buyLimit": 15
+}

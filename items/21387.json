@@ -1,0 +1,9 @@
+{
+    "name": "Master scroll book",
+    "id": 21387,
+    "members": false,
+    "examine": "I can store my teleport scrolls in this.",
+    "value": 5000,
+    "weight": 1.0,
+    "buyLimit": 100
+}

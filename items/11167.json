@@ -1,0 +1,8 @@
+{
+    "name": "Phoenix crossbow (unobtainable item)",
+    "id": 11167,
+    "members": false,
+    "examine": "Former property of the Phoenix Gang.",
+    "value": 10,
+    "weight": 3.628
+}

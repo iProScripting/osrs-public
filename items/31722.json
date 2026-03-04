@@ -1,0 +1,8 @@
+{
+    "name": "Rubium splinters",
+    "id": 31722,
+    "members": false,
+    "examine": "Be careful with these! They're unstable!",
+    "value": 15,
+    "weight": 0.02
+}

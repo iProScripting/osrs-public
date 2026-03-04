@@ -1,0 +1,9 @@
+{
+    "name": "Grimy harralander",
+    "id": 205,
+    "members": false,
+    "examine": "It needs cleaning.",
+    "value": 16,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

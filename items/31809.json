@@ -1,0 +1,8 @@
+{
+    "name": "Portable weather station",
+    "id": 31809,
+    "members": false,
+    "examine": "Has all sorts of instruments for measuring different things about the weather and climate.",
+    "value": 50,
+    "weight": 0.001
+}

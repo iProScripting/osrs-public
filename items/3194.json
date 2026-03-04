@@ -1,0 +1,22 @@
+{
+    "name": "Steel halberd",
+    "id": 3194,
+    "members": false,
+    "examine": "A steel halberd.",
+    "value": 1000,
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": 14,
+        "slashAttack": 19,
+        "magicAttack": -4,
+        "stabDefence": -1,
+        "slashDefence": 1,
+        "crushDefence": 2,
+        "strength": 20,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 2,
+        "combatStyle": "POLEARM"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Vesta's spear (bh)",
+    "id": 27900,
+    "members": false,
+    "examine": "A powerful spear.",
+    "value": 300000,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 133,
+        "slashAttack": 113,
+        "crushAttack": 120,
+        "stabDefence": 18,
+        "slashDefence": 21,
+        "crushDefence": 21,
+        "strength": 122,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

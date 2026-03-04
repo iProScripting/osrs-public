@@ -1,0 +1,8 @@
+{
+    "name": "Hoop snake (item)",
+    "id": 21624,
+    "members": false,
+    "examine": "Stunned hoop snake appears to be hanging on to its tail.",
+    "value": 1,
+    "weight": 0.453
+}

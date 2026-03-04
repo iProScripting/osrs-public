@@ -1,0 +1,9 @@
+{
+    "name": "Granite",
+    "id": 6983,
+    "members": false,
+    "examine": "A medium-sized chunk of granite.",
+    "value": 1,
+    "weight": 5.0,
+    "buyLimit": 100
+}

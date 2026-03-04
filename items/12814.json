@@ -1,0 +1,18 @@
+{
+    "name": "Ultimate ironman platebody",
+    "id": 12814,
+    "members": false,
+    "examine": "Take it off and what are you?",
+    "value": 0,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 21,
+        "slashDefence": 20,
+        "crushDefence": 12,
+        "magicDefence": -6,
+        "rangedDefence": 20,
+        "slot": "BODY"
+    }
+}

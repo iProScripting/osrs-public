@@ -1,0 +1,11 @@
+{
+    "name": "Graceful boots (Adventurer)",
+    "id": 27461,
+    "members": false,
+    "examine": "For your graceful feet.",
+    "value": 40,
+    "weight": -4.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

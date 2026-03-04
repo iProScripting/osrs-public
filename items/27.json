@@ -1,0 +1,8 @@
+{
+    "name": "Fishing pass",
+    "id": 27,
+    "members": false,
+    "examine": "Pass to the Hemenster fishing contest.",
+    "value": 1,
+    "weight": 0.006
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Red marionette (arms)",
+    "id": 6873,
+    "members": false,
+    "examine": "The torso, head and arms of a marionette.",
+    "value": 1,
+    "weight": 0.6
+}

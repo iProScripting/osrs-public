@@ -1,0 +1,12 @@
+{
+    "name": "Jade ring",
+    "id": 21084,
+    "members": false,
+    "examine": "A valuable ring.",
+    "value": 1275,
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "RING"
+    }
+}

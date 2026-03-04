@@ -1,0 +1,16 @@
+{
+    "name": "Fremennik sea boots 3",
+    "id": 13131,
+    "members": false,
+    "examine": "Sturdy boots for northern winters.",
+    "value": 0,
+    "weight": 0.4,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 7,
+        "slashDefence": 8,
+        "crushDefence": 9,
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Steam battlestaff (or)",
+    "id": 12795,
+    "members": false,
+    "examine": "It's a beautiful and slightly magical stick.",
+    "value": 17000,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 7,
+        "slashAttack": -1,
+        "crushAttack": 28,
+        "magicAttack": 12,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 12,
+        "strength": 35,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

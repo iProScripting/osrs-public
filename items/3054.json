@@ -1,0 +1,24 @@
+{
+    "name": "Mystic lava staff",
+    "id": 3054,
+    "members": false,
+    "examine": "It's a slightly magical stick.",
+    "value": 45000,
+    "weight": 2.267,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": -1,
+        "crushAttack": 40,
+        "magicAttack": 14,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 14,
+        "strength": 50,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

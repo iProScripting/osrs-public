@@ -1,0 +1,8 @@
+{
+    "name": "Holy wrench",
+    "id": 6714,
+    "members": false,
+    "examine": "A shining paragon of wrenchly virtue.",
+    "value": 5,
+    "weight": 0.005
+}

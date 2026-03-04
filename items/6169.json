@@ -1,0 +1,9 @@
+{
+    "name": "Circular hide",
+    "id": 6169,
+    "members": false,
+    "examine": "A toughened chunk of dagannoth hide.",
+    "value": 60,
+    "weight": 3.175,
+    "buyLimit": 11000
+}

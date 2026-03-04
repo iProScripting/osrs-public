@@ -1,0 +1,13 @@
+{
+    "name": "Steel bolts",
+    "id": 9295,
+    "members": false,
+    "examine": "Some poisoned steel bolts.",
+    "value": 8,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 64,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Fishing guild teleport (tablet)",
+    "id": 24959,
+    "members": false,
+    "examine": "A teleport to the Fishing Guild.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

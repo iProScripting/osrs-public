@@ -1,0 +1,12 @@
+{
+    "name": "Expeditious bracelet",
+    "id": 21177,
+    "members": false,
+    "examine": "Allows one slayer kill to count as two.",
+    "value": 1150,
+    "weight": 0.25,
+    "buyLimit": 15000,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

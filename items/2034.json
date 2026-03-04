@@ -1,0 +1,9 @@
+{
+    "name": "Premade fr' blast",
+    "id": 2034,
+    "members": false,
+    "examine": "A premade Fruit Blast.",
+    "value": 30,
+    "weight": 0.45,
+    "buyLimit": 2000
+}

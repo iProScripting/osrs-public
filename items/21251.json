@@ -1,0 +1,8 @@
+{
+    "name": "Wester chocolate",
+    "id": 21251,
+    "members": false,
+    "examine": "Chocolate, fresh from the walls of Wester Island.",
+    "value": 1,
+    "weight": 0.15
+}

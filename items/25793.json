@@ -1,0 +1,8 @@
+{
+    "name": "Receipt (A Kingdom Divided)",
+    "id": 25793,
+    "members": false,
+    "examine": "A receipt found at the home of Councillor Hughes.",
+    "value": 30,
+    "weight": 0.003
+}

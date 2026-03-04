@@ -1,0 +1,9 @@
+{
+    "name": "Yanillian hops",
+    "id": 5998,
+    "members": false,
+    "examine": "A handful of Yanillian Hops.",
+    "value": 7,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

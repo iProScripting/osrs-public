@@ -1,0 +1,8 @@
+{
+    "name": "Felling axe handle",
+    "id": 28177,
+    "members": false,
+    "examine": "A large handle for turning an axe into a felling axe.",
+    "value": 5000,
+    "weight": 0.907
+}

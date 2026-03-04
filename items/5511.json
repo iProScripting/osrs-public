@@ -1,0 +1,8 @@
+{
+    "name": "Medium pouch",
+    "id": 5511,
+    "members": false,
+    "examine": "A damaged medium-sized pouch used for storing essence.",
+    "value": 300,
+    "weight": 1.0
+}

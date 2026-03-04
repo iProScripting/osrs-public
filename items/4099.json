@@ -1,0 +1,14 @@
+{
+    "name": "Mystic hat (dark)",
+    "id": 4099,
+    "members": false,
+    "examine": "A dark magical hat.",
+    "value": 15000,
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "slot": "HEAD"
+    }
+}

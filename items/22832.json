@@ -1,0 +1,9 @@
+{
+    "name": "Mottled eel",
+    "id": 22832,
+    "members": false,
+    "examine": "A very spotty eel.",
+    "value": 3,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

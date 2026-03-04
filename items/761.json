@@ -1,0 +1,8 @@
+{
+    "name": "Intel report",
+    "id": 761,
+    "members": false,
+    "examine": "An intelligence report.",
+    "value": 10,
+    "weight": 0.02
+}

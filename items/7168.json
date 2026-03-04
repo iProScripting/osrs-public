@@ -1,0 +1,9 @@
+{
+    "name": "Raw mud pie",
+    "id": 7168,
+    "members": false,
+    "examine": "Needs to be baked before I can use it.",
+    "value": 27,
+    "weight": 0.001,
+    "buyLimit": 13000
+}

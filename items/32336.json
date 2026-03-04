@@ -1,0 +1,8 @@
+{
+    "name": "Halibut",
+    "id": 32336,
+    "members": false,
+    "examine": "Some nicely cooked halibut.",
+    "value": 170,
+    "weight": 0.65
+}

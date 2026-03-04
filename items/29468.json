@@ -1,0 +1,8 @@
+{
+    "name": "Medium fur pouch",
+    "id": 29468,
+    "members": false,
+    "examine": "A medium-sized pouch for carrying animal furs.",
+    "value": 4500,
+    "weight": 1.0
+}

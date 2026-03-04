@@ -1,0 +1,17 @@
+{
+    "name": "Rune knife",
+    "id": 5660,
+    "members": false,
+    "examine": "A finely balanced throwing knife.",
+    "value": 166,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedAttack": 25,
+        "rangedStrength": 24,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Mouldy block",
+    "id": 32864,
+    "members": false,
+    "examine": "A mouldy wooden block that might have once been part of a toy.",
+    "value": 100,
+    "weight": 0.01
+}

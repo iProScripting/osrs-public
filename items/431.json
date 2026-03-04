@@ -1,0 +1,8 @@
+{
+    "name": "Karamjan rum",
+    "id": 431,
+    "members": false,
+    "examine": "A very strong spirit brewed on Karamja.",
+    "value": 30,
+    "weight": 0.907
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Sapphire bolts",
+    "id": 9337,
+    "members": false,
+    "examine": "Sapphire tipped Mithril crossbow bolts.",
+    "value": 37,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 83,
+        "slot": "AMMO"
+    }
+}

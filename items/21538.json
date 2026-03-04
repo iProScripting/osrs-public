@@ -1,0 +1,8 @@
+{
+    "name": "Runite ore fragment",
+    "id": 21538,
+    "members": false,
+    "examine": "A broken up piece of Runite ore.",
+    "value": 1,
+    "weight": 0.0
+}

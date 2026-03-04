@@ -1,0 +1,9 @@
+{
+    "name": "Raw rat meat",
+    "id": 2134,
+    "members": false,
+    "examine": "I need to cook this first.",
+    "value": 1,
+    "weight": 0.141,
+    "buyLimit": 13000
+}

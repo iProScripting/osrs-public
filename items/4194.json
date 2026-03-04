@@ -1,0 +1,8 @@
+{
+    "name": "Torso",
+    "id": 4194,
+    "members": false,
+    "examine": "A decomposing torso, from which issues the acrid stench of the grave.",
+    "value": 1,
+    "weight": 19.05
+}

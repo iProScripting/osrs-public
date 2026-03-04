@@ -1,0 +1,11 @@
+{
+    "name": "Farmer's jacket",
+    "id": 13642,
+    "members": false,
+    "examine": "This will help with farming.",
+    "value": 60,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

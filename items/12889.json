@@ -1,0 +1,11 @@
+{
+    "name": "Santa pantaloons",
+    "id": 12889,
+    "members": false,
+    "examine": "Christmas stockings aren't just for hanging by the fireplace.",
+    "value": 0,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

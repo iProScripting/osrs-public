@@ -1,0 +1,9 @@
+{
+    "name": "Slayer's respite(m) (keg)",
+    "id": 5921,
+    "members": false,
+    "examine": "This keg contains 4 pints of mature Slayer's Respite.",
+    "value": 1,
+    "weight": 0.028,
+    "buyLimit": 2000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Moon key",
+    "id": 30109,
+    "members": false,
+    "examine": "A mysterious key for a mysterious chest.",
+    "value": 150,
+    "weight": 0.01
+}

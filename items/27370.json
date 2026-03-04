@@ -1,0 +1,11 @@
+{
+    "name": "Mask of rebirth",
+    "id": 27370,
+    "members": false,
+    "examine": "A mask representing rebirth.",
+    "value": 2000,
+    "weight": 0.35,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

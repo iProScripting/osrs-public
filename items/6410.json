@@ -1,0 +1,17 @@
+{
+    "name": "Oak blackjack(d)",
+    "id": 6410,
+    "members": false,
+    "examine": "A defensive blackjack.",
+    "value": 400,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "crushDefence": 4,
+        "strength": 4,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Shadow sword",
+    "id": 10858,
+    "members": false,
+    "examine": "A shadow sword.",
+    "value": 0,
+    "weight": 3.628,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 27,
+        "crushAttack": 21,
+        "magicAttack": 4,
+        "magicDefence": 4,
+        "rangedDefence": -1,
+        "strength": 26,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

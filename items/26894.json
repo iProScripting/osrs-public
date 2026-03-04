@@ -1,0 +1,8 @@
+{
+    "name": "Portal talisman (blood)",
+    "id": 26894,
+    "members": false,
+    "examine": "A talisman bound to the Blood Altar.",
+    "value": 1,
+    "weight": 0.0
+}

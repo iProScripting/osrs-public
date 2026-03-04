@@ -1,0 +1,8 @@
+{
+    "name": "Swampbark armour set",
+    "id": 31160,
+    "members": false,
+    "examine": "A set containing a Swampbark helm, Swampbark body, Swampbark legs, Swampbark boots and Swampbark gloves.",
+    "value": 145000,
+    "weight": 0.05
+}

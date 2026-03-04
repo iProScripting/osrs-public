@@ -1,0 +1,16 @@
+{
+    "name": "Dark flippers",
+    "id": 25557,
+    "members": false,
+    "examine": "Spooky, scary, strangely uncomfortable flippers.",
+    "value": 1,
+    "weight": 0.34,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": -2,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "FEET"
+    }
+}

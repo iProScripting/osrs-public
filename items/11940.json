@@ -1,0 +1,9 @@
+{
+    "name": "Dark fishing bait",
+    "id": 11940,
+    "members": false,
+    "examine": "What on earth would eat this?",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 8000
+}

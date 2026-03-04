@@ -1,0 +1,8 @@
+{
+    "name": "Newspaper",
+    "id": 11171,
+    "members": false,
+    "examine": "A collection of written news on paper!",
+    "value": 10,
+    "weight": 0.02
+}

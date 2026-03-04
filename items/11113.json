@@ -1,0 +1,12 @@
+{
+    "name": "Skills necklace",
+    "id": 11113,
+    "members": false,
+    "examine": "You will need to recharge the necklace at the Legends Guild.",
+    "value": 20200,
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

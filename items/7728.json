@@ -1,0 +1,8 @@
+{
+    "name": "Empty cup (clay)",
+    "id": 7728,
+    "members": false,
+    "examine": "An empty cup.",
+    "value": 2,
+    "weight": 0.05
+}

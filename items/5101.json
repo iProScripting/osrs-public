@@ -1,0 +1,9 @@
+{
+    "name": "Redberry seed",
+    "id": 5101,
+    "members": false,
+    "examine": "A redberry bush seed - plant in a bush patch.",
+    "value": 4,
+    "weight": 0.0,
+    "buyLimit": 600
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Granite boots",
+    "id": 21643,
+    "members": false,
+    "examine": "These will protect my feet, but are a bit heavy.",
+    "value": 12500,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 15,
+        "slashDefence": 16,
+        "crushDefence": 17,
+        "rangedDefence": 8,
+        "strength": 3,
+        "slot": "FEET"
+    }
+}

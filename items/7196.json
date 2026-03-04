@@ -1,0 +1,9 @@
+{
+    "name": "Raw admiral pie",
+    "id": 7196,
+    "members": false,
+    "examine": "This would taste a lot better cooked.",
+    "value": 155,
+    "weight": 0.001,
+    "buyLimit": 13000
+}

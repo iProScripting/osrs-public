@@ -1,0 +1,13 @@
+{
+    "name": "Pearl dragon bolts",
+    "id": 21959,
+    "members": false,
+    "examine": "Dragon crossbow bolts, tipped with pearl.",
+    "value": 650,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

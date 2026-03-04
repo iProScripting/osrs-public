@@ -1,0 +1,8 @@
+{
+    "name": "Dragonstone key",
+    "id": 28420,
+    "members": false,
+    "examine": "An old key with a dragonstone attached.",
+    "value": 30,
+    "weight": 0.02
+}

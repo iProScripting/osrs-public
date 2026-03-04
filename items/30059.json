@@ -1,0 +1,11 @@
+{
+    "name": "Graceful gloves (Varlamore)",
+    "id": 30059,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 30,
+    "weight": -3.0,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Cooked t-bone steak",
+    "id": 33109,
+    "members": false,
+    "examine": "Seared to perfection.",
+    "value": 10,
+    "weight": 0.34,
+    "buyLimit": 6000
+}

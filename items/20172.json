@@ -1,0 +1,19 @@
+{
+    "name": "Steel platelegs (g)",
+    "id": 20172,
+    "members": false,
+    "examine": "Steel platelegs with a gold trim.",
+    "value": 1000,
+    "weight": 9.071,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 17,
+        "slashDefence": 16,
+        "crushDefence": 15,
+        "magicDefence": -4,
+        "rangedDefence": 16,
+        "slot": "LEGS"
+    }
+}

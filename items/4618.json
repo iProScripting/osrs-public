@@ -1,0 +1,8 @@
+{
+    "name": "Statuette (The Golem)",
+    "id": 4618,
+    "members": false,
+    "examine": "A beautifully-carved stone statuette.",
+    "value": 2,
+    "weight": 0.5
+}

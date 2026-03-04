@@ -1,0 +1,11 @@
+{
+    "name": "Hood of ruin",
+    "id": 27428,
+    "members": false,
+    "examine": "A magical-looking hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

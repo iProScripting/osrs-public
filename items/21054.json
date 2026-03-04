@@ -1,0 +1,8 @@
+{
+    "name": "Emerald key",
+    "id": 21054,
+    "members": false,
+    "examine": "A key crafted from emerald (Used in the Misthalin Mystery quest).",
+    "value": 1,
+    "weight": 0.01
+}

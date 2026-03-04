@@ -1,0 +1,12 @@
+{
+    "name": "Giant boot",
+    "id": 23252,
+    "members": false,
+    "examine": "Worn on head. Warning: Smelly.",
+    "value": 14000,
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

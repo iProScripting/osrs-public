@@ -1,0 +1,18 @@
+{
+    "name": "Rune heraldic helm (Skull)",
+    "id": 8490,
+    "members": false,
+    "examine": "The colours represent a skull.",
+    "value": 35200,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 30,
+        "slashDefence": 32,
+        "crushDefence": 27,
+        "magicDefence": -1,
+        "rangedDefence": 30,
+        "slot": "HEAD"
+    }
+}

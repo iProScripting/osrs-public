@@ -1,0 +1,8 @@
+{
+    "name": "Lumber patch",
+    "id": 8932,
+    "members": false,
+    "examine": "Repairs made with this will be patchy at best.",
+    "value": 1,
+    "weight": 0.003
+}

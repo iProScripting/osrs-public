@@ -1,0 +1,14 @@
+{
+    "name": "Crate with zanik",
+    "id": 8871,
+    "members": false,
+    "examine": "It's got Zanik in it.",
+    "value": 1,
+    "weight": 32.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

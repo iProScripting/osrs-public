@@ -1,0 +1,8 @@
+{
+    "name": "Journal (Filliman Tarlock)",
+    "id": 2967,
+    "members": false,
+    "examine": "This must be Filliman Tarlocks personal journal.",
+    "value": 1,
+    "weight": 0.51
+}

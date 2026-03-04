@@ -1,0 +1,9 @@
+{
+    "name": "Spider carcass",
+    "id": 6291,
+    "members": false,
+    "examine": "Its creeping days are over!",
+    "value": 15,
+    "weight": 0.8,
+    "buyLimit": 13000
+}

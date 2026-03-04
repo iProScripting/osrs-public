@@ -1,0 +1,11 @@
+{
+    "name": "Witch cape",
+    "id": 27481,
+    "members": false,
+    "examine": "A thick cape covered in feathers... and probably spiders.",
+    "value": 0,
+    "weight": 0.028,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

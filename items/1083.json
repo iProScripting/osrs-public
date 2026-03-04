@@ -1,0 +1,19 @@
+{
+    "name": "Steel plateskirt",
+    "id": 1083,
+    "members": false,
+    "examine": "Designer leg protection.",
+    "value": 1000,
+    "weight": 8.164,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 17,
+        "slashDefence": 16,
+        "crushDefence": 15,
+        "magicDefence": -4,
+        "rangedDefence": 16,
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Cruciferous codex",
+    "id": 13681,
+    "members": false,
+    "examine": "The holy book of Cabbages.",
+    "value": 200,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

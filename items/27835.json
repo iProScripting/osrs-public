@@ -1,0 +1,23 @@
+{
+    "name": "Statius's platelegs (bh)",
+    "id": 27835,
+    "members": false,
+    "examine": "A powerful pair of platelegs.",
+    "value": 500000,
+    "weight": 9.071,
+    "equipment": {
+        "stabAttack": 1,
+        "slashAttack": 1,
+        "crushAttack": 10,
+        "magicAttack": -30,
+        "rangedAttack": -12,
+        "stabDefence": 73,
+        "slashDefence": 71,
+        "crushDefence": 68,
+        "magicDefence": -14,
+        "rangedDefence": 95,
+        "strength": 3,
+        "prayerBonus": 3,
+        "slot": "LEGS"
+    }
+}

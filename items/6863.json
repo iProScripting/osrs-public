@@ -1,0 +1,11 @@
+{
+    "name": "Woolly scarf",
+    "id": 6863,
+    "members": false,
+    "examine": "A woolly tobogganing scarf.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

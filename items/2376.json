@@ -1,0 +1,8 @@
+{
+    "name": "Skavid map",
+    "id": 2376,
+    "members": false,
+    "examine": "It's a map.",
+    "value": 1,
+    "weight": 0.01
+}

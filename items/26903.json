@@ -1,0 +1,8 @@
+{
+    "name": "Eye amulet",
+    "id": 26903,
+    "members": false,
+    "examine": "A mysterious amulet in the shape of an eye.",
+    "value": 30,
+    "weight": 0.25
+}

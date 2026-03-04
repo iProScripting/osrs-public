@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the drawers downstairs of houses in the eastern part of Falador",
+    "id": 3498,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

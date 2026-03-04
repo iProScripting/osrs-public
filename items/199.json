@@ -1,0 +1,9 @@
+{
+    "name": "Grimy guam leaf",
+    "id": 199,
+    "members": false,
+    "examine": "It needs cleaning.",
+    "value": 13,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

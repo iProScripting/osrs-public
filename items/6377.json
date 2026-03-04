@@ -1,0 +1,12 @@
+{
+    "name": "Villager sandals (pink)",
+    "id": 6377,
+    "members": false,
+    "examine": "A brightly coloured pair of local sandals.",
+    "value": 100,
+    "weight": 0.68,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

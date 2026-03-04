@@ -1,0 +1,9 @@
+{
+    "name": "Snake hide (swamp)",
+    "id": 7801,
+    "members": false,
+    "examine": "Scaly but not slimy!",
+    "value": 35,
+    "weight": 1.0,
+    "buyLimit": 11000
+}

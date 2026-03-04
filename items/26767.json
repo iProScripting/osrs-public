@@ -1,0 +1,14 @@
+{
+    "name": "Seers ring (i)",
+    "id": 26767,
+    "members": false,
+    "examine": "A mysterious ring that can fill the wearer with magical power...",
+    "value": 10000,
+    "weight": 0.004,
+    "equipment": {
+        "magicAttack": 12,
+        "magicDefence": 12,
+        "magicDamage": 0.5,
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Silk dressing",
+    "id": 27325,
+    "members": false,
+    "examine": "Restores a large amount of health over time.",
+    "value": 30,
+    "weight": 0.453
+}

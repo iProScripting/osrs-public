@@ -1,0 +1,9 @@
+{
+    "name": "Harmonised orb",
+    "id": 24511,
+    "members": false,
+    "examine": "An ancient magical orb, corrupted by darkness.",
+    "value": 4000000,
+    "weight": 0.1,
+    "buyLimit": 8
+}

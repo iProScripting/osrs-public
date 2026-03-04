@@ -1,0 +1,24 @@
+{
+    "name": "Mystic air staff",
+    "id": 1405,
+    "members": false,
+    "examine": "It's a slightly magical stick.",
+    "value": 42500,
+    "weight": 2.267,
+    "buyLimit": 18000,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": -1,
+        "crushAttack": 40,
+        "magicAttack": 14,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 14,
+        "strength": 50,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Jade dragon bolts",
+    "id": 21957,
+    "members": false,
+    "examine": "Dragon crossbow bolts, tipped with jade.",
+    "value": 600,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

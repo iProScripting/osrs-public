@@ -1,0 +1,11 @@
+{
+    "name": "Golden prospector jacket",
+    "id": 25551,
+    "members": false,
+    "examine": "Helps you when you're mining. Looks good too.",
+    "value": 3000,
+    "weight": 1.36,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

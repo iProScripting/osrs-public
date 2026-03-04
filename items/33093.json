@@ -1,0 +1,13 @@
+{
+    "name": "Cow slippers",
+    "id": 33093,
+    "members": false,
+    "examine": "Cute cow slippers.",
+    "value": 1000,
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET",
+        "combatStyle": "UNARMED"
+    }
+}

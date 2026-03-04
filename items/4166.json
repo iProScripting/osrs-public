@@ -1,0 +1,12 @@
+{
+    "name": "Earmuffs",
+    "id": 4166,
+    "members": false,
+    "examine": "These will protect my ears from loud noise.",
+    "value": 200,
+    "weight": 0.113,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

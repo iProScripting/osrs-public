@@ -1,0 +1,20 @@
+{
+    "name": "Justiciar legguards",
+    "id": 22328,
+    "members": false,
+    "examine": "A Justiciar's platelegs. Their once bright colours have since faded.",
+    "value": 4500000,
+    "weight": 9.071,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -31,
+        "rangedAttack": -17,
+        "stabDefence": 95,
+        "slashDefence": 92,
+        "crushDefence": 93,
+        "magicDefence": -14,
+        "rangedDefence": 102,
+        "prayerBonus": 4,
+        "slot": "LEGS"
+    }
+}

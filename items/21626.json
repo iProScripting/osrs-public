@@ -1,0 +1,9 @@
+{
+    "name": "Sulliuscep cap",
+    "id": 21626,
+    "members": false,
+    "examine": "A Sulliuscep mushroom cap. Edible? Probably...",
+    "value": 3,
+    "weight": 0.907,
+    "buyLimit": 100
+}

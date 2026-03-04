@@ -1,0 +1,13 @@
+{
+    "name": "Monk's robe top",
+    "id": 544,
+    "members": false,
+    "examine": "I feel closer to the gods when I am wearing this.",
+    "value": 40,
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "prayerBonus": 6,
+        "slot": "BODY"
+    }
+}

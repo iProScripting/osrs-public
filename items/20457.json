@@ -1,0 +1,22 @@
+{
+    "name": "Mithril defender",
+    "id": 20457,
+    "members": false,
+    "examine": "A broken defensive weapon.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 9,
+        "crushAttack": 8,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 10,
+        "slashDefence": 9,
+        "crushDefence": 8,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "strength": 3,
+        "slot": "SHIELD"
+    }
+}

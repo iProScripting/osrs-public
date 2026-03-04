@@ -1,0 +1,12 @@
+{
+    "name": "Shoulder parrot",
+    "id": 23300,
+    "members": false,
+    "examine": "Polly want a cracker?",
+    "value": 1000,
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

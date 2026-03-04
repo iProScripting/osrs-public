@@ -1,0 +1,19 @@
+{
+    "name": "Dragon warhammer (or)",
+    "id": 26710,
+    "members": false,
+    "examine": "Spikey and stylish, close combat weapon.",
+    "value": 120000,
+    "weight": 2.0,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": -4,
+        "crushAttack": 95,
+        "magicAttack": -4,
+        "strength": 85,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

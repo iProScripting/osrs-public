@@ -1,0 +1,16 @@
+{
+    "name": "Granite ring (i)",
+    "id": 26685,
+    "members": false,
+    "examine": "A solid ring.",
+    "value": 15000,
+    "weight": 3.0,
+    "equipment": {
+        "stabDefence": 4,
+        "slashDefence": 4,
+        "crushDefence": 4,
+        "magicDefence": -4,
+        "rangedDefence": 24,
+        "slot": "RING"
+    }
+}

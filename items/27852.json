@@ -1,0 +1,18 @@
+{
+    "name": "Corrupted zuriel's robe bottom (bh)",
+    "id": 27852,
+    "members": false,
+    "examine": "A powerful robe bottom.",
+    "value": 500000,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": 32,
+        "rangedAttack": -6,
+        "stabDefence": 21,
+        "slashDefence": 20,
+        "crushDefence": 23,
+        "magicDefence": 14,
+        "magicDamage": 2.0,
+        "slot": "LEGS"
+    }
+}

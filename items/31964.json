@@ -1,0 +1,9 @@
+{
+    "name": "Repair kit",
+    "id": 31964,
+    "members": false,
+    "examine": "A simple wooden boat repair kit.",
+    "value": 150,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

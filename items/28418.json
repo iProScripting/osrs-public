@@ -1,0 +1,8 @@
+{
+    "name": "Ruby key (Desert Treasure II)",
+    "id": 28418,
+    "members": false,
+    "examine": "An old key with a ruby attached.",
+    "value": 30,
+    "weight": 0.02
+}

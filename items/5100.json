@@ -1,0 +1,9 @@
+{
+    "name": "Limpwurt seed",
+    "id": 5100,
+    "members": false,
+    "examine": "A limpwurt seed - plant in a flower patch.",
+    "value": 12,
+    "weight": 0.0,
+    "buyLimit": 600
+}

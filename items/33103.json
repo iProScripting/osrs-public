@@ -1,0 +1,11 @@
+{
+    "name": "Cowbell amulet",
+    "id": 33103,
+    "members": false,
+    "examine": "A very fashionable a-moo-let.",
+    "value": 350,
+    "weight": 0.06,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

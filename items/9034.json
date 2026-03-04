@@ -1,0 +1,9 @@
+{
+    "name": "Golden statuette",
+    "id": 9034,
+    "members": false,
+    "examine": "A small golden statuette.",
+    "value": 30,
+    "weight": 0.1,
+    "buyLimit": 13000
+}

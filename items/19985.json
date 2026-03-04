@@ -1,0 +1,12 @@
+{
+    "name": "Light bow tie",
+    "id": 19985,
+    "members": false,
+    "examine": "Bow ties are cool.",
+    "value": 5000,
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

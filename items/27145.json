@@ -1,0 +1,11 @@
+{
+    "name": "Flower crown",
+    "id": 27145,
+    "members": false,
+    "examine": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "value": 1,
+    "weight": 0.056,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

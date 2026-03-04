@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Search the basket of apples in an orchard",
+    "id": 25783,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

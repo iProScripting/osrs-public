@@ -1,0 +1,12 @@
+{
+    "name": "Green elegant legs",
+    "id": 10414,
+    "members": false,
+    "examine": "A rather elegant pair of men's green pantaloons.",
+    "value": 2000,
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

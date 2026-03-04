@@ -1,0 +1,9 @@
+{
+    "name": "Earth impling jar",
+    "id": 11244,
+    "members": false,
+    "examine": "Earth impling in a jar.",
+    "value": 50,
+    "weight": 2.267,
+    "buyLimit": 18000
+}

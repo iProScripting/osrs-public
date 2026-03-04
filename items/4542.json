@@ -1,0 +1,9 @@
+{
+    "name": "Lantern lens",
+    "id": 4542,
+    "members": false,
+    "examine": "A roughly circular disc of glass.",
+    "value": 70,
+    "weight": 0.028,
+    "buyLimit": 10000
+}

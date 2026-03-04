@@ -1,0 +1,9 @@
+{
+    "name": "Ranarr weed",
+    "id": 257,
+    "members": false,
+    "examine": "A useful herb.",
+    "value": 25,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Silver necklace",
+    "id": 1796,
+    "members": false,
+    "examine": "Anna's shiny silver coated necklace.",
+    "value": 1,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

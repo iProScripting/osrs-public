@@ -1,0 +1,9 @@
+{
+    "name": "Monkey tail",
+    "id": 19610,
+    "members": false,
+    "examine": "Smells like the south end of a northbound monkey, because it is.",
+    "value": 50000,
+    "weight": 0.25,
+    "buyLimit": 8
+}

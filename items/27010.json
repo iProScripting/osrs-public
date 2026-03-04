@@ -1,0 +1,14 @@
+{
+    "name": "Preform",
+    "id": 27010,
+    "members": false,
+    "examine": "A giant piece of untempered metal.",
+    "value": 80,
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

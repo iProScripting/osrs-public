@@ -1,0 +1,12 @@
+{
+    "name": "Skirt (lilac)",
+    "id": 5050,
+    "members": false,
+    "examine": "Lilac skirt.",
+    "value": 550,
+    "weight": 0.08,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

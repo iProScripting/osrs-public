@@ -1,0 +1,14 @@
+{
+    "name": "Infinity gloves",
+    "id": 6922,
+    "members": false,
+    "examine": "Mystical gloves.",
+    "value": 12000,
+    "weight": 0.453,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 5,
+        "magicDefence": 5,
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Rune javelin tips",
+    "id": 19580,
+    "members": false,
+    "examine": "Needs a shaft.",
+    "value": 1350,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

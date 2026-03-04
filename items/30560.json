@@ -1,0 +1,8 @@
+{
+    "name": "Raging echoes scrying pool scroll",
+    "id": 30560,
+    "members": false,
+    "examine": "Used on a Scrying Pool inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.",
+    "value": 25000,
+    "weight": 0.1
+}

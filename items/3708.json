@@ -1,0 +1,8 @@
+{
+    "name": "Fiscal statement",
+    "id": 3708,
+    "members": false,
+    "examine": "A signed statement promising a reduction on sales tax.",
+    "value": 1,
+    "weight": 0.005
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Raw stuffed snake",
+    "id": 7577,
+    "members": false,
+    "examine": "This snake is stuffed right up.",
+    "value": 1,
+    "weight": 3.0
+}

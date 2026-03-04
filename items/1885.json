@@ -1,0 +1,9 @@
+{
+    "name": "Ugthanki kebab",
+    "id": 1885,
+    "members": false,
+    "examine": "A fresh kebab made from ugthanki meat.",
+    "value": 20,
+    "weight": 0.5,
+    "buyLimit": 10000
+}

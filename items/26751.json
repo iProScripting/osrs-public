@@ -1,0 +1,21 @@
+{
+    "name": "Superior calamity chest",
+    "id": 26751,
+    "members": false,
+    "examine": "A superior chest piece used by the Calamity Coven.",
+    "value": 100000,
+    "weight": 0.907,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 5,
+        "crushAttack": 5,
+        "magicAttack": 12,
+        "rangedAttack": 16,
+        "stabDefence": 47,
+        "slashDefence": 51,
+        "crushDefence": 54,
+        "magicDefence": 28,
+        "rangedDefence": 48,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - Probably filled with books on magic",
+    "id": 7249,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

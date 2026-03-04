@@ -1,0 +1,21 @@
+{
+    "name": "White warhammer",
+    "id": 6613,
+    "members": false,
+    "examine": "I don't think it's intended for joinery.",
+    "value": 980,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": -4,
+        "crushAttack": 22,
+        "magicAttack": -4,
+        "strength": 22,
+        "prayerBonus": 1,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

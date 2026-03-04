@@ -1,0 +1,9 @@
+{
+    "name": "Mushroom & onion",
+    "id": 7066,
+    "members": false,
+    "examine": "A bowl of fried mushroom and onions.",
+    "value": 45,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

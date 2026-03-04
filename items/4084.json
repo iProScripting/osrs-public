@@ -1,0 +1,14 @@
+{
+    "name": "Sled",
+    "id": 4084,
+    "members": false,
+    "examine": "A waxed sled.",
+    "value": 175,
+    "weight": 0.018,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

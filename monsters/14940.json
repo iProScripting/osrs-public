@@ -1,15 +1,27 @@
 {
-    "name": "Scorpion (Sailing)",
+    "name": "Scorpion",
     "id": 14940,
     "isMembersOnly": false,
     "examine": "Tiny, annoying, stinging thing.",
     "releaseDate": "19 November 2025",
+    "versionAnchor": "Level 1",
     "combatLevel": 1,
     "hitpoints": 2,
     "maxHit": [
         "0"
     ],
+    "slayerExperience": 2.0,
+    "slayerCategory": [
+        "Scorpions"
+    ],
     "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "KRYSTILIA",
+        "MAZCHNA"
     ],
     "attackLevel": 1,
     "strengthLevel": 1,
@@ -34,5 +46,7 @@
         "Stab"
     ],
     "attackSpeed": 4,
-    "size": 1
+    "size": 1,
+    "elementalWeakness": "FIRE",
+    "elementalWeaknessPercent": 25
 }

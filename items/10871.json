@@ -1,0 +1,8 @@
+{
+    "name": "Pipe (Tower of Life)",
+    "id": 10871,
+    "members": false,
+    "examine": "A section of pipe.",
+    "value": 1,
+    "weight": 2.5
+}

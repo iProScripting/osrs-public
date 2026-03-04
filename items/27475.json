@@ -1,0 +1,11 @@
+{
+    "name": "Witch top",
+    "id": 27475,
+    "members": false,
+    "examine": "Might help me turn people into newts.",
+    "value": 0,
+    "weight": 0.028,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

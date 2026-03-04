@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Look in the ground floor crates of houses in Falador",
+    "id": 2712,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

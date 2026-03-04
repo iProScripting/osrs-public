@@ -1,0 +1,12 @@
+{
+    "name": "Woven top (brown)",
+    "id": 5024,
+    "members": false,
+    "examine": "Far too small to wear.",
+    "value": 500,
+    "weight": 0.07,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

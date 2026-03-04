@@ -1,0 +1,8 @@
+{
+    "name": "Makeover voucher",
+    "id": 5606,
+    "members": false,
+    "examine": "I can exchange this for one free makeover with the makeover mage.",
+    "value": 1,
+    "weight": 0.005
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Magic mix",
+    "id": 11515,
+    "members": false,
+    "examine": "One dose of fishy Magic potion.",
+    "value": 150,
+    "weight": 0.045,
+    "buyLimit": 2000
+}

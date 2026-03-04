@@ -1,0 +1,9 @@
+{
+    "name": "Hunting mix",
+    "id": 11517,
+    "members": false,
+    "examine": "Two doses of fishy Hunter potion.",
+    "value": 9,
+    "weight": 0.075,
+    "buyLimit": 2000
+}

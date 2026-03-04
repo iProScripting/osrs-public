@@ -1,0 +1,9 @@
+{
+    "name": "Dragon impling jar",
+    "id": 11256,
+    "members": false,
+    "examine": "Dragon impling in a jar.",
+    "value": 50,
+    "weight": 2.267,
+    "buyLimit": 18000
+}

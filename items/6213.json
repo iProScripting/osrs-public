@@ -1,0 +1,9 @@
+{
+    "name": "Mahogany pyre logs",
+    "id": 6213,
+    "members": false,
+    "examine": "Mahogany logs prepared with sacred oil for a funeral pyre.",
+    "value": 200,
+    "weight": 1.36,
+    "buyLimit": 11000
+}

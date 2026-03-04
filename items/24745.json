@@ -1,0 +1,11 @@
+{
+    "name": "Graceful hood (Hallowed)",
+    "id": 24745,
+    "members": false,
+    "examine": "A sign of your grace under fire.",
+    "value": 35,
+    "weight": -3.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

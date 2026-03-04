@@ -1,0 +1,12 @@
+{
+    "name": "Phoenix necklace",
+    "id": 11090,
+    "members": false,
+    "examine": "In case of emergency, wear necklace.",
+    "value": 4050,
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Illuminating lure",
+    "id": 28464,
+    "members": false,
+    "examine": "A questionable source of light.",
+    "value": 250,
+    "weight": 0.001
+}

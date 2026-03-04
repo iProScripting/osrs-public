@@ -1,0 +1,9 @@
+{
+    "name": "Gianne dough",
+    "id": 2171,
+    "members": false,
+    "examine": "It's made from a secret recipe.",
+    "value": 2,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

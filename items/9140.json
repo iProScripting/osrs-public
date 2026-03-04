@@ -1,0 +1,13 @@
+{
+    "name": "Iron bolts",
+    "id": 9140,
+    "members": false,
+    "examine": "Iron crossbow bolts.",
+    "value": 2,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 46,
+        "slot": "AMMO"
+    }
+}

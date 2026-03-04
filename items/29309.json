@@ -1,0 +1,8 @@
+{
+    "name": "Huntsman's kit",
+    "id": 29309,
+    "members": false,
+    "examine": "Holds assorted hunting equipment.",
+    "value": 850,
+    "weight": 0.95
+}

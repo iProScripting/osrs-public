@@ -1,0 +1,8 @@
+{
+    "name": "Tegid's soap",
+    "id": 6072,
+    "members": false,
+    "examine": "A bar of soap taken from Tegid.",
+    "value": 10,
+    "weight": 0.113
+}

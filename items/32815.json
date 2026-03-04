@@ -1,0 +1,8 @@
+{
+    "name": "Pygmy kraken tentacle",
+    "id": 32815,
+    "members": false,
+    "examine": "The tentacle of a pygmy kraken.",
+    "value": 100,
+    "weight": 0.8
+}

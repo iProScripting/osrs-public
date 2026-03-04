@@ -1,0 +1,20 @@
+{
+    "name": "Opal machete",
+    "id": 6313,
+    "members": false,
+    "examine": "A jungle specific slashing device.",
+    "value": 500,
+    "weight": 1.36,
+    "buyLimit": 15,
+    "equipment": {
+        "slashAttack": 8,
+        "crushAttack": -2,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "strength": 4,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

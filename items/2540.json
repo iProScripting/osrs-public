@@ -1,0 +1,12 @@
+{
+    "name": "Rune fire arrow",
+    "id": 2540,
+    "members": false,
+    "examine": "Arrows with rune heads wrapped in oily cloth.",
+    "value": 3,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 49,
+        "slot": "AMMO"
+    }
+}

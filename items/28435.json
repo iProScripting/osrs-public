@@ -1,0 +1,8 @@
+{
+    "name": "Thank you note",
+    "id": 28435,
+    "members": false,
+    "examine": "A thank you message.",
+    "value": 30,
+    "weight": 0.003
+}

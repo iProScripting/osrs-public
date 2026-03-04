@@ -1,0 +1,12 @@
+{
+    "name": "Verac's plateskirt",
+    "id": 4998,
+    "members": false,
+    "examine": "Verac the Defiled's plate skirt.",
+    "value": 275000,
+    "weight": 4.535,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

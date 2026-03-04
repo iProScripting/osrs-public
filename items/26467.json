@@ -1,0 +1,16 @@
+{
+    "name": "Void knight gloves (or)",
+    "id": 26467,
+    "members": false,
+    "examine": "Void knight gloves plucked from the shattered abyss.",
+    "value": 6052,
+    "weight": 0.453,
+    "equipment": {
+        "stabDefence": 6,
+        "slashDefence": 6,
+        "crushDefence": 6,
+        "magicDefence": 4,
+        "rangedDefence": 6,
+        "slot": "HANDS"
+    }
+}

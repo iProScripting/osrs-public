@@ -1,0 +1,16 @@
+{
+    "name": "Mithril dart",
+    "id": 815,
+    "members": false,
+    "examine": "A deadly poisoned dart with a mithril tip.",
+    "value": 25,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 9,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 3,
+        "combatStyle": "THROWN"
+    }
+}

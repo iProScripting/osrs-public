@@ -1,0 +1,12 @@
+{
+    "name": "Menaphite purple top",
+    "id": 6394,
+    "members": false,
+    "examine": "Colourful.",
+    "value": 20,
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

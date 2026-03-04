@@ -1,0 +1,9 @@
+{
+    "name": "Orange feather",
+    "id": 10091,
+    "members": false,
+    "examine": "A fairly plain feather.",
+    "value": 15,
+    "weight": 0.0,
+    "buyLimit": 8000
+}

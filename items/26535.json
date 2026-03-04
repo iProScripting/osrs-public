@@ -1,0 +1,13 @@
+{
+    "name": "Mystic robe bottom (or)",
+    "id": 26535,
+    "members": false,
+    "examine": "The lower half of a magical robe plucked from the shattered abyss.",
+    "value": 80000,
+    "weight": 1.814,
+    "equipment": {
+        "magicAttack": 15,
+        "magicDefence": 15,
+        "slot": "LEGS"
+    }
+}

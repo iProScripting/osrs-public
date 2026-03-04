@@ -1,0 +1,11 @@
+{
+    "name": "Graceful gloves",
+    "id": 11859,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 30,
+    "weight": -3.0,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Moonlight mead",
+    "id": 2955,
+    "members": false,
+    "examine": "A foul smelling brew.",
+    "value": 5,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

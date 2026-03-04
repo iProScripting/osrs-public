@@ -1,0 +1,11 @@
+{
+    "name": "Graceful top (Hallowed)",
+    "id": 24751,
+    "members": false,
+    "examine": "A sign of your grace under fire.",
+    "value": 55,
+    "weight": -5.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

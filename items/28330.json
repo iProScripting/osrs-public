@@ -1,0 +1,8 @@
+{
+    "name": "Strangled tablet",
+    "id": 28330,
+    "members": false,
+    "examine": "Strange glowing symbols are inscribed upon this tablet.",
+    "value": 75000,
+    "weight": 0.5
+}

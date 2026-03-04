@@ -1,0 +1,8 @@
+{
+    "name": "Dragon incendiary cannonball",
+    "id": 31944,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 1800,
+    "weight": 3.628
+}

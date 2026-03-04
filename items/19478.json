@@ -1,0 +1,16 @@
+{
+    "name": "Light ballista",
+    "id": 19478,
+    "members": false,
+    "examine": "A weapon forged from the wreckage of an airship.",
+    "value": 125000,
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "rangedAttack": 110,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 9,
+        "combatStyle": "CROSSBOW"
+    }
+}

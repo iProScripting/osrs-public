@@ -1,0 +1,16 @@
+{
+    "name": "Iron dart",
+    "id": 5629,
+    "members": false,
+    "examine": "A deadly poisoned dart with an iron tip.",
+    "value": 2,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 3,
+        "combatStyle": "THROWN"
+    }
+}

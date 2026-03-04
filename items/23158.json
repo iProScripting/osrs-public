@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Rugged Terrain",
+    "id": 23158,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

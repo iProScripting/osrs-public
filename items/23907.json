@@ -1,0 +1,14 @@
+{
+    "name": "Imbued tephra",
+    "id": 23907,
+    "members": false,
+    "examine": "This is refined, imbued, and ready to go.",
+    "value": 100,
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 10,
+        "combatStyle": "UNARMED"
+    }
+}

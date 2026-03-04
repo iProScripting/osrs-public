@@ -1,0 +1,21 @@
+{
+    "name": "Malediction ward (or)",
+    "id": 12806,
+    "members": false,
+    "examine": "An ancient, evil and beautiful shield forged by Volcanic heat.",
+    "value": 45000,
+    "weight": 3.628,
+    "equipment": {
+        "stabAttack": -8,
+        "slashAttack": -8,
+        "crushAttack": -8,
+        "magicAttack": 12,
+        "rangedAttack": -12,
+        "stabDefence": 50,
+        "slashDefence": 52,
+        "crushDefence": 48,
+        "magicDefence": 15,
+        "magicDamage": 2.0,
+        "slot": "SHIELD"
+    }
+}

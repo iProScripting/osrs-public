@@ -1,0 +1,8 @@
+{
+    "name": "Lunar glass",
+    "id": 24261,
+    "members": false,
+    "examine": "Some Lunar Glass ready to adorn V's mighty shield.",
+    "value": 100,
+    "weight": 0.001
+}

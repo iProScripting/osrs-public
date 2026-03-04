@@ -1,0 +1,9 @@
+{
+    "name": "Vial of water",
+    "id": 227,
+    "members": false,
+    "examine": "A glass vial containing water.",
+    "value": 2,
+    "weight": 0.02,
+    "buyLimit": 13000
+}

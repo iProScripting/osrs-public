@@ -1,0 +1,8 @@
+{
+    "name": "Empty light orb",
+    "id": 10980,
+    "members": false,
+    "examine": "Add a wire to complete it.",
+    "value": 250,
+    "weight": 0.001
+}

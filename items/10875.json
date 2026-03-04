@@ -1,0 +1,8 @@
+{
+    "name": "Valve wheel",
+    "id": 10875,
+    "members": false,
+    "examine": "A wheel used to control valves.",
+    "value": 1,
+    "weight": 0.32
+}

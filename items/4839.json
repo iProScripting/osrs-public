@@ -1,0 +1,8 @@
+{
+    "name": "Ogre gate key",
+    "id": 4839,
+    "members": false,
+    "examine": "A key to some sort of special tomb area (Used in the Zogre Flesh Eaters quest).",
+    "value": 1,
+    "weight": 0.055
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Red partyhat",
+    "id": 1038,
+    "members": false,
+    "examine": "A nice hat from a cracker.",
+    "value": 1,
+    "weight": 0.056,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

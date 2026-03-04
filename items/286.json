@@ -1,0 +1,11 @@
+{
+    "name": "Orange goblin mail",
+    "id": 286,
+    "members": false,
+    "examine": "Some orange armour designed to fit goblins.",
+    "value": 40,
+    "weight": 3.628,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

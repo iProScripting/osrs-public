@@ -1,0 +1,8 @@
+{
+    "name": "Scroll (Barbarian Assault)",
+    "id": 10512,
+    "members": false,
+    "examine": "A recruitment scroll.",
+    "value": 1,
+    "weight": 0.005
+}

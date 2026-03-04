@@ -1,0 +1,19 @@
+{
+    "name": "Mud pie",
+    "id": 7170,
+    "members": false,
+    "examine": "All the good of the earth.",
+    "value": 54,
+    "weight": 0.001,
+    "buyLimit": 11000,
+    "equipment": {
+        "stabAttack": -100,
+        "slashAttack": -100,
+        "crushAttack": -50,
+        "strength": -10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 6,
+        "combatStyle": "THROWN"
+    }
+}

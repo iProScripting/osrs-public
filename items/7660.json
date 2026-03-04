@@ -1,0 +1,9 @@
+{
+    "name": "Guthix balance",
+    "id": 7660,
+    "members": false,
+    "examine": "A potion of harralander, red spiders eggs, garlic and silver dust.",
+    "value": 200,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

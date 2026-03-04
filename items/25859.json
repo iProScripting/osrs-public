@@ -1,0 +1,9 @@
+{
+    "name": "Enhanced crystal weapon seed",
+    "id": 25859,
+    "members": false,
+    "examine": "A seed to be sung into the most powerful crystal weaponry.",
+    "value": 500000,
+    "weight": 0.018,
+    "buyLimit": 70
+}

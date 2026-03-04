@@ -1,0 +1,9 @@
+{
+    "name": "Grimy irit leaf",
+    "id": 209,
+    "members": false,
+    "examine": "It needs cleaning.",
+    "value": 17,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

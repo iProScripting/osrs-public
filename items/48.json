@@ -1,0 +1,9 @@
+{
+    "name": "Longbow (u)",
+    "id": 48,
+    "members": false,
+    "examine": "I need to find a string for this.",
+    "value": 60,
+    "weight": 1.332,
+    "buyLimit": 10000
+}

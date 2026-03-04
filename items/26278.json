@@ -1,0 +1,8 @@
+{
+    "name": "Magical cleaning potion",
+    "id": 26278,
+    "members": false,
+    "examine": "A festive cleaning potion.",
+    "value": 0,
+    "weight": 0.001
+}

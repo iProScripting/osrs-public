@@ -1,0 +1,8 @@
+{
+    "name": "Magic beans",
+    "id": 11211,
+    "members": false,
+    "examine": "A bag of magic beans.",
+    "value": 1,
+    "weight": 0.01
+}

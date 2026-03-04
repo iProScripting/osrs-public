@@ -1,0 +1,8 @@
+{
+    "name": "Yommi totem",
+    "id": 749,
+    "members": false,
+    "examine": "A well-carved totem pole made from the trunk of a Yommi tree.",
+    "value": 1,
+    "weight": 3.0
+}

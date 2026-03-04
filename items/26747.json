@@ -1,0 +1,19 @@
+{
+    "name": "Maoma's great helm",
+    "id": 26747,
+    "members": false,
+    "examine": "Maoma the Corrupt Captain's great helm.",
+    "value": 21500,
+    "weight": 1.36,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 10,
+        "magicAttack": -60,
+        "rangedAttack": -60,
+        "magicDefence": -25,
+        "rangedDefence": 25,
+        "strength": 4,
+        "slot": "HEAD"
+    }
+}

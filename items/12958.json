@@ -1,0 +1,11 @@
+{
+    "name": "Cow gloves",
+    "id": 12958,
+    "members": false,
+    "examine": "It looks like a cow's hoofs.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

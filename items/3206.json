@@ -1,0 +1,8 @@
+{
+    "name": "King's message",
+    "id": 3206,
+    "members": false,
+    "examine": "A summons from King Lathas.",
+    "value": 1,
+    "weight": 0.056
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Fried mushrooms",
+    "id": 7082,
+    "members": false,
+    "examine": "A bowl of fried Bittercap mushrooms.",
+    "value": 42,
+    "weight": 0.5,
+    "buyLimit": 13000
+}

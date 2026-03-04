@@ -1,0 +1,8 @@
+{
+    "name": "Rune incendiary cannonball",
+    "id": 31942,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 1400,
+    "weight": 3.628
+}

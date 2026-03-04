@@ -1,0 +1,12 @@
+{
+    "name": "Zealot's helm",
+    "id": 25438,
+    "members": false,
+    "examine": "A well fashioned helmet with a strange aura emanating.",
+    "value": 24400,
+    "weight": 2.267,
+    "equipment": {
+        "prayerBonus": 1,
+        "slot": "HEAD"
+    }
+}

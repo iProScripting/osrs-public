@@ -1,0 +1,9 @@
+{
+    "name": "Pestle and mortar",
+    "id": 233,
+    "members": false,
+    "examine": "I can grind things for potions in this.",
+    "value": 4,
+    "weight": 0.056,
+    "buyLimit": 40
+}

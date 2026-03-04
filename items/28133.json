@@ -1,0 +1,8 @@
+{
+    "name": "Crypt map",
+    "id": 28133,
+    "members": false,
+    "examine": "A map of the Barrows Crypt.",
+    "value": 1,
+    "weight": 0.51
+}

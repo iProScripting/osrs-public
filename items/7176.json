@@ -1,0 +1,9 @@
+{
+    "name": "Raw garden pie",
+    "id": 7176,
+    "members": false,
+    "examine": "Needs cooking before I eat it.",
+    "value": 12,
+    "weight": 0.001,
+    "buyLimit": 13000
+}

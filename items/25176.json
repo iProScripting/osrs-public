@@ -1,0 +1,18 @@
+{
+    "name": "Decorative full helm (gold)",
+    "id": 25176,
+    "members": false,
+    "examine": "A very decorative full face helmet.",
+    "value": 850,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 19,
+        "slashDefence": 21,
+        "crushDefence": 16,
+        "magicDefence": -1,
+        "rangedDefence": 19,
+        "slot": "HEAD"
+    }
+}

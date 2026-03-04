@@ -1,0 +1,9 @@
+{
+    "name": "Varrock teleport (tablet)",
+    "id": 8007,
+    "members": false,
+    "examine": "A teleport to Varrock.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 15000
+}

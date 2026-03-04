@@ -1,0 +1,9 @@
+{
+    "name": "Raw t-bone steak",
+    "id": 33106,
+    "members": false,
+    "examine": "I need to cook this first.",
+    "value": 10,
+    "weight": 0.34,
+    "buyLimit": 13000
+}

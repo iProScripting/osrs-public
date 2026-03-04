@@ -1,0 +1,23 @@
+{
+    "name": "Staff of the dead",
+    "id": 11791,
+    "members": false,
+    "examine": "A ghastly weapon with evil origins.",
+    "value": 1000005,
+    "weight": 1.5,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": 55,
+        "slashAttack": 70,
+        "magicAttack": 17,
+        "slashDefence": 3,
+        "crushDefence": 3,
+        "magicDefence": 17,
+        "strength": 72,
+        "magicDamage": 15.0,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLADED_STAFF"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Prospector helmet",
+    "id": 29472,
+    "members": false,
+    "examine": "Helps you when you're mining.",
+    "value": 40,
+    "weight": 0.907
+}

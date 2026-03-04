@@ -1,0 +1,8 @@
+{
+    "name": "Golem program",
+    "id": 4624,
+    "members": false,
+    "examine": "It reads 'YOUR TASK IS DONE'.",
+    "value": 1,
+    "weight": 0.02
+}

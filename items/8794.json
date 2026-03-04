@@ -1,0 +1,9 @@
+{
+    "name": "Saw",
+    "id": 8794,
+    "members": false,
+    "examine": "Good for cutting wood.",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 40
+}

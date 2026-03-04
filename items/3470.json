@@ -1,0 +1,9 @@
+{
+    "name": "Fine cloth",
+    "id": 3470,
+    "members": false,
+    "examine": "Amazingly untouched by time.",
+    "value": 500,
+    "weight": 1.0,
+    "buyLimit": 11000
+}

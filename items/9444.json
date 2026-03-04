@@ -1,0 +1,9 @@
+{
+    "name": "Willow stock",
+    "id": 9444,
+    "members": false,
+    "examine": "A willow crossbow stock.",
+    "value": 53,
+    "weight": 3.0,
+    "buyLimit": 10000
+}

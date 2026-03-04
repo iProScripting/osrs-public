@@ -1,0 +1,8 @@
+{
+    "name": "Mithril incendiary cannonball",
+    "id": 31938,
+    "members": false,
+    "examine": "Ammo suited for a boat's cannon.",
+    "value": 90,
+    "weight": 2.721
+}

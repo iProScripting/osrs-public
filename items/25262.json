@@ -1,0 +1,13 @@
+{
+    "name": "Warrior ring (i)",
+    "id": 25262,
+    "members": false,
+    "examine": "A legendary ring once worn by Fremennik warriors.",
+    "value": 10000,
+    "weight": 0.004,
+    "equipment": {
+        "slashAttack": 8,
+        "slashDefence": 8,
+        "slot": "RING"
+    }
+}

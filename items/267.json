@@ -1,0 +1,9 @@
+{
+    "name": "Dwarf weed",
+    "id": 267,
+    "members": false,
+    "examine": "A powerful herb.",
+    "value": 70,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

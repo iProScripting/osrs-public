@@ -1,0 +1,9 @@
+{
+    "name": "Molten glass",
+    "id": 1775,
+    "members": false,
+    "examine": "Hot glass ready to be blown into useful objects.",
+    "value": 3,
+    "weight": 0.907,
+    "buyLimit": 13000
+}

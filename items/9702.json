@@ -1,0 +1,8 @@
+{
+    "name": "Stick (animation item)",
+    "id": 9702,
+    "members": false,
+    "examine": "Random stick.",
+    "value": 1,
+    "weight": 0.907
+}

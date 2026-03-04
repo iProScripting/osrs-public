@@ -1,0 +1,8 @@
+{
+    "name": "Deadman's skull",
+    "id": 33065,
+    "members": false,
+    "examine": "A Deadman's skull filled with magical power.",
+    "value": 1,
+    "weight": 0.08
+}

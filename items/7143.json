@@ -1,0 +1,8 @@
+{
+    "name": "Plunder",
+    "id": 7143,
+    "members": false,
+    "examine": "Looks valuable.",
+    "value": 1,
+    "weight": 0.005
+}

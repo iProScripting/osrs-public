@@ -1,0 +1,8 @@
+{
+    "name": "Fremennik salvage",
+    "id": 32859,
+    "members": false,
+    "examine": "Salvage collected from a Fremennik shipwreck.",
+    "value": 200,
+    "weight": 3.0
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Vyrewatch top",
+    "id": 9634,
+    "members": false,
+    "examine": "Dress like the powerful vyrewatch!",
+    "value": 500,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "slot": "BODY"
+    }
+}

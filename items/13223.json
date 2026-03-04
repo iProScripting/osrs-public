@@ -1,0 +1,11 @@
+{
+    "name": "Music hood",
+    "id": 13223,
+    "members": false,
+    "examine": "Music cape hood.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Dynamite",
+    "id": 13573,
+    "members": false,
+    "examine": "A pot of dynamite for blast mining, with a fuse ready to light.",
+    "value": 50,
+    "weight": 1.36,
+    "buyLimit": 13000
+}

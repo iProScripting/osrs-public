@@ -1,0 +1,11 @@
+{
+    "name": "Trailblazer reloaded mithril trophy",
+    "id": 28757,
+    "members": false,
+    "examine": "A Mithril Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "value": 1,
+    "weight": 1.5,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

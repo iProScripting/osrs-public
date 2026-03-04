@@ -1,0 +1,19 @@
+{
+    "name": "Hueycoatl hide chaps",
+    "id": 30079,
+    "members": false,
+    "examine": "Made from real Huey hide!",
+    "value": 6220,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 17,
+        "stabDefence": 31,
+        "slashDefence": 25,
+        "crushDefence": 33,
+        "magicDefence": 30,
+        "rangedDefence": 31,
+        "prayerBonus": 2,
+        "slot": "LEGS"
+    }
+}

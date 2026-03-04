@@ -1,0 +1,9 @@
+{
+    "name": "Cooked oomlie wrap",
+    "id": 2343,
+    "members": false,
+    "examine": "Deliciously cooked oomlie meat in a palm leaf pouch.",
+    "value": 35,
+    "weight": 0.3,
+    "buyLimit": 15
+}

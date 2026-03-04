@@ -1,0 +1,9 @@
+{
+    "name": "Ranging mix",
+    "id": 11511,
+    "members": false,
+    "examine": "One dose of fishy ranging potion.",
+    "value": 144,
+    "weight": 0.045,
+    "buyLimit": 2000
+}

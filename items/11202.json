@@ -1,0 +1,8 @@
+{
+    "name": "Shrinking recipe",
+    "id": 11202,
+    "members": false,
+    "examine": "A recipe for a shrinking potion.",
+    "value": 1,
+    "weight": 0.01
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gravedigger boots",
+    "id": 13286,
+    "members": false,
+    "examine": "If there's something sticky on the underside, don't ask who it was.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

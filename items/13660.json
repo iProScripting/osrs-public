@@ -1,0 +1,11 @@
+{
+    "name": "Chronicle",
+    "id": 13660,
+    "members": false,
+    "examine": "The legends of RuneScape.",
+    "value": 200,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

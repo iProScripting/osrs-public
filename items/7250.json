@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - You have all of the elements available to solve this clue",
+    "id": 7250,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

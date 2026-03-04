@@ -1,0 +1,8 @@
+{
+    "name": "Iou",
+    "id": 3103,
+    "members": false,
+    "examine": "The guard wrote the IOU on the back of some paper.",
+    "value": 1,
+    "weight": 0.005
+}

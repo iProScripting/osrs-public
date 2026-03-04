@@ -1,0 +1,16 @@
+{
+    "name": "Shortbow",
+    "id": 841,
+    "members": false,
+    "examine": "Short but effective.",
+    "value": 50,
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "equipment": {
+        "rangedAttack": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "BOW"
+    }
+}

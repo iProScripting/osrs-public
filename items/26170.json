@@ -1,0 +1,18 @@
+{
+    "name": "Hardcore group ironman helm",
+    "id": 26170,
+    "members": false,
+    "examine": "A symbol of the most epic adventurers - with nerves of steel and hearts of iron.",
+    "value": 0,
+    "weight": 0.907,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 6,
+        "slashDefence": 7,
+        "crushDefence": 5,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Toy mouse",
+    "id": 7767,
+    "members": false,
+    "examine": "Nice bit of crafting!",
+    "value": 10,
+    "weight": 1.0,
+    "buyLimit": 150
+}

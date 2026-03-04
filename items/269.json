@@ -1,0 +1,9 @@
+{
+    "name": "Torstol",
+    "id": 269,
+    "members": false,
+    "examine": "A powerful herb.",
+    "value": 75,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

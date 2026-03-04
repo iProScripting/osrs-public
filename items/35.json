@@ -1,0 +1,21 @@
+{
+    "name": "Excalibur",
+    "id": 35,
+    "members": false,
+    "examine": "This used to belong to King Arthur.",
+    "value": 200,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": 29,
+        "crushAttack": -2,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "magicDefence": 1,
+        "strength": 25,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

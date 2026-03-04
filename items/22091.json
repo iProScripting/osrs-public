@@ -1,0 +1,8 @@
+{
+    "name": "Dragon key piece",
+    "id": 22091,
+    "members": false,
+    "examine": "A piece of an ancient key. I found this in an old Karamjan temple.",
+    "value": 1,
+    "weight": 0.001
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Key (Waterfall Dungeon)",
+    "id": 298,
+    "members": false,
+    "examine": "I found this within Baxtorian Falls (used in the Waterfall Quest).",
+    "value": 1,
+    "weight": 0.01
+}

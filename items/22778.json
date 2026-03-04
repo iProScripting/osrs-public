@@ -1,0 +1,8 @@
+{
+    "name": "Dark altar (unobtainable item)",
+    "id": 22778,
+    "members": false,
+    "examine": "Site of the darkest rites in Kourend's history.",
+    "value": 1,
+    "weight": 0.001
+}

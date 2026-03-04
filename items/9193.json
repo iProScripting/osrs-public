@@ -1,0 +1,9 @@
+{
+    "name": "Dragonstone bolt tips",
+    "id": 9193,
+    "members": false,
+    "examine": "Dragonstone bolt tips.",
+    "value": 667,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

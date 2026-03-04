@@ -1,0 +1,11 @@
+{
+    "name": "Frog mask",
+    "id": 6188,
+    "members": false,
+    "examine": "Now that's just silly.",
+    "value": 0,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

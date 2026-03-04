@@ -1,0 +1,9 @@
+{
+    "name": "Grimy torstol",
+    "id": 219,
+    "members": false,
+    "examine": "It needs cleaning.",
+    "value": 25,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

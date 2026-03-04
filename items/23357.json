@@ -1,0 +1,16 @@
+{
+    "name": "Rain bow",
+    "id": 23357,
+    "members": false,
+    "examine": "Short but effective and very colourful.",
+    "value": 500,
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "equipment": {
+        "rangedAttack": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "BOW"
+    }
+}

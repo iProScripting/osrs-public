@@ -1,0 +1,18 @@
+{
+    "name": "Crystal harpoon",
+    "id": 23764,
+    "members": false,
+    "examine": "A very powerful harpoon.",
+    "value": 520000,
+    "weight": 0.907,
+    "equipment": {
+        "stabAttack": 38,
+        "slashAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

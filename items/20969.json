@@ -1,0 +1,8 @@
+{
+    "name": "Prayer enhance (+)",
+    "id": 20969,
+    "members": false,
+    "examine": "This potion imbues one with a prayer restore effect temporarily. It was mixed perfectly!",
+    "value": 40,
+    "weight": 0.02
+}

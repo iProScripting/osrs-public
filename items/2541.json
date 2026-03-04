@@ -1,0 +1,12 @@
+{
+    "name": "Rune fire arrow",
+    "id": 2541,
+    "members": false,
+    "examine": "These rune-headed arrows are ablaze with fire.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 49,
+        "slot": "AMMO"
+    }
+}

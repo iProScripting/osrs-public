@@ -1,0 +1,8 @@
+{
+    "name": "Golden tinderbox",
+    "id": 2946,
+    "members": false,
+    "examine": "A replica tinderbox made of solid gold.",
+    "value": 300,
+    "weight": 0.035
+}

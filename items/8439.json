@@ -1,0 +1,9 @@
+{
+    "name": "Nice hedge (bagged)",
+    "id": 8439,
+    "members": false,
+    "examine": "You can plant this in your garden.",
+    "value": 10000,
+    "weight": 10.0,
+    "buyLimit": 10000
+}

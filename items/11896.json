@@ -1,0 +1,16 @@
+{
+    "name": "Decorative armour (magic top)",
+    "id": 11896,
+    "members": false,
+    "examine": "Very decorative armour.",
+    "value": 48000,
+    "weight": 6.803,
+    "equipment": {
+        "stabDefence": 20,
+        "slashDefence": 20,
+        "crushDefence": 20,
+        "magicDefence": 20,
+        "rangedDefence": 20,
+        "slot": "BODY"
+    }
+}

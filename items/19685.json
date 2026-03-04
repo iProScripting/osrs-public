@@ -1,0 +1,8 @@
+{
+    "name": "Dark totem",
+    "id": 19685,
+    "members": false,
+    "examine": "A dark power emanates from this totem.",
+    "value": 450,
+    "weight": 0.009
+}

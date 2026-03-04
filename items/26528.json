@@ -1,0 +1,9 @@
+{
+    "name": "Shattered cannon ornament kit",
+    "id": 26528,
+    "members": false,
+    "examine": "An ornamental kit for the Dwarf multicannon in the style of Leagues III - Shattered Relics.",
+    "value": 25000,
+    "weight": 0.1,
+    "buyLimit": 5
+}

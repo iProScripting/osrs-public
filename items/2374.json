@@ -1,0 +1,8 @@
+{
+    "name": "Relic part 2",
+    "id": 2374,
+    "members": false,
+    "examine": "Part of an ogre relic.",
+    "value": 1,
+    "weight": 1.0
+}

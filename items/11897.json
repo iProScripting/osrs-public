@@ -1,0 +1,16 @@
+{
+    "name": "Decorative armour (magic legs)",
+    "id": 11897,
+    "members": false,
+    "examine": "Very decorative armour.",
+    "value": 45000,
+    "weight": 8.164,
+    "equipment": {
+        "stabDefence": 15,
+        "slashDefence": 15,
+        "crushDefence": 15,
+        "magicDefence": 15,
+        "rangedDefence": 15,
+        "slot": "LEGS"
+    }
+}

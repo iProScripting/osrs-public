@@ -1,0 +1,16 @@
+{
+    "name": "Steel crossbow",
+    "id": 9179,
+    "members": false,
+    "examine": "A steel crossbow.",
+    "value": 360,
+    "weight": 5.0,
+    "buyLimit": 125,
+    "equipment": {
+        "rangedAttack": 54,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

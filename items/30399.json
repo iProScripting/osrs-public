@@ -1,0 +1,8 @@
+{
+    "name": "Wilderness echo orb",
+    "id": 30399,
+    "members": false,
+    "examine": "Crystallised, draconic rage swirls within it...",
+    "value": 75000,
+    "weight": 0.4
+}

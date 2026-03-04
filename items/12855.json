@@ -1,0 +1,11 @@
+{
+    "name": "Hunter's honour",
+    "id": 12855,
+    "members": false,
+    "examine": "Go forth, bold and proud.",
+    "value": 1,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

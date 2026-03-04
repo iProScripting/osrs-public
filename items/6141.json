@@ -1,0 +1,18 @@
+{
+    "name": "Skeletal bottoms",
+    "id": 6141,
+    "members": false,
+    "examine": "A superior set of strengthened slacks for any self respecting seer.",
+    "value": 40000,
+    "weight": 4.082,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 6,
+        "rangedAttack": -7,
+        "stabDefence": 22,
+        "slashDefence": 20,
+        "crushDefence": 24,
+        "magicDefence": 10,
+        "slot": "LEGS"
+    }
+}

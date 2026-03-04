@@ -1,0 +1,9 @@
+{
+    "name": "Raw wild kebbit",
+    "id": 29104,
+    "members": false,
+    "examine": "Better cook this carefully.",
+    "value": 1,
+    "weight": 0.34,
+    "buyLimit": 13000
+}

@@ -10,7 +10,8 @@
     ],
     "hitpoints": 150,
     "maxHit": [
-        "12"
+        "10 (Melee)",
+        "12 (Ranged)"
     ],
     "slayerLevel": 62,
     "slayerExperience": 154.0,
@@ -49,7 +50,7 @@
         "cannon": true
     },
     "attackStyle": [
-        "Melee",
+        "Crush",
         "Ranged"
     ],
     "attackSpeed": 5,

@@ -1,0 +1,9 @@
+{
+    "name": "Empty oil lantern",
+    "id": 4535,
+    "members": false,
+    "examine": "Put oil in to complete it.",
+    "value": 120,
+    "weight": 0.907,
+    "buyLimit": 10000
+}

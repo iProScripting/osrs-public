@@ -1,0 +1,9 @@
+{
+    "name": "Jangerberries",
+    "id": 247,
+    "members": false,
+    "examine": "They don't look very ripe.",
+    "value": 1,
+    "weight": 0.007,
+    "buyLimit": 13000
+}

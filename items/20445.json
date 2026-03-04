@@ -1,0 +1,23 @@
+{
+    "name": "Fire cape",
+    "id": 20445,
+    "members": false,
+    "examine": "A broken cape of fire.",
+    "value": 1,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 1,
+        "slashAttack": 1,
+        "crushAttack": 1,
+        "magicAttack": 1,
+        "rangedAttack": 1,
+        "stabDefence": 11,
+        "slashDefence": 11,
+        "crushDefence": 11,
+        "magicDefence": 11,
+        "rangedDefence": 11,
+        "strength": 4,
+        "prayerBonus": 2,
+        "slot": "CAPE"
+    }
+}

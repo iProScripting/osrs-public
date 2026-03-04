@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Speak to Hajedy",
+    "id": 2848,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

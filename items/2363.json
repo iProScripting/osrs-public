@@ -1,0 +1,9 @@
+{
+    "name": "Runite bar",
+    "id": 2363,
+    "members": false,
+    "examine": "It's a bar of runite.",
+    "value": 5000,
+    "weight": 1.814,
+    "buyLimit": 10000
+}

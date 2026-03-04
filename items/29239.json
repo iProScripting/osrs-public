@@ -1,0 +1,8 @@
+{
+    "name": "Herby tuft",
+    "id": 29239,
+    "members": false,
+    "examine": "Does this fur smell odd to you?",
+    "value": 10,
+    "weight": 1.0
+}

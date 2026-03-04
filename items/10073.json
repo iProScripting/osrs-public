@@ -1,0 +1,14 @@
+{
+    "name": "Spotted cape",
+    "id": 10073,
+    "members": false,
+    "examine": "A surprisingly aerodynamic cape.",
+    "value": 400,
+    "weight": -2.267,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

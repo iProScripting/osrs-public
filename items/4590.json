@@ -1,0 +1,8 @@
+{
+    "name": "Jewels",
+    "id": 4590,
+    "members": false,
+    "examine": "The Mayor of Pollnivneach's wife's jewels.",
+    "value": 1,
+    "weight": 0.01
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Dwellberry seed",
+    "id": 5103,
+    "members": false,
+    "examine": "A dwellberry bush seed - plant in a bush patch.",
+    "value": 25,
+    "weight": 0.0,
+    "buyLimit": 600
+}

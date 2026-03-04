@@ -1,0 +1,12 @@
+{
+    "name": "Twisted boots (t2)",
+    "id": 24403,
+    "members": false,
+    "examine": "The boots of a twisted relic hunter.",
+    "value": 10000,
+    "weight": 0.34,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

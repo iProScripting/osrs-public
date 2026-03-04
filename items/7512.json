@@ -1,0 +1,8 @@
+{
+    "name": "Soggy bread",
+    "id": 7512,
+    "members": false,
+    "examine": "Previously a nice crispy loaf of bread.  Now just kind of icky.",
+    "value": 6,
+    "weight": 0.001
+}

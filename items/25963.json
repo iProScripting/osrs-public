@@ -1,0 +1,8 @@
+{
+    "name": "Crypt key",
+    "id": 25963,
+    "members": false,
+    "examine": "The key to a crypt (Used in the A Night at the Theatre quest).",
+    "value": 30,
+    "weight": 0.01
+}

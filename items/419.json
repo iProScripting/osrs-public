@@ -1,0 +1,8 @@
+{
+    "name": "Touch paper",
+    "id": 419,
+    "members": false,
+    "examine": "A special kind of paper.",
+    "value": 1,
+    "weight": 0.01
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Toxic powder",
+    "id": 6098,
+    "members": false,
+    "examine": "A pile of toxic powder.",
+    "value": 50,
+    "weight": 0.056
+}

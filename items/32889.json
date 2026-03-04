@@ -1,0 +1,8 @@
+{
+    "name": "Lead bar",
+    "id": 32889,
+    "members": false,
+    "examine": "It's a bar of lead.",
+    "value": 28,
+    "weight": 1.814
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Draynor manor teleport (tablet)",
+    "id": 19615,
+    "members": false,
+    "examine": "A teleport to Draynor Manor.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

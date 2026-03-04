@@ -1,0 +1,9 @@
+{
+    "name": "Sunfire splinters",
+    "id": 28924,
+    "members": false,
+    "examine": "Vaporised material from the sun.",
+    "value": 100,
+    "weight": 0.0,
+    "buyLimit": 30000
+}

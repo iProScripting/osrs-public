@@ -1,0 +1,13 @@
+{
+    "name": "Elemental shield",
+    "id": 2890,
+    "members": false,
+    "examine": "A magic shield.",
+    "value": 20,
+    "weight": 0.226,
+    "buyLimit": 70,
+    "equipment": {
+        "magicDefence": 6,
+        "slot": "SHIELD"
+    }
+}

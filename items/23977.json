@@ -1,0 +1,11 @@
+{
+    "name": "Crystal body",
+    "id": 23977,
+    "members": false,
+    "examine": "Sturdier than it looks.",
+    "value": 1500000,
+    "weight": 2.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

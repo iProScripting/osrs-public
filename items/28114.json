@@ -1,0 +1,11 @@
+{
+    "name": "Rainbow scarf",
+    "id": 28114,
+    "members": false,
+    "examine": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "value": 80,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

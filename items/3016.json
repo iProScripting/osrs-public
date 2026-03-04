@@ -1,0 +1,9 @@
+{
+    "name": "Super energy",
+    "id": 3016,
+    "members": false,
+    "examine": "4 doses of super energy potion.",
+    "value": 300,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

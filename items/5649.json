@@ -1,0 +1,13 @@
+{
+    "name": "Iron javelin",
+    "id": 5649,
+    "members": false,
+    "examine": "An iron tipped javelin.",
+    "value": 6,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 42,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Elidinis' ward (or)",
+    "id": 27253,
+    "members": false,
+    "examine": "A fortified ward once used by Elidinis herself.",
+    "value": 5850000,
+    "weight": 3.708,
+    "equipment": {
+        "magicAttack": 25,
+        "stabDefence": 53,
+        "slashDefence": 55,
+        "crushDefence": 73,
+        "magicDefence": 2,
+        "rangedDefence": 52,
+        "prayerBonus": 4,
+        "magicDamage": 5.0,
+        "slot": "SHIELD"
+    }
+}

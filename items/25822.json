@@ -1,0 +1,14 @@
+{
+    "name": "Protest banner",
+    "id": 25822,
+    "members": false,
+    "examine": "Down with the Council!",
+    "value": 500,
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BANNER"
+    }
+}

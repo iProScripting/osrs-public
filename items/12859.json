@@ -1,0 +1,8 @@
+{
+    "name": "Eye of newt pack",
+    "id": 12859,
+    "members": false,
+    "examine": "A pack containing 100 newt eyes.",
+    "value": 300,
+    "weight": 0.07
+}

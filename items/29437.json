@@ -1,0 +1,11 @@
+{
+    "name": "Egg priest robe",
+    "id": 29437,
+    "members": false,
+    "examine": "Keeps an egg priest's knees nice and warm.",
+    "value": 30,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

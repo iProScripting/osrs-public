@@ -1,0 +1,21 @@
+{
+    "name": "Keris",
+    "id": 10583,
+    "members": false,
+    "examine": "The twisted blade is covered with a nasty poison.",
+    "value": 10000,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 40,
+        "slashAttack": 20,
+        "crushAttack": -10,
+        "magicAttack": 2,
+        "magicDefence": 2,
+        "strength": 30,
+        "prayerBonus": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Zanik (item)",
+    "id": 8870,
+    "members": false,
+    "examine": "She's dead, but the mark on her forehead is glowing brightly.",
+    "value": 1,
+    "weight": 30.0
+}

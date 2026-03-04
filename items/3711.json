@@ -1,0 +1,8 @@
+{
+    "name": "Keg of beer (The Fremennik Trials)",
+    "id": 3711,
+    "members": false,
+    "examine": "A lot of beer in a barrel.",
+    "value": 1,
+    "weight": 20.0
+}

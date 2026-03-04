@@ -1,0 +1,18 @@
+{
+    "name": "Iron med helm",
+    "id": 1137,
+    "members": false,
+    "examine": "A medium sized helmet.",
+    "value": 84,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -3,
+        "stabDefence": 4,
+        "slashDefence": 5,
+        "crushDefence": 3,
+        "magicDefence": -1,
+        "rangedDefence": 4,
+        "slot": "HEAD"
+    }
+}

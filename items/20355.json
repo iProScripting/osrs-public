@@ -1,0 +1,8 @@
+{
+    "name": "Light box",
+    "id": 20355,
+    "members": false,
+    "examine": "I need to brighten its day.",
+    "value": 100,
+    "weight": 0.1
+}

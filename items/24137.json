@@ -1,0 +1,21 @@
+{
+    "name": "Iron defender",
+    "id": 24137,
+    "members": false,
+    "examine": "A defensive weapon.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": 5,
+        "slashAttack": 4,
+        "crushAttack": 3,
+        "magicAttack": -3,
+        "rangedAttack": -2,
+        "stabDefence": 5,
+        "slashDefence": 4,
+        "crushDefence": 3,
+        "magicDefence": -3,
+        "rangedDefence": -2,
+        "slot": "SHIELD"
+    }
+}

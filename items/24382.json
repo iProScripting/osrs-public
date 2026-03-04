@@ -1,0 +1,13 @@
+{
+    "name": "Twisted iron trophy",
+    "id": 24382,
+    "members": false,
+    "examine": "An Iron trophy for competing in Leagues I - Twisted (14th Nov 2019 to 16th Jan 2020).",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

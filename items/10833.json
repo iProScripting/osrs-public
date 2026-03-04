@@ -1,0 +1,8 @@
+{
+    "name": "Normal tax bag",
+    "id": 10833,
+    "members": false,
+    "examine": "A normal tax bag.",
+    "value": 1,
+    "weight": 3.628
+}

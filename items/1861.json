@@ -1,0 +1,9 @@
+{
+    "name": "Ugthanki meat",
+    "id": 1861,
+    "members": false,
+    "examine": "Freshly cooked ugthanki meat.",
+    "value": 5,
+    "weight": 0.6,
+    "buyLimit": 11000
+}

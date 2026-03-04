@@ -1,0 +1,9 @@
+{
+    "name": "Teleport to house (tablet)",
+    "id": 8013,
+    "members": false,
+    "examine": "A teleport to one's own house.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 15000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Unfired pot lid",
+    "id": 4438,
+    "members": false,
+    "examine": "This needs firing, then it should fit on a normal-sized pot.",
+    "value": 10,
+    "weight": 0.198,
+    "buyLimit": 100
+}

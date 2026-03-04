@@ -1,0 +1,8 @@
+{
+    "name": "Tin (Recruitment Drive)",
+    "id": 5595,
+    "members": false,
+    "examine": "There is an impression of a key, filled with tin ore.",
+    "value": 20,
+    "weight": 0.101
+}

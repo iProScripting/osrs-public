@@ -1,0 +1,9 @@
+{
+    "name": "Trailblazer reloaded death scroll",
+    "id": 28699,
+    "members": false,
+    "examine": "A scroll which unlocks the Trailblazer Reloaded death and respawn animation.",
+    "value": 25000,
+    "weight": 0.1,
+    "buyLimit": 5
+}

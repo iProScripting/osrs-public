@@ -1,0 +1,11 @@
+{
+    "name": "Scroll sack",
+    "id": 22675,
+    "members": false,
+    "examine": "Gosh, you really seem to love clue scrolls.",
+    "value": 5,
+    "weight": 0.435,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

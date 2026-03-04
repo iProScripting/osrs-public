@@ -1,0 +1,9 @@
+{
+    "name": "Veg ball",
+    "id": 2195,
+    "members": false,
+    "examine": "This looks pretty healthy.",
+    "value": 2,
+    "weight": 0.35,
+    "buyLimit": 6000
+}

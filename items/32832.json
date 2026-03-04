@@ -1,0 +1,8 @@
+{
+    "name": "Narwhal tusk",
+    "id": 32832,
+    "members": false,
+    "examine": "The tusk of a narwhal.",
+    "value": 200,
+    "weight": 0.8
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Iron 2h sword",
+    "id": 1309,
+    "members": false,
+    "examine": "A two handed sword.",
+    "value": 280,
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 13,
+        "crushAttack": 10,
+        "magicAttack": -4,
+        "rangedDefence": -1,
+        "strength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

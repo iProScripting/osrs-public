@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crates in the shed just north of East Ardougne",
+    "id": 2707,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

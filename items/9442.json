@@ -1,0 +1,9 @@
+{
+    "name": "Oak stock",
+    "id": 9442,
+    "members": false,
+    "examine": "An oak crossbow stock.",
+    "value": 27,
+    "weight": 3.0,
+    "buyLimit": 10000
+}

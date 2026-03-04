@@ -1,0 +1,9 @@
+{
+    "name": "Iron bolts (unf)",
+    "id": 9377,
+    "members": false,
+    "examine": "Unfeathered iron crossbow bolts.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

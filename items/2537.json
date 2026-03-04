@@ -1,0 +1,12 @@
+{
+    "name": "Mithril fire arrow",
+    "id": 2537,
+    "members": false,
+    "examine": "These mithril-headed arrows are ablaze with fire.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 22,
+        "slot": "AMMO"
+    }
+}

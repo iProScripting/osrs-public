@@ -1,0 +1,9 @@
+{
+    "name": "Gold amulet (u)",
+    "id": 1673,
+    "members": false,
+    "examine": "It needs a string so I can wear it.",
+    "value": 350,
+    "weight": 0.004,
+    "buyLimit": 18000
+}

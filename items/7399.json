@@ -1,0 +1,14 @@
+{
+    "name": "Enchanted top",
+    "id": 7399,
+    "members": false,
+    "examine": "Enchanted Wizards robes.",
+    "value": 120000,
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 20,
+        "magicDefence": 20,
+        "slot": "BODY"
+    }
+}

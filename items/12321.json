@@ -1,0 +1,12 @@
+{
+    "name": "White cavalier",
+    "id": 12321,
+    "members": false,
+    "examine": "All for one and one for all!",
+    "value": 200,
+    "weight": 0.08,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Grey toy horsey",
+    "id": 2526,
+    "members": false,
+    "examine": "A grey toy horse.",
+    "value": 100,
+    "weight": 0.05,
+    "buyLimit": 150
+}

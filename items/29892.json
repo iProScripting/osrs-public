@@ -1,0 +1,12 @@
+{
+    "name": "Pendant of ates",
+    "id": 29892,
+    "members": false,
+    "examine": "An ancient pendant infused with frozen tears.",
+    "value": 350,
+    "weight": 0.06,
+    "equipment": {
+        "magicAttack": 2,
+        "slot": "NECK"
+    }
+}

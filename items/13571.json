@@ -1,0 +1,8 @@
+{
+    "name": "Volcanic sulphur",
+    "id": 13571,
+    "members": false,
+    "examine": "Minerals from an unstable area, very rich in sulphur.",
+    "value": 10,
+    "weight": 0.056
+}

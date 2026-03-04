@@ -1,0 +1,8 @@
+{
+    "name": "Pillar potion (unf)",
+    "id": 31665,
+    "members": false,
+    "examine": "I need another ingredient to finish this Pillar potion.",
+    "value": 25,
+    "weight": 0.056
+}

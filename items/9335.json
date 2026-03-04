@@ -1,0 +1,12 @@
+{
+    "name": "Jade bolts",
+    "id": 9335,
+    "members": false,
+    "examine": "Jade tipped Blurite crossbow bolts.",
+    "value": 12,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 30,
+        "slot": "AMMO"
+    }
+}

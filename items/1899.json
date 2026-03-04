@@ -1,0 +1,8 @@
+{
+    "name": "Chocolate cake",
+    "id": 1899,
+    "members": false,
+    "examine": "Someone has eaten a big chunk of this cake.",
+    "value": 50,
+    "weight": 0.2
+}

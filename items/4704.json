@@ -1,0 +1,8 @@
+{
+    "name": "Stone bowl",
+    "id": 4704,
+    "members": false,
+    "examine": "A magic stone bowl for catching the tears of Guthix.",
+    "value": 1,
+    "weight": 1.814
+}

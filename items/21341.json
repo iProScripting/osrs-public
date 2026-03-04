@@ -1,0 +1,8 @@
+{
+    "name": "Unidentified minerals",
+    "id": 21341,
+    "members": false,
+    "examine": "I wonder if someone can identify these.",
+    "value": 50,
+    "weight": 0.0
+}

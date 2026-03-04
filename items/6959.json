@@ -1,0 +1,15 @@
+{
+    "name": "Pink cape",
+    "id": 6959,
+    "members": false,
+    "examine": "It's a bit pink.",
+    "value": 1,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

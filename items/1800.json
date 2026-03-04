@@ -1,0 +1,8 @@
+{
+    "name": "Silver bottle",
+    "id": 1800,
+    "members": false,
+    "examine": "Carol's shiny silver coated bottle.",
+    "value": 1,
+    "weight": 0.09
+}

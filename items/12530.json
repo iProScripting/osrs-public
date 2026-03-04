@@ -1,0 +1,9 @@
+{
+    "name": "Light infinity colour kit",
+    "id": 12530,
+    "members": false,
+    "examine": "Use on infinity pieces to recolour them!",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Whisperer's medallion",
+    "id": 28407,
+    "members": false,
+    "examine": "An ancient medallion that once belonged to the Whisperer.",
+    "value": 100,
+    "weight": 0.5
+}

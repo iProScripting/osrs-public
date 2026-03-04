@@ -1,0 +1,14 @@
+{
+    "name": "Echo ahrim's staff",
+    "id": 30574,
+    "members": false,
+    "examine": "Ahrim the Blighted's quarterstaff, using the Theme of Leagues V: Raging Echoes.",
+    "value": 85000,
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

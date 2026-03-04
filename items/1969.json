@@ -1,0 +1,9 @@
+{
+    "name": "Spinach roll",
+    "id": 1969,
+    "members": false,
+    "examine": "A home made spinach thing.",
+    "value": 1,
+    "weight": 0.1,
+    "buyLimit": 50
+}

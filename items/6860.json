@@ -1,0 +1,11 @@
+{
+    "name": "Tri-jester hat",
+    "id": 6860,
+    "members": false,
+    "examine": "A woolly triple bobble jester hat.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

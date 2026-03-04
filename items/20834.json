@@ -1,0 +1,11 @@
+{
+    "name": "Sack of presents",
+    "id": 20834,
+    "members": false,
+    "examine": "You too can look like Santa.",
+    "value": 1,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Dark journal",
+    "id": 20899,
+    "members": false,
+    "examine": "Looks like it's been locked away for a long time in a damp cave.",
+    "value": 1,
+    "weight": 0.19
+}

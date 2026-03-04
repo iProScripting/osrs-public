@@ -1,0 +1,17 @@
+{
+    "name": "Steel sq shield",
+    "id": 1177,
+    "members": false,
+    "examine": "A medium square shield.",
+    "value": 600,
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -6,
+        "stabDefence": 12,
+        "slashDefence": 13,
+        "crushDefence": 11,
+        "rangedDefence": 12,
+        "slot": "SHIELD"
+    }
+}

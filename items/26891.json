@@ -1,0 +1,8 @@
+{
+    "name": "Portal talisman (mind)",
+    "id": 26891,
+    "members": false,
+    "examine": "A talisman bound to the Mind Altar.",
+    "value": 1,
+    "weight": 0.0
+}

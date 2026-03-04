@@ -1,0 +1,22 @@
+{
+    "name": "Corrupted helm (basic)",
+    "id": 23840,
+    "members": false,
+    "examine": "A shiny helmet that provides a little protection from corrupted creatures.",
+    "value": 1,
+    "weight": 2.721,
+    "equipment": {
+        "stabAttack": 2,
+        "slashAttack": 2,
+        "crushAttack": 1,
+        "magicAttack": 2,
+        "rangedAttack": 2,
+        "stabDefence": 28,
+        "slashDefence": 28,
+        "crushDefence": 28,
+        "magicDefence": 28,
+        "rangedDefence": 28,
+        "prayerBonus": 1,
+        "slot": "HEAD"
+    }
+}

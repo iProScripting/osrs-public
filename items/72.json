@@ -1,0 +1,9 @@
+{
+    "name": "Magic shortbow (u)",
+    "id": 72,
+    "members": false,
+    "examine": "An unstrung magic shortbow; I need a bowstring for this.",
+    "value": 800,
+    "weight": 0.992,
+    "buyLimit": 10000
+}

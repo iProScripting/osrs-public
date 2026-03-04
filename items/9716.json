@@ -1,0 +1,8 @@
+{
+    "name": "Rock (unobtainable item)",
+    "id": 9716,
+    "members": false,
+    "examine": "A chunk of rock.",
+    "value": 1,
+    "weight": 0.001
+}

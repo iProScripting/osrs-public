@@ -1,0 +1,9 @@
+{
+    "name": "Green dragon leather",
+    "id": 1745,
+    "members": false,
+    "examine": "It's a piece of prepared green dragonhide.",
+    "value": 50,
+    "weight": 3.175,
+    "buyLimit": 13000
+}

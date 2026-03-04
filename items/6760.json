@@ -1,0 +1,17 @@
+{
+    "name": "Guthix mjolnir",
+    "id": 6760,
+    "members": false,
+    "examine": "A Guthix Mjolnir.",
+    "value": 625,
+    "weight": 2.267,
+    "buyLimit": 8,
+    "equipment": {
+        "crushAttack": 11,
+        "strength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "POLESTAFF"
+    }
+}

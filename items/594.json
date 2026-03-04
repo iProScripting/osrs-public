@@ -1,0 +1,8 @@
+{
+    "name": "Torch",
+    "id": 594,
+    "members": false,
+    "examine": "A lit home-made torch.",
+    "value": 4,
+    "weight": 0.5
+}

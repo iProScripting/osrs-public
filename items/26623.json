@@ -1,0 +1,8 @@
+{
+    "name": "Tomato (cookout)",
+    "id": 26623,
+    "members": false,
+    "examine": "A tomato for the cookout.",
+    "value": 4,
+    "weight": 0.08
+}

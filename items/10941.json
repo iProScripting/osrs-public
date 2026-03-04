@@ -1,0 +1,11 @@
+{
+    "name": "Lumberjack hat",
+    "id": 10941,
+    "members": false,
+    "examine": "You'll certainly be alright wearing this.",
+    "value": 50,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

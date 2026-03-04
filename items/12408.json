@@ -1,0 +1,9 @@
+{
+    "name": "Piscatoris teleport",
+    "id": 12408,
+    "members": false,
+    "examine": "Teleports you to Piscatoris.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

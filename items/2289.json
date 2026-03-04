@@ -1,0 +1,9 @@
+{
+    "name": "Plain pizza",
+    "id": 2289,
+    "members": false,
+    "examine": "A cheese and tomato pizza.",
+    "value": 40,
+    "weight": 0.8,
+    "buyLimit": 10000
+}

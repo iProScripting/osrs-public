@@ -1,0 +1,24 @@
+{
+    "name": "Dragon spear",
+    "id": 1263,
+    "members": false,
+    "examine": "A poisoned dragon tipped spear.",
+    "value": 62400,
+    "weight": 2.267,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 55,
+        "slashAttack": 55,
+        "crushAttack": 55,
+        "stabDefence": 5,
+        "slashDefence": 5,
+        "crushDefence": 5,
+        "magicDefence": 5,
+        "rangedDefence": 5,
+        "strength": 60,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

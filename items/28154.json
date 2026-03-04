@@ -1,0 +1,8 @@
+{
+    "name": "Ritual mulch",
+    "id": 28154,
+    "members": false,
+    "examine": "I can use items with this for nature offerings.",
+    "value": 100,
+    "weight": 0.056
+}

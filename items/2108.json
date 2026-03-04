@@ -1,0 +1,9 @@
+{
+    "name": "Orange",
+    "id": 2108,
+    "members": false,
+    "examine": "A fresh orange.",
+    "value": 2,
+    "weight": 0.11,
+    "buyLimit": 13000
+}

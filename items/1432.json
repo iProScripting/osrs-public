@@ -1,0 +1,20 @@
+{
+    "name": "Rune mace",
+    "id": 1432,
+    "members": false,
+    "examine": "A spiky mace.",
+    "value": 14400,
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 20,
+        "slashAttack": -2,
+        "crushAttack": 39,
+        "strength": 36,
+        "prayerBonus": 4,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
+    }
+}

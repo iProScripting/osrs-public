@@ -1,0 +1,20 @@
+{
+    "name": "Koriff's headband",
+    "id": 26737,
+    "members": false,
+    "examine": "Koriff the Crowd Pleaser's headband.",
+    "value": 11500,
+    "weight": 0.453,
+    "equipment": {
+        "stabAttack": -20,
+        "slashAttack": -20,
+        "crushAttack": -20,
+        "magicAttack": -20,
+        "rangedAttack": 10,
+        "stabDefence": -10,
+        "slashDefence": -10,
+        "crushDefence": -10,
+        "magicDefence": 10,
+        "slot": "HEAD"
+    }
+}

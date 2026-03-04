@@ -1,0 +1,8 @@
+{
+    "name": "Fuse",
+    "id": 10985,
+    "members": false,
+    "examine": "A fuse.",
+    "value": 0,
+    "weight": 1.0
+}

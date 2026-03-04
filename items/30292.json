@@ -1,0 +1,11 @@
+{
+    "name": "Dark green pumpkin",
+    "id": 30292,
+    "members": false,
+    "examine": "That pumpkin might be making fun of something.",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

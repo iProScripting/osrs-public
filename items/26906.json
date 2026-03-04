@@ -1,0 +1,8 @@
+{
+    "name": "Colossal pouch (Devious Minds)",
+    "id": 26906,
+    "members": false,
+    "examine": "A large pouch used for storing essence.",
+    "value": 30,
+    "weight": 1.0
+}

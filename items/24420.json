@@ -1,0 +1,23 @@
+{
+    "name": "Inquisitor's hauberk",
+    "id": 24420,
+    "members": false,
+    "examine": "The hauberk of the turncloak justiciar.",
+    "value": 1000000,
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": -3,
+        "slashAttack": -3,
+        "crushAttack": 12,
+        "magicAttack": -11,
+        "rangedAttack": -10,
+        "stabDefence": 67,
+        "slashDefence": 55,
+        "crushDefence": 71,
+        "rangedDefence": 35,
+        "strength": 4,
+        "prayerBonus": 2,
+        "slot": "BODY"
+    }
+}

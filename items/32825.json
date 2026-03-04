@@ -1,0 +1,8 @@
+{
+    "name": "Frigatebird feather",
+    "id": 32825,
+    "members": false,
+    "examine": "The feather of a frigatebird.",
+    "value": 100,
+    "weight": 0.8
+}

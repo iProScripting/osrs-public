@@ -1,0 +1,20 @@
+{
+    "name": "White plateskirt",
+    "id": 6627,
+    "members": false,
+    "examine": "Big, White and heavy looking.",
+    "value": 1920,
+    "weight": 8.164,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 21,
+        "slashDefence": 20,
+        "crushDefence": 19,
+        "magicDefence": -4,
+        "rangedDefence": 20,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

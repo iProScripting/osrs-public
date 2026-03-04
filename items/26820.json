@@ -1,0 +1,8 @@
+{
+    "name": "Guardian's eye",
+    "id": 26820,
+    "members": false,
+    "examine": "The eye of a rune guardian.",
+    "value": 3000,
+    "weight": 0.5
+}

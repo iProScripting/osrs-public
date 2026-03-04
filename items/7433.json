@@ -1,0 +1,21 @@
+{
+    "name": "Wooden spoon",
+    "id": 7433,
+    "members": false,
+    "examine": "Spoooooon!",
+    "value": 35,
+    "weight": 0.453,
+    "buyLimit": 50,
+    "equipment": {
+        "stabAttack": 4,
+        "slashAttack": 5,
+        "crushAttack": -2,
+        "slashDefence": 3,
+        "crushDefence": 2,
+        "strength": 7,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

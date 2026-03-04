@@ -1,0 +1,9 @@
+{
+    "name": "Red dragon leather",
+    "id": 2507,
+    "members": false,
+    "examine": "It's a piece of prepared red dragonhide.",
+    "value": 90,
+    "weight": 3.175,
+    "buyLimit": 11000
+}

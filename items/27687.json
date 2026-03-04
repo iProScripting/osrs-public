@@ -1,0 +1,9 @@
+{
+    "name": "Voidwaker gem",
+    "id": 27687,
+    "members": false,
+    "examine": "The gem of a broken sword.",
+    "value": 800000,
+    "weight": 0.3,
+    "buyLimit": 8
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Iron arrow",
+    "id": 5623,
+    "members": false,
+    "examine": "Venomous-looking arrows.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedStrength": 10,
+        "slot": "AMMO"
+    }
+}

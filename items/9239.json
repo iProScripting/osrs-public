@@ -1,0 +1,13 @@
+{
+    "name": "Topaz bolts (e)",
+    "id": 9239,
+    "members": false,
+    "examine": "Enchanted Red Topaz tipped Steel Crossbow Bolts.",
+    "value": 24,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 66,
+        "slot": "AMMO"
+    }
+}

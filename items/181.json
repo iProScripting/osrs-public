@@ -1,0 +1,9 @@
+{
+    "name": "Superantipoison",
+    "id": 181,
+    "members": false,
+    "examine": "3 doses of super antipoison potion.",
+    "value": 288,
+    "weight": 0.03,
+    "buyLimit": 2000
+}

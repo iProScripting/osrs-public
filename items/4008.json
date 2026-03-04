@@ -1,0 +1,8 @@
+{
+    "name": "Eye of gnome",
+    "id": 4008,
+    "members": false,
+    "examine": "It's ... the eye of a gnome! Now what on earth could one do with this?",
+    "value": 3,
+    "weight": 0.007
+}

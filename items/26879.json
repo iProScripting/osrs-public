@@ -1,0 +1,8 @@
+{
+    "name": "Guardian essence",
+    "id": 26879,
+    "members": false,
+    "examine": "Pure essence combined with rune guardian remnants. It looks like it can be imbued with energy.",
+    "value": 30,
+    "weight": 0.402
+}

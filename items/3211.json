@@ -1,0 +1,9 @@
+{
+    "name": "Limestone",
+    "id": 3211,
+    "members": false,
+    "examine": "Some limestone.",
+    "value": 10,
+    "weight": 2.267,
+    "buyLimit": 13000
+}

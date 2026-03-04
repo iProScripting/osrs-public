@@ -1,0 +1,8 @@
+{
+    "name": "Molten glass (i)",
+    "id": 24260,
+    "members": false,
+    "examine": "Some imbued Molten Glass, ready to be enchanted into Lunar Glass.",
+    "value": 100,
+    "weight": 0.001
+}

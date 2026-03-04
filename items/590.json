@@ -1,0 +1,9 @@
+{
+    "name": "Tinderbox",
+    "id": 590,
+    "members": false,
+    "examine": "Useful for lighting a fire.",
+    "value": 1,
+    "weight": 0.035,
+    "buyLimit": 40
+}

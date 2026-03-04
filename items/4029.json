@@ -1,0 +1,14 @@
+{
+    "name": "Zombie monkey greegree (small)",
+    "id": 4029,
+    "members": false,
+    "examine": "A magical talisman in the shape of a small zombie monkey head.",
+    "value": 500,
+    "weight": 0.085,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

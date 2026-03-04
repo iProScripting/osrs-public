@@ -1,0 +1,8 @@
+{
+    "name": "Grain (Tombs of Amascut)",
+    "id": 27225,
+    "members": false,
+    "examine": "That's right! Grain!",
+    "value": 10,
+    "weight": 0.5
+}

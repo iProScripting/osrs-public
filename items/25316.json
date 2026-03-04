@@ -1,0 +1,8 @@
+{
+    "name": "Goblin decorations",
+    "id": 25316,
+    "members": false,
+    "examine": "Filled with decorations from the goblins. I can use these on existing furniture in my house.",
+    "value": 1,
+    "weight": 1.0
+}

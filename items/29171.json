@@ -1,0 +1,9 @@
+{
+    "name": "Moonlight antelope antler",
+    "id": 29171,
+    "members": false,
+    "examine": "I don't think I can stick it back on.",
+    "value": 1,
+    "weight": 1.0,
+    "buyLimit": 18000
+}

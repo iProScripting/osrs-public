@@ -1,0 +1,9 @@
+{
+    "name": "Toadflax seed",
+    "id": 5296,
+    "members": false,
+    "examine": "A toadflax seed - plant in a herb patch.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 600
+}

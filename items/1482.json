@@ -1,0 +1,8 @@
+{
+    "name": "Orb of light",
+    "id": 1482,
+    "members": false,
+    "examine": "A magical sphere that glimmers within.",
+    "value": 10,
+    "weight": 0.453
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Chest key (Digsite)",
+    "id": 709,
+    "members": false,
+    "examine": "This fits a chest (Used in The Digsite quest).",
+    "value": 1,
+    "weight": 0.01
+}

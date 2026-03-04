@@ -1,0 +1,17 @@
+{
+    "name": "Maple blackjack(d)",
+    "id": 6420,
+    "members": false,
+    "examine": "A defensive blackjack.",
+    "value": 1600,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "crushDefence": 24,
+        "strength": 20,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Common kebbit fur",
+    "id": 10121,
+    "members": false,
+    "examine": "Common fur from a common kebbit.",
+    "value": 12,
+    "weight": 0.453,
+    "buyLimit": 10000
+}

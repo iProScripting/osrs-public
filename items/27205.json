@@ -1,0 +1,8 @@
+{
+    "name": "Menaphite remedy",
+    "id": 27205,
+    "members": false,
+    "examine": "3 doses of Menaphite remedy.",
+    "value": 110,
+    "weight": 0.035
+}

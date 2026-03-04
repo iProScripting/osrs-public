@@ -1,0 +1,8 @@
+{
+    "name": "Chest key (The Path of Glouphrie)",
+    "id": 28573,
+    "members": false,
+    "examine": "Opens a chest in Golrie's caves (used in the Path of Glouphrie quest).",
+    "value": 30,
+    "weight": 0.01
+}

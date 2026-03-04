@@ -1,0 +1,20 @@
+{
+    "name": "Keris partisan",
+    "id": 25979,
+    "members": false,
+    "examine": "A mystical-feeling polearm.",
+    "value": 60000,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": 58,
+        "slashAttack": -2,
+        "crushAttack": 57,
+        "magicAttack": 2,
+        "strength": 45,
+        "prayerBonus": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "PARTISAN"
+    }
+}

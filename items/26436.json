@@ -1,0 +1,11 @@
+{
+    "name": "Shattered boots (t1)",
+    "id": 26436,
+    "members": false,
+    "examine": "The boots of a Shattered Relic Hunter.",
+    "value": 15000,
+    "weight": 0.34,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

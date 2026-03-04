@@ -1,0 +1,9 @@
+{
+    "name": "White lily",
+    "id": 22932,
+    "members": false,
+    "examine": "A fully bloomed White lily.",
+    "value": 5,
+    "weight": 0.02,
+    "buyLimit": 600
+}

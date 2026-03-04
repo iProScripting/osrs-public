@@ -1,0 +1,9 @@
+{
+    "name": "Weapon poison(++)",
+    "id": 5940,
+    "members": false,
+    "examine": "A vial of super strong weapon poison, for spears and daggers.",
+    "value": 432,
+    "weight": 0.035,
+    "buyLimit": 2000
+}

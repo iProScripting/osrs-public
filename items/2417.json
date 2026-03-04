@@ -1,0 +1,23 @@
+{
+    "name": "Zamorak staff",
+    "id": 2417,
+    "members": false,
+    "examine": "A magical staff imbued with the power of Zamorak.",
+    "value": 80000,
+    "weight": 2.267,
+    "equipment": {
+        "stabAttack": -1,
+        "slashAttack": -1,
+        "crushAttack": 6,
+        "magicAttack": 6,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 6,
+        "strength": 2,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

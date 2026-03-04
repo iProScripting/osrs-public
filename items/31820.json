@@ -1,0 +1,8 @@
+{
+    "name": "Trawler's trust",
+    "id": 31820,
+    "members": false,
+    "examine": "A drink sworn for by trawlers across Gielinor.",
+    "value": 300,
+    "weight": 0.5
+}

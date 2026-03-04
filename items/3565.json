@@ -1,0 +1,8 @@
+{
+    "name": "Puzzle box",
+    "id": 3565,
+    "members": false,
+    "examine": "I need to solve this!",
+    "value": 100,
+    "weight": 0.1
+}

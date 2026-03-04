@@ -1,0 +1,8 @@
+{
+    "name": "Waterskin",
+    "id": 1825,
+    "members": false,
+    "examine": "A nearly full waterskin with three portions of water.",
+    "value": 27,
+    "weight": 0.85
+}

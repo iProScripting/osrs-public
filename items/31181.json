@@ -1,0 +1,11 @@
+{
+    "name": "Grid master tabard",
+    "id": 31181,
+    "members": false,
+    "examine": "A symbol of grid mastery<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"No full stop.\">sic</span>&#93;</sup>",
+    "value": 100000,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

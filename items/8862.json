@@ -1,0 +1,11 @@
+{
+    "name": "Three barrels",
+    "id": 8862,
+    "members": false,
+    "examine": "To put on your head.",
+    "value": 1,
+    "weight": 13.607,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Vesta's plateskirt (bh)",
+    "id": 27832,
+    "members": false,
+    "examine": "A powerful plateskirt.",
+    "value": 500000,
+    "weight": 8.164,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 3,
+        "magicAttack": -30,
+        "rangedAttack": -12,
+        "stabDefence": 39,
+        "slashDefence": 42,
+        "crushDefence": 45,
+        "magicDefence": -15,
+        "rangedDefence": 59,
+        "strength": 3,
+        "slot": "LEGS"
+    }
+}

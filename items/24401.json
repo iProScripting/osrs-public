@@ -1,0 +1,12 @@
+{
+    "name": "Twisted trousers (t2)",
+    "id": 24401,
+    "members": false,
+    "examine": "The trousers of a twisted relic hunter.",
+    "value": 10000,
+    "weight": 0.907,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

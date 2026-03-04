@@ -9,6 +9,7 @@
     "usesSkill": [
     ],
     "attackLevel": 80,
+    "strengthLevel": 90,
     "defenceLevel": 60,
     "magicLevel": 20,
     "attackStyle": [

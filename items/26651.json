@@ -1,0 +1,8 @@
+{
+    "name": "Loot key",
+    "id": 26651,
+    "members": false,
+    "examine": "Contains the loot from a fallen enemy. Use it at the Loot Chest in the Ferox Enclave.",
+    "value": 0,
+    "weight": 0.01
+}

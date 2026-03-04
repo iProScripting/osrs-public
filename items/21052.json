@@ -1,0 +1,8 @@
+{
+    "name": "Manor key",
+    "id": 21052,
+    "members": false,
+    "examine": "This should open the main doors of the manor house (Used in the Misthalin Mystery quest).",
+    "value": 1,
+    "weight": 0.01
+}

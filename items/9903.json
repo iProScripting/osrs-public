@@ -1,0 +1,8 @@
+{
+    "name": "Farming manual",
+    "id": 9903,
+    "members": false,
+    "examine": "Farmer Gricoller's Farming Manual.",
+    "value": 20,
+    "weight": 0.5
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Lunar isle teleport",
+    "id": 12405,
+    "members": false,
+    "examine": "Teleports you to Lunar isle.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

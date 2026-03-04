@@ -1,0 +1,12 @@
+{
+    "name": "Crate of books",
+    "id": 32675,
+    "members": false,
+    "examine": "A cargo crate of books destined for Port Sarim.",
+    "value": 0,
+    "weight": 1.285,
+    "equipment": {
+        "slot": "WEAPON",
+        "combatStyle": "BLUNT"
+    }
+}

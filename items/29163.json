@@ -1,0 +1,8 @@
+{
+    "name": "Fox fur",
+    "id": 29163,
+    "members": false,
+    "examine": "This would make warm clothing.",
+    "value": 10,
+    "weight": 3.0
+}

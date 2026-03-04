@@ -1,0 +1,9 @@
+{
+    "name": "Rune pouch note",
+    "id": 24587,
+    "members": false,
+    "examine": "A note that may be exchanged at a bank for a Rune Pouch.",
+    "value": 210,
+    "weight": 0.0,
+    "buyLimit": 40
+}

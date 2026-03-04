@@ -1,0 +1,8 @@
+{
+    "name": "Crate part",
+    "id": 10899,
+    "members": false,
+    "examine": "Part of a crate.",
+    "value": 1,
+    "weight": 0.0
+}

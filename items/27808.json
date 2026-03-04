@@ -1,0 +1,11 @@
+{
+    "name": "Jad slippers",
+    "id": 27808,
+    "members": false,
+    "examine": "Look out, here comes ToesTok-Jad!",
+    "value": 1,
+    "weight": 0.2,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

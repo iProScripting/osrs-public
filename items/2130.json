@@ -1,0 +1,9 @@
+{
+    "name": "Pot of cream",
+    "id": 2130,
+    "members": false,
+    "examine": "Fresh cream.",
+    "value": 2,
+    "weight": 0.2,
+    "buyLimit": 13000
+}

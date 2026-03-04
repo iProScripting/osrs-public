@@ -1,0 +1,9 @@
+{
+    "name": "Cooked chompy",
+    "id": 2878,
+    "members": false,
+    "examine": "It might look delicious to an ogre.",
+    "value": 130,
+    "weight": 10.0,
+    "buyLimit": 6000
+}

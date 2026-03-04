@@ -1,0 +1,8 @@
+{
+    "name": "Treasure map",
+    "id": 4277,
+    "members": false,
+    "examine": "A complete treasure map.",
+    "value": 1,
+    "weight": 0.01
+}

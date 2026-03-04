@@ -1,0 +1,20 @@
+{
+    "name": "Iron battleaxe",
+    "id": 1363,
+    "members": false,
+    "examine": "A vicious looking axe.",
+    "value": 182,
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 8,
+        "crushAttack": 5,
+        "rangedDefence": -1,
+        "strength": 13,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

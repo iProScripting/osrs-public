@@ -1,0 +1,9 @@
+{
+    "name": "Feather",
+    "id": 314,
+    "members": false,
+    "examine": "Used for fly fishing.",
+    "value": 2,
+    "weight": 0.0,
+    "buyLimit": 30000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Damp sticks",
+    "id": 1467,
+    "members": false,
+    "examine": "Some damp wooden sticks.",
+    "value": 1,
+    "weight": 0.085
+}

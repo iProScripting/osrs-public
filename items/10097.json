@@ -1,0 +1,9 @@
+{
+    "name": "Tatty graahk fur",
+    "id": 10097,
+    "members": false,
+    "examine": "It's a shabby-looking graahk fur.",
+    "value": 90,
+    "weight": 2.0,
+    "buyLimit": 10000
+}

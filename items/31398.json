@@ -1,0 +1,15 @@
+{
+    "name": "Tortugan shield",
+    "id": 31398,
+    "members": false,
+    "examine": "A shield designed to replicate a tortugan shell.",
+    "value": 2500,
+    "weight": 10.0,
+    "equipment": {
+        "stabDefence": 8,
+        "slashDefence": 8,
+        "crushDefence": 6,
+        "rangedDefence": 8,
+        "slot": "CAPE"
+    }
+}

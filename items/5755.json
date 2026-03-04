@@ -1,0 +1,9 @@
+{
+    "name": "Chef's delight",
+    "id": 5755,
+    "members": false,
+    "examine": "A fruity, full-bodied ale.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

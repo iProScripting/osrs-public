@@ -1,0 +1,21 @@
+{
+    "name": "Superior calamity breeches",
+    "id": 26693,
+    "members": false,
+    "examine": "Superior breeches used by the Calamity Coven, but they're broken.",
+    "value": 1,
+    "weight": 0.907,
+    "equipment": {
+        "stabAttack": 3,
+        "slashAttack": 3,
+        "crushAttack": 3,
+        "magicAttack": 8,
+        "rangedAttack": 11,
+        "stabDefence": 32,
+        "slashDefence": 34,
+        "crushDefence": 36,
+        "magicDefence": 20,
+        "rangedDefence": 32,
+        "slot": "LEGS"
+    }
+}

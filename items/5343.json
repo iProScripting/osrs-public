@@ -1,0 +1,9 @@
+{
+    "name": "Seed dibber",
+    "id": 5343,
+    "members": false,
+    "examine": "Use this to plant seeds with.",
+    "value": 6,
+    "weight": 0.002,
+    "buyLimit": 40
+}

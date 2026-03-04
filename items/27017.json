@@ -1,0 +1,8 @@
+{
+    "name": "Smithing catalyst",
+    "id": 27017,
+    "members": false,
+    "examine": "This makes smithing easier and more rewarding.",
+    "value": 100,
+    "weight": 0.028
+}

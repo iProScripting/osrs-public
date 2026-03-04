@@ -1,0 +1,8 @@
+{
+    "name": "Chores",
+    "id": 6545,
+    "members": false,
+    "examine": "A list of chores that Bob gave you to do.",
+    "value": 1,
+    "weight": 0.005
+}

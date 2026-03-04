@@ -1,0 +1,8 @@
+{
+    "name": "Vorkath's head (unobtainable item)",
+    "id": 2425,
+    "members": false,
+    "examine": "Yuck! I could get it stuffed!",
+    "value": 1,
+    "weight": 10.0
+}

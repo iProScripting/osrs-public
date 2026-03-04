@@ -1,0 +1,16 @@
+{
+    "name": "Potato sack",
+    "id": 30947,
+    "members": false,
+    "examine": "An empty potato sack with convenient eye holes.",
+    "value": 200,
+    "weight": 0.3,
+    "equipment": {
+        "stabAttack": -1,
+        "slashAttack": -1,
+        "crushAttack": -1,
+        "magicAttack": -1,
+        "rangedAttack": -1,
+        "slot": "HEAD"
+    }
+}

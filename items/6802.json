@@ -1,0 +1,8 @@
+{
+    "name": "Hobgoblin champion scroll",
+    "id": 6802,
+    "members": false,
+    "examine": "It's a challenge from the Hobgoblin Champion!",
+    "value": 1,
+    "weight": 0.001
+}

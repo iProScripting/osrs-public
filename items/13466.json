@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled unicorn head",
+    "id": 13466,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
+    "value": 267,
+    "weight": 0.453,
+    "buyLimit": 3000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Wizard blizzard",
+    "id": 2054,
+    "members": false,
+    "examine": "This looks like a strange mix.",
+    "value": 30,
+    "weight": 0.5,
+    "buyLimit": 2000
+}

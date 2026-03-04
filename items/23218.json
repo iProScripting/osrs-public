@@ -1,0 +1,19 @@
+{
+    "name": "Rune platebody (h4)",
+    "id": 23218,
+    "members": false,
+    "examine": "Provides excellent protection with a heraldic design.",
+    "value": 65000,
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 82,
+        "slashDefence": 80,
+        "crushDefence": 72,
+        "magicDefence": -6,
+        "rangedDefence": 80,
+        "slot": "BODY"
+    }
+}

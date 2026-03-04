@@ -1,0 +1,8 @@
+{
+    "name": "Sapphire key",
+    "id": 21055,
+    "members": false,
+    "examine": "A key crafted from sapphire (Used in the Misthalin Mystery quest).",
+    "value": 1,
+    "weight": 0.01
+}

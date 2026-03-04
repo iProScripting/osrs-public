@@ -1,0 +1,19 @@
+{
+    "name": "Ring of shadows",
+    "id": 28329,
+    "members": false,
+    "examine": "A powerful ring used to see into other realms...",
+    "value": 75000,
+    "weight": 0.004,
+    "equipment": {
+        "stabAttack": 4,
+        "slashAttack": 4,
+        "crushAttack": 4,
+        "magicAttack": 5,
+        "rangedAttack": 4,
+        "magicDefence": 5,
+        "strength": 2,
+        "prayerBonus": 2,
+        "slot": "RING"
+    }
+}

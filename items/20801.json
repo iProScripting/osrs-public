@@ -1,0 +1,8 @@
+{
+    "name": "Water-filled gourd vial",
+    "id": 20801,
+    "members": false,
+    "examine": "A hollowed out fruit filled with water.",
+    "value": 2,
+    "weight": 0.035
+}

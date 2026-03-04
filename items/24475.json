@@ -1,0 +1,9 @@
+{
+    "name": "Twisted relic hunter (t3) armour set",
+    "id": 24475,
+    "members": false,
+    "examine": "A set containing Twisted boots (t3), Twisted trousers (t3), Twisted coat (t3) and Twisted hat (t3).",
+    "value": 50000,
+    "weight": 0.05,
+    "buyLimit": 5
+}

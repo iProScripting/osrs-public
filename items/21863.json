@@ -1,0 +1,8 @@
+{
+    "name": "Wise old man's teleport tablet",
+    "id": 21863,
+    "members": false,
+    "examine": "Allows you to teleport from Thessalia's back to the Land of Snow.",
+    "value": 1,
+    "weight": 9.071
+}

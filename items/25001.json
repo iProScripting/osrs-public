@@ -1,0 +1,12 @@
+{
+    "name": "Trailblazer hood (t3)",
+    "id": 25001,
+    "members": false,
+    "examine": "The headgear of a trailblazer relic hunter.",
+    "value": 150000,
+    "weight": 0.453,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

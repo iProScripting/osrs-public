@@ -1,0 +1,9 @@
+{
+    "name": "Mokhaiotl waystone",
+    "id": 31099,
+    "members": false,
+    "examine": "A magical shard linked to Mokhaiotl.",
+    "value": 10000,
+    "weight": 0.0,
+    "buyLimit": 100
+}

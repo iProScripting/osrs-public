@@ -1,0 +1,11 @@
+{
+    "name": "Fletching knife",
+    "id": 31043,
+    "members": false,
+    "examine": "A crafty looking knife.",
+    "value": 5000,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

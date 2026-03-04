@@ -1,0 +1,8 @@
+{
+    "name": "Servant bell (unobtainable item)",
+    "id": 7974,
+    "members": false,
+    "examine": "I wonder what happens when I ring it?",
+    "value": 10,
+    "weight": 0.028
+}

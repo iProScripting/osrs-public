@@ -1,0 +1,8 @@
+{
+    "name": "Shaman's tome",
+    "id": 729,
+    "members": false,
+    "examine": "It looks like the Shaman's personal notes...",
+    "value": 1,
+    "weight": 0.51
+}

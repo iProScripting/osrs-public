@@ -1,0 +1,9 @@
+{
+    "name": "Voidwaker hilt",
+    "id": 27681,
+    "members": false,
+    "examine": "The hilt of a broken sword.",
+    "value": 800000,
+    "weight": 0.514,
+    "buyLimit": 8
+}

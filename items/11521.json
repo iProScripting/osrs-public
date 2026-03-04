@@ -1,0 +1,9 @@
+{
+    "name": "Zamorak mix",
+    "id": 11521,
+    "members": false,
+    "examine": "Two doses of fishy Zamorak brew.",
+    "value": 150,
+    "weight": 0.075,
+    "buyLimit": 2000
+}

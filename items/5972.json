@@ -1,0 +1,9 @@
+{
+    "name": "Papaya fruit",
+    "id": 5972,
+    "members": false,
+    "examine": "Looks delicious.",
+    "value": 64,
+    "weight": 0.028,
+    "buyLimit": 11000
+}

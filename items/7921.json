@@ -1,0 +1,8 @@
+{
+    "name": "Empty wine bottle",
+    "id": 7921,
+    "members": false,
+    "examine": "This one has clearly been taken down and passed around.",
+    "value": 1,
+    "weight": 1.0
+}

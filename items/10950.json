@@ -1,0 +1,8 @@
+{
+    "name": "Skull staples (unobtainable item)",
+    "id": 10950,
+    "members": false,
+    "examine": "Five skull staples.",
+    "value": 0,
+    "weight": 0.005
+}

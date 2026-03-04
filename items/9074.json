@@ -1,0 +1,17 @@
+{
+    "name": "Moonclan cape",
+    "id": 9074,
+    "members": false,
+    "examine": "A mystical cape.",
+    "value": 200,
+    "weight": 0.453,
+    "equipment": {
+        "magicAttack": 2,
+        "rangedAttack": -2,
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "magicDefence": 2,
+        "rangedDefence": -2,
+        "slot": "CAPE"
+    }
+}

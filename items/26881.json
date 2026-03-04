@@ -1,0 +1,8 @@
+{
+    "name": "Elemental guardian stone",
+    "id": 26881,
+    "members": false,
+    "examine": "Highly potent essence, imbued with elemental energy.",
+    "value": 30,
+    "weight": 0.0
+}

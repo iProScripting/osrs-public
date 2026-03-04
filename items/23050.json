@@ -1,0 +1,14 @@
+{
+    "name": "Mystic robe top (dusk)",
+    "id": 23050,
+    "members": false,
+    "examine": "The upper half of a dusky magical robe.",
+    "value": 120000,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": 20,
+        "magicDefence": 20,
+        "slot": "BODY"
+    }
+}

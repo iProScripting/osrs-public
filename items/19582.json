@@ -1,0 +1,9 @@
+{
+    "name": "Dragon javelin tips",
+    "id": 19582,
+    "members": false,
+    "examine": "Needs a shaft.",
+    "value": 1950,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

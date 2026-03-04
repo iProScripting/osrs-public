@@ -1,0 +1,8 @@
+{
+    "name": "Raging echoes death scroll",
+    "id": 30455,
+    "members": false,
+    "examine": "A scroll which unlocks the Raging Echoes death and respawn animation.",
+    "value": 25000,
+    "weight": 0.1
+}

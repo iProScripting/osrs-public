@@ -1,0 +1,11 @@
+{
+    "name": "Ring of visibility",
+    "id": 4657,
+    "members": false,
+    "examine": "A ring that allows you to see things that are normally invisible...",
+    "value": 350,
+    "weight": 0.004,
+    "equipment": {
+        "slot": "RING"
+    }
+}

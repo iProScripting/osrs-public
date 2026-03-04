@@ -1,0 +1,8 @@
+{
+    "name": "Revitalisation (+)",
+    "id": 20959,
+    "members": false,
+    "examine": "This potion will aid stat recovery. It was mixed perfectly!",
+    "value": 40,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cup of tea (porcelain)",
+    "id": 7733,
+    "members": false,
+    "examine": "Some nettle tea in a porcelain cup.",
+    "value": 10,
+    "weight": 0.15
+}

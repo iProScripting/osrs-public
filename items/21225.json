@@ -1,0 +1,8 @@
+{
+    "name": "Smoked easter egg",
+    "id": 21225,
+    "members": false,
+    "examine": "A smoke flavoured Easter egg",
+    "value": 1,
+    "weight": 1.0
+}

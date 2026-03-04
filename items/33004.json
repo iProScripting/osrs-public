@@ -1,0 +1,8 @@
+{
+    "name": "Kharidian quest lamp",
+    "id": 33004,
+    "members": false,
+    "examine": "Completes the Kharidian storyline, up to and including Beneath Cursed Sands.",
+    "value": 1,
+    "weight": 0.1
+}

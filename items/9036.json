@@ -1,0 +1,9 @@
+{
+    "name": "Pottery statuette",
+    "id": 9036,
+    "members": false,
+    "examine": "A small statuette.",
+    "value": 10,
+    "weight": 0.1,
+    "buyLimit": 13000
+}

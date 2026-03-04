@@ -1,0 +1,16 @@
+{
+    "name": "Hunters' sunlight crossbow",
+    "id": 28869,
+    "members": false,
+    "examine": "A weapon made of horn and bone.",
+    "value": 1300,
+    "weight": 6.0,
+    "buyLimit": 70,
+    "equipment": {
+        "rangedAttack": 79,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 8,
+        "combatStyle": "CROSSBOW"
+    }
+}

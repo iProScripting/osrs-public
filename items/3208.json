@@ -1,0 +1,11 @@
+{
+    "name": "Crystal pendant",
+    "id": 3208,
+    "members": false,
+    "examine": "Lord Iorwerth's crystal pendant.",
+    "value": 10,
+    "weight": 0.005,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

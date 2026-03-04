@@ -1,0 +1,8 @@
+{
+    "name": "Tanzanite mutagen",
+    "id": 13200,
+    "members": false,
+    "examine": "Triggers mutation in a serpentine helm.",
+    "value": 9500,
+    "weight": 0.05
+}

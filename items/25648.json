@@ -1,0 +1,8 @@
+{
+    "name": "Elaborate lockbox",
+    "id": 25648,
+    "members": false,
+    "examine": "Might contain something valuable inside.",
+    "value": 500,
+    "weight": 1.0
+}

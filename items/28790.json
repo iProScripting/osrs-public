@@ -1,0 +1,8 @@
+{
+    "name": "Kourend castle teleport (tablet)",
+    "id": 28790,
+    "members": false,
+    "examine": "A teleport to Kourend Castle.",
+    "value": 1,
+    "weight": 0.0
+}

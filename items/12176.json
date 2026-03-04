@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the crates in a bank in Varrock",
+    "id": 12176,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

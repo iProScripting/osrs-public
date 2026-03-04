@@ -1,0 +1,8 @@
+{
+    "name": "Graceful gloves (Agility Arena)",
+    "id": 21073,
+    "members": false,
+    "examine": "A sign of your grace.",
+    "value": 30,
+    "weight": 0.1
+}

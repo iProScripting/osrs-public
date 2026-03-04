@@ -1,0 +1,22 @@
+{
+    "name": "Steel gloves",
+    "id": 7456,
+    "members": false,
+    "examine": "A pair of gloves.",
+    "value": 500,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 4,
+        "slashAttack": 4,
+        "crushAttack": 4,
+        "magicAttack": 2,
+        "rangedAttack": 4,
+        "stabDefence": 4,
+        "slashDefence": 4,
+        "crushDefence": 4,
+        "magicDefence": 2,
+        "rangedDefence": 4,
+        "strength": 4,
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Steel kiteshield",
+    "id": 1193,
+    "members": false,
+    "examine": "A large metal shield.",
+    "value": 850,
+    "weight": 5.443,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 13,
+        "slashDefence": 15,
+        "crushDefence": 14,
+        "magicDefence": -1,
+        "rangedDefence": 14,
+        "slot": "SHIELD"
+    }
+}

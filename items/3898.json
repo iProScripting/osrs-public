@@ -1,0 +1,8 @@
+{
+    "name": "Giant pen",
+    "id": 3898,
+    "members": false,
+    "examine": "The King should be able to use this.",
+    "value": 1,
+    "weight": 0.035
+}

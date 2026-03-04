@@ -1,0 +1,20 @@
+{
+    "name": "Dragon sword (cr)",
+    "id": 28029,
+    "members": false,
+    "examine": "A razor sharp sword.",
+    "value": 73001,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 65,
+        "slashAttack": 55,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 63,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

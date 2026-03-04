@@ -1,0 +1,12 @@
+{
+    "name": "Dragon fire arrow",
+    "id": 11222,
+    "members": false,
+    "examine": "These dragon-headed arrows are ablaze with fire.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 60,
+        "slot": "AMMO"
+    }
+}

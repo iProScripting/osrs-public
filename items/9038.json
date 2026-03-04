@@ -1,0 +1,9 @@
+{
+    "name": "Stone statuette",
+    "id": 9038,
+    "members": false,
+    "examine": "A small statuette.",
+    "value": 20,
+    "weight": 0.1,
+    "buyLimit": 13000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Kyatt tooth chip",
+    "id": 29232,
+    "members": false,
+    "examine": "CHOMP.",
+    "value": 10,
+    "weight": 1.0
+}

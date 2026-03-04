@@ -1,0 +1,16 @@
+{
+    "name": "Shayzien boots (5)",
+    "id": 13378,
+    "members": false,
+    "examine": "Dress like a tier 5 Shayzien soldier.",
+    "value": 65,
+    "weight": 1.36,
+    "equipment": {
+        "magicAttack": -2,
+        "rangedAttack": 4,
+        "stabDefence": 5,
+        "slashDefence": 7,
+        "crushDefence": 8,
+        "slot": "FEET"
+    }
+}

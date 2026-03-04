@@ -1,0 +1,8 @@
+{
+    "name": "Oily cloth",
+    "id": 1485,
+    "members": false,
+    "examine": "It's coated in an oily substance.",
+    "value": 10,
+    "weight": 0.012
+}

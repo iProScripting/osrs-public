@@ -1,0 +1,8 @@
+{
+    "name": "Strange potion (Desert Treasure II)",
+    "id": 28383,
+    "members": false,
+    "examine": "A strange potion.",
+    "value": 30,
+    "weight": 0.025
+}

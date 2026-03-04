@@ -1,0 +1,17 @@
+{
+    "name": "Ring of suffering",
+    "id": 20655,
+    "members": false,
+    "examine": "A deep sense of suffering burns within this powerful ring.",
+    "value": 201000,
+    "weight": 0.006,
+    "equipment": {
+        "stabDefence": 10,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "magicDefence": 10,
+        "rangedDefence": 10,
+        "prayerBonus": 2,
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Hardleather body",
+    "id": 1131,
+    "members": false,
+    "examine": "Harder than normal leather.",
+    "value": 170,
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -4,
+        "rangedAttack": 8,
+        "stabDefence": 12,
+        "slashDefence": 15,
+        "crushDefence": 18,
+        "magicDefence": 6,
+        "rangedDefence": 15,
+        "slot": "BODY"
+    }
+}

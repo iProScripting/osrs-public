@@ -1,0 +1,19 @@
+{
+    "name": "Rune full helm (t)",
+    "id": 2627,
+    "members": false,
+    "examine": "Rune full helmet with trim.",
+    "value": 35200,
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -6,
+        "rangedAttack": -3,
+        "stabDefence": 30,
+        "slashDefence": 32,
+        "crushDefence": 27,
+        "magicDefence": -1,
+        "rangedDefence": 30,
+        "slot": "HEAD"
+    }
+}

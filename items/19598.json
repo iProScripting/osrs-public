@@ -1,0 +1,9 @@
+{
+    "name": "Incomplete heavy ballista",
+    "id": 19598,
+    "members": false,
+    "examine": "The limbs have been attached to the frame.",
+    "value": 50000,
+    "weight": 5.5,
+    "buyLimit": 8
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Steel plateskirt (t)",
+    "id": 20190,
+    "members": false,
+    "examine": "Steel plateskirt with trim.",
+    "value": 1000,
+    "weight": 8.164,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 17,
+        "slashDefence": 16,
+        "crushDefence": 15,
+        "magicDefence": -4,
+        "rangedDefence": 16,
+        "slot": "LEGS"
+    }
+}

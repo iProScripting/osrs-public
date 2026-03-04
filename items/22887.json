@@ -1,0 +1,9 @@
+{
+    "name": "White lily seed",
+    "id": 22887,
+    "members": false,
+    "examine": "A white lily seed - plant in a flower patch.",
+    "value": 300,
+    "weight": 0.0,
+    "buyLimit": 600
+}

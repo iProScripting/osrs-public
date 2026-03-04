@@ -1,0 +1,12 @@
+{
+    "name": "Piscarilius hood",
+    "id": 20122,
+    "members": false,
+    "examine": "A rare hood from Port Piscarilius.",
+    "value": 1,
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

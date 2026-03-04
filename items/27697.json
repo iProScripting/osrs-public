@@ -1,0 +1,19 @@
+{
+    "name": "Crystal body (Hefin)",
+    "id": 27697,
+    "members": false,
+    "examine": "Sturdier than it looks.",
+    "value": 1500000,
+    "weight": 2.0,
+    "equipment": {
+        "magicAttack": -18,
+        "rangedAttack": 31,
+        "stabDefence": 46,
+        "slashDefence": 38,
+        "crushDefence": 48,
+        "magicDefence": 44,
+        "rangedDefence": 68,
+        "prayerBonus": 3,
+        "slot": "BODY"
+    }
+}

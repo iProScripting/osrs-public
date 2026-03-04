@@ -1,0 +1,9 @@
+{
+    "name": "Seaweed spore",
+    "id": 21490,
+    "members": false,
+    "examine": "A seaweed spore - plant in a seaweed patch.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 600
+}

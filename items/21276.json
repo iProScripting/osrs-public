@@ -1,0 +1,22 @@
+{
+    "name": "Skull sceptre (i)",
+    "id": 21276,
+    "members": false,
+    "examine": "An imbued magical Sceptre.",
+    "value": 1,
+    "weight": 1.814,
+    "equipment": {
+        "slashAttack": -1,
+        "crushAttack": 7,
+        "magicAttack": 10,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 4,
+        "strength": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

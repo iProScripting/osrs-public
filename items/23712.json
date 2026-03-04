@@ -1,0 +1,9 @@
+{
+    "name": "Divine super strength potion",
+    "id": 23712,
+    "members": false,
+    "examine": "3 doses of divine super strength potion.",
+    "value": 170,
+    "weight": 0.03,
+    "buyLimit": 2000
+}

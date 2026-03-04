@@ -1,0 +1,8 @@
+{
+    "name": "Hag's poison",
+    "id": 4604,
+    "members": false,
+    "examine": "A red viscous liquid in a vial.",
+    "value": 1,
+    "weight": 0.2
+}

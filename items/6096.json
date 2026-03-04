@@ -1,0 +1,8 @@
+{
+    "name": "Toxic naphtha",
+    "id": 6096,
+    "members": false,
+    "examine": "A barrel full of toxic naphtha.",
+    "value": 1,
+    "weight": 32.0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Large fossilised limbs",
+    "id": 21600,
+    "members": false,
+    "examine": "This set of fossilised limbs belongs in a museum!",
+    "value": 1,
+    "weight": 0.907
+}

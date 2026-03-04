@@ -1,0 +1,12 @@
+{
+    "name": "Fancy tiara",
+    "id": 20008,
+    "members": false,
+    "examine": "Call me princess.",
+    "value": 8000,
+    "weight": 0.05,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

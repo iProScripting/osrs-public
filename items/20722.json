@@ -1,0 +1,8 @@
+{
+    "name": "Emerald lantern",
+    "id": 20722,
+    "members": false,
+    "examine": "You need to add lamp oil before you can use it.",
+    "value": 600,
+    "weight": 1.36
+}

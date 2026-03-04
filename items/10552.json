@@ -1,0 +1,16 @@
+{
+    "name": "Runner boots",
+    "id": 10552,
+    "members": false,
+    "examine": "Boots made from a Penance Runner.",
+    "value": 65003,
+    "weight": 0.34,
+    "equipment": {
+        "magicAttack": 1,
+        "rangedAttack": 1,
+        "stabDefence": 8,
+        "slashDefence": 8,
+        "crushDefence": 8,
+        "slot": "FEET"
+    }
+}

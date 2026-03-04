@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Speak to Donovan, the Family Handyman",
+    "id": 2855,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Huasca seed",
+    "id": 30088,
+    "members": false,
+    "examine": "A huasca seed - plant in a herb patch.",
+    "value": 70,
+    "weight": 0.0,
+    "buyLimit": 200
+}

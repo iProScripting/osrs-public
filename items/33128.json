@@ -1,0 +1,8 @@
+{
+    "name": "Milk sample",
+    "id": 33128,
+    "members": false,
+    "examine": "A sample of milk from Cassius.",
+    "value": 1,
+    "weight": 0.035
+}

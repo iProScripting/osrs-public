@@ -1,0 +1,12 @@
+{
+    "name": "Steel fire arrow",
+    "id": 2535,
+    "members": false,
+    "examine": "These steel-headed arrows are ablaze with fire.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 16,
+        "slot": "AMMO"
+    }
+}

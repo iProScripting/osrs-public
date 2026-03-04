@@ -1,0 +1,8 @@
+{
+    "name": "Servery uncooked stew",
+    "id": 13417,
+    "members": false,
+    "examine": "I need to cook this.",
+    "value": 1,
+    "weight": 1.5
+}

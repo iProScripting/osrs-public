@@ -1,0 +1,9 @@
+{
+    "name": "Crushed nest",
+    "id": 6693,
+    "members": false,
+    "examine": "A crushed bird's nest.",
+    "value": 200,
+    "weight": 0.002,
+    "buyLimit": 11000
+}

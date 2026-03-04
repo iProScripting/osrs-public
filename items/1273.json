@@ -1,0 +1,20 @@
+{
+    "name": "Mithril pickaxe",
+    "id": 1273,
+    "members": false,
+    "examine": "Used for mining.",
+    "value": 1300,
+    "weight": 1.814,
+    "buyLimit": 40,
+    "equipment": {
+        "stabAttack": 12,
+        "slashAttack": -2,
+        "crushAttack": 10,
+        "slashDefence": 1,
+        "strength": 13,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

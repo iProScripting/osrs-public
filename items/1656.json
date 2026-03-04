@@ -1,0 +1,12 @@
+{
+    "name": "Sapphire necklace",
+    "id": 1656,
+    "members": false,
+    "examine": "I wonder if this is valuable.",
+    "value": 1050,
+    "weight": 0.01,
+    "buyLimit": 18000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

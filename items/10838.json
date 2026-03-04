@@ -1,0 +1,13 @@
+{
+    "name": "Silly jester tights",
+    "id": 10838,
+    "members": false,
+    "examine": "Silly jester tights.",
+    "value": 100,
+    "weight": 0.907,
+    "equipment": {
+        "magicDefence": 5,
+        "rangedDefence": -5,
+        "slot": "LEGS"
+    }
+}

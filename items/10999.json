@@ -1,0 +1,9 @@
+{
+    "name": "Goblin book",
+    "id": 10999,
+    "members": false,
+    "examine": "A tattered goblin holy book.",
+    "value": 1,
+    "weight": 0.1,
+    "buyLimit": 15
+}

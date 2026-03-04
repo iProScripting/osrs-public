@@ -1,0 +1,8 @@
+{
+    "name": "Tea leaves",
+    "id": 7738,
+    "members": false,
+    "examine": "Mmm, how about a nice cup of tea?",
+    "value": 1,
+    "weight": 0.01
+}

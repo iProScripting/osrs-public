@@ -1,0 +1,13 @@
+{
+    "name": "Mithril bolts",
+    "id": 9296,
+    "members": false,
+    "examine": "Some poisoned mithril bolts.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 82,
+        "slot": "AMMO"
+    }
+}

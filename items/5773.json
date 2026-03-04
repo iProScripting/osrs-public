@@ -1,0 +1,8 @@
+{
+    "name": "Dwarven stout (keg)",
+    "id": 5773,
+    "members": false,
+    "examine": "This keg contains 2 pints of Dwarven Stout.",
+    "value": 1,
+    "weight": 0.028
+}

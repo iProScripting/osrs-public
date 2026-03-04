@@ -1,0 +1,17 @@
+{
+    "name": "Steel knife",
+    "id": 865,
+    "members": false,
+    "examine": "A finely balanced throwing knife.",
+    "value": 11,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedAttack": 8,
+        "rangedStrength": 7,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 4,
+        "combatStyle": "THROWN"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Enchanted robe",
+    "id": 7398,
+    "members": false,
+    "examine": "Enchanted Wizards robes.",
+    "value": 80000,
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 15,
+        "magicDefence": 15,
+        "slot": "LEGS"
+    }
+}

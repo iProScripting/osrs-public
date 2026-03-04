@@ -1,0 +1,8 @@
+{
+    "name": "Lift manual",
+    "id": 7972,
+    "members": false,
+    "examine": "The manual for an AMCE Lift-In-A-Box™.",
+    "value": 5,
+    "weight": 0.01
+}

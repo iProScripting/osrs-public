@@ -1,0 +1,8 @@
+{
+    "name": "Plank sack",
+    "id": 24882,
+    "members": false,
+    "examine": "Lets you carry some extra planks.",
+    "value": 370,
+    "weight": 5.25
+}

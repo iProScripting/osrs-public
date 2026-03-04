@@ -1,0 +1,19 @@
+{
+    "name": "Dragon pickaxe (or) (Trailblazer)",
+    "id": 30351,
+    "members": false,
+    "examine": "A very powerful pickaxe in the colours of the Trailblazer Reloaded League.",
+    "value": 97950,
+    "weight": 2.4,
+    "equipment": {
+        "stabAttack": 38,
+        "slashAttack": -2,
+        "crushAttack": 32,
+        "slashDefence": 1,
+        "strength": 42,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "PICKAXE"
+    }
+}

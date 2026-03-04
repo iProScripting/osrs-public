@@ -1,0 +1,17 @@
+{
+    "name": "Eldritch nightmare staff",
+    "id": 24425,
+    "members": false,
+    "examine": "An ancient staff corrupted by darkness. An eldritch orb has been added to it.",
+    "value": 4600000,
+    "weight": 1.6,
+    "equipment": {
+        "magicAttack": 16,
+        "magicDefence": 14,
+        "magicDamage": 15.0,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

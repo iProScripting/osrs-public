@@ -1,0 +1,8 @@
+{
+    "name": "Lumbridge painting",
+    "id": 8002,
+    "members": false,
+    "examine": "Oxtable's famous painting of the Lumbridge water mill.",
+    "value": 2000,
+    "weight": 1.0
+}

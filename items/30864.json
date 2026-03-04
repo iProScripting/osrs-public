@@ -1,0 +1,8 @@
+{
+    "name": "Infernal plate",
+    "id": 30864,
+    "members": false,
+    "examine": "Metal from infernus<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>, waiting to be shaped at an anvil.",
+    "value": 20,
+    "weight": 0.0
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Rock hammer",
+    "id": 4162,
+    "members": false,
+    "examine": "I can even smash stone with this.",
+    "value": 500,
+    "weight": 2.267,
+    "buyLimit": 40
+}

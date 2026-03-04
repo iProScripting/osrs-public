@@ -1,0 +1,11 @@
+{
+    "name": "Zombie mask",
+    "id": 7594,
+    "members": false,
+    "examine": "I look 40,000 years old in this...",
+    "value": 1,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

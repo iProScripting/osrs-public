@@ -1,0 +1,8 @@
+{
+    "name": "Delivery confirmation",
+    "id": 25796,
+    "members": false,
+    "examine": "A delivery confirmation found at the home of Councillor Hughes.",
+    "value": 30,
+    "weight": 0.028
+}

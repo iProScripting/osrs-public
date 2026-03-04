@@ -1,0 +1,11 @@
+{
+    "name": "Saucepan",
+    "id": 26254,
+    "members": false,
+    "examine": "To be worn on the head.",
+    "value": 1,
+    "weight": 2.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

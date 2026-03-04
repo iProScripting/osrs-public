@@ -1,0 +1,19 @@
+{
+    "name": "Trident of the swamp (e)",
+    "id": 22292,
+    "members": false,
+    "examine": "An enhanced toxic weapon from the deep.",
+    "value": 108500,
+    "weight": 1.814,
+    "equipment": {
+        "magicAttack": 25,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 15,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "POWERED_STAFF"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Prospector legs",
+    "id": 12015,
+    "members": false,
+    "examine": "Helps you when you're mining.",
+    "value": 50,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

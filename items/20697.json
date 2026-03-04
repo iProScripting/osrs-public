@@ -1,0 +1,8 @@
+{
+    "name": "Rejuvenation potion (unf)",
+    "id": 20697,
+    "members": false,
+    "examine": "An unfinished potion.",
+    "value": 1,
+    "weight": 0.035
+}

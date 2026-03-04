@@ -1,0 +1,11 @@
+{
+    "name": "Emissary hood",
+    "id": 29868,
+    "members": false,
+    "examine": "Headwear of the Twilight Emissaries.",
+    "value": 100,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

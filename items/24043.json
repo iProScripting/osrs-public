@@ -1,0 +1,17 @@
+{
+    "name": "Dragonstone boots",
+    "id": 24043,
+    "members": false,
+    "examine": "A stylish pair of rune boots inlaid with dragonstones.",
+    "value": 12500,
+    "weight": 1.36,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 12,
+        "slashDefence": 13,
+        "crushDefence": 14,
+        "strength": 2,
+        "slot": "FEET"
+    }
+}

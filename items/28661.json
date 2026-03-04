@@ -1,0 +1,8 @@
+{
+    "name": "Pheasant egg",
+    "id": 28661,
+    "members": false,
+    "examine": "A pheasant egg found in the forest.",
+    "value": 300,
+    "weight": 0.0
+}

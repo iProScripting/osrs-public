@@ -1,0 +1,9 @@
+{
+    "name": "Raw karambwan",
+    "id": 3142,
+    "members": false,
+    "examine": "A raw green octopus.",
+    "value": 200,
+    "weight": 0.7,
+    "buyLimit": 13000
+}

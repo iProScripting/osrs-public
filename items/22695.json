@@ -1,0 +1,11 @@
+{
+    "name": "Clown gown",
+    "id": 22695,
+    "members": false,
+    "examine": "Why so serious?",
+    "value": 1,
+    "weight": 0.9,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

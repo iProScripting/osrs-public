@@ -1,0 +1,9 @@
+{
+    "name": "Lean snail",
+    "id": 3365,
+    "members": false,
+    "examine": "The lean, slimy corpse of a deceased giant snail.",
+    "value": 10,
+    "weight": 2.0,
+    "buyLimit": 13000
+}

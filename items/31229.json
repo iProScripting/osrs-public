@@ -1,0 +1,11 @@
+{
+    "name": "Grim reaper top",
+    "id": 31229,
+    "members": false,
+    "examine": "It's spooky time.",
+    "value": 1,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

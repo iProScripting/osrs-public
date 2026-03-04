@@ -1,0 +1,9 @@
+{
+    "name": "Clockwork",
+    "id": 8792,
+    "members": false,
+    "examine": "A clockwork mechanism.",
+    "value": 500,
+    "weight": 1.0,
+    "buyLimit": 11000
+}

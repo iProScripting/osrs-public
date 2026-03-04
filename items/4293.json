@@ -1,0 +1,8 @@
+{
+    "name": "Cooked meat (undead)",
+    "id": 4293,
+    "members": false,
+    "examine": "I wouldn't eat that if I were you.",
+    "value": 4,
+    "weight": 0.283
+}

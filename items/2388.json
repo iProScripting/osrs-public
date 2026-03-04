@@ -1,0 +1,8 @@
+{
+    "name": "Tattered eye patch",
+    "id": 2388,
+    "members": false,
+    "examine": "Useless as an eye patch.",
+    "value": 1,
+    "weight": 0.006
+}

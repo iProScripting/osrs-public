@@ -1,0 +1,13 @@
+{
+    "name": "Silver bolts",
+    "id": 9306,
+    "members": false,
+    "examine": "Some poisoned silver bolts.",
+    "value": 5,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 36,
+        "slot": "AMMO"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Spiked manacles",
+    "id": 23389,
+    "members": false,
+    "examine": "Some very spikey metal bands, better make sure I don't cut myself while walking.",
+    "value": 2500,
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "magicDefence": -4,
+        "strength": 4,
+        "slot": "FEET"
+    }
+}

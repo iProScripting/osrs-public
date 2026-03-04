@@ -1,0 +1,11 @@
+{
+    "name": "Festive elf hat",
+    "id": 26312,
+    "members": false,
+    "examine": "A woolly festive hat.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

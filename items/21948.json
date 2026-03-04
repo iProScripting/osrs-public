@@ -1,0 +1,13 @@
+{
+    "name": "Dragonstone dragon bolts (e)",
+    "id": 21948,
+    "members": false,
+    "examine": "Enchanted Dragon crossbow bolts, tipped with dragonstone. Double dragon!",
+    "value": 1150,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

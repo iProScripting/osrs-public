@@ -1,0 +1,9 @@
+{
+    "name": "Zombie pirate key",
+    "id": 29449,
+    "members": false,
+    "examine": "The key to a zombie pirate's locker.",
+    "value": 90,
+    "weight": 0.0,
+    "buyLimit": 250
+}

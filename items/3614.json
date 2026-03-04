@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - Speak to Ulizius",
+    "id": 3614,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

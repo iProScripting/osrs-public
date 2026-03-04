@@ -1,0 +1,9 @@
+{
+    "name": "Maple logs",
+    "id": 1517,
+    "members": false,
+    "examine": "Logs cut from a maple tree.",
+    "value": 80,
+    "weight": 2.0,
+    "buyLimit": 15000
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled bloodveld head",
+    "id": 13496,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
+    "value": 494,
+    "weight": 0.453,
+    "buyLimit": 3000
+}

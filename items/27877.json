@@ -1,0 +1,11 @@
+{
+    "name": "Nest hat",
+    "id": 27877,
+    "members": false,
+    "examine": "People won't stop chicken you out.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

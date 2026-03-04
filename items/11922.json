@@ -1,0 +1,8 @@
+{
+    "name": "Lava dragon bonemeal",
+    "id": 11922,
+    "members": false,
+    "examine": "A pot of crushed lava dragon bones.",
+    "value": 1,
+    "weight": 1.6
+}

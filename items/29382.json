@@ -1,0 +1,8 @@
+{
+    "name": "Jug of sunfire wine",
+    "id": 29382,
+    "members": false,
+    "examine": "A jug of sunfire wine. Not for drinking.",
+    "value": 1,
+    "weight": 0.3
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Corrupted helm (attuned)",
+    "id": 23841,
+    "members": false,
+    "examine": "A shinier helmet that provides some protection from corrupted creatures.",
+    "value": 1,
+    "weight": 2.721,
+    "equipment": {
+        "stabAttack": 6,
+        "slashAttack": 6,
+        "crushAttack": 2,
+        "magicAttack": 6,
+        "rangedAttack": 6,
+        "stabDefence": 48,
+        "slashDefence": 48,
+        "crushDefence": 48,
+        "magicDefence": 48,
+        "rangedDefence": 48,
+        "prayerBonus": 2,
+        "slot": "HEAD"
+    }
+}

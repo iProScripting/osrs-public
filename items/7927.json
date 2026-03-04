@@ -1,0 +1,11 @@
+{
+    "name": "Easter ring",
+    "id": 7927,
+    "members": false,
+    "examine": "A ring given to you by the Easter Bunny.",
+    "value": 1,
+    "weight": 0.001,
+    "equipment": {
+        "slot": "RING"
+    }
+}

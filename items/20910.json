@@ -1,0 +1,8 @@
+{
+    "name": "Stinkhorn mushroom",
+    "id": 20910,
+    "members": false,
+    "examine": "Whatever potion I make out of this, let's hope it tastes better than this smells.",
+    "value": 2,
+    "weight": 0.0
+}

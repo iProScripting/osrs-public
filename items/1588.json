@@ -1,0 +1,8 @@
+{
+    "name": "Grip's keyring",
+    "id": 1588,
+    "members": false,
+    "examine": "Some keys on a keyring (Used in Heroes' Quest).",
+    "value": 1,
+    "weight": 0.025
+}

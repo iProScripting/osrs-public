@@ -1,0 +1,12 @@
+{
+    "name": "Karil's coif",
+    "id": 4932,
+    "members": false,
+    "examine": "Karil the Tainted's coif.",
+    "value": 13000,
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

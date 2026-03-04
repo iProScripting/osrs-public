@@ -1,0 +1,23 @@
+{
+    "name": "Purging staff",
+    "id": 29594,
+    "members": false,
+    "examine": "Fire and lightning sizzle in the brazier.",
+    "value": 800000,
+    "weight": 2.721,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": -5,
+        "crushAttack": 83,
+        "magicAttack": 37,
+        "stabDefence": 1,
+        "slashDefence": 1,
+        "magicDefence": 25,
+        "strength": 62,
+        "magicDamage": 10.0,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAFF"
+    }
+}

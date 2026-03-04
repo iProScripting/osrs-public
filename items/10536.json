@@ -1,0 +1,8 @@
+{
+    "name": "Spiked/pois. egg",
+    "id": 10536,
+    "members": false,
+    "examine": "A poisoned, spiky egg; pass to the Defender for heating!",
+    "value": 100,
+    "weight": 0.02
+}

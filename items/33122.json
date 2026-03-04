@@ -1,0 +1,8 @@
+{
+    "name": "Annihilation exit portal blueprints",
+    "id": 33122,
+    "members": false,
+    "examine": "Blueprints used to build an exit portal in your player-owned house.",
+    "value": 1,
+    "weight": 0.0
+}

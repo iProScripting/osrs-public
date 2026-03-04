@@ -1,0 +1,9 @@
+{
+    "name": "Strawberries",
+    "id": 5406,
+    "members": false,
+    "examine": "A fruit basket filled with strawberries.",
+    "value": 1,
+    "weight": 0.17,
+    "buyLimit": 200
+}

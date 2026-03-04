@@ -1,0 +1,8 @@
+{
+    "name": "Magic essence (unf)",
+    "id": 9019,
+    "members": false,
+    "examine": "I need another ingredient to finish this magic essence potion.",
+    "value": 75,
+    "weight": 0.001
+}

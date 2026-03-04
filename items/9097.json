@@ -1,0 +1,17 @@
+{
+    "name": "Lunar torso",
+    "id": 9097,
+    "members": false,
+    "examine": "Provides good protection.",
+    "value": 100,
+    "weight": 4.535,
+    "equipment": {
+        "magicAttack": 10,
+        "rangedAttack": -10,
+        "stabDefence": 34,
+        "slashDefence": 22,
+        "crushDefence": 40,
+        "magicDefence": 12,
+        "slot": "BODY"
+    }
+}

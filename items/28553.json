@@ -1,0 +1,8 @@
+{
+    "name": "Gnome quest lamp",
+    "id": 28553,
+    "members": false,
+    "examine": "Completes the Gnome storyline, up to and including Monkey Madness 2.",
+    "value": 1,
+    "weight": 0.1
+}

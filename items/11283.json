@@ -1,0 +1,19 @@
+{
+    "name": "Dragonfire shield",
+    "id": 11283,
+    "members": false,
+    "examine": "A heavy shield with a snarling, draconic visage.",
+    "value": 2000000,
+    "weight": 7.257,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": -5,
+        "stabDefence": 70,
+        "slashDefence": 75,
+        "crushDefence": 72,
+        "magicDefence": 10,
+        "rangedDefence": 72,
+        "strength": 7,
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Speak to Arhein in Catherby",
+    "id": 2701,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

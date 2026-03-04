@@ -1,0 +1,8 @@
+{
+    "name": "Staff of armadyl",
+    "id": 84,
+    "members": false,
+    "examine": "The power in this staff causes it to vibrate gently.",
+    "value": 15,
+    "weight": 1.814
+}

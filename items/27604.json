@@ -1,0 +1,8 @@
+{
+    "name": "Icy chest",
+    "id": 27604,
+    "members": false,
+    "examine": "A small chest with a strange slot on the front.",
+    "value": 30,
+    "weight": 0.5
+}

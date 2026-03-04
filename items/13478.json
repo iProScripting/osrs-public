@@ -1,0 +1,9 @@
+{
+    "name": "Ensouled ogre head",
+    "id": 13478,
+    "members": false,
+    "examine": "The creature's soul is still in here. I could reanimate it with Adept Reanimation.",
+    "value": 338,
+    "weight": 0.453,
+    "buyLimit": 3000
+}

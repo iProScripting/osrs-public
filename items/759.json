@@ -1,0 +1,8 @@
+{
+    "name": "Weapon store key",
+    "id": 759,
+    "members": false,
+    "examine": "The key to the Phoenix Gang's weapons store (Used in the Shield of Arrav quest).",
+    "value": 10,
+    "weight": 0.01
+}

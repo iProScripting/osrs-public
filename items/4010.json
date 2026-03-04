@@ -1,0 +1,8 @@
+{
+    "name": "Monkey magic",
+    "id": 4010,
+    "members": false,
+    "examine": "A small sample of monkey magic.",
+    "value": 3,
+    "weight": 0.007
+}

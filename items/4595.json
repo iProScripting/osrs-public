@@ -1,0 +1,9 @@
+{
+    "name": "Karidian disguise",
+    "id": 4595,
+    "members": false,
+    "examine": "Makes my face itch.",
+    "value": 1,
+    "weight": 0.1,
+    "buyLimit": 15
+}

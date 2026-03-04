@@ -1,0 +1,20 @@
+{
+    "name": "Confliction gauntlets",
+    "id": 31106,
+    "members": false,
+    "examine": "A finely crafted pair of gloves, infused with magic power.",
+    "value": 400000,
+    "weight": 0.226,
+    "equipment": {
+        "magicAttack": 20,
+        "rangedAttack": -4,
+        "stabDefence": 15,
+        "slashDefence": 18,
+        "crushDefence": 7,
+        "magicDefence": 5,
+        "rangedDefence": 5,
+        "prayerBonus": 2,
+        "magicDamage": 7.0,
+        "slot": "HANDS"
+    }
+}

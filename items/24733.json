@@ -1,0 +1,8 @@
+{
+    "name": "Dark acorn",
+    "id": 24733,
+    "members": false,
+    "examine": "A mysterious looking acorn. Perhaps a squirrel would be interested in this?",
+    "value": 5000,
+    "weight": 0.002
+}

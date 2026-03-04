@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (hard) - This village has a problem with cartloads of the undead",
+    "id": 7247,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

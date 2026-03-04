@@ -1,0 +1,9 @@
+{
+    "name": "Cooked chompy (roasted)",
+    "id": 7228,
+    "members": false,
+    "examine": "Roasted chompy bird.",
+    "value": 85,
+    "weight": 1.0,
+    "buyLimit": 100
+}

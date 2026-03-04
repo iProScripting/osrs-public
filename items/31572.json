@@ -1,0 +1,8 @@
+{
+    "name": "Squid beak",
+    "id": 31572,
+    "members": false,
+    "examine": "The beak of a squid.",
+    "value": 5000,
+    "weight": 0.1
+}

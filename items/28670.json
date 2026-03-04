@@ -1,0 +1,8 @@
+{
+    "name": "Fox (pet)",
+    "id": 28670,
+    "members": false,
+    "examine": "Foxy.",
+    "value": 1,
+    "weight": 0.015
+}

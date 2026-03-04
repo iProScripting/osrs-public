@@ -1,0 +1,19 @@
+{
+    "name": "Mithril platelegs",
+    "id": 1071,
+    "members": false,
+    "examine": "These look pretty heavy.",
+    "value": 2600,
+    "weight": 7.711,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -21,
+        "rangedAttack": -11,
+        "stabDefence": 24,
+        "slashDefence": 22,
+        "crushDefence": 20,
+        "magicDefence": -4,
+        "rangedDefence": 22,
+        "slot": "LEGS"
+    }
+}

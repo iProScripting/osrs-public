@@ -1,0 +1,8 @@
+{
+    "name": "Corrupted ore",
+    "id": 23837,
+    "members": false,
+    "examine": "This could help strengthen a piece of armour.",
+    "value": 1,
+    "weight": 2.267
+}

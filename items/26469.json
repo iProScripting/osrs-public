@@ -1,0 +1,17 @@
+{
+    "name": "Elite void top (or)",
+    "id": 26469,
+    "members": false,
+    "examine": "An elite void knight top plucked from the shattered abyss.",
+    "value": 48500,
+    "weight": 6.803,
+    "equipment": {
+        "stabDefence": 45,
+        "slashDefence": 45,
+        "crushDefence": 45,
+        "magicDefence": 45,
+        "rangedDefence": 45,
+        "prayerBonus": 3,
+        "slot": "BODY"
+    }
+}

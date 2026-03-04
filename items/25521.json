@@ -1,0 +1,9 @@
+{
+    "name": "Jar of spirits",
+    "id": 25521,
+    "members": false,
+    "examine": "How does someone jar this?",
+    "value": 1,
+    "weight": 0.04,
+    "buyLimit": 4
+}

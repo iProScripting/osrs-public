@@ -1,0 +1,8 @@
+{
+    "name": "Evacuation note",
+    "id": 28437,
+    "members": false,
+    "examine": "A note with evacuation details on it.",
+    "value": 30,
+    "weight": 0.003
+}

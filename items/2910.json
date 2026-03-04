@@ -1,0 +1,14 @@
+{
+    "name": "Red hat",
+    "id": 2910,
+    "members": false,
+    "examine": "A silly pointed hat.",
+    "value": 500,
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "magicAttack": 3,
+        "magicDefence": 3,
+        "slot": "HEAD"
+    }
+}

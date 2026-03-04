@@ -1,0 +1,9 @@
+{
+    "name": "Golovanova fruit top",
+    "id": 19653,
+    "members": false,
+    "examine": "The top of a Golovanova fruit - edible once cooked and full of Vitamin G.",
+    "value": 3,
+    "weight": 2.267,
+    "buyLimit": 100
+}

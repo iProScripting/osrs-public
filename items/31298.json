@@ -1,0 +1,11 @@
+{
+    "name": "Deep sea helmet",
+    "id": 31298,
+    "members": false,
+    "examine": "You'll look daft, but at least you won't drown!",
+    "value": 50,
+    "weight": 5.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

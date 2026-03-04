@@ -1,0 +1,8 @@
+{
+    "name": "Repair plank",
+    "id": 7148,
+    "members": false,
+    "examine": "A plank of wood to repair the hull with.",
+    "value": 1,
+    "weight": 0.005
+}

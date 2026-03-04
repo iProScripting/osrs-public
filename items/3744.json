@@ -1,0 +1,8 @@
+{
+    "name": "Wooden disk",
+    "id": 3744,
+    "members": false,
+    "examine": "A simple looking disk made of wood.",
+    "value": 1,
+    "weight": 0.002
+}

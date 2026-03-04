@@ -1,0 +1,8 @@
+{
+    "name": "Rick's head",
+    "id": 24990,
+    "members": false,
+    "examine": "You should probably not misplace this.",
+    "value": 1,
+    "weight": 0.5
+}

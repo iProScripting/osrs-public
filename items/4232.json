@@ -1,0 +1,17 @@
+{
+    "name": "Crystal shield (historical)",
+    "id": 4232,
+    "members": false,
+    "examine": "A nice sturdy crystal shield.",
+    "value": 190000,
+    "weight": 2.721,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": -10,
+        "stabDefence": 37,
+        "slashDefence": 40,
+        "crushDefence": 39,
+        "rangedDefence": 66,
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Package",
+    "id": 13187,
+    "members": false,
+    "examine": "A heavy package I must deliver for Little Mo.",
+    "value": 1,
+    "weight": 0.01
+}

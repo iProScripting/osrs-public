@@ -1,0 +1,8 @@
+{
+    "name": "Vault key",
+    "id": 21872,
+    "members": false,
+    "examine": "The key to Santa's vault.",
+    "value": 1,
+    "weight": 9.071
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Dragon bitter (keg)",
+    "id": 5805,
+    "members": false,
+    "examine": "This keg contains 2 pints of Dragon Bitter.",
+    "value": 1,
+    "weight": 0.028
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Ruby dragon bolts (e)",
+    "id": 21944,
+    "members": false,
+    "examine": "Enchanted Dragon crossbow bolts, tipped with ruby.",
+    "value": 830,
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "rangedStrength": 122,
+        "slot": "AMMO"
+    }
+}

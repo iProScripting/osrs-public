@@ -1,0 +1,8 @@
+{
+    "name": "Scrying orb",
+    "id": 5519,
+    "members": false,
+    "examine": "This orb apparently contains a cypher spell.",
+    "value": 30,
+    "weight": 0.05
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cooked karambwan (unobtainable item)",
+    "id": 3147,
+    "members": false,
+    "examine": "Cooked octopus. It looks a little suspect.",
+    "value": 250,
+    "weight": 0.65
+}

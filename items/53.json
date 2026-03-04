@@ -1,0 +1,9 @@
+{
+    "name": "Headless arrow",
+    "id": 53,
+    "members": false,
+    "examine": "A wooden arrow shaft with flights attached.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 11000
+}

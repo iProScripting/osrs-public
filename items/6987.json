@@ -1,0 +1,8 @@
+{
+    "name": "Sandstone body",
+    "id": 6987,
+    "members": false,
+    "examine": "The body of a sandstone statue.",
+    "value": 1,
+    "weight": 30.0
+}

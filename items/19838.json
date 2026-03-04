@@ -1,0 +1,8 @@
+{
+    "name": "Torn clue scroll",
+    "id": 19838,
+    "members": false,
+    "examine": "A clue scroll, at least partially.",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Rosemary seed",
+    "id": 5097,
+    "members": false,
+    "examine": "A rosemary seed - plant in a flower patch.",
+    "value": 4,
+    "weight": 0.0,
+    "buyLimit": 600
+}

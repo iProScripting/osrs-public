@@ -1,0 +1,11 @@
+{
+    "name": "Swamp cruiser's jacket",
+    "id": 31750,
+    "members": false,
+    "examine": "The jacket of a captain who loved to sail even the most fetid of seas.",
+    "value": 35,
+    "weight": 0.6,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

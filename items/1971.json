@@ -1,0 +1,9 @@
+{
+    "name": "Kebab",
+    "id": 1971,
+    "members": false,
+    "examine": "A meaty kebab.",
+    "value": 3,
+    "weight": 0.25,
+    "buyLimit": 6000
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Chocolatey milk",
+    "id": 1977,
+    "members": false,
+    "examine": "Milk with chocolate in it.",
+    "value": 2,
+    "weight": 2.0
+}

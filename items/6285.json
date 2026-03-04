@@ -1,0 +1,9 @@
+{
+    "name": "Thatch spar dense",
+    "id": 6285,
+    "members": false,
+    "examine": "A wooden pole for use in primitive construction.",
+    "value": 20,
+    "weight": 0.1,
+    "buyLimit": 100
+}

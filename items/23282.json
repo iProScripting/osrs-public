@@ -1,0 +1,19 @@
+{
+    "name": "Gilded spade",
+    "id": 23282,
+    "members": false,
+    "examine": "Oh, I'm a gold digger?",
+    "value": 1000,
+    "weight": 3.0,
+    "buyLimit": 4,
+    "equipment": {
+        "stabAttack": -100,
+        "slashAttack": -100,
+        "crushAttack": -50,
+        "strength": -10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

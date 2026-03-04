@@ -1,0 +1,9 @@
+{
+    "name": "Timber beam",
+    "id": 8837,
+    "members": false,
+    "examine": "A hefty beam of timber, perfect for building temples.",
+    "value": 1,
+    "weight": 0.8,
+    "buyLimit": 13000
+}

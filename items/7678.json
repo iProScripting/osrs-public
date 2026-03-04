@@ -1,0 +1,8 @@
+{
+    "name": "Prize key",
+    "id": 7678,
+    "members": false,
+    "examine": "You can use this to open the prize chest!",
+    "value": 1,
+    "weight": 0.01
+}

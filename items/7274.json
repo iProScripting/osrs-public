@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (medium) - DT RUN B",
+    "id": 7274,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Silver cup",
+    "id": 1798,
+    "members": false,
+    "examine": "Bob's shiny silver coated tea cup.",
+    "value": 1,
+    "weight": 0.07
+}

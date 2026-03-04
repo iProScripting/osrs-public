@@ -1,0 +1,12 @@
+{
+    "name": "Stripy pirate shirt (brown)",
+    "id": 7134,
+    "members": false,
+    "examine": "A sea worthy shirt.",
+    "value": 300,
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

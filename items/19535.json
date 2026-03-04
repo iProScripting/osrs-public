@@ -1,0 +1,12 @@
+{
+    "name": "Zenyte necklace",
+    "id": 19535,
+    "members": false,
+    "examine": "A fiery glow emanates from this necklace.",
+    "value": 202000,
+    "weight": 0.01,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

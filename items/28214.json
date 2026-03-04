@@ -1,0 +1,19 @@
+{
+    "name": "Rune felling axe",
+    "id": 28214,
+    "members": false,
+    "examine": "A powerful felling axe.",
+    "value": 12800,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": -3,
+        "slashAttack": 41,
+        "crushAttack": 38,
+        "slashDefence": 1,
+        "strength": 46,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "AXE"
+    }
+}

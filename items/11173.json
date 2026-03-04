@@ -1,0 +1,8 @@
+{
+    "name": "Half certificate",
+    "id": 11173,
+    "members": false,
+    "examine": "I can use this to claim a reward from King Roald, if I get the other half.",
+    "value": 10,
+    "weight": 0.0
+}

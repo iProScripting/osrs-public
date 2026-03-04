@@ -1,0 +1,20 @@
+{
+    "name": "Holy sanguinesti staff",
+    "id": 25731,
+    "members": false,
+    "examine": "A sacred staff imbued with the might of Saradomin to smite his foes.",
+    "value": 5000000,
+    "weight": 1.5,
+    "equipment": {
+        "magicAttack": 25,
+        "rangedAttack": -4,
+        "stabDefence": 2,
+        "slashDefence": 3,
+        "crushDefence": 1,
+        "magicDefence": 15,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "POWERED_STAFF"
+    }
+}

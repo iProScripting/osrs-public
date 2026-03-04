@@ -1,0 +1,9 @@
+{
+    "name": "Sandstone",
+    "id": 6971,
+    "members": false,
+    "examine": "A tiny chunk of sandstone.",
+    "value": 1,
+    "weight": 1.0,
+    "buyLimit": 100
+}

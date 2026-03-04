@@ -1,0 +1,9 @@
+{
+    "name": "Green dragonhide",
+    "id": 1753,
+    "members": false,
+    "examine": "The scaly rough hide from a Green Dragon.",
+    "value": 135,
+    "weight": 3.175,
+    "buyLimit": 13000
+}

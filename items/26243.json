@@ -1,0 +1,20 @@
+{
+    "name": "Virtus robe top",
+    "id": 26243,
+    "members": false,
+    "examine": "An ancient mage's robe top.",
+    "value": 600000,
+    "weight": 2.895,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": 35,
+        "rangedAttack": -11,
+        "stabDefence": 47,
+        "slashDefence": 36,
+        "crushDefence": 56,
+        "magicDefence": 31,
+        "prayerBonus": 2,
+        "magicDamage": 2.0,
+        "slot": "BODY"
+    }
+}

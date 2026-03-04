@@ -1,0 +1,11 @@
+{
+    "name": "Lumberjack boots",
+    "id": 10933,
+    "members": false,
+    "examine": "You'll certainly be alright wearing these.",
+    "value": 50,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

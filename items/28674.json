@@ -1,0 +1,8 @@
+{
+    "name": "Sturdy beehive parts",
+    "id": 28674,
+    "members": false,
+    "examine": "A sturdy piece of a beehive, useful for constructing your own beehive.",
+    "value": 5000,
+    "weight": 0.0
+}

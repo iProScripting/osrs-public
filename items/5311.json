@@ -1,0 +1,9 @@
+{
+    "name": "Wildblood seed",
+    "id": 5311,
+    "members": false,
+    "examine": "A Wildblood hop seed - plant in a hops patch.",
+    "value": 14,
+    "weight": 0.0,
+    "buyLimit": 2000
+}

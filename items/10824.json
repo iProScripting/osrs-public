@@ -1,0 +1,19 @@
+{
+    "name": "Yak-hide armour (legs)",
+    "id": 10824,
+    "members": false,
+    "examine": "Leg protection, made from smelly yak-hide.",
+    "value": 500,
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -5,
+        "rangedAttack": 10,
+        "stabDefence": 25,
+        "slashDefence": 20,
+        "crushDefence": 15,
+        "magicDefence": -2,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

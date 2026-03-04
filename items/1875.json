@@ -1,0 +1,9 @@
+{
+    "name": "Onion & tomato",
+    "id": 1875,
+    "members": false,
+    "examine": "A mixture of chopped onions and tomatoes in a bowl.",
+    "value": 5,
+    "weight": 0.3,
+    "buyLimit": 11000
+}

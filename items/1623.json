@@ -1,0 +1,9 @@
+{
+    "name": "Uncut sapphire",
+    "id": 1623,
+    "members": false,
+    "examine": "This would be worth more cut.",
+    "value": 25,
+    "weight": 0.003,
+    "buyLimit": 10000
+}

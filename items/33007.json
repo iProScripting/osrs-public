@@ -1,0 +1,8 @@
+{
+    "name": "Mahjarrat 2 quest lamp",
+    "id": 33007,
+    "members": false,
+    "examine": "Completes the Mahjarrat storyline, up to and including Secrets of the North.",
+    "value": 1,
+    "weight": 0.1
+}

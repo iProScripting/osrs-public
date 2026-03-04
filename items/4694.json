@@ -1,0 +1,9 @@
+{
+    "name": "Steam rune",
+    "id": 4694,
+    "members": false,
+    "examine": "A combined Water and Fire Rune.",
+    "value": 20,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

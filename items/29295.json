@@ -1,0 +1,8 @@
+{
+    "name": "Small meat pouch",
+    "id": 29295,
+    "members": false,
+    "examine": "A small pouch for carrying raw meat.",
+    "value": 3000,
+    "weight": 1.0
+}

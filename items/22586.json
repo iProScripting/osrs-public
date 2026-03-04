@@ -1,0 +1,8 @@
+{
+    "name": "Looting bag",
+    "id": 22586,
+    "members": false,
+    "examine": "You can store stuff in the bag when you're in the Wilderness.",
+    "value": 10,
+    "weight": 0.01
+}

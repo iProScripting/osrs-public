@@ -1,0 +1,11 @@
+{
+    "name": "Glarial's amulet",
+    "id": 295,
+    "members": false,
+    "examine": "A bright green gem set in a necklace.",
+    "value": 1,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Important letter",
+    "id": 26366,
+    "members": false,
+    "examine": "An important letter that's addressed to you.",
+    "value": 50,
+    "weight": 0.001
+}

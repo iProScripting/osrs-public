@@ -1,0 +1,8 @@
+{
+    "name": "Rat's tail",
+    "id": 300,
+    "members": false,
+    "examine": "A bit of rat.",
+    "value": 3,
+    "weight": 0.003
+}

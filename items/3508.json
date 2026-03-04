@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search upstairs in the houses of Seers' Village for some drawers",
+    "id": 3508,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

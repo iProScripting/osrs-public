@@ -1,0 +1,8 @@
+{
+    "name": "Trolley",
+    "id": 6478,
+    "members": false,
+    "examine": "I can use this to move heavy objects.",
+    "value": 1,
+    "weight": 0.08
+}

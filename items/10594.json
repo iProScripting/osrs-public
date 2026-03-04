@@ -1,0 +1,8 @@
+{
+    "name": "Clockwork book",
+    "id": 10594,
+    "members": false,
+    "examine": "A book about clockwork mechanisms.",
+    "value": 1,
+    "weight": 1.0
+}

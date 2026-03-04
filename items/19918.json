@@ -1,0 +1,20 @@
+{
+    "name": "Nunchaku",
+    "id": 19918,
+    "members": false,
+    "examine": "A pair of Nunchaku, smells of pizza.",
+    "value": 6000,
+    "weight": 1.36,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": -4,
+        "crushAttack": 11,
+        "magicAttack": -4,
+        "strength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

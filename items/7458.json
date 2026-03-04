@@ -1,0 +1,22 @@
+{
+    "name": "Mithril gloves",
+    "id": 7458,
+    "members": false,
+    "examine": "A pair of nice gloves.",
+    "value": 1500,
+    "weight": 0.226,
+    "equipment": {
+        "stabAttack": 6,
+        "slashAttack": 6,
+        "crushAttack": 6,
+        "magicAttack": 3,
+        "rangedAttack": 6,
+        "stabDefence": 6,
+        "slashDefence": 6,
+        "crushDefence": 6,
+        "magicDefence": 3,
+        "rangedDefence": 6,
+        "strength": 6,
+        "slot": "HANDS"
+    }
+}

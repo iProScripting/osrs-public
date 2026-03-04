@@ -1,0 +1,9 @@
+{
+    "name": "Silver bolts (unf)",
+    "id": 9382,
+    "members": false,
+    "examine": "Unfeathered silver crossbow bolts.",
+    "value": 1,
+    "weight": 0.0,
+    "buyLimit": 13000
+}

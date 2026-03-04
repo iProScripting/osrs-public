@@ -1,0 +1,9 @@
+{
+    "name": "Cider",
+    "id": 5763,
+    "members": false,
+    "examine": "A glass of cider.",
+    "value": 2,
+    "weight": 0.55,
+    "buyLimit": 2000
+}

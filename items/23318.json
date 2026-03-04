@@ -1,0 +1,12 @@
+{
+    "name": "Sandwich lady bottom",
+    "id": 23318,
+    "members": false,
+    "examine": "Bottoms worn by a sandwich lady.",
+    "value": 300,
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

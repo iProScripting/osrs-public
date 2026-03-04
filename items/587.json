@@ -1,0 +1,8 @@
+{
+    "name": "Orb of protection",
+    "id": 587,
+    "members": false,
+    "examine": "A strange glowing green orb.",
+    "value": 1,
+    "weight": 1.0
+}

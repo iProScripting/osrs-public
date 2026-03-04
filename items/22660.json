@@ -1,0 +1,8 @@
+{
+    "name": "Empty bucket pack",
+    "id": 22660,
+    "members": false,
+    "examine": "A pack containing 100 empty buckets.",
+    "value": 500,
+    "weight": 0.453
+}

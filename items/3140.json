@@ -1,0 +1,18 @@
+{
+    "name": "Dragon chainbody",
+    "id": 3140,
+    "members": false,
+    "examine": "A series of connected metal rings.",
+    "value": 250000,
+    "weight": 6.803,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -15,
+        "stabDefence": 81,
+        "slashDefence": 93,
+        "crushDefence": 98,
+        "magicDefence": -3,
+        "rangedDefence": 82,
+        "slot": "BODY"
+    }
+}

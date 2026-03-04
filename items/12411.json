@@ -1,0 +1,9 @@
+{
+    "name": "Mos le'harmless teleport",
+    "id": 12411,
+    "members": false,
+    "examine": "Teleports you to Mos Le'Harmless.",
+    "value": 10,
+    "weight": 0.0,
+    "buyLimit": 10000
+}

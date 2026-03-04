@@ -1,0 +1,9 @@
+{
+    "name": "Premade wiz blz'd",
+    "id": 2040,
+    "members": false,
+    "examine": "A Premade Wizard Blizzard.",
+    "value": 30,
+    "weight": 0.45,
+    "buyLimit": 2000
+}

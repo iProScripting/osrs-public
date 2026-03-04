@@ -1,0 +1,19 @@
+{
+    "name": "Odium ward (or)",
+    "id": 12807,
+    "members": false,
+    "examine": "An ancient, evil and beautiful shield forged by Volcanic heat.",
+    "value": 45000,
+    "weight": 3.628,
+    "equipment": {
+        "stabAttack": -12,
+        "slashAttack": -12,
+        "crushAttack": -12,
+        "magicAttack": -8,
+        "rangedAttack": 12,
+        "magicDefence": 24,
+        "rangedDefence": 52,
+        "rangedStrength": 4,
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Mind bomb(m) (keg)",
+    "id": 5881,
+    "members": false,
+    "examine": "This keg contains 4 pints of mature Wizards Mind Bomb.",
+    "value": 1,
+    "weight": 0.028,
+    "buyLimit": 2000
+}

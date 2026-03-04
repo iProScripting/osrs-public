@@ -1,0 +1,11 @@
+{
+    "name": "Icy jumper",
+    "id": 28786,
+    "members": false,
+    "examine": "The coolest jumper ever!",
+    "value": 1,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

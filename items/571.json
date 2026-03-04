@@ -1,0 +1,9 @@
+{
+    "name": "Water orb",
+    "id": 571,
+    "members": false,
+    "examine": "A magic glowing orb.",
+    "value": 300,
+    "weight": 0.453,
+    "buyLimit": 11000
+}

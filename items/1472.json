@@ -1,0 +1,9 @@
+{
+    "name": "Yellow bead",
+    "id": 1472,
+    "members": false,
+    "examine": "A small round yellow bead.",
+    "value": 4,
+    "weight": 0.003,
+    "buyLimit": 11000
+}

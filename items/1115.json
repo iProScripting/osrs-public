@@ -1,0 +1,19 @@
+{
+    "name": "Iron platebody",
+    "id": 1115,
+    "members": false,
+    "examine": "Provides excellent protection.",
+    "value": 560,
+    "weight": 9.979,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 21,
+        "slashDefence": 20,
+        "crushDefence": 12,
+        "magicDefence": -6,
+        "rangedDefence": 20,
+        "slot": "BODY"
+    }
+}

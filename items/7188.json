@@ -1,0 +1,9 @@
+{
+    "name": "Fish pie",
+    "id": 7188,
+    "members": false,
+    "examine": "Bounty of the sea.",
+    "value": 100,
+    "weight": 0.001,
+    "buyLimit": 10000
+}

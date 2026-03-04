@@ -1,0 +1,9 @@
+{
+    "name": "Lantadyme",
+    "id": 2481,
+    "members": false,
+    "examine": "A powerful herb.",
+    "value": 68,
+    "weight": 0.007,
+    "buyLimit": 11000
+}

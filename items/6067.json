@@ -1,0 +1,11 @@
+{
+    "name": "Mourner trousers",
+    "id": 6067,
+    "members": false,
+    "examine": "A pair of mourner trousers.",
+    "value": 100,
+    "weight": 2.267,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Jar of chemicals",
+    "id": 23064,
+    "members": false,
+    "examine": "Looks unstable.",
+    "value": 1,
+    "weight": 0.04,
+    "buyLimit": 4
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Mind rune",
+    "id": 558,
+    "members": false,
+    "examine": "Used for basic level missile spells.",
+    "value": 3,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

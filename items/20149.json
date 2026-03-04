@@ -1,0 +1,18 @@
+{
+    "name": "Gilded chainbody",
+    "id": 20149,
+    "members": false,
+    "examine": "A series of connected metal rings plated in gold.",
+    "value": 50000,
+    "weight": 6.803,
+    "buyLimit": 70,
+    "equipment": {
+        "magicAttack": -15,
+        "stabDefence": 63,
+        "slashDefence": 72,
+        "crushDefence": 78,
+        "magicDefence": -3,
+        "rangedDefence": 65,
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Magic whistle",
+    "id": 16,
+    "members": false,
+    "examine": "A small tin whistle.",
+    "value": 10,
+    "weight": 0.005
+}

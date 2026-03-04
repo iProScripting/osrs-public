@@ -1,0 +1,11 @@
+{
+    "name": "Web cloak",
+    "id": 28671,
+    "members": false,
+    "examine": "A very fancy cloak made from black silk and gossamer.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

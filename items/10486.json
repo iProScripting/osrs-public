@@ -1,0 +1,8 @@
+{
+    "name": "Empty sack (animation item)",
+    "id": 10486,
+    "members": false,
+    "examine": "A sack with no cows in it.",
+    "value": 1,
+    "weight": 0.3
+}

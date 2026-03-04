@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the open crate found in the Hosidius kitchens",
+    "id": 19829,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

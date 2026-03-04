@@ -1,0 +1,22 @@
+{
+    "name": "Corrupted vesta's plateskirt (bh)",
+    "id": 27843,
+    "members": false,
+    "examine": "A powerful plateskirt.",
+    "value": 500000,
+    "weight": 8.164,
+    "equipment": {
+        "stabAttack": 10,
+        "slashAttack": 10,
+        "crushAttack": 3,
+        "magicAttack": -24,
+        "rangedAttack": -12,
+        "stabDefence": 14,
+        "slashDefence": 11,
+        "crushDefence": 16,
+        "magicDefence": -9,
+        "rangedDefence": 15,
+        "strength": 2,
+        "slot": "LEGS"
+    }
+}

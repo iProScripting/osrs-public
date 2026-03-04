@@ -1,0 +1,12 @@
+{
+    "name": "Zenyte amulet",
+    "id": 19541,
+    "members": false,
+    "examine": "A fiery glow emanates from this amulet.",
+    "value": 202000,
+    "weight": 0.01,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

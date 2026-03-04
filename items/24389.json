@@ -1,0 +1,12 @@
+{
+    "name": "Twisted coat (t3)",
+    "id": 24389,
+    "members": false,
+    "examine": "The coat of a twisted relic hunter.",
+    "value": 100000,
+    "weight": 0.907,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

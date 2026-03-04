@@ -1,0 +1,9 @@
+{
+    "name": "Steel studs",
+    "id": 2370,
+    "members": false,
+    "examine": "A set of studs for leather armour.",
+    "value": 150,
+    "weight": 1.36,
+    "buyLimit": 13000
+}

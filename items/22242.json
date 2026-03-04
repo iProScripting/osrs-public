@@ -1,0 +1,18 @@
+{
+    "name": "Dragon platebody (g)",
+    "id": 22242,
+    "members": false,
+    "examine": "A Dragon platebody with a gold trim.",
+    "value": 2000000,
+    "weight": 11.339,
+    "equipment": {
+        "magicAttack": -30,
+        "rangedAttack": -15,
+        "stabDefence": 109,
+        "slashDefence": 107,
+        "crushDefence": 97,
+        "magicDefence": -6,
+        "rangedDefence": 106,
+        "slot": "BODY"
+    }
+}

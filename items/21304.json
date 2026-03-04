@@ -1,0 +1,18 @@
+{
+    "name": "Obsidian platelegs",
+    "id": 21304,
+    "members": false,
+    "examine": "Provides excellent protection.",
+    "value": 67000,
+    "weight": 9.071,
+    "buyLimit": 70,
+    "equipment": {
+        "stabDefence": 46,
+        "slashDefence": 43,
+        "crushDefence": 41,
+        "magicDefence": -10,
+        "rangedDefence": 40,
+        "strength": 1,
+        "slot": "LEGS"
+    }
+}

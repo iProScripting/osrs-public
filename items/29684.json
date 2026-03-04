@@ -1,0 +1,8 @@
+{
+    "name": "Guthixian temple teleport",
+    "id": 29684,
+    "members": false,
+    "examine": "Teleports you to the Ancient Guthixian Temple.",
+    "value": 10,
+    "weight": 0.0
+}

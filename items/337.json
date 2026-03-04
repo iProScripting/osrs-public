@@ -1,0 +1,8 @@
+{
+    "name": "Giant carp",
+    "id": 337,
+    "members": false,
+    "examine": "Some nicely cooked giant carp.",
+    "value": 10,
+    "weight": 0.5
+}

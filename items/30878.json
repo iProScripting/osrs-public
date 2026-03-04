@@ -1,0 +1,8 @@
+{
+    "name": "Surge potion",
+    "id": 30878,
+    "members": false,
+    "examine": "3 doses of surge potion.",
+    "value": 170,
+    "weight": 0.03
+}

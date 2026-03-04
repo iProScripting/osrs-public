@@ -1,0 +1,8 @@
+{
+    "name": "Serrated key",
+    "id": 31756,
+    "members": false,
+    "examine": "A key rewarded for completing the Gwenith Glide. What does it open?",
+    "value": 30,
+    "weight": 0.02
+}

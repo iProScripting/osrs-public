@@ -1,0 +1,8 @@
+{
+    "name": "Portal talisman (earth)",
+    "id": 26889,
+    "members": false,
+    "examine": "A talisman bound to the Earth Altar.",
+    "value": 1,
+    "weight": 0.0
+}

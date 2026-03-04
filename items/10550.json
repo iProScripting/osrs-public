@@ -1,0 +1,21 @@
+{
+    "name": "Ranger hat",
+    "id": 10550,
+    "members": false,
+    "examine": "A Penance Ranger hat.",
+    "value": 65002,
+    "weight": 2.0,
+    "equipment": {
+        "stabAttack": -5,
+        "slashAttack": -5,
+        "crushAttack": -5,
+        "magicAttack": -5,
+        "rangedAttack": 6,
+        "stabDefence": 7,
+        "slashDefence": 10,
+        "crushDefence": 11,
+        "magicDefence": 5,
+        "rangedDefence": 8,
+        "slot": "HEAD"
+    }
+}

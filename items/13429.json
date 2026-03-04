@@ -1,0 +1,8 @@
+{
+    "name": "Fresh fish",
+    "id": 13429,
+    "members": false,
+    "examine": "Some freshly caught fish.",
+    "value": 0,
+    "weight": 0.7
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Sunlight spear",
+    "id": 30369,
+    "members": false,
+    "examine": "A weapon from a being that truly worships gods.",
+    "value": 50000,
+    "weight": 4.535,
+    "equipment": {
+        "stabAttack": 125,
+        "slashAttack": 75,
+        "stabDefence": 70,
+        "slashDefence": 70,
+        "crushDefence": 70,
+        "magicDefence": 28,
+        "rangedDefence": 70,
+        "strength": 113,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

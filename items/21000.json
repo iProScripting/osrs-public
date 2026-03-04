@@ -1,0 +1,23 @@
+{
+    "name": "Twisted buckler",
+    "id": 21000,
+    "members": false,
+    "examine": "A buckler carved from the twisted remains of the Great Olm.",
+    "value": 90000,
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "stabAttack": -7,
+        "slashAttack": -8,
+        "crushAttack": -7,
+        "magicAttack": -10,
+        "rangedAttack": 18,
+        "stabDefence": 22,
+        "slashDefence": 24,
+        "crushDefence": 22,
+        "magicDefence": 26,
+        "rangedDefence": 58,
+        "rangedStrength": 10,
+        "slot": "SHIELD"
+    }
+}

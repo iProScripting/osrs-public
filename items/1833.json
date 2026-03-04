@@ -1,0 +1,12 @@
+{
+    "name": "Desert shirt",
+    "id": 1833,
+    "members": false,
+    "examine": "A cool, light desert shirt.",
+    "value": 40,
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

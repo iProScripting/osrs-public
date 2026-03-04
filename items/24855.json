@@ -1,0 +1,19 @@
+{
+    "name": "Mythical max cape",
+    "id": 24855,
+    "members": false,
+    "examine": "The cape worn by only the most experienced players.",
+    "value": 99000,
+    "weight": 0.453,
+    "equipment": {
+        "crushAttack": 6,
+        "stabDefence": 8,
+        "slashDefence": 8,
+        "crushDefence": 8,
+        "magicDefence": 8,
+        "rangedDefence": 8,
+        "strength": 1,
+        "prayerBonus": 1,
+        "slot": "CAPE"
+    }
+}

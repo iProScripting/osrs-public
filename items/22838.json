@@ -1,0 +1,14 @@
+{
+    "name": "Fish sack",
+    "id": 22838,
+    "members": false,
+    "examine": "There's something fishy about this...",
+    "value": 1000,
+    "weight": 2.267,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "rangedDefence": 2,
+        "slot": "CAPE"
+    }
+}

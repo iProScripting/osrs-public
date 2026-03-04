@@ -1,0 +1,9 @@
+{
+    "name": "Nature rune",
+    "id": 561,
+    "members": false,
+    "examine": "Used for alchemy spells.",
+    "value": 180,
+    "weight": 0.0,
+    "buyLimit": 18000
+}

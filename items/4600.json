@@ -1,0 +1,16 @@
+{
+    "name": "Willow blackjack",
+    "id": 4600,
+    "members": false,
+    "examine": "A handy little club made out of willow.",
+    "value": 600,
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "strength": 8,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "BLUNT"
+    }
+}

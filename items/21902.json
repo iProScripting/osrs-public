@@ -1,0 +1,16 @@
+{
+    "name": "Dragon crossbow",
+    "id": 21902,
+    "members": false,
+    "examine": "A dragon crossbow.",
+    "value": 54000,
+    "weight": 6.0,
+    "buyLimit": 70,
+    "equipment": {
+        "rangedAttack": 94,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 7,
+        "combatStyle": "CROSSBOW"
+    }
+}

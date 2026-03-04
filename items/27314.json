@@ -1,0 +1,8 @@
+{
+    "name": "Supplies (Tombs of Amascut)",
+    "id": 27314,
+    "members": false,
+    "examine": "Some helpful supplies.",
+    "value": 100,
+    "weight": 4.989
+}

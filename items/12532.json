@@ -1,0 +1,9 @@
+{
+    "name": "Dragon sq shield ornament kit",
+    "id": 12532,
+    "members": false,
+    "examine": "Use on a dragon square shield to make it look fancier!",
+    "value": 5000,
+    "weight": 0.5,
+    "buyLimit": 4
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Damaged book (Bandos)",
+    "id": 12607,
+    "members": false,
+    "examine": "An incomplete book of Bandos.",
+    "value": 200,
+    "weight": 1.0,
+    "equipment": {
+        "prayerBonus": 5,
+        "slot": "SHIELD"
+    }
+}

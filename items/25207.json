@@ -1,0 +1,11 @@
+{
+    "name": "Red cape (Soul Wars)",
+    "id": 25207,
+    "members": false,
+    "examine": "It's a cape, and it's red.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

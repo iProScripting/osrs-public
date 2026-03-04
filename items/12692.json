@@ -1,0 +1,13 @@
+{
+    "name": "Treasonous ring (i)",
+    "id": 12692,
+    "members": false,
+    "examine": "A razor sharp ring.",
+    "value": 50000,
+    "weight": 0.4,
+    "equipment": {
+        "stabAttack": 8,
+        "stabDefence": 8,
+        "slot": "RING"
+    }
+}

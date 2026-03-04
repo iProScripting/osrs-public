@@ -1,0 +1,16 @@
+{
+    "name": "Chinchompa",
+    "id": 10033,
+    "members": false,
+    "examine": "Handle with care.",
+    "value": 140,
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "rangedAttack": 45,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 9,
+        "combatStyle": "CHINCHOMPA"
+    }
+}

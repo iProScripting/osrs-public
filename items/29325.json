@@ -1,0 +1,8 @@
+{
+    "name": "House keys",
+    "id": 29325,
+    "members": false,
+    "examine": "Spare keys to wealthy households in Civitas illa Fortis.",
+    "value": 500,
+    "weight": 0.0
+}

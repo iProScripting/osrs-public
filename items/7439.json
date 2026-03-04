@@ -1,0 +1,21 @@
+{
+    "name": "Spatula",
+    "id": 7439,
+    "members": false,
+    "examine": "A large spatula... of doom!",
+    "value": 1920,
+    "weight": 3.628,
+    "buyLimit": 50,
+    "equipment": {
+        "stabAttack": -4,
+        "slashAttack": 27,
+        "crushAttack": 21,
+        "magicAttack": -4,
+        "rangedDefence": -1,
+        "strength": 26,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 1,
+        "combatStyle": "TWO_HANDED_SWORD"
+    }
+}

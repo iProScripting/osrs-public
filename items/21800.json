@@ -1,0 +1,8 @@
+{
+    "name": "Enchanted symbol",
+    "id": 21800,
+    "members": false,
+    "examine": "An enchanted symbol used to locate magical beings in the Wilderness.",
+    "value": 20,
+    "weight": 0.004
+}

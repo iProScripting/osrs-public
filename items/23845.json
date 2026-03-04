@@ -1,0 +1,22 @@
+{
+    "name": "Corrupted body (perfected)",
+    "id": 23845,
+    "members": false,
+    "examine": "A very sturdy piece of armour with a lot of protection from corrupted creatures.",
+    "value": 1,
+    "weight": 9.979,
+    "equipment": {
+        "stabAttack": 15,
+        "slashAttack": 16,
+        "crushAttack": 5,
+        "magicAttack": 16,
+        "rangedAttack": 16,
+        "stabDefence": 124,
+        "slashDefence": 124,
+        "crushDefence": 124,
+        "magicDefence": 124,
+        "rangedDefence": 124,
+        "prayerBonus": 5,
+        "slot": "BODY"
+    }
+}

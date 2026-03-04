@@ -1,0 +1,11 @@
+{
+    "name": "Kruk jr",
+    "id": 24866,
+    "members": false,
+    "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
+    "value": 1,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

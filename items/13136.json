@@ -1,0 +1,11 @@
+{
+    "name": "Desert amulet 4",
+    "id": 13136,
+    "members": false,
+    "examine": "A heart shaped amulet containing sand.",
+    "value": 0,
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

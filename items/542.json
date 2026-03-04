@@ -1,0 +1,13 @@
+{
+    "name": "Monk's robe",
+    "id": 542,
+    "members": false,
+    "examine": "Keeps a monk's knees nice and warm.",
+    "value": 30,
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "prayerBonus": 5,
+        "slot": "LEGS"
+    }
+}

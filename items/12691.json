@@ -1,0 +1,13 @@
+{
+    "name": "Tyrannical ring (i)",
+    "id": 12691,
+    "members": false,
+    "examine": "An incredibly heavy ring.",
+    "value": 50000,
+    "weight": 1.0,
+    "equipment": {
+        "crushAttack": 8,
+        "crushDefence": 8,
+        "slot": "RING"
+    }
+}

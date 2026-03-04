@@ -1,0 +1,8 @@
+{
+    "name": "Rusty casket",
+    "id": 3849,
+    "members": false,
+    "examine": "Looks old and rusty...",
+    "value": 1,
+    "weight": 5.0
+}

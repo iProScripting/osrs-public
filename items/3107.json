@@ -1,0 +1,15 @@
+{
+    "name": "Spiked boots",
+    "id": 3107,
+    "members": false,
+    "examine": "Climbing boots with spikes.",
+    "value": 30,
+    "weight": 0.34,
+    "buyLimit": 15,
+    "equipment": {
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "strength": 2,
+        "slot": "FEET"
+    }
+}

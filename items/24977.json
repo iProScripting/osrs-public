@@ -1,0 +1,8 @@
+{
+    "name": "Magical pumpkin",
+    "id": 24977,
+    "members": false,
+    "examine": "Looks like it can be planted in your garden.",
+    "value": 1,
+    "weight": 10.0
+}

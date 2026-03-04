@@ -1,0 +1,12 @@
+{
+    "name": "Torag's platebody",
+    "id": 4968,
+    "members": false,
+    "examine": "Torag the Corrupted's platebody armour.",
+    "value": 280000,
+    "weight": 9.979,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

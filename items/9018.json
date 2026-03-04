@@ -1,0 +1,8 @@
+{
+    "name": "Gorak claw powder",
+    "id": 9018,
+    "members": false,
+    "examine": "Ground-down Gorak claws.",
+    "value": 150,
+    "weight": 0.001
+}

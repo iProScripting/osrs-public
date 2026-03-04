@@ -1,0 +1,8 @@
+{
+    "name": "Satchel (Monkey Madness II)",
+    "id": 19528,
+    "members": false,
+    "examine": "A small satchel.",
+    "value": 100,
+    "weight": 0.3
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Halloween wig",
+    "id": 27499,
+    "members": false,
+    "examine": "A spooky wig!",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

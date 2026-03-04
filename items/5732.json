@@ -1,0 +1,8 @@
+{
+    "name": "Stool (animation item)",
+    "id": 5732,
+    "members": false,
+    "examine": "A stool for milking",
+    "value": 1,
+    "weight": 0.001
+}

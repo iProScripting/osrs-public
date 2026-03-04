@@ -1,0 +1,8 @@
+{
+    "name": "Lovakite bar",
+    "id": 13354,
+    "members": false,
+    "examine": "This metal is a popular material for military equipment in Great Kourend.",
+    "value": 100,
+    "weight": 1.36
+}

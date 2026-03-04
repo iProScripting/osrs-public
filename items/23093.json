@@ -1,0 +1,13 @@
+{
+    "name": "Ornate boots",
+    "id": 23093,
+    "members": false,
+    "examine": "Some ornate armoured boots.",
+    "value": 1,
+    "weight": 1.36,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "slot": "FEET"
+    }
+}

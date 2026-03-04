@@ -1,0 +1,9 @@
+{
+    "name": "Drift net",
+    "id": 21652,
+    "members": false,
+    "examine": "A very large net, too big to be used by hand.",
+    "value": 20,
+    "weight": 1.0,
+    "buyLimit": 600
+}

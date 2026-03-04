@@ -1,0 +1,8 @@
+{
+    "name": "Rubium geode",
+    "id": 31724,
+    "members": false,
+    "examine": "Be careful with this! It's unstable!",
+    "value": 300,
+    "weight": 0.5
+}

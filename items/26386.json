@@ -1,0 +1,21 @@
+{
+    "name": "Torva platelegs",
+    "id": 26386,
+    "members": false,
+    "examine": "An ancient warrior's platelegs.",
+    "value": 400000,
+    "weight": 9.071,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -24,
+        "rangedAttack": -11,
+        "stabDefence": 87,
+        "slashDefence": 78,
+        "crushDefence": 79,
+        "magicDefence": -9,
+        "rangedDefence": 102,
+        "strength": 4,
+        "prayerBonus": 1,
+        "slot": "LEGS"
+    }
+}

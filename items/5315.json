@@ -1,0 +1,9 @@
+{
+    "name": "Yew seed",
+    "id": 5315,
+    "members": false,
+    "examine": "Plant this in a plantpot of soil to grow a sapling.",
+    "value": 143,
+    "weight": 0.0,
+    "buyLimit": 200
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Spirit angler headband",
+    "id": 25592,
+    "members": false,
+    "examine": "This will help with fishing.",
+    "value": 120,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Small pouch",
+    "id": 5509,
+    "members": false,
+    "examine": "A small pouch used for storing essence.",
+    "value": 150,
+    "weight": 1.0
+}

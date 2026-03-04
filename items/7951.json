@@ -1,0 +1,8 @@
+{
+    "name": "Herman's book",
+    "id": 7951,
+    "members": false,
+    "examine": "A book taken from the desk of Herman Caranos.",
+    "value": 1,
+    "weight": 1.814
+}

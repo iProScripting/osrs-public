@@ -1,0 +1,11 @@
+{
+    "name": "Swords and emblem",
+    "id": 31193,
+    "members": false,
+    "examine": "Sadly, the blades are only decorative<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"No full stop.\">sic</span>&#93;</sup>",
+    "value": 100000,
+    "weight": 0.3,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

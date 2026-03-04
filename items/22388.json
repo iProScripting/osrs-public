@@ -1,0 +1,11 @@
+{
+    "name": "Xeric's guard",
+    "id": 22388,
+    "members": false,
+    "examine": "Awarded for completing 100 Chambers of Xeric in challenge mode.",
+    "value": 400,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

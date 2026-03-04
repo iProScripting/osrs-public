@@ -1,0 +1,18 @@
+{
+    "name": "Shayzien greaves (1)",
+    "id": 13360,
+    "members": false,
+    "examine": "Dress like a tier 1 Shayzien soldier.",
+    "value": 35,
+    "weight": 9.071,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": -2,
+        "stabDefence": 10,
+        "slashDefence": 9,
+        "crushDefence": 8,
+        "magicDefence": -2,
+        "rangedDefence": 10,
+        "slot": "LEGS"
+    }
+}

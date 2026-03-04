@@ -1,0 +1,11 @@
+{
+    "name": "Dizana's max hood",
+    "id": 28904,
+    "members": false,
+    "examine": "The hood worn by only the most experienced players.",
+    "value": 1,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

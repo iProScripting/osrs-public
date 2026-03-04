@@ -1,0 +1,8 @@
+{
+    "name": "Fungicide",
+    "id": 7432,
+    "members": false,
+    "examine": "Does exactly what it says on the tin. (Kills Fungi.)",
+    "value": 10,
+    "weight": 0.1
+}

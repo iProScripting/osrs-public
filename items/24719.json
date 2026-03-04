@@ -1,0 +1,8 @@
+{
+    "name": "Hallowed token",
+    "id": 24719,
+    "members": false,
+    "examine": "A token which can grant an extra minute within the Hallowed Sepulchre.",
+    "value": 10000,
+    "weight": 0.005
+}

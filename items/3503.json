@@ -1,0 +1,8 @@
+{
+    "name": "Clue scroll (easy) - Search the tents in the Imperial Guard camp in Burthorpe for some boxes",
+    "id": 3503,
+    "members": false,
+    "examine": "A clue!",
+    "value": 20,
+    "weight": 0.02
+}

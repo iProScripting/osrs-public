@@ -1,0 +1,8 @@
+{
+    "name": "Reward token",
+    "id": 10942,
+    "members": false,
+    "examine": "Yellow reward token earned from helping people journey to Paterdomus.<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "value": 1,
+    "weight": 0.01
+}

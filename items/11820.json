@@ -1,0 +1,9 @@
+{
+    "name": "Godsword shard 2",
+    "id": 11820,
+    "members": false,
+    "examine": "A part of the Godsword blade.",
+    "value": 250000,
+    "weight": 2.5,
+    "buyLimit": 11000
+}

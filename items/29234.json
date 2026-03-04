@@ -1,0 +1,8 @@
+{
+    "name": "Red salamander claw",
+    "id": 29234,
+    "members": false,
+    "examine": "The oversized claw of a red salamander.",
+    "value": 10,
+    "weight": 1.0
+}

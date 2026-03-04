@@ -1,0 +1,9 @@
+{
+    "name": "Premade worm hole",
+    "id": 2233,
+    "members": false,
+    "examine": "A premade Worm Hole.",
+    "value": 150,
+    "weight": 0.35,
+    "buyLimit": 6000
+}

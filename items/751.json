@@ -1,0 +1,15 @@
+{
+    "name": "Gnomeball",
+    "id": 751,
+    "members": false,
+    "examine": "A ball used in Gnomeball.",
+    "value": 1,
+    "weight": 0.5,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "attackRange": 1,
+        "combatStyle": "UNARMED"
+    }
+}

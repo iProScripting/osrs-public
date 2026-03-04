@@ -1,0 +1,9 @@
+{
+    "name": "Raw chicken",
+    "id": 2138,
+    "members": false,
+    "examine": "I need to cook this first.",
+    "value": 1,
+    "weight": 0.17,
+    "buyLimit": 13000
+}

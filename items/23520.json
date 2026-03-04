@@ -1,0 +1,8 @@
+{
+    "name": "Giant egg sac",
+    "id": 23520,
+    "members": false,
+    "examine": "A less giant sac of red spider eggs, hopefully none of them hatch!",
+    "value": 1000,
+    "weight": 3.0
+}

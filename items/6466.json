@@ -1,0 +1,8 @@
+{
+    "name": "Rune shards",
+    "id": 6466,
+    "members": false,
+    "examine": "A rune essence chip that has been broken into shards.",
+    "value": 1,
+    "weight": 0.453
+}

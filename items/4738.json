@@ -1,0 +1,19 @@
+{
+    "name": "Karil's leatherskirt",
+    "id": 4738,
+    "members": false,
+    "examine": "Karil the Tainted's leather skirt.",
+    "value": 47000,
+    "weight": 5.443,
+    "buyLimit": 15,
+    "equipment": {
+        "magicAttack": -10,
+        "rangedAttack": 17,
+        "stabDefence": 26,
+        "slashDefence": 20,
+        "crushDefence": 28,
+        "magicDefence": 35,
+        "rangedDefence": 33,
+        "slot": "LEGS"
+    }
+}

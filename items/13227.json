@@ -1,0 +1,9 @@
+{
+    "name": "Eternal crystal",
+    "id": 13227,
+    "members": false,
+    "examine": "A powerful crystal of magic.",
+    "value": 45000,
+    "weight": 0.05,
+    "buyLimit": 15
+}

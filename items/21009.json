@@ -1,0 +1,21 @@
+{
+    "name": "Dragon sword",
+    "id": 21009,
+    "members": false,
+    "examine": "A razor sharp sword.",
+    "value": 72001,
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "stabAttack": 65,
+        "slashAttack": 55,
+        "crushAttack": -2,
+        "slashDefence": 2,
+        "crushDefence": 1,
+        "strength": 63,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
+    }
+}

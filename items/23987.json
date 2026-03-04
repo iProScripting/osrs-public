@@ -1,0 +1,22 @@
+{
+    "name": "Crystal halberd",
+    "id": 23987,
+    "members": false,
+    "examine": "A nice sturdy pike.",
+    "value": 300000,
+    "weight": 1.814,
+    "equipment": {
+        "stabAttack": 85,
+        "slashAttack": 110,
+        "crushAttack": 5,
+        "magicAttack": -4,
+        "stabDefence": -1,
+        "slashDefence": 4,
+        "crushDefence": 5,
+        "strength": 118,
+        "slot": "WEAPON",
+        "attackSpeed": 7,
+        "attackRange": 2,
+        "combatStyle": "POLEARM"
+    }
+}

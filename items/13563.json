@@ -1,0 +1,8 @@
+{
+    "name": "Shayzien supply crate",
+    "id": 13563,
+    "members": false,
+    "examine": "Shayzien supplies could be packed in here.",
+    "value": 0,
+    "weight": 0.4
+}

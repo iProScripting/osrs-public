@@ -1,0 +1,14 @@
+{
+    "name": "Xerician robe",
+    "id": 13389,
+    "members": false,
+    "examine": "The forgotten magicks of Xeric imbue this garment with a little power.",
+    "value": 70,
+    "weight": 0.18,
+    "buyLimit": 125,
+    "equipment": {
+        "magicAttack": 4,
+        "magicDefence": 7,
+        "slot": "LEGS"
+    }
+}

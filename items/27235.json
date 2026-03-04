@@ -1,0 +1,21 @@
+{
+    "name": "Masori mask (f)",
+    "id": 27235,
+    "members": false,
+    "examine": "A fortified mask once worn by a powerful ranger.",
+    "value": 900000,
+    "weight": 1.5,
+    "buyLimit": 8,
+    "equipment": {
+        "magicAttack": -1,
+        "rangedAttack": 12,
+        "stabDefence": 8,
+        "slashDefence": 10,
+        "crushDefence": 12,
+        "magicDefence": 12,
+        "rangedDefence": 9,
+        "rangedStrength": 2,
+        "prayerBonus": 1,
+        "slot": "HEAD"
+    }
+}

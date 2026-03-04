@@ -1,0 +1,9 @@
+{
+    "name": "Magic box",
+    "id": 10025,
+    "members": false,
+    "examine": "A magical catching box.",
+    "value": 600,
+    "weight": 0.0,
+    "buyLimit": 250
+}

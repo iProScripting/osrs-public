@@ -1,0 +1,8 @@
+{
+    "name": "Rabbit mould",
+    "id": 11024,
+    "members": false,
+    "examine": "A mould for making chocolate rabbits.",
+    "value": 1,
+    "weight": 0.1
+}

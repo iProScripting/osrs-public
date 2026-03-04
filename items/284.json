@@ -1,0 +1,11 @@
+{
+    "name": "Plague jacket",
+    "id": 284,
+    "members": false,
+    "examine": "This should protect me from the plague, I hope!",
+    "value": 50,
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

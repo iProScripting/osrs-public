@@ -1,0 +1,8 @@
+{
+    "name": "Display cabinet key",
+    "id": 4617,
+    "members": false,
+    "examine": "The museum curator's key (Used in The Golem quest).",
+    "value": 1,
+    "weight": 0.01
+}

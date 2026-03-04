@@ -1,0 +1,8 @@
+{
+    "name": "Mystery box",
+    "id": 6199,
+    "members": false,
+    "examine": "Oooh, I wonder what could be inside?",
+    "value": 5,
+    "weight": 1.0
+}

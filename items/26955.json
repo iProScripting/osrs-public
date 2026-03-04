@@ -1,0 +1,8 @@
+{
+    "name": "Chest (Beneath Cursed Sands)",
+    "id": 26955,
+    "members": false,
+    "examine": "An old chest with a combination lock on it.",
+    "value": 30,
+    "weight": 2.0
+}

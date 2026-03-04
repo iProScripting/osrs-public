@@ -1,0 +1,8 @@
+{
+    "name": "Pitta dough",
+    "id": 1863,
+    "members": false,
+    "examine": "I need to cook this.",
+    "value": 4,
+    "weight": 0.12
+}

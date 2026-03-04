@@ -1,0 +1,12 @@
+{
+    "name": "Rada's blessing 2",
+    "id": 22943,
+    "members": false,
+    "examine": "A blessing scroll from distant lands.",
+    "value": 0,
+    "weight": 0.453,
+    "equipment": {
+        "prayerBonus": 1,
+        "slot": "AMMO"
+    }
+}

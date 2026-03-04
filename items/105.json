@@ -1,0 +1,9 @@
+{
+    "name": "Kwuarm potion (unf)",
+    "id": 105,
+    "members": false,
+    "examine": "I need another ingredient to finish this Kwuarm potion.",
+    "value": 54,
+    "weight": 0.056,
+    "buyLimit": 10000
+}
