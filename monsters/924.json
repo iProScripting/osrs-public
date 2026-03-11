@@ -12,7 +12,17 @@
     "maxHit": [
         "2"
     ],
+    "slayerExperience": 0.5,
+    "slayerCategory": [
+        "Skeletons"
+    ],
     "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
     ],
     "attackLevel": 10,
     "strengthLevel": 11,

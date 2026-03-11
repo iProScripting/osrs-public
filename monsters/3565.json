@@ -47,5 +47,8 @@
         "Slash"
     ],
     "attackSpeed": 4,
-    "size": 1
+    "experienceBonus": -97.5,
+    "size": 1,
+    "elementalWeakness": "EARTH",
+    "elementalWeaknessPercent": 35
 }

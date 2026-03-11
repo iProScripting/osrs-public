@@ -50,7 +50,7 @@
         "Ranged"
     ],
     "attackSpeed": 4,
-    "experienceBonus": 7.5,
+    "experienceBonus": -100.0,
     "size": 2,
     "elementalWeakness": "FIRE",
     "elementalWeaknessPercent": 35

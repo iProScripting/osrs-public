@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A full-bodied Aldarin Red that's generally considered the finest wine available.",
     "value": 1000,
-    "weight": 1.0
+    "weight": 1.0,
+    "buyLimit": 2000
 }

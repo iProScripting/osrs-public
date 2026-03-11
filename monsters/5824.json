@@ -40,7 +40,7 @@
         "Crush"
     ],
     "attackSpeed": 4,
-    "experienceBonus": 5.0,
+    "experienceBonus": -100.0,
     "size": 1,
     "elementalWeakness": "FIRE",
     "elementalWeaknessPercent": 50

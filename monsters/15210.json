@@ -2,9 +2,7 @@
     "name": "Armoured kraken",
     "id": 15210,
     "isMembersOnly": false,
-    "examine": "Good luck finding a krack in this armour!",
     "releaseDate": "19 November 2025",
-    "versionAnchor": "In combat",
     "combatLevel": 163,
     "hitpoints": 175,
     "maxHit": [

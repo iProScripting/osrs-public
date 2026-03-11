@@ -20,6 +20,9 @@
         "standardRanged": 30,
         "heavyRanged": 10
     },
+    "immunities": {
+        "venom": true
+    },
     "attackStyle": [
         "Stab"
     ],

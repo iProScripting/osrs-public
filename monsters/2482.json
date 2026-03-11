@@ -6,9 +6,32 @@
     "releaseDate": "4 July 2006",
     "versionAnchor": "Unused",
     "combatLevel": 19,
+    "hitpoints": 13,
+    "slayerExperience": 13.0,
+    "slayerCategory": [
+        "Minotaurs"
+    ],
     "usesSkill": [
+        "Slayer"
     ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA"
+    ],
+    "attackLevel": 22,
+    "strengthLevel": 15,
+    "defenceLevel": 15,
+    "rangedLevel": 1,
+    "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 1,
+        "slash": 1,
+        "crush": 1,
+        "magic": 1
+    },
     "attackStyle": [
+        "Crush"
     ],
+    "attackSpeed": 4,
     "size": 1
 }

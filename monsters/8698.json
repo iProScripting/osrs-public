@@ -8,7 +8,8 @@
     "combatLevel": 23,
     "hitpoints": 16,
     "maxHit": [
-        "2"
+        "2 (Melee)",
+        "10 (Magic)"
     ],
     "usesSkill": [
     ],

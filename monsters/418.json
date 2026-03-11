@@ -1,10 +1,9 @@
 {
-    "name": "Basilisk",
+    "name": "Basilisk (unused)",
     "id": 418,
     "isMembersOnly": false,
     "examine": "The eyes of evil.",
     "releaseDate": "26 January 2005",
-    "versionAnchor": "Unused",
     "combatLevel": 61,
     "hitpoints": 75,
     "maxHit": [
