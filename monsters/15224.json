@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "Albatross!",
     "releaseDate": "19 November 2025",
-    "combatLevel": 93,
-    "hitpoints": 125,
+    "combatLevel": 121,
+    "hitpoints": 179,
     "maxHit": [
         "10"
     ],
@@ -13,6 +13,7 @@
     ],
     "attackLevel": 100,
     "strengthLevel": 90,
+    "defenceLevel": 60,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 30,

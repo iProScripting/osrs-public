@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "Disappointingly free of pretty patterns.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 61,
-    "hitpoints": 70,
+    "combatLevel": 72,
+    "hitpoints": 101,
     "maxHit": [
         "4"
     ],
@@ -13,6 +13,7 @@
     ],
     "attackLevel": 100,
     "strengthLevel": 35,
+    "defenceLevel": 15,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 50,

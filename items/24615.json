@@ -2,7 +2,7 @@
     "name": "Blighted teleport spell sack",
     "id": 24615,
     "members": false,
-    "examine": "Enough power for a Teleblock or a Teleport to Target, blighted so it can be used only in the Wilderness.",
+    "examine": "Enough power for a Teleblock<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> or a Teleport to Target, blighted so it can be used only in the Wilderness.",
     "value": 32,
     "weight": 0.0,
     "buyLimit": 10000

@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "A bottlenose dolphin.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 25,
-    "hitpoints": 50,
+    "combatLevel": 29,
+    "hitpoints": 74,
     "maxHit": [
         "2"
     ],
@@ -13,7 +13,6 @@
     ],
     "attackLevel": 25,
     "strengthLevel": 10,
-    "defenceLevel": 5,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 15,

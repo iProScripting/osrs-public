@@ -2,9 +2,9 @@
     "name": "Vampyre Juvenile",
     "id": 4439,
     "isMembersOnly": false,
-    "examine": "A juvenile vampyre. It looks really hungry!<br/>A juvenile vampyre, held in a powerful spell.",
+    "examine": "A juvenile vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvenile vampyre, held in a powerful spell.",
     "releaseDate": "22 March 2006",
-    "versionAnchor": "Burgh de Rott/Crombwick Manor",
+    "versionAnchor": "Burgh de Rott and Crombwick Manor",
     "combatLevel": 45,
     "attributes": [
         "vampyre1"

@@ -4,13 +4,13 @@
     "isMembersOnly": false,
     "examine": "It thinks it can take down an entire boat. Maybe it can?",
     "releaseDate": "19 November 2025",
-    "combatLevel": 54,
-    "hitpoints": 60,
+    "combatLevel": 61,
+    "hitpoints": 87,
     "maxHit": [
         "6"
     ],
     "slayerLevel": 32,
-    "slayerExperience": 30.0,
+    "slayerExperience": 43.5,
     "slayerCategory": [
         "Mogres",
         "Ogres"

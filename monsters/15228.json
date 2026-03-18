@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "Down for what?",
     "releaseDate": "19 November 2025",
-    "combatLevel": 22,
-    "hitpoints": 30,
+    "combatLevel": 26,
+    "hitpoints": 46,
     "maxHit": [
         "3"
     ],

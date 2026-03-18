@@ -4,9 +4,8 @@
     "isMembersOnly": false,
     "examine": "The drink troll society is much more complicated than anticipated.",
     "releaseDate": "19 November 2025",
-    "versionAnchor": "In combat",
-    "combatLevel": 194,
-    "hitpoints": 225,
+    "combatLevel": 217,
+    "hitpoints": 315,
     "maxHit": [
         "21"
     ],

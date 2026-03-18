@@ -1,0 +1,34 @@
+{
+    "name": "Veiled kraken",
+    "id": 15576,
+    "isMembersOnly": false,
+    "examine": "Wait, where is it?",
+    "releaseDate": "18 March 2026",
+    "combatLevel": 210,
+    "hitpoints": 225,
+    "maxHit": [
+        "19"
+    ],
+    "usesSkill": [
+    ],
+    "attackLevel": 200,
+    "strengthLevel": 185,
+    "defenceLevel": 115,
+    "rangedLevel": 1,
+    "magicLevel": 100,
+    "defenceBonuses": {
+        "magic": 325,
+        "ranged": 325,
+        "lightRanged": 325,
+        "standardRanged": 325
+    },
+    "immunities": {
+        "venom": true
+    },
+    "attackStyle": [
+        "Crush"
+    ],
+    "attackSpeed": 5,
+    "flatArmour": 15,
+    "size": 5
+}

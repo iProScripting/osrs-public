@@ -2,9 +2,9 @@
     "name": "Vampyre Juvinate",
     "id": 3695,
     "isMembersOnly": false,
-    "examine": "A juvinate vampyre.",
+    "examine": "A juvinate vampyre.<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
     "releaseDate": "4 September 2006",
-    "versionAnchor": "Level 54 (Meiyerditch/Darkmeyer)",
+    "versionAnchor": "Level 54 (Meiyerditch)",
     "combatLevel": 54,
     "attributes": [
         "vampyre2"

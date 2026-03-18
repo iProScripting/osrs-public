@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "A real killer of a whale (though arguably, not a whale at all).",
     "releaseDate": "19 November 2025",
-    "combatLevel": 173,
-    "hitpoints": 265,
+    "combatLevel": 205,
+    "hitpoints": 370,
     "maxHit": [
         "13"
     ],
@@ -13,7 +13,7 @@
     ],
     "attackLevel": 165,
     "strengthLevel": 125,
-    "defenceLevel": 50,
+    "defenceLevel": 75,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 85,

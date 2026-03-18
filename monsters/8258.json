@@ -2,7 +2,7 @@
     "name": "Vyrewatch",
     "id": 8258,
     "isMembersOnly": false,
-    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> An evil, bloodsucking vampyre. <br/><span style=\"user-select:none;\">'''&bull;'''</span> A thirsty-looking, airborne bloodsucker! ''(when flying)''",
+    "examine": "An evil, bloodsucking vampyre.",
     "releaseDate": "24 May 2018",
     "versionAnchor": "Level 87",
     "combatLevel": 87,

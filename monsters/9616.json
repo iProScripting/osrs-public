@@ -1,19 +1,19 @@
 {
     "name": "Vampyre Juvinate",
-    "id": 5637,
+    "id": 9616,
     "isMembersOnly": false,
     "examine": "A juvinate vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
-    "releaseDate": "28 March 2006",
-    "versionAnchor": "Level 59 (Temple Trekking)",
-    "combatLevel": 59,
+    "releaseDate": "4 June 2020",
+    "versionAnchor": "Level 119 (Sins of the Father)",
+    "combatLevel": 119,
     "attributes": [
         "vampyre2"
     ],
-    "hitpoints": 50,
+    "hitpoints": 150,
     "maxHit": [
-        "6"
+        "9"
     ],
-    "slayerExperience": 50.0,
+    "slayerExperience": 150.0,
     "slayerCategory": [
         "Vampyres"
     ],
@@ -28,9 +28,9 @@
         "NIEVE",
         "DURADEL"
     ],
-    "attackLevel": 95,
-    "strengthLevel": 16,
-    "defenceLevel": 45,
+    "attackLevel": 127,
+    "strengthLevel": 76,
+    "defenceLevel": 65,
     "rangedLevel": 50,
     "magicLevel": 50,
     "immunities": {

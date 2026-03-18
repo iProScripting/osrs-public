@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "Can't fly, despite its best efforts.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 43,
-    "hitpoints": 50,
+    "combatLevel": 49,
+    "hitpoints": 74,
     "maxHit": [
         "3"
     ],

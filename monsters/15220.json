@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "Might be feeling a little flat.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 114,
-    "hitpoints": 160,
+    "combatLevel": 141,
+    "hitpoints": 225,
     "maxHit": [
         "8"
     ],
@@ -13,6 +13,7 @@
     ],
     "attackLevel": 155,
     "strengthLevel": 75,
+    "defenceLevel": 40,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 50,

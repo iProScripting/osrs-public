@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "A large and powerful bird of prey circling the oceans.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 55,
-    "hitpoints": 80,
+    "combatLevel": 74,
+    "hitpoints": 114,
     "maxHit": [
         "6"
     ],
@@ -13,6 +13,7 @@
     ],
     "attackLevel": 60,
     "strengthLevel": 50,
+    "defenceLevel": 40,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 30,

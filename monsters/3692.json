@@ -2,9 +2,9 @@
     "name": "Vampyre Juvenile",
     "id": 3692,
     "isMembersOnly": false,
-    "examine": "A juvenile vampyre.<br/>A juvenile vampyre, held in a powerful spell.",
+    "examine": "A juvenile vampyre.<br/>'''When bound by [[Retainer]]:''' A juvenile vampyre, held in a powerful spell.",
     "releaseDate": "4 September 2006",
-    "versionAnchor": "Meiyerditch/Darkmeyer",
+    "versionAnchor": "Meiyerditch",
     "combatLevel": 45,
     "attributes": [
         "vampyre1"

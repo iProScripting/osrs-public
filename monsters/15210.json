@@ -2,9 +2,10 @@
     "name": "Armoured kraken",
     "id": 15210,
     "isMembersOnly": false,
+    "examine": "Good luck finding a krack in this armour!",
     "releaseDate": "19 November 2025",
-    "combatLevel": 163,
-    "hitpoints": 175,
+    "combatLevel": 180,
+    "hitpoints": 231,
     "maxHit": [
         "18"
     ],
@@ -12,7 +13,7 @@
     ],
     "attackLevel": 1,
     "strengthLevel": 1,
-    "defenceLevel": 140,
+    "defenceLevel": 150,
     "rangedLevel": 1,
     "magicLevel": 175,
     "defenceBonuses": {

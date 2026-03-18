@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "A predator of the sea.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 63,
-    "hitpoints": 90,
+    "combatLevel": 77,
+    "hitpoints": 128,
     "maxHit": [
         "5"
     ],
@@ -13,6 +13,7 @@
     ],
     "attackLevel": 80,
     "strengthLevel": 45,
+    "defenceLevel": 20,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 40,
@@ -26,5 +27,6 @@
     "attackStyle": [
         "Slash"
     ],
-    "attackSpeed": 4
+    "attackSpeed": 4,
+    "size": 3
 }

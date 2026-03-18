@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "A magnificent sea bird, effortlessly soaring in the sky.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 70,
-    "hitpoints": 85,
+    "combatLevel": 89,
+    "hitpoints": 121,
     "maxHit": [
         "8"
     ],
@@ -13,6 +13,7 @@
     ],
     "attackLevel": 80,
     "strengthLevel": 70,
+    "defenceLevel": 40,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 30,

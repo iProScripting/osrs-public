@@ -2,9 +2,9 @@
     "name": "Vampyre Juvinate",
     "id": 4429,
     "isMembersOnly": false,
-    "examine": "A juvinate vampyre. It looks really hungry!<br/>A juvinate vampyre, held in a powerful spell.",
+    "examine": "A juvinate vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
     "releaseDate": "22 March 2006",
-    "versionAnchor": "Level 54",
+    "versionAnchor": "Level 54 (Burgh de Rott)",
     "combatLevel": 54,
     "attributes": [
         "vampyre2"

@@ -1,19 +1,19 @@
 {
-    "name": "Vampyre Juvinate",
-    "id": 3691,
+    "name": "Vampyre Juvenile",
+    "id": 9733,
     "isMembersOnly": false,
-    "examine": "A juvinate vampyre.",
-    "releaseDate": "4 September 2006",
-    "versionAnchor": "Level 54 (Meiyerditch/Darkmeyer)",
-    "combatLevel": 54,
+    "examine": "A juvenile vampyre.<br/>'''When bound by [[Retainer]]:''' A juvenile vampyre, held in a powerful spell.",
+    "releaseDate": "4 June 2020",
+    "versionAnchor": "Darkmeyer",
+    "combatLevel": 45,
     "attributes": [
-        "vampyre2"
+        "vampyre1"
     ],
-    "hitpoints": 85,
+    "hitpoints": 60,
     "maxHit": [
-        "5"
+        "4"
     ],
-    "slayerExperience": 85.0,
+    "slayerExperience": 60.0,
     "slayerCategory": [
         "Vampyres"
     ],
@@ -29,7 +29,7 @@
         "DURADEL"
     ],
     "attackLevel": 40,
-    "strengthLevel": 40,
+    "strengthLevel": 30,
     "defenceLevel": 30,
     "rangedLevel": 1,
     "magicLevel": 1,

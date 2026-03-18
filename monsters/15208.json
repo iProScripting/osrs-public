@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "An invertebrate with a bit of backbone.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 121,
-    "hitpoints": 125,
+    "combatLevel": 128,
+    "hitpoints": 177,
     "maxHit": [
         "14"
     ],
@@ -13,7 +13,7 @@
     ],
     "attackLevel": 1,
     "strengthLevel": 1,
-    "defenceLevel": 100,
+    "defenceLevel": 75,
     "rangedLevel": 1,
     "magicLevel": 135,
     "defenceBonuses": {

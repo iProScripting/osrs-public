@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "Has the potential to sting anyone, regardless of if they're called Ray.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 82,
-    "hitpoints": 90,
+    "combatLevel": 98,
+    "hitpoints": 128,
     "maxHit": [
         "6"
     ],
@@ -13,6 +13,7 @@
     ],
     "attackLevel": 130,
     "strengthLevel": 55,
+    "defenceLevel": 25,
     "magicLevel": 1,
     "defenceBonuses": {
         "ranged": 50,
