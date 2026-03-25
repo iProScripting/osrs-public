@@ -30,6 +30,7 @@
     ],
     "attackSpeed": 4,
     "experienceBonus": -97.5,
+    "size": 1,
     "elementalWeakness": "EARTH",
     "elementalWeaknessPercent": 0
 }

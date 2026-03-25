@@ -22,7 +22,6 @@
         "crush": 4
     },
     "immunities": {
-        "poison": true,
         "venom": true
     },
     "attackStyle": [

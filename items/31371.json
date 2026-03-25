@@ -1,0 +1,8 @@
+{
+    "name": "Vacuum pump",
+    "id": 31371,
+    "members": false,
+    "examine": "A very crude vacuum pump",
+    "value": 0,
+    "weight": 4.0
+}

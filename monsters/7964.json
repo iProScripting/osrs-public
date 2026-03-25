@@ -20,5 +20,6 @@
         "Magic"
     ],
     "attackSpeed": 5,
+    "experienceBonus": -97.5,
     "size": 1
 }

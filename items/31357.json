@@ -1,0 +1,11 @@
+{
+    "name": "Fishy prison uniform top",
+    "id": 31357,
+    "members": false,
+    "examine": "It's covered in fish slop.",
+    "value": 0,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

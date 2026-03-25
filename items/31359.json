@@ -1,0 +1,8 @@
+{
+    "name": "Tin cup",
+    "id": 31359,
+    "members": false,
+    "examine": "A standard prison-issue tin cup.",
+    "value": 0,
+    "weight": 0.3
+}

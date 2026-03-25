@@ -1,0 +1,8 @@
+{
+    "name": "Smashed bottle",
+    "id": 31351,
+    "members": false,
+    "examine": "It's smashed. I should mind my fingers.",
+    "value": 0,
+    "weight": 0.016
+}

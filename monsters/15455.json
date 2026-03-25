@@ -1,0 +1,25 @@
+{
+    "name": "Pirate captain (Feldip Gulf)",
+    "id": 15455,
+    "isMembersOnly": false,
+    "examine": "You wouldn't steal a ship.",
+    "releaseDate": "19 November 2025",
+    "combatLevel": 67,
+    "hitpoints": 50,
+    "usesSkill": [
+    ],
+    "attackLevel": 60,
+    "strengthLevel": 70,
+    "defenceLevel": 50,
+    "attackBonuses": {
+        "strength": 30
+    },
+    "defenceBonuses": {
+        "stab": 5,
+        "slash": 17
+    },
+    "attackStyle": [
+    ],
+    "attackSpeed": 4,
+    "size": 1
+}

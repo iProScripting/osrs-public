@@ -17,8 +17,7 @@
     "defenceBonuses": {
         "ranged": 15,
         "lightRanged": 15,
-        "standardRanged": 15,
-        "heavyRanged": 5
+        "standardRanged": 15
     },
     "immunities": {
         "venom": true

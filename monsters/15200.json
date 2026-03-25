@@ -17,9 +17,9 @@
     "rangedLevel": 1,
     "defenceBonuses": {
         "magic": 15,
-        "ranged": 70,
-        "lightRanged": 70,
-        "standardRanged": 70,
+        "ranged": 20,
+        "lightRanged": 100,
+        "standardRanged": 20,
         "heavyRanged": 40
     },
     "immunities": {

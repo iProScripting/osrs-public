@@ -16,10 +16,10 @@
     "defenceLevel": 50,
     "magicLevel": 1,
     "defenceBonuses": {
-        "ranged": 50,
-        "lightRanged": 50,
-        "standardRanged": 50,
-        "heavyRanged": 25
+        "ranged": 20,
+        "lightRanged": 100,
+        "standardRanged": 20,
+        "heavyRanged": 40
     },
     "immunities": {
         "venom": true

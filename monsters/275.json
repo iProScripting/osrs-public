@@ -15,7 +15,7 @@
         "22 (Melee)",
         "50 (Dragonfire)"
     ],
-    "slayerExperience": 220.5,
+    "slayerExperience": 215.2,
     "slayerCategory": [
         "Metal Dragons"
     ],
@@ -46,7 +46,7 @@
         "Dragonfire"
     ],
     "attackSpeed": 4,
-    "experienceBonus": 5.0,
+    "experienceBonus": 2.5,
     "size": 4,
     "elementalWeakness": "EARTH",
     "elementalWeaknessPercent": 50

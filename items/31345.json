@@ -1,0 +1,8 @@
+{
+    "name": "Ink bottle",
+    "id": 31345,
+    "members": false,
+    "examine": "This is full of ink.",
+    "value": 0,
+    "weight": 0.02
+}

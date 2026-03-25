@@ -1,0 +1,11 @@
+{
+    "name": "Prison uniform top",
+    "id": 31353,
+    "members": false,
+    "examine": "The top part of a prisoner's uniform.",
+    "value": 0,
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

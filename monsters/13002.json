@@ -1,9 +1,10 @@
 {
-    "name": "Snake (Varlamore)",
+    "name": "Snake",
     "id": 13002,
     "isMembersOnly": false,
     "examine": "A slithering serpent.",
     "releaseDate": "20 March 2024",
+    "versionAnchor": "2",
     "combatLevel": 5,
     "hitpoints": 6,
     "maxHit": [

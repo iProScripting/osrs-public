@@ -1,0 +1,8 @@
+{
+    "name": "Pipe (Rocking Out)",
+    "id": 31363,
+    "members": false,
+    "examine": "A broken pipe.",
+    "value": 0,
+    "weight": 2.0
+}
