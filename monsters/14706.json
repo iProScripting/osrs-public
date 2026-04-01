@@ -10,7 +10,16 @@
         "6"
     ],
     "slayerLevel": 54,
+    "slayerExperience": 100.0,
+    "slayerCategory": [
+        "Custodian Stalker"
+    ],
     "usesSkill": [
+        "Slayer"
+    ],
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE"
     ],
     "attackLevel": 95,
     "strengthLevel": 55,

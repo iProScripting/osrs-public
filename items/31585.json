@@ -5,6 +5,7 @@
     "examine": "Breath powered dart delivering system with a hint of rosewood.",
     "value": 2500,
     "weight": 0.3,
+    "buyLimit": 8,
     "equipment": {
         "rangedAttack": 22,
         "rangedStrength": 6,

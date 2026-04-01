@@ -4,5 +4,6 @@
     "members": false,
     "examine": "Take it to Perdu to help you avoid losing certain items.",
     "value": 200,
-    "weight": 0.0
+    "weight": 0.0,
+    "buyLimit": 500
 }

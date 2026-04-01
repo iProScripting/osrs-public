@@ -1,0 +1,8 @@
+{
+    "name": "Egg box",
+    "id": 33147,
+    "members": false,
+    "examine": "Wonder what is in this?",
+    "value": 1,
+    "weight": 0.02
+}

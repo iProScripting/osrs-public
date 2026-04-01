@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "Incredibly strange looking. Still very dangerous.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 91,
-    "hitpoints": 128,
+    "combatLevel": 90,
+    "hitpoints": 125,
     "maxHit": [
         "7"
     ],

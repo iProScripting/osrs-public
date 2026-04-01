@@ -1,0 +1,8 @@
+{
+    "name": "Mysterious medallion",
+    "id": 31337,
+    "members": false,
+    "examine": "An old pirate medallion.",
+    "value": 30,
+    "weight": 0.05
+}

@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "It thinks it can take down an entire boat. Maybe it can?",
     "releaseDate": "19 November 2025",
-    "combatLevel": 61,
-    "hitpoints": 87,
+    "combatLevel": 54,
+    "hitpoints": 59,
     "maxHit": [
         "6"
     ],

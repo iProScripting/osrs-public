@@ -5,6 +5,7 @@
     "examine": "Breath powered dart delivering system with a hint of ironwood.",
     "value": 3600,
     "weight": 0.3,
+    "buyLimit": 8,
     "equipment": {
         "rangedAttack": 16,
         "rangedStrength": 4,

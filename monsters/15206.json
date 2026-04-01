@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "With a small size comes a greater amount, so watch out.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 100,
-    "hitpoints": 177,
+    "combatLevel": 93,
+    "hitpoints": 150,
     "maxHit": [
         "10"
     ],

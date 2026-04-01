@@ -4,8 +4,8 @@
     "isMembersOnly": false,
     "examine": "A predator of the sea.",
     "releaseDate": "19 November 2025",
-    "combatLevel": 77,
-    "hitpoints": 128,
+    "combatLevel": 65,
+    "hitpoints": 81,
     "maxHit": [
         "5"
     ],

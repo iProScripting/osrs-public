@@ -4,5 +4,6 @@
     "members": false,
     "examine": "Logs cut from a rosewood tree.",
     "value": 370,
-    "weight": 2.0
+    "weight": 2.0,
+    "buyLimit": 12000
 }
