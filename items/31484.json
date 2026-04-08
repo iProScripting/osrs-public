@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A real community of the pillar.",
     "value": 50,
-    "weight": 0.028
+    "weight": 0.028,
+    "buyLimit": 13000
 }

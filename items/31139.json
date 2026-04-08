@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A set containing a Blue moon helm, Blue moon chestplate, Blue moon tassets and Blue moon spear.",
     "value": 145000,
-    "weight": 0.05
+    "weight": 0.05,
+    "buyLimit": 2
 }

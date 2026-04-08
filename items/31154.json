@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A set containing a Skeletal helm, Skeletal top, Skeletal bottoms, Skeletal boots and Skeletal gloves.",
     "value": 145000,
-    "weight": 0.05
+    "weight": 0.05,
+    "buyLimit": 2
 }

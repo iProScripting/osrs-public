@@ -53,7 +53,6 @@
         "Stab",
         "Magic"
     ],
-    "attackSpeed": 6,
     "experienceBonus": 37.5,
     "size": 5,
     "elementalWeakness": "WATER",

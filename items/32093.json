@@ -4,5 +4,6 @@
     "members": false,
     "examine": "An inky black paint. This might look good on a boat.",
     "value": 1,
-    "weight": 1.0
+    "weight": 1.0,
+    "buyLimit": 5
 }

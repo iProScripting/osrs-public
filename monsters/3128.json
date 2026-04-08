@@ -38,5 +38,7 @@
         "Crush"
     ],
     "attackSpeed": 4,
-    "size": 1
+    "size": 1,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 40
 }

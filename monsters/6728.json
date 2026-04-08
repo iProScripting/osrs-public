@@ -4,12 +4,12 @@
     "isMembersOnly": false,
     "examine": "Rock with attitude.",
     "releaseDate": "29 March 2004",
-    "versionAnchor": "Level 79",
-    "combatLevel": 79,
+    "versionAnchor": "Level 76",
+    "combatLevel": 76,
     "attributes": [
         "golem"
     ],
-    "hitpoints": 85,
+    "hitpoints": 70,
     "maxHit": [
         "8"
     ],
@@ -25,7 +25,7 @@
     ],
     "attackSpeed": 4,
     "experienceBonus": -97.5,
-    "flatArmour": 2,
+    "flatArmour": 1,
     "size": 1,
     "elementalWeakness": "EARTH",
     "elementalWeaknessPercent": 40

@@ -7,14 +7,6 @@
     "weight": 5.443,
     "buyLimit": 15,
     "equipment": {
-        "magicAttack": -15,
-        "rangedAttack": -10,
-        "stabDefence": 60,
-        "slashDefence": 80,
-        "crushDefence": 80,
-        "magicDefence": 40,
-        "rangedDefence": 79,
-        "strength": 4,
         "slot": "BODY"
     }
 }

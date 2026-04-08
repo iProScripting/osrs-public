@@ -7,11 +7,6 @@
     "weight": 1.36,
     "buyLimit": 15,
     "equipment": {
-        "magicAttack": 22,
-        "crushDefence": 23,
-        "magicDefence": 32,
-        "strength": 1,
-        "magicDamage": 1.0,
         "slot": "LEGS"
     }
 }

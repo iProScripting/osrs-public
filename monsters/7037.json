@@ -4,6 +4,9 @@
     "isMembersOnly": false,
     "examine": "This creature has been dragged back from the grave.",
     "releaseDate": "7 January 2016",
+    "attributes": [
+        "flying"
+    ],
     "hitpoints": 35,
     "maxHit": [
         "1"

@@ -4,12 +4,12 @@
     "isMembersOnly": false,
     "examine": "Rock with attitude.",
     "releaseDate": "29 March 2004",
-    "versionAnchor": "Level 120",
-    "combatLevel": 120,
+    "versionAnchor": "Level 115",
+    "combatLevel": 115,
     "attributes": [
         "golem"
     ],
-    "hitpoints": 120,
+    "hitpoints": 100,
     "maxHit": [
         "8"
     ],

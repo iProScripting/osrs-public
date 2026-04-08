@@ -4,5 +4,6 @@
     "members": false,
     "examine": "No elks were harmed in the making of this coral.",
     "value": 52,
-    "weight": 0.028
+    "weight": 0.028,
+    "buyLimit": 13000
 }
