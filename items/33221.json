@@ -1,0 +1,8 @@
+{
+    "name": "Barbarian arm",
+    "id": 33221,
+    "members": false,
+    "examine": "A barbarian arm.",
+    "value": 1,
+    "weight": 0.001
+}

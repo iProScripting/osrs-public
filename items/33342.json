@@ -1,0 +1,8 @@
+{
+    "name": "Demonic quill",
+    "id": 33342,
+    "members": false,
+    "examine": "These look like they can be attached to a slayer helmet.",
+    "value": 100000,
+    "weight": 0.5
+}

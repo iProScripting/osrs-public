@@ -1,0 +1,12 @@
+{
+    "name": "Evil eye (item)",
+    "id": 33227,
+    "members": false,
+    "examine": "A evil pendant... Always watching.",
+    "value": 1,
+    "weight": 0.25,
+    "equipment": {
+        "slot": "NECK",
+        "combatStyle": "UNARMED"
+    }
+}

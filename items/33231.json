@@ -1,0 +1,8 @@
+{
+    "name": "Soul shard",
+    "id": 33231,
+    "members": false,
+    "examine": "Some poor souls' sole remains. Use on the Libation Bowl at the Teomat to put them to rest.",
+    "value": 1,
+    "weight": 0.0
+}

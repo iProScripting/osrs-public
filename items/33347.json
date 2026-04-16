@@ -1,0 +1,17 @@
+{
+    "name": "Demonic pacts rune trophy",
+    "id": 33347,
+    "members": false,
+    "examine": "A Rune trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "value": 1,
+    "weight": 1.5,
+    "equipment": {
+        "stabAttack": -100,
+        "slashAttack": -100,
+        "crushAttack": -50,
+        "strength": -10,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "combatStyle": "BLUNT"
+    }
+}

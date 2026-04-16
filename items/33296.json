@@ -1,0 +1,12 @@
+{
+    "name": "Demonic sceptre",
+    "id": 33296,
+    "members": false,
+    "examine": "The sceptre of a Demonic Relic Hunter.",
+    "value": 1000,
+    "weight": 1.814,
+    "equipment": {
+        "slot": "SHIELD",
+        "combatStyle": "SPIKED"
+    }
+}

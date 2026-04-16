@@ -1,0 +1,8 @@
+{
+    "name": "Knapsack",
+    "id": 33218,
+    "members": false,
+    "examine": "A rustic-looking bag for storing resources.",
+    "value": 100,
+    "weight": 10.0
+}

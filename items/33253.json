@@ -1,0 +1,19 @@
+{
+    "name": "Shadowflame quadrant",
+    "id": 33253,
+    "members": false,
+    "examine": "An elemental trident, with a devilish extra prong.",
+    "value": 75000,
+    "weight": 2.267,
+    "equipment": {
+        "crushAttack": 60,
+        "magicAttack": 25,
+        "crushDefence": 5,
+        "magicDefence": 17,
+        "strength": 50,
+        "magicDamage": 15.0,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 8
+    }
+}

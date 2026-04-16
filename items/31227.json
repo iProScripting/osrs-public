@@ -7,6 +7,7 @@
     "weight": 0.07,
     "equipment": {
         "slot": "WEAPON",
+        "attackSpeed": 4,
         "combatStyle": "BLUNT"
     }
 }

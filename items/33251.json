@@ -1,0 +1,21 @@
+{
+    "name": "King's barrage",
+    "id": 33251,
+    "members": false,
+    "examine": "A powerful crossbow surging with draconic power.",
+    "value": 75000,
+    "weight": 6.0,
+    "equipment": {
+        "rangedAttack": 130,
+        "stabDefence": 20,
+        "slashDefence": 20,
+        "crushDefence": 20,
+        "magicDefence": 25,
+        "rangedDefence": 60,
+        "rangedStrength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 9,
+        "combatStyle": "CROSSBOW"
+    }
+}

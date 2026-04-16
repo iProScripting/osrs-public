@@ -8,7 +8,7 @@
     "equipment": {
         "slot": "WEAPON",
         "attackSpeed": 3,
-        "attackRange": 5,
+        "attackRange": 6,
         "combatStyle": "THROWN"
     }
 }

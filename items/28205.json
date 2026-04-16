@@ -12,7 +12,7 @@
         "slashDefence": 1,
         "strength": 12,
         "slot": "WEAPON",
-        "attackSpeed": 5,
+        "attackSpeed": 7,
         "attackRange": 1,
         "combatStyle": "AXE"
     }

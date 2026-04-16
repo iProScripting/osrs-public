@@ -1,0 +1,8 @@
+{
+    "name": "Lithic sceptre",
+    "id": 33257,
+    "members": false,
+    "examine": "A powerful staff that can shatter enemies, when charged.",
+    "value": 75000,
+    "weight": 2.0
+}

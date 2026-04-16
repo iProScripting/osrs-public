@@ -1,0 +1,8 @@
+{
+    "name": "Demonic pacts throne scroll",
+    "id": 33362,
+    "members": false,
+    "examine": "Use it on the Throne inside your Player Owned House to decorate it in the style of Leagues VI: Demonic Pacts",
+    "value": 25000,
+    "weight": 0.1
+}
