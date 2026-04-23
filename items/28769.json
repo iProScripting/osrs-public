@@ -1,8 +1,8 @@
 {
-    "name": "Guardian horn",
+    "name": "Minion whistle",
     "id": 28769,
     "members": false,
-    "examine": "A horn to call your loyal guardian.",
-    "value": 1,
+    "examine": "A whistle to summon a demonic ally.",
+    "value": 0,
     "weight": 0.2
 }

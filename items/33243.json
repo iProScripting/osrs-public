@@ -1,0 +1,18 @@
+{
+    "name": "Infernal tecpatl",
+    "id": 33243,
+    "members": false,
+    "examine": "Shaped from molten rock, tainted by demonic blood.",
+    "value": 30000,
+    "weight": 3.628,
+    "equipment": {
+        "stabAttack": 72,
+        "slashAttack": 72,
+        "crushAttack": 72,
+        "strength": 70,
+        "prayerBonus": -1,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1
+    }
+}

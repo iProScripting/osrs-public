@@ -4,5 +4,8 @@
     "members": false,
     "examine": "A source of all possible transmutations.",
     "value": 1,
-    "weight": 0.014
+    "weight": 0.014,
+    "equipment": {
+        "slot": "SHIELD"
+    }
 }

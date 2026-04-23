@@ -12,7 +12,7 @@
     "hitpoints": 2500,
     "maxHit": [
         "46 (auto-attacks)",
-        "121 (Meteor Strike)",
+        "160 (Meteor Strike)",
         "80 (Shadow Stomp)"
     ],
     "usesSkill": [

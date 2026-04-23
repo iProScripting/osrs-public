@@ -6,7 +6,9 @@
     "value": 1000,
     "weight": 1.814,
     "equipment": {
-        "slot": "SHIELD",
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1,
         "combatStyle": "SPIKED"
     }
 }
