@@ -34,7 +34,6 @@
     "defenceBonuses": {
         "crush": 10,
         "magic": 200,
-        "ranged": 40,
         "lightRanged": 200,
         "standardRanged": 40,
         "heavyRanged": 200

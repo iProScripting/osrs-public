@@ -42,14 +42,11 @@
         "stab": 12,
         "slash": 12,
         "magic": 700,
-        "ranged": 700,
         "lightRanged": 700,
         "standardRanged": 700,
         "heavyRanged": 700
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

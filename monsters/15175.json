@@ -18,13 +18,9 @@
     "magicLevel": 205,
     "defenceBonuses": {
         "magic": -63,
-        "ranged": 50,
         "lightRanged": 100,
         "standardRanged": 50,
         "heavyRanged": 100
-    },
-    "immunities": {
-        "venom": true
     },
     "attackStyle": [
         "Magic"

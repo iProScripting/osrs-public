@@ -32,14 +32,9 @@
         "slash": 30,
         "crush": 70,
         "magic": 100,
-        "ranged": 230,
         "lightRanged": 230,
         "standardRanged": 230,
         "heavyRanged": 230
-    },
-    "immunities": {
-        "poison": true,
-        "venom": true
     },
     "attackStyle": [
         "Typeless Crush",

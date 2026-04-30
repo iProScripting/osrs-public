@@ -17,10 +17,6 @@
     "defenceLevel": 132,
     "rangedLevel": 116,
     "magicLevel": 1,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Melee",
         "Single and multi-target Ranged"

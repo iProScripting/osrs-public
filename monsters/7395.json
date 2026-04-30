@@ -34,10 +34,6 @@
         "slash": 35,
         "magic": 35
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Slash"
     ],

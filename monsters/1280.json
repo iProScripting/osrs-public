@@ -29,10 +29,6 @@
     "attackLevel": 64,
     "strengthLevel": 47,
     "defenceLevel": 42,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

@@ -19,9 +19,6 @@
     "attackBonuses": {
         "magic": 8
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

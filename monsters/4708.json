@@ -18,7 +18,6 @@
     "magicLevel": 1,
     "defenceBonuses": {
         "magic": 10000,
-        "ranged": 10000,
         "lightRanged": 10000,
         "standardRanged": 10000,
         "heavyRanged": 10000

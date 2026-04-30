@@ -23,10 +23,6 @@
         "rangedStrength": 40,
         "magicDamage": 460
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Stab",
         "Magic",

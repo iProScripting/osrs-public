@@ -2,9 +2,12 @@
     "name": "Black dragon (Echo)",
     "id": 14146,
     "isMembersOnly": false,
+    "examine": "A fierce dragon with black scales!",
     "releaseDate": "27 November 2024",
+    "combatLevel": 227,
     "usesSkill": [
     ],
     "attackStyle": [
-    ]
+    ],
+    "size": 4
 }

@@ -25,9 +25,6 @@
         "slash": 65,
         "crush": 45
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Stab"
     ],

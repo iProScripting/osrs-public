@@ -35,8 +35,6 @@
         "magic": 30
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "thrall": true,
         "cannon": true
     },

@@ -4,5 +4,16 @@
     "members": false,
     "examine": "A powerful staff that can shatter enemies.",
     "value": 75000,
-    "weight": 2.0
+    "weight": 2.0,
+    "equipment": {
+        "magicAttack": 25,
+        "stabDefence": 10,
+        "slashDefence": 10,
+        "crushDefence": 10,
+        "magicDefence": 20,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 7,
+        "combatStyle": "POWERED_STAFF"
+    }
 }

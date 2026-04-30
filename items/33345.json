@@ -12,6 +12,7 @@
         "strength": -10,
         "slot": "WEAPON",
         "attackSpeed": 4,
+        "attackRange": 1,
         "combatStyle": "BLUNT"
     }
 }

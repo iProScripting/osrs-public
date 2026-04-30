@@ -15,10 +15,6 @@
     "strengthLevel": 159,
     "defenceLevel": 18,
     "magicLevel": 18,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Slash"
     ],

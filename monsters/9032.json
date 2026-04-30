@@ -20,10 +20,6 @@
         "melee": 54,
         "strength": 106
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Slash"
     ],

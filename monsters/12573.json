@@ -28,9 +28,6 @@
     "defenceLevel": 180,
     "rangedLevel": 1,
     "magicLevel": 300,
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Magic"
     ],

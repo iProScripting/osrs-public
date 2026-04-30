@@ -20,10 +20,6 @@
         "melee": 5,
         "strength": 5
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

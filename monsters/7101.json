@@ -24,10 +24,6 @@
         "rangedStrength": 40,
         "magicDamage": 40
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush",
         "Ranged",

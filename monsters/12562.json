@@ -32,10 +32,6 @@
         "slash": 20,
         "magic": 20
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Stab"
     ],

@@ -15,10 +15,6 @@
     "attackLevel": 1,
     "strengthLevel": 1,
     "rangedLevel": 1,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "None"
     ],

@@ -20,6 +20,11 @@
     "usesSkill": [
         "Slayer"
     ],
+    "assignedBy": [
+        "TURTAEL",
+        "SPRIA",
+        "MAZCHNA"
+    ],
     "attackLevel": 90,
     "strengthLevel": 95,
     "defenceLevel": 80,

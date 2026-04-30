@@ -19,7 +19,6 @@
     "defenceBonuses": {
         "stab": 7,
         "slash": 7,
-        "ranged": 7,
         "lightRanged": 7,
         "standardRanged": 7,
         "heavyRanged": 7

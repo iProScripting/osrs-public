@@ -44,10 +44,6 @@
         "lightRanged": 20,
         "heavyRanged": 20
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Magic",
         "Slash"

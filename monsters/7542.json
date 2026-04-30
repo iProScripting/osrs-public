@@ -28,10 +28,6 @@
         "slash": 165,
         "crush": 105
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Stab",
         "Slash",

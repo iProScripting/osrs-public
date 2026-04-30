@@ -13,6 +13,7 @@
         "strength": 20,
         "slot": "WEAPON",
         "attackSpeed": 3,
-        "attackRange": 1
+        "attackRange": 1,
+        "combatStyle": "STAB_SWORD"
     }
 }

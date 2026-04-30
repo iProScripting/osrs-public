@@ -34,8 +34,6 @@
     "rangedLevel": 50,
     "magicLevel": 50,
     "immunities": {
-        "poison": true,
-        "venom": true,
         "thrall": true
     },
     "attackStyle": [

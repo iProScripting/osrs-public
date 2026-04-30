@@ -20,10 +20,6 @@
     "defenceBonuses": {
         "magic": -10
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Ranged",
         "Crush"

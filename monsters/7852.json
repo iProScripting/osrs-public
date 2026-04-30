@@ -36,10 +36,6 @@
     "defenceBonuses": {
         "magic": 80
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Slash",
         "Ranged",

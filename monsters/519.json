@@ -24,7 +24,6 @@
     "defenceBonuses": {
         "slash": 3,
         "crush": 2,
-        "ranged": 2,
         "lightRanged": 2,
         "standardRanged": 2,
         "heavyRanged": 2

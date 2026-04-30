@@ -30,9 +30,6 @@
     "attackBonuses": {
         "magic": 80
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Magic",
         "Stab"

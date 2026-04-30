@@ -15,10 +15,6 @@
     "strengthLevel": 48,
     "defenceLevel": 6,
     "magicLevel": 6,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

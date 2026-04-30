@@ -20,10 +20,6 @@
         "magic": 146,
         "magicDamage": 226
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Magic"
     ],

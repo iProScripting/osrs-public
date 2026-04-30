@@ -35,14 +35,9 @@
         "stab": 25,
         "slash": 25,
         "crush": 25,
-        "ranged": 25,
         "lightRanged": 25,
         "standardRanged": 25,
         "heavyRanged": 25
-    },
-    "immunities": {
-        "poison": true,
-        "venom": true
     },
     "attackStyle": [
         "Magical melee"

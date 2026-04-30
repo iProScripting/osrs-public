@@ -20,10 +20,6 @@
         "ranged": 81,
         "rangedStrength": 132
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Ranged"
     ],

@@ -43,10 +43,6 @@
         "slash": 150,
         "crush": 150
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush",
         "Magic",

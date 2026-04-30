@@ -8,7 +8,7 @@
     "poisonous": true,
     "hitpoints": 80,
     "maxHit": [
-        "115% of targeted player's max hit'\"`UNIQ--ref-00000124-QINU`\"'"
+        "115% of targeted player's max hit'\"`UNIQ--ref-00000015-QINU`\"'"
     ],
     "usesSkill": [
     ],
@@ -26,7 +26,6 @@
         "slash": 93,
         "crush": 98,
         "magic": 1,
-        "ranged": 82,
         "lightRanged": 82,
         "standardRanged": 82,
         "heavyRanged": 82

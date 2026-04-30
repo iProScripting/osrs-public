@@ -24,9 +24,6 @@
         "stab": 15,
         "crush": 190
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

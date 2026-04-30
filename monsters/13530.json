@@ -30,8 +30,6 @@
         "heavyRanged": -40
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

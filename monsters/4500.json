@@ -29,9 +29,6 @@
     "defenceLevel": 82,
     "rangedLevel": 1,
     "magicLevel": 1,
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Slash"
     ],

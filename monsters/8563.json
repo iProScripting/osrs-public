@@ -40,10 +40,6 @@
         "crush": 5,
         "lightRanged": -10
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush",
         "Ranged"

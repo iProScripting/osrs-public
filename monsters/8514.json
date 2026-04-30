@@ -20,8 +20,6 @@
     "rangedLevel": 1,
     "magicLevel": 1,
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

@@ -39,10 +39,6 @@
         "crush": 150,
         "magic": 160
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Melee",
         "Ranged"

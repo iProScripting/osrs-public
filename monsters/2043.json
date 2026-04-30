@@ -34,14 +34,9 @@
         "magicDamage": 20
     },
     "defenceBonuses": {
-        "ranged": 300,
         "lightRanged": 300,
         "standardRanged": 300,
         "heavyRanged": 300
-    },
-    "immunities": {
-        "poison": true,
-        "venom": true
     },
     "attackStyle": [
         "Typeless"

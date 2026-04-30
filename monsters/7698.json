@@ -31,9 +31,6 @@
         "ranged": 40,
         "rangedStrength": 50
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Ranged",
         "Crush"

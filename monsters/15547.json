@@ -22,9 +22,6 @@
         "crush": 25,
         "magic": 255
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Magic"
     ],

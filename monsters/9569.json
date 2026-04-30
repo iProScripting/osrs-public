@@ -13,7 +13,7 @@
         "24 (Standard)"
     ],
     "slayerCategory": [
-        "Vampyres'\"`UNIQ--ref-000000C3-QINU`\"'"
+        "Vampyres'\"`UNIQ--ref-0000007E-QINU`\"'"
     ],
     "usesSkill": [
         "Slayer"
@@ -37,14 +37,11 @@
         "slash": 34,
         "crush": 34,
         "magic": 34,
-        "ranged": 34,
         "lightRanged": 34,
         "standardRanged": 34,
         "heavyRanged": 34
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "thrall": true
     },
     "attackStyle": [

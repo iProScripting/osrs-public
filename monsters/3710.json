@@ -34,8 +34,6 @@
     "rangedLevel": 110,
     "magicLevel": 110,
     "immunities": {
-        "poison": true,
-        "venom": true,
         "thrall": true,
         "cannon": true
     },

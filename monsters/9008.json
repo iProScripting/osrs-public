@@ -21,9 +21,6 @@
         "slash": 2,
         "crush": 4
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

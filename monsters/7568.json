@@ -24,10 +24,6 @@
         "slash": 180,
         "crush": 180
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "None"
     ],

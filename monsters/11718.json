@@ -22,8 +22,6 @@
         "melee": 20
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

@@ -20,14 +20,9 @@
     "magicLevel": 300,
     "defenceBonuses": {
         "magic": 10,
-        "ranged": 25,
         "lightRanged": 25,
         "standardRanged": 25,
         "heavyRanged": 25
-    },
-    "immunities": {
-        "poison": true,
-        "venom": true
     },
     "attackStyle": [
         "Melee",

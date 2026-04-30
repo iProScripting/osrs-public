@@ -20,10 +20,6 @@
         "crush": 50,
         "magic": -30
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Ranged"
     ],

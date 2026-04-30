@@ -20,10 +20,6 @@
     "attackBonuses": {
         "strength": -21
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

@@ -15,13 +15,9 @@
     "strengthLevel": 20,
     "magicLevel": 1,
     "defenceBonuses": {
-        "ranged": 30,
         "lightRanged": 30,
         "standardRanged": 30,
         "heavyRanged": 10
-    },
-    "immunities": {
-        "venom": true
     },
     "attackStyle": [
         "Stab"

@@ -8,7 +8,7 @@
     "combatLevel": 1136,
     "hitpoints": 1400,
     "maxHit": [
-        "46-61 (Melee)'\"`UNIQ--ref-00000035-QINU`\"'",
+        "46-61 (Melee)'\"`UNIQ--ref-0000005D-QINU`\"'",
         "96 (axes)"
     ],
     "slayerExperience": 1400.0,
@@ -34,14 +34,11 @@
         "slash": 65,
         "crush": 85,
         "magic": 580,
-        "ranged": 580,
         "lightRanged": 580,
         "standardRanged": 580,
         "heavyRanged": 580
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

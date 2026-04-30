@@ -15,13 +15,9 @@
     "strengthLevel": 1,
     "magicLevel": 1,
     "defenceBonuses": {
-        "ranged": 50,
         "lightRanged": 50,
         "standardRanged": 50,
         "heavyRanged": 20
-    },
-    "immunities": {
-        "venom": true
     },
     "attackStyle": [
         "Slash"

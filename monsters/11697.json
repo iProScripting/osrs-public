@@ -20,8 +20,6 @@
         "ranged": 150
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

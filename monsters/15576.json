@@ -18,12 +18,8 @@
     "magicLevel": 100,
     "defenceBonuses": {
         "magic": 325,
-        "ranged": 325,
         "lightRanged": 325,
         "standardRanged": 325
-    },
-    "immunities": {
-        "venom": true
     },
     "attackStyle": [
         "Crush"

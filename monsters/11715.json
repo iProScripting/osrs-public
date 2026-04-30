@@ -26,7 +26,6 @@
         "slash": 900,
         "crush": 900,
         "magic": 900,
-        "ranged": -50,
         "lightRanged": -50,
         "standardRanged": -50,
         "heavyRanged": -50

@@ -45,14 +45,11 @@
         "slash": 75,
         "crush": 15,
         "magic": 237,
-        "ranged": 218,
         "lightRanged": 218,
         "standardRanged": 218,
         "heavyRanged": 218
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

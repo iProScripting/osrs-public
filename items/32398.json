@@ -6,6 +6,8 @@
     "value": 350,
     "weight": 0.06,
     "equipment": {
+        "magicAttack": -3,
+        "magicDefence": -1,
         "slot": "NECK"
     }
 }

@@ -23,6 +23,9 @@
     "defenceBonuses": {
         "magic": -10
     },
+    "immunities": {
+        "cannon": true
+    },
     "attackStyle": [
         "Slash"
     ],

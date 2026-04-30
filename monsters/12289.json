@@ -21,10 +21,6 @@
         "crush": 30,
         "magic": 10
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Typeless"
     ],

@@ -23,9 +23,6 @@
     "defenceBonuses": {
         "crush": 225
     },
-    "immunities": {
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

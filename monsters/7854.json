@@ -34,12 +34,8 @@
     "defenceLevel": 100,
     "rangedLevel": 140,
     "magicLevel": 140,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
-        "Slash '\"`UNIQ--ref-00000027-QINU`\"'"
+        "Slash '\"`UNIQ--ref-00000358-QINU`\"'"
     ],
     "attackSpeed": 6,
     "flatArmour": -1,

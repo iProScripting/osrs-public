@@ -39,10 +39,6 @@
         "slash": 25,
         "lightRanged": -10
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush",
         "Ranged"

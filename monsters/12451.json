@@ -34,14 +34,9 @@
         "stab": 50,
         "slash": 50,
         "crush": 50,
-        "ranged": 50,
         "lightRanged": 50,
         "standardRanged": 50,
         "heavyRanged": 50
-    },
-    "immunities": {
-        "poison": true,
-        "venom": true
     },
     "attackStyle": [
         "Stab"

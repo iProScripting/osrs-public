@@ -26,10 +26,6 @@
     "defenceLevel": 100,
     "rangedLevel": 1,
     "magicLevel": 1,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Area of effect"
     ],

@@ -18,10 +18,6 @@
         "crush": 100,
         "magic": 100
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "None"
     ],

@@ -24,10 +24,6 @@
         "stab": 1,
         "slash": 1
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],

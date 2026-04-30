@@ -23,7 +23,6 @@
     },
     "defenceBonuses": {
         "magic": -15,
-        "ranged": 270,
         "lightRanged": 270,
         "standardRanged": 270,
         "heavyRanged": 270

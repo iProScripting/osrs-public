@@ -21,14 +21,9 @@
         "strength": 11
     },
     "defenceBonuses": {
-        "ranged": -1,
         "lightRanged": -1,
         "standardRanged": -1,
         "heavyRanged": -1
-    },
-    "immunities": {
-        "poison": true,
-        "venom": true
     },
     "attackStyle": [
         "Slash"

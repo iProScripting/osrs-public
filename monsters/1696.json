@@ -16,10 +16,6 @@
     "strengthLevel": 52,
     "defenceLevel": 38,
     "magicLevel": 37,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Stab"
     ],

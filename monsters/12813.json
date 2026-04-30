@@ -22,14 +22,11 @@
         "strength": 64
     },
     "defenceBonuses": {
-        "ranged": 12,
         "lightRanged": 12,
         "standardRanged": 12,
         "heavyRanged": 12
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

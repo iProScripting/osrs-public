@@ -20,8 +20,6 @@
         "strength": -21
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "thrall": true
     },
     "attackStyle": [

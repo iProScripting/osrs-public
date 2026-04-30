@@ -34,14 +34,11 @@
         "stab": 100,
         "slash": 80,
         "crush": 333,
-        "ranged": 220,
         "lightRanged": 333,
         "standardRanged": 220,
         "heavyRanged": 333
     },
     "immunities": {
-        "poison": true,
-        "venom": true,
         "cannon": true
     },
     "attackStyle": [

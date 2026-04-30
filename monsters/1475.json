@@ -23,10 +23,6 @@
     "attackLevel": 5,
     "strengthLevel": 5,
     "defenceLevel": 3,
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "None"
     ],

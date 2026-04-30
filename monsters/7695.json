@@ -31,13 +31,9 @@
         "rangedStrength": 25
     },
     "defenceBonuses": {
-        "ranged": 25,
         "lightRanged": 25,
         "standardRanged": 25,
         "heavyRanged": 25
-    },
-    "immunities": {
-        "venom": true
     },
     "attackStyle": [
         "Ranged"

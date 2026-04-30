@@ -27,10 +27,6 @@
     "defenceBonuses": {
         "magic": 30
     },
-    "immunities": {
-        "poison": true,
-        "venom": true
-    },
     "attackStyle": [
         "Crush"
     ],
