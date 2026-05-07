@@ -27,5 +27,7 @@
         "Magic"
     ],
     "attackSpeed": 5,
-    "size": 3
+    "size": 3,
+    "elementalWeakness": "WATER",
+    "elementalWeaknessPercent": 15
 }

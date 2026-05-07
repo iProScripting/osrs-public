@@ -4,6 +4,6 @@
     "members": false,
     "examine": "A combined cosmic and soul rune.",
     "value": 300,
-    "weight": 0.002,
+    "weight": 0.0,
     "buyLimit": 25000
 }

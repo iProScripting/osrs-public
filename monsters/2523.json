@@ -10,6 +10,9 @@
         "undead"
     ],
     "hitpoints": 70,
+    "maxHit": [
+        "10?"
+    ],
     "slayerExperience": 70.0,
     "slayerCategory": [
         "Skeletons"

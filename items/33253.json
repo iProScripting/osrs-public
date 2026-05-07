@@ -8,6 +8,7 @@
     "equipment": {
         "crushAttack": 60,
         "magicAttack": 25,
+        "slashDefence": 5,
         "crushDefence": 5,
         "magicDefence": 17,
         "strength": 50,
