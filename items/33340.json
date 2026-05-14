@@ -4,7 +4,7 @@
     "members": false,
     "examine": "You don't want to wear it inside-out.",
     "value": 90000,
-    "weight": 1.814,
+    "weight": 2.267,
     "equipment": {
         "magicAttack": -6,
         "rangedAttack": -2,

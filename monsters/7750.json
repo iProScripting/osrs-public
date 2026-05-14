@@ -13,6 +13,12 @@
     "defenceLevel": 500,
     "rangedLevel": 1,
     "magicLevel": 1,
+    "defenceBonuses": {
+        "stab": 275,
+        "slash": 275,
+        "crush": 275,
+        "magic": 900
+    },
     "attackStyle": [
     ],
     "size": 5

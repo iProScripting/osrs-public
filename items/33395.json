@@ -1,0 +1,8 @@
+{
+    "name": "Gem sack",
+    "id": 33395,
+    "members": false,
+    "examine": "You can carry uncut gems in here.",
+    "value": 100,
+    "weight": 1.0
+}

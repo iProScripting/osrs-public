@@ -5,8 +5,14 @@
     "examine": "A fierce dragon with black scales!",
     "releaseDate": "27 November 2024",
     "combatLevel": 227,
+    "hitpoints": 190,
     "usesSkill": [
     ],
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 200,
+    "rangedLevel": 1,
+    "magicLevel": 100,
     "attackStyle": [
     ],
     "size": 4

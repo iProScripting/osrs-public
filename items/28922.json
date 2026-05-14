@@ -11,7 +11,7 @@
         "prayerBonus": 2,
         "slot": "WEAPON",
         "attackSpeed": 7,
-        "attackRange": 6,
+        "attackRange": 7,
         "combatStyle": "THROWN"
     }
 }

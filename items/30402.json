@@ -2,7 +2,7 @@
     "name": "Raids megarare voucher",
     "id": 30402,
     "members": false,
-    "examine": "This can be handed to the Sage for a rare item of your choice.",
+    "examine": "This can be handed to the Sage<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"It is given to the Leagues Tutor.\">sic</span>&#93;</sup> for a rare item of your choice.",
     "value": 100000,
     "weight": 0.1
 }
