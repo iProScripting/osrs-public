@@ -2,7 +2,7 @@
     "name": "Crate of herbs",
     "id": 32797,
     "members": false,
-    "examine": "A cargo crate of herbs destined for Void Knights' Outpost.",
+    "examine": "A cargo crate of herbs destined for the Void Knights' Outpost.",
     "value": 0,
     "weight": 1.285,
     "equipment": {

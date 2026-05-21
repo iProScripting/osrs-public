@@ -2,7 +2,7 @@
     "name": "Crate of javelins",
     "id": 32754,
     "members": false,
-    "examine": "A cargo crate of javelins destined for Ruins of Unkah.",
+    "examine": "A cargo crate of javelins destined for the Ruins of Unkah.",
     "value": 0,
     "weight": 1.285,
     "equipment": {

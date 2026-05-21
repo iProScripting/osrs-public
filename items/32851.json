@@ -2,7 +2,7 @@
     "name": "Barracuda salvage",
     "id": 32851,
     "members": false,
-    "examine": "Salvage collected from a barracuda shipwreck.",
+    "examine": "Salvage from a Barracuda shipwreck. You can sort through it at a salvaging station.",
     "value": 200,
     "weight": 3.0
 }

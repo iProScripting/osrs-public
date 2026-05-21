@@ -2,7 +2,7 @@
     "name": "Crate of rum",
     "id": 32528,
     "members": false,
-    "examine": "A cargo Crate of rum destined for Corsair Cove.",
+    "examine": "A cargo crate of rum destined for Corsair Cove.",
     "value": 0,
     "weight": 1.285,
     "equipment": {
