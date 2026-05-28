@@ -5,6 +5,7 @@
     "examine": "An ancient tome containing the secrets of water magic.",
     "value": 19500,
     "weight": 1.0,
+    "buyLimit": 15,
     "equipment": {
         "magicAttack": 8,
         "magicDefence": 8,

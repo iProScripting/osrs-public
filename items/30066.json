@@ -5,6 +5,7 @@
     "examine": "An ancient tome containing the secrets of earth magic.",
     "value": 20000,
     "weight": 1.0,
+    "buyLimit": 15,
     "equipment": {
         "magicAttack": 8,
         "magicDefence": 8,

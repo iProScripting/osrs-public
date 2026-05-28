@@ -1,0 +1,8 @@
+{
+    "name": "Red coral (interface item)",
+    "id": 31405,
+    "members": false,
+    "examine": "A pretty piece of coral with magical properties.",
+    "value": 30,
+    "weight": 0.05
+}
