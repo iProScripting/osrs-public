@@ -1,0 +1,8 @@
+{
+    "name": "Mission totem",
+    "id": 33424,
+    "members": false,
+    "examine": "This can be taken to the Totem Trader for a reward.",
+    "value": 1,
+    "weight": 0.009
+}

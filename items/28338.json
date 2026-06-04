@@ -5,6 +5,7 @@
     "examine": "An axe that manipulates the very lifeforce of those who touch it.",
     "value": 240000,
     "weight": 2.825,
+    "buyLimit": 5,
     "equipment": {
         "stabAttack": 28,
         "slashAttack": 134,

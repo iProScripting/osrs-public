@@ -5,5 +5,5 @@
     "examine": "Be careful with these! They're unstable!",
     "value": 15,
     "weight": 0.02,
-    "buyLimit": 4500
+    "buyLimit": 30000
 }
