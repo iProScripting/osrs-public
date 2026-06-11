@@ -5,7 +5,6 @@
     "examine": "It needs to be charged with death runes, chaos runes, fire runes and Zulrah's scales.",
     "value": 108000,
     "weight": 1.814,
-    "buyLimit": 8,
     "equipment": {
         "magicAttack": 25,
         "stabDefence": 2,

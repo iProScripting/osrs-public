@@ -5,6 +5,7 @@
     "examine": "A well balanced blade adorned with gold.",
     "value": 45000,
     "weight": 1.36,
+    "buyLimit": 15,
     "equipment": {
         "stabAttack": 100,
         "slashAttack": 78,

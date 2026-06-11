@@ -4,5 +4,6 @@
     "members": false,
     "examine": "The sharp horn of a narwhal.",
     "value": 8000,
-    "weight": 1.5
+    "weight": 1.5,
+    "buyLimit": 15
 }

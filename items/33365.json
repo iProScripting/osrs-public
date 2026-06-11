@@ -2,7 +2,7 @@
     "name": "Impish whistle",
     "id": 33365,
     "members": false,
-    "examine": "Used to unlock the Impish overrides for your Arceuus thralls.",
+    "examine": "Used to unlock the impish overrides for your Arceuus thralls.",
     "value": 25000,
     "weight": 0.1
 }

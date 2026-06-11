@@ -4,5 +4,6 @@
     "members": false,
     "examine": "Some nicely cooked halibut.",
     "value": 170,
-    "weight": 0.65
+    "weight": 0.65,
+    "buyLimit": 10000
 }
