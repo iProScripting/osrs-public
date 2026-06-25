@@ -5,6 +5,7 @@
     "examine": "A tiara infused with the properties of every elemental rune.",
     "value": 100,
     "weight": 1.0,
+    "buyLimit": 40,
     "equipment": {
         "slot": "HEAD"
     }

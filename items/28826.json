@@ -1,11 +1,8 @@
 {
-    "name": "Dizana's quiver",
+    "name": "Dizana's quiver (broken)",
     "id": 28826,
     "members": false,
     "examine": "A broken Quiver awarded to those who have proved their worth in the Colosseum.",
     "value": 80000,
-    "weight": 0.453,
-    "equipment": {
-        "slot": "CAPE"
-    }
+    "weight": 0.453
 }
