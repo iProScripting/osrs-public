@@ -1,0 +1,8 @@
+{
+    "name": "Rancid slimy potion",
+    "id": 33812,
+    "members": false,
+    "examine": "Smooth like butter.",
+    "value": 30,
+    "weight": 0.025
+}

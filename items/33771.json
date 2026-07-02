@@ -1,0 +1,8 @@
+{
+    "name": "Thick red potion",
+    "id": 33771,
+    "members": false,
+    "examine": "A red potion that's very thick.",
+    "value": 30,
+    "weight": 0.02
+}

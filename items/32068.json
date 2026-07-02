@@ -2,7 +2,7 @@
     "name": "Large teak hull parts",
     "id": 32068,
     "members": false,
-    "examine": "Large parts for creating a teak hull for a large boat.",
+    "examine": "Parts for creating a teak hull for larger boats.",
     "value": 6250,
     "weight": 4.0,
     "buyLimit": 100

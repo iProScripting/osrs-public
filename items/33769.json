@@ -1,0 +1,8 @@
+{
+    "name": "Cloudy grey potion",
+    "id": 33769,
+    "members": false,
+    "examine": "A grey potion that's rather cloudy.",
+    "value": 30,
+    "weight": 0.02
+}

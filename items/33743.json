@@ -1,0 +1,8 @@
+{
+    "name": "Explosive barrel",
+    "id": 33743,
+    "members": false,
+    "examine": "Whatever is in it smells rather potent and unstable.",
+    "value": 30,
+    "weight": 1.0
+}

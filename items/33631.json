@@ -1,0 +1,16 @@
+{
+    "name": "Crimson kisten",
+    "id": 33631,
+    "members": false,
+    "examine": "A nasty war implement. I should be careful not to hit myself.",
+    "value": 240000,
+    "weight": 2.825,
+    "buyLimit": 5,
+    "equipment": {
+        "crushAttack": 80,
+        "strength": 56,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "combatStyle": "AXE"
+    }
+}

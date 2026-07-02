@@ -2,7 +2,7 @@
     "name": "Martial salvage",
     "id": 32857,
     "members": false,
-    "examine": "Salvage collected from a mercenary shipwreck.",
+    "examine": "Salvage from a mercenary shipwreck. You can sort through it at a salvaging station.",
     "value": 200,
     "weight": 3.0
 }

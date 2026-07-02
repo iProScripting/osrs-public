@@ -1,0 +1,8 @@
+{
+    "name": "Gilded book",
+    "id": 33767,
+    "members": false,
+    "examine": "A very fancy book.",
+    "value": 30,
+    "weight": 0.06
+}

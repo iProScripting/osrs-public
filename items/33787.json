@@ -1,0 +1,8 @@
+{
+    "name": "Bolt cutters",
+    "id": 33787,
+    "members": false,
+    "examine": "Not really a key, but kind of.",
+    "value": 30,
+    "weight": 0.2
+}

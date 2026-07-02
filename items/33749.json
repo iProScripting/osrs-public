@@ -1,0 +1,8 @@
+{
+    "name": "Sharp knife",
+    "id": 33749,
+    "members": false,
+    "examine": "A sharp kitchen knife.",
+    "value": 30,
+    "weight": 0.08
+}

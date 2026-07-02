@@ -1,0 +1,14 @@
+{
+    "name": "Seeking amethyst arrow",
+    "id": 33589,
+    "members": false,
+    "examine": "Bloodwood-treated arrows with amethyst heads.",
+    "value": 490,
+    "weight": 0.016,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 55,
+        "slot": "AMMO",
+        "combatStyle": "UNARMED"
+    }
+}

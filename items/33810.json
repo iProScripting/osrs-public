@@ -1,0 +1,8 @@
+{
+    "name": "Foul chunky potion",
+    "id": 33810,
+    "members": false,
+    "examine": "The chunks just add a little texture.",
+    "value": 30,
+    "weight": 0.015
+}

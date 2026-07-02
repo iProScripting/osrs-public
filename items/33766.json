@@ -1,0 +1,8 @@
+{
+    "name": "Fancy gem",
+    "id": 33766,
+    "members": false,
+    "examine": "A pretty gem.",
+    "value": 30,
+    "weight": 0.05
+}

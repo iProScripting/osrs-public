@@ -1,0 +1,8 @@
+{
+    "name": "Weightless black potion",
+    "id": 33770,
+    "members": false,
+    "examine": "A black potion that feels totally weightless.",
+    "value": 30,
+    "weight": 0.02
+}

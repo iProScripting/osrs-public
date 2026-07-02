@@ -1,0 +1,8 @@
+{
+    "name": "Sap-treated maple logs",
+    "id": 33613,
+    "members": false,
+    "examine": "Maple logs treated with bloodwood sap.",
+    "value": 80,
+    "weight": 2.0
+}

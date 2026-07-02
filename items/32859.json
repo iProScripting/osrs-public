@@ -2,7 +2,7 @@
     "name": "Fremennik salvage",
     "id": 32859,
     "members": false,
-    "examine": "Salvage collected from a Fremennik shipwreck.",
+    "examine": "Salvage from a Fremennik shipwreck. You can sort through it at a salvaging station.",
     "value": 200,
     "weight": 3.0
 }

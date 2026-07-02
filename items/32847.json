@@ -2,7 +2,7 @@
     "name": "Small salvage",
     "id": 32847,
     "members": false,
-    "examine": "Salvage collected from a small shipwreck.",
+    "examine": "Salvage from a small shipwreck. You can sort through it at a salvaging station.",
     "value": 200,
     "weight": 3.0
 }

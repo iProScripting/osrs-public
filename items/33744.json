@@ -1,0 +1,8 @@
+{
+    "name": "Small clock hand",
+    "id": 33744,
+    "members": false,
+    "examine": "The small hand of a clock.",
+    "value": 30,
+    "weight": 0.02
+}

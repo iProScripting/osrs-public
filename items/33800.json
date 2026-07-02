@@ -1,0 +1,16 @@
+{
+    "name": "Silvthrill ballista",
+    "id": 33800,
+    "members": false,
+    "examine": "A powerful weapon forged from pure silvthrill.",
+    "value": 100,
+    "weight": 2.0,
+    "equipment": {
+        "rangedAttack": 125,
+        "rangedStrength": 15,
+        "slot": "WEAPON",
+        "attackSpeed": 6,
+        "attackRange": 10,
+        "combatStyle": "CROSSBOW"
+    }
+}

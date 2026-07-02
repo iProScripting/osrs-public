@@ -1,0 +1,8 @@
+{
+    "name": "The Life of Friar",
+    "id": 33706,
+    "members": false,
+    "examine": "A journal detailing the life and times of Friar Twiblick.",
+    "value": 30,
+    "weight": 0.28
+}

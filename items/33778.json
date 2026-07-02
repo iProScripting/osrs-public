@@ -1,0 +1,8 @@
+{
+    "name": "Chemical vial",
+    "id": 33778,
+    "members": false,
+    "examine": "A vial of chemicals.",
+    "value": 30,
+    "weight": 0.02
+}

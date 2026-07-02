@@ -1,0 +1,12 @@
+{
+    "name": "Silvthrill javelin",
+    "id": 33801,
+    "members": false,
+    "examine": "A silvthrill tipped javelin.",
+    "value": 10,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 124,
+        "slot": "AMMO"
+    }
+}

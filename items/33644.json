@@ -1,0 +1,13 @@
+{
+    "name": "Dummy stymphike feather",
+    "id": 33644,
+    "members": false,
+    "examine": "placeholder",
+    "value": 1500,
+    "weight": 2.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "combatStyle": "BLUNT"
+    }
+}

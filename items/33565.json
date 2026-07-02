@@ -1,0 +1,14 @@
+{
+    "name": "Seeking steel arrow",
+    "id": 33565,
+    "members": false,
+    "examine": "Bloodwood-treated arrows with steel heads.",
+    "value": 12,
+    "weight": 0.016,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 16,
+        "slot": "AMMO",
+        "combatStyle": "UNARMED"
+    }
+}

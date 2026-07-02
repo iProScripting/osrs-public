@@ -1,0 +1,8 @@
+{
+    "name": "Grapevine (item)",
+    "id": 33659,
+    "members": false,
+    "examine": "Vampyrium grapes? They look weirdly normal.",
+    "value": 1,
+    "weight": 0.25
+}

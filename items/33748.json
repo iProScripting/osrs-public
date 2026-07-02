@@ -1,0 +1,8 @@
+{
+    "name": "Broken pipe",
+    "id": 33748,
+    "members": false,
+    "examine": "A long piece of pipe.",
+    "value": 30,
+    "weight": 0.1
+}

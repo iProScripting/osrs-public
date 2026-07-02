@@ -1,0 +1,8 @@
+{
+    "name": "Cold bluish-white potion",
+    "id": 33772,
+    "members": false,
+    "examine": "A bluish-white potion that's cold to the touch.",
+    "value": 30,
+    "weight": 0.02
+}

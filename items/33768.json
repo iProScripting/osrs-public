@@ -1,0 +1,8 @@
+{
+    "name": "Vampyre book",
+    "id": 33768,
+    "members": false,
+    "examine": "A book on vampyres.",
+    "value": 30,
+    "weight": 0.06
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Squire's journal",
+    "id": 33701,
+    "members": false,
+    "examine": "The journal of a squire who once served Ivandis Seergaze.",
+    "value": 30,
+    "weight": 0.28
+}

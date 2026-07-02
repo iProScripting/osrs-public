@@ -1,0 +1,14 @@
+{
+    "name": "Necklace of rupture",
+    "id": 33639,
+    "members": false,
+    "examine": "The necklace vibrates threateningly when pressed.",
+    "value": 242000,
+    "weight": 0.01,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 8,
+        "prayerBonus": 3,
+        "slot": "NECK"
+    }
+}

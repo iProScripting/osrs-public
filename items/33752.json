@@ -1,0 +1,8 @@
+{
+    "name": "Syringe barrel",
+    "id": 33752,
+    "members": false,
+    "examine": "The barrel for a syringe.",
+    "value": 30,
+    "weight": 0.02
+}

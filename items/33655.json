@@ -1,0 +1,8 @@
+{
+    "name": "Makeshift spear",
+    "id": 33655,
+    "members": false,
+    "examine": "This definitely has a pointy end that could stick something.",
+    "value": 350,
+    "weight": 0.0
+}

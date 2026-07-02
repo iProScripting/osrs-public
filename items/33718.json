@@ -1,0 +1,20 @@
+{
+    "name": "Hallowed flail",
+    "id": 33718,
+    "members": false,
+    "examine": "A legendary flail that has been enhanced with blisterwood and pure silvthrill.",
+    "value": 80000,
+    "weight": 0.001,
+    "equipment": {
+        "stabAttack": 32,
+        "slashAttack": 68,
+        "magicAttack": 10,
+        "slashDefence": 2,
+        "magicDefence": 10,
+        "strength": 46,
+        "prayerBonus": 6,
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "attackRange": 1
+    }
+}

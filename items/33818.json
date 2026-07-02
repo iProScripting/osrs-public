@@ -1,0 +1,8 @@
+{
+    "name": "Rank frothy potion",
+    "id": 33818,
+    "members": false,
+    "examine": "Wonder what gives it that froth?",
+    "value": 30,
+    "weight": 0.015
+}

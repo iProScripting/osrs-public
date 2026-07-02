@@ -1,0 +1,8 @@
+{
+    "name": "Stymphike carcass",
+    "id": 33653,
+    "members": false,
+    "examine": "Does this count as meat?",
+    "value": 1,
+    "weight": 0.34
+}

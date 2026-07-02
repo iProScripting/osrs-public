@@ -1,0 +1,21 @@
+{
+    "name": "Sunspear",
+    "id": 33722,
+    "members": false,
+    "examine": "A holy spear.",
+    "value": 100000,
+    "weight": 3.0,
+    "equipment": {
+        "stabAttack": 100,
+        "slashAttack": 21,
+        "crushAttack": 60,
+        "slashDefence": 42,
+        "crushDefence": 28,
+        "strength": 70,
+        "prayerBonus": 7,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1,
+        "combatStyle": "SPEAR"
+    }
+}

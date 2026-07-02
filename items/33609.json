@@ -1,0 +1,8 @@
+{
+    "name": "Sap-treated magic logs",
+    "id": 33609,
+    "members": false,
+    "examine": "Magic logs treated with bloodwood sap.",
+    "value": 320,
+    "weight": 2.0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Blisterwood stake",
+    "id": 33716,
+    "members": false,
+    "examine": "A very sharp piece of wood.",
+    "value": 100,
+    "weight": 0.34,
+    "equipment": {
+        "rangedAttack": 16,
+        "rangedStrength": 14,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 6,
+        "combatStyle": "THROWN"
+    }
+}

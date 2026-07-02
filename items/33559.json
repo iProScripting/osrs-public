@@ -1,0 +1,14 @@
+{
+    "name": "Seeking iron arrow",
+    "id": 33559,
+    "members": false,
+    "examine": "Bloodwood-treated arrows with iron heads.",
+    "value": 3,
+    "weight": 0.016,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 10,
+        "slot": "AMMO",
+        "combatStyle": "UNARMED"
+    }
+}

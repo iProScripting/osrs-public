@@ -1,0 +1,8 @@
+{
+    "name": "Ornate knife",
+    "id": 33740,
+    "members": false,
+    "examine": "A fancy knife.",
+    "value": 30,
+    "weight": 0.08
+}

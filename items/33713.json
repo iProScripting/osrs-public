@@ -1,0 +1,22 @@
+{
+    "name": "Blisterwood sickle (e)",
+    "id": 33713,
+    "members": false,
+    "examine": "A diamond sickle with a blade of silver and blisterwood.",
+    "value": 30000,
+    "weight": 1.587,
+    "equipment": {
+        "stabAttack": 44,
+        "slashAttack": 56,
+        "stabDefence": 1,
+        "slashDefence": 2,
+        "crushDefence": 2,
+        "magicDefence": 2,
+        "rangedDefence": 2,
+        "strength": 56,
+        "prayerBonus": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

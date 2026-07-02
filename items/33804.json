@@ -1,0 +1,8 @@
+{
+    "name": "Putrid sticky potion",
+    "id": 33804,
+    "members": false,
+    "examine": "Doesn't smell great.",
+    "value": 30,
+    "weight": 0.025
+}

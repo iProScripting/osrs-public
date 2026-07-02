@@ -1,0 +1,8 @@
+{
+    "name": "Tongs",
+    "id": 33750,
+    "members": false,
+    "examine": "Used for grabbing and holding small things.",
+    "value": 30,
+    "weight": 0.05
+}

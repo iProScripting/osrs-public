@@ -1,0 +1,8 @@
+{
+    "name": "Full syringe",
+    "id": 33755,
+    "members": false,
+    "examine": "A syringe full of very strong stomach acid.",
+    "value": 30,
+    "weight": 0.07
+}

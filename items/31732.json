@@ -2,7 +2,7 @@
     "name": "Stormy key",
     "id": 31732,
     "members": false,
-    "examine": "A key rewarded for completing the Tempor Tantrum, what does it open?",
+    "examine": "A key rewarded for completing the Tempor Tantrum. What does it open?",
     "value": 30,
     "weight": 0.02
 }

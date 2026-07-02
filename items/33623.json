@@ -1,0 +1,8 @@
+{
+    "name": "Blood sac",
+    "id": 33623,
+    "members": false,
+    "examine": "A rather unpleasant-looking blood sac.",
+    "value": 23,
+    "weight": 0.0
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Seeking broad arrows",
+    "id": 33601,
+    "members": false,
+    "examine": "Bloodwood-treated arrows with a wider than normal tip.",
+    "value": 60,
+    "weight": 0.016,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 28,
+        "slot": "AMMO",
+        "combatStyle": "UNARMED"
+    }
+}

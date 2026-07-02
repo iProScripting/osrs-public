@@ -1,0 +1,8 @@
+{
+    "name": "Syringe needle",
+    "id": 33751,
+    "members": false,
+    "examine": "The needle for a syringe.",
+    "value": 30,
+    "weight": 0.02
+}

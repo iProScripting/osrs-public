@@ -2,7 +2,7 @@
     "name": "Plundered salvage",
     "id": 32855,
     "members": false,
-    "examine": "Salvage collected from a pirate shipwreck.",
+    "examine": "Salvage from a pirate shipwreck. You can sort through it at a salvaging station.",
     "value": 200,
     "weight": 3.0
 }

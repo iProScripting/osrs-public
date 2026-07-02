@@ -1,0 +1,8 @@
+{
+    "name": "Sink plug",
+    "id": 33747,
+    "members": false,
+    "examine": "A plug from a sink.",
+    "value": 30,
+    "weight": 0.02
+}

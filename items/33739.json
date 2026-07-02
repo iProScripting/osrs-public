@@ -1,0 +1,8 @@
+{
+    "name": "Shield with symbol",
+    "id": 33739,
+    "members": false,
+    "examine": "A very old shield with a symbol on it.",
+    "value": 30,
+    "weight": 0.25
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Seeking rune arrow",
+    "id": 33583,
+    "members": false,
+    "examine": "Bloodwood-treated arrows with rune heads.",
+    "value": 400,
+    "weight": 0.016,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 49,
+        "slot": "AMMO",
+        "combatStyle": "UNARMED"
+    }
+}

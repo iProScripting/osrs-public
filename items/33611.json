@@ -1,0 +1,8 @@
+{
+    "name": "Sap-treated yew logs",
+    "id": 33611,
+    "members": false,
+    "examine": "Yew logs treated with bloodwood sap.",
+    "value": 160,
+    "weight": 2.0
+}

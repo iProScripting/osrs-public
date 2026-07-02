@@ -2,7 +2,7 @@
     "name": "Large oak hull parts",
     "id": 32065,
     "members": false,
-    "examine": "Large parts for creating an oak hull for a large boat.",
+    "examine": "Parts for creating an oak hull for larger boats.",
     "value": 3125,
     "weight": 4.0
 }

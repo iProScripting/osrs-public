@@ -1,0 +1,8 @@
+{
+    "name": "Venator stomach",
+    "id": 33756,
+    "members": false,
+    "examine": "A stomach. How nice.",
+    "value": 30,
+    "weight": 0.05
+}

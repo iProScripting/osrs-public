@@ -1,0 +1,14 @@
+{
+    "name": "Seeking mithril arrow",
+    "id": 33571,
+    "members": false,
+    "examine": "Bloodwood-treated arrows with mithril heads.",
+    "value": 32,
+    "weight": 0.014,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 22,
+        "slot": "AMMO",
+        "combatStyle": "UNARMED"
+    }
+}

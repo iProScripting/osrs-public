@@ -1,0 +1,19 @@
+{
+    "name": "Enchanted diamond sickle (b)",
+    "id": 33711,
+    "members": false,
+    "examine": "It's a blessed and enchanted silver sickle with a diamond recessed into it.",
+    "value": 250,
+    "weight": 1.587,
+    "equipment": {
+        "slashDefence": 1,
+        "crushDefence": 1,
+        "magicDefence": 1,
+        "rangedDefence": 1,
+        "strength": 12,
+        "prayerBonus": 5,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "combatStyle": "SLASH_SWORD"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Ornate hourglass",
+    "id": 33742,
+    "members": false,
+    "examine": "A fancy hourglass.",
+    "value": 30,
+    "weight": 0.08
+}

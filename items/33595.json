@@ -1,0 +1,14 @@
+{
+    "name": "Seeking dragon arrow",
+    "id": 33595,
+    "members": false,
+    "examine": "An arrow made using a dragon's talon.",
+    "value": 800,
+    "weight": 0.016,
+    "equipment": {
+        "rangedAttack": 20,
+        "rangedStrength": 60,
+        "slot": "AMMO",
+        "combatStyle": "UNARMED"
+    }
+}

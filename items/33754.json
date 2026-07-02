@@ -1,0 +1,8 @@
+{
+    "name": "Empty syringe",
+    "id": 33754,
+    "members": false,
+    "examine": "It could be filled with something.",
+    "value": 30,
+    "weight": 0.06
+}

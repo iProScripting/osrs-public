@@ -1,0 +1,8 @@
+{
+    "name": "Tome of experience (The Blood Moon Rises)",
+    "id": 33715,
+    "members": false,
+    "examine": "A tome of experience that awards 30,000 XP per chapter.",
+    "value": 10,
+    "weight": 1000.0
+}

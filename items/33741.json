@@ -1,0 +1,8 @@
+{
+    "name": "Ornate skull",
+    "id": 33741,
+    "members": false,
+    "examine": "A fancy skull. How macabre.",
+    "value": 30,
+    "weight": 0.08
+}

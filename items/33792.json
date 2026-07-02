@@ -1,0 +1,8 @@
+{
+    "name": "Serpent rope",
+    "id": 33792,
+    "members": false,
+    "examine": "This rope would be very angry, if it wasn't dead.",
+    "value": 30,
+    "weight": 0.5
+}

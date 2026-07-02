@@ -2,7 +2,7 @@
     "name": "Perildance bitter",
     "id": 31817,
     "members": false,
-    "examine": "When you're drunk you never miss! Not that you'd remember.",
+    "examine": "When you're drunk, you never miss! Not that you'd remember.",
     "value": 300,
     "weight": 0.5
 }

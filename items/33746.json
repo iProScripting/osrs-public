@@ -1,0 +1,8 @@
+{
+    "name": "Poem scroll",
+    "id": 33746,
+    "members": false,
+    "examine": "A scroll with a poem on it.",
+    "value": 30,
+    "weight": 0.01
+}

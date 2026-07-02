@@ -1,0 +1,8 @@
+{
+    "name": "Dusty book",
+    "id": 33789,
+    "members": false,
+    "examine": "A dusty old tome. Hard to make out what it's even titled.",
+    "value": 30,
+    "weight": 0.28
+}
