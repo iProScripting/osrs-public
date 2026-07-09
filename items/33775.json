@@ -1,0 +1,8 @@
+{
+    "name": "Vial of blood (The Blood Moon Rises)",
+    "id": 33775,
+    "members": false,
+    "examine": "A glass vial containing blood.",
+    "value": 30,
+    "weight": 0.02
+}

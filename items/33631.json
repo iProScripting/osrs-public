@@ -11,6 +11,7 @@
         "strength": 56,
         "slot": "WEAPON",
         "attackSpeed": 4,
-        "combatStyle": "AXE"
+        "attackRange": 1,
+        "combatStyle": "SPIKED"
     }
 }

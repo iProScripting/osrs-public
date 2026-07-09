@@ -5,7 +5,7 @@
     "examine": "Aids the user against vampyres.",
     "value": 1425,
     "weight": 0.006,
-    "buyLimit": 10000,
+    "buyLimit": 15000,
     "equipment": {
         "slot": "RING"
     }

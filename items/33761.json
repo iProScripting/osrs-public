@@ -2,7 +2,7 @@
     "name": "Lockbox (The Blood Moon Rises)",
     "id": 33761,
     "members": false,
-    "examine": "A small ornate lockbox",
+    "examine": "A small ornate lockbox.",
     "value": 30,
     "weight": 0.2
 }

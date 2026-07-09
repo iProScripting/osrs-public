@@ -1,0 +1,8 @@
+{
+    "name": "Void mage helm",
+    "id": 33468,
+    "members": false,
+    "examine": "A broken mage helm from the order of the Void Knights.",
+    "value": 1,
+    "weight": 0.453
+}

@@ -16,7 +16,7 @@
         "magicDefence": 6,
         "strength": 2,
         "slot": "WEAPON",
-        "attackSpeed": 5,
+        "attackSpeed": 4,
         "attackRange": 1,
         "combatStyle": "STAFF"
     }

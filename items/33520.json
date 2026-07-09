@@ -1,0 +1,8 @@
+{
+    "name": "Fighter torso",
+    "id": 33520,
+    "members": false,
+    "examine": "A broken Penance Fighter torso.",
+    "value": 1,
+    "weight": 4.0
+}

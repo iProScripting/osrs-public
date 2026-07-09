@@ -1,7 +1,8 @@
 {
     "name": "Drakan emblem",
-    "id": 33733,
+    "id": 33731,
     "members": false,
     "examine": "An emblem of House Drakan.",
-    "value": 30
+    "value": 30,
+    "weight": 0.05
 }

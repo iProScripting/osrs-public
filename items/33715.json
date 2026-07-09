@@ -4,5 +4,5 @@
     "members": false,
     "examine": "A tome of experience that awards 30,000 XP per chapter.",
     "value": 10,
-    "weight": 1000.0
+    "weight": 1.0
 }

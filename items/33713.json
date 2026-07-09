@@ -17,6 +17,7 @@
         "prayerBonus": 5,
         "slot": "WEAPON",
         "attackSpeed": 5,
+        "attackRange": 1,
         "combatStyle": "SLASH_SWORD"
     }
 }
