@@ -4,11 +4,11 @@
     "members": false,
     "examine": "An arrow made using a dragon's talon.",
     "value": 800,
-    "weight": 0.016,
+    "weight": 0.0,
+    "buyLimit": 11000,
     "equipment": {
         "rangedAttack": 20,
         "rangedStrength": 60,
-        "slot": "AMMO",
-        "combatStyle": "UNARMED"
+        "slot": "AMMO"
     }
 }

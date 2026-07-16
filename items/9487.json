@@ -1,8 +1,8 @@
 {
-    "name": "Wizard blizzard (cocktail glass)",
+    "name": "Cocktail glass (Vampyrium)",
     "id": 9487,
     "members": false,
-    "examine": "This looks like a strange mix.",
+    "examine": "For sipping cocktails.",
     "value": 1,
     "weight": 0.45
 }

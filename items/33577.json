@@ -4,11 +4,10 @@
     "members": false,
     "examine": "Bloodwood-treated arrows with adamant heads.",
     "value": 80,
-    "weight": 0.018,
+    "weight": 0.0,
     "equipment": {
         "rangedAttack": 20,
         "rangedStrength": 31,
-        "slot": "AMMO",
-        "combatStyle": "UNARMED"
+        "slot": "AMMO"
     }
 }

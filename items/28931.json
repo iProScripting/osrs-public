@@ -4,5 +4,6 @@
     "members": false,
     "examine": "It's still warm to the touch.",
     "value": 200,
-    "weight": 0.0
+    "weight": 0.0,
+    "buyLimit": 11000
 }

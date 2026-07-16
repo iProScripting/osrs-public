@@ -4,11 +4,10 @@
     "members": false,
     "examine": "Bloodwood-treated arrows with amethyst heads.",
     "value": 490,
-    "weight": 0.016,
+    "weight": 0.0,
     "equipment": {
         "rangedAttack": 20,
         "rangedStrength": 55,
-        "slot": "AMMO",
-        "combatStyle": "UNARMED"
+        "slot": "AMMO"
     }
 }

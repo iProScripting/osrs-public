@@ -4,11 +4,10 @@
     "members": false,
     "examine": "Bloodwood-treated arrows with a wider than normal tip.",
     "value": 60,
-    "weight": 0.016,
+    "weight": 0.0,
     "equipment": {
         "rangedAttack": 20,
         "rangedStrength": 28,
-        "slot": "AMMO",
-        "combatStyle": "UNARMED"
+        "slot": "AMMO"
     }
 }

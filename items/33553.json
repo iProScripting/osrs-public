@@ -4,11 +4,10 @@
     "members": false,
     "examine": "Bloodwood-treated arrows with bronze heads.",
     "value": 1,
-    "weight": 0.016,
+    "weight": 0.0,
     "equipment": {
         "rangedAttack": 20,
         "rangedStrength": 7,
-        "slot": "AMMO",
-        "combatStyle": "UNARMED"
+        "slot": "AMMO"
     }
 }
