@@ -5,6 +5,7 @@
     "examine": "The robe bottom of a Demonic Relic Hunter.",
     "value": 100000,
     "weight": 0.907,
+    "buyLimit": 4,
     "equipment": {
         "slot": "LEGS"
     }

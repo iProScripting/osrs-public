@@ -7,7 +7,7 @@
     "weight": 2.721,
     "buyLimit": 125,
     "equipment": {
-        "magicAttack": -6,
+        "magicAttack": 2,
         "rangedAttack": -2,
         "stabDefence": 6,
         "slashDefence": 7,

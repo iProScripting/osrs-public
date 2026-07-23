@@ -16,7 +16,7 @@
         "magicDefence": 15,
         "strength": 60,
         "prayerBonus": -1,
-        "magicDamage": 5.0,
+        "magicDamage": 10.0,
         "slot": "WEAPON",
         "attackSpeed": 4,
         "attackRange": 1,

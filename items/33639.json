@@ -5,6 +5,7 @@
     "examine": "The necklace vibrates threateningly when pressed.",
     "value": 242000,
     "weight": 0.01,
+    "buyLimit": 8,
     "equipment": {
         "rangedAttack": 20,
         "rangedStrength": 8,

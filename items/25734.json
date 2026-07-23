@@ -6,9 +6,9 @@
     "value": 5000000,
     "weight": 1.814,
     "equipment": {
-        "stabAttack": 94,
+        "stabAttack": 100,
         "slashAttack": 55,
-        "strength": 89,
+        "strength": 93,
         "slot": "WEAPON",
         "attackSpeed": 4,
         "attackRange": 1,

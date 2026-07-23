@@ -7,8 +7,6 @@
     "weight": 9.071,
     "buyLimit": 8,
     "equipment": {
-        "stabAttack": -3,
-        "slashAttack": -3,
         "crushAttack": 12,
         "magicAttack": -9,
         "rangedAttack": -5,

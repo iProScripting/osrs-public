@@ -5,6 +5,7 @@
     "examine": "A bow used by hunters from a forgotten empire.",
     "value": 750000,
     "weight": 4.5,
+    "buyLimit": 8,
     "equipment": {
         "rangedAttack": 90,
         "rangedStrength": 25,

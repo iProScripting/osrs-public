@@ -14,6 +14,7 @@
         "crushDefence": 5,
         "magicDefence": 5,
         "rangedDefence": 5,
+        "rangedStrength": 1,
         "slot": "FEET"
     }
 }

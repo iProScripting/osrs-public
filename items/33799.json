@@ -1,0 +1,8 @@
+{
+    "name": "Healing potion",
+    "id": 33799,
+    "members": false,
+    "examine": "Gives you that healing feeling.",
+    "value": 1,
+    "weight": 0.0
+}

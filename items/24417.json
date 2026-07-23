@@ -9,8 +9,8 @@
     "equipment": {
         "stabAttack": 52,
         "slashAttack": -4,
-        "crushAttack": 95,
-        "strength": 89,
+        "crushAttack": 102,
+        "strength": 96,
         "prayerBonus": 2,
         "slot": "WEAPON",
         "attackSpeed": 4,

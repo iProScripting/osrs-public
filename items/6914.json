@@ -9,6 +9,7 @@
     "equipment": {
         "magicAttack": 20,
         "magicDefence": 20,
+        "magicDamage": 10.0,
         "slot": "WEAPON",
         "attackSpeed": 4,
         "attackRange": 1,
