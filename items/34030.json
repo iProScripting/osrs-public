@@ -1,0 +1,8 @@
+{
+    "name": "Jar of light",
+    "id": 34030,
+    "members": false,
+    "examine": "It smells like it's been where the sun does shine.",
+    "value": 200000,
+    "weight": 0.04
+}

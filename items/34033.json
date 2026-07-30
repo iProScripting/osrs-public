@@ -1,0 +1,8 @@
+{
+    "name": "Ardeaglais teleport",
+    "id": 34033,
+    "members": false,
+    "examine": "Teleports you to Ardeaglais.",
+    "value": 10,
+    "weight": 0.0
+}

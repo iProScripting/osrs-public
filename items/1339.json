@@ -11,7 +11,7 @@
         "slashAttack": -4,
         "crushAttack": 18,
         "magicAttack": -4,
-        "strength": 16,
+        "strength": 18,
         "slot": "WEAPON",
         "attackSpeed": 6,
         "attackRange": 1,

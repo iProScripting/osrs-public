@@ -1,0 +1,12 @@
+{
+    "name": "Wyrmscraig boots",
+    "id": 33881,
+    "members": false,
+    "examine": "The leather is soft.",
+    "value": 10000,
+    "weight": 0.34,
+    "equipment": {
+        "slot": "FEET",
+        "combatStyle": "UNARMED"
+    }
+}

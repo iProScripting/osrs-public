@@ -1,0 +1,8 @@
+{
+    "name": "Large hat",
+    "id": 34044,
+    "members": false,
+    "examine": "Where's the head to go with it?",
+    "value": 1,
+    "weight": 0.1
+}

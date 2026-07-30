@@ -1,0 +1,12 @@
+{
+    "name": "Wyrmscraig villager work skirt",
+    "id": 34010,
+    "members": false,
+    "examine": "A skirt for working in.",
+    "value": 400,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS",
+        "combatStyle": "UNARMED"
+    }
+}

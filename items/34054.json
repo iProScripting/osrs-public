@@ -1,0 +1,8 @@
+{
+    "name": "Ancient sunstone core",
+    "id": 34054,
+    "members": false,
+    "examine": "Is it rattling?",
+    "value": 30,
+    "weight": 2.5
+}

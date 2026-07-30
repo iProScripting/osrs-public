@@ -1,0 +1,8 @@
+{
+    "name": "Sunstone crystal",
+    "id": 34032,
+    "members": false,
+    "examine": "A magic stone infused by the power of sunstones.",
+    "value": 750,
+    "weight": 1.0
+}

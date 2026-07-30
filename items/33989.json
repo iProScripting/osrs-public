@@ -1,0 +1,12 @@
+{
+    "name": "Wyrmscraig villager skirt",
+    "id": 33989,
+    "members": false,
+    "examine": "A plain and simple skirt.",
+    "value": 400,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS",
+        "combatStyle": "UNARMED"
+    }
+}

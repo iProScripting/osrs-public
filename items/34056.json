@@ -1,0 +1,8 @@
+{
+    "name": "Dull sunstone core",
+    "id": 34056,
+    "members": false,
+    "examine": "It looks to be made of sunstone.",
+    "value": 30,
+    "weight": 2.5
+}

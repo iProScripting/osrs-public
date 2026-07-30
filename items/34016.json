@@ -1,0 +1,8 @@
+{
+    "name": "Wooden spikes",
+    "id": 34016,
+    "members": false,
+    "examine": "A set of wooden spikes, for lining a pit with.",
+    "value": 0,
+    "weight": 0.001
+}

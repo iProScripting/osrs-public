@@ -6,6 +6,18 @@
     "value": 1,
     "weight": 0.01,
     "equipment": {
+        "stabAttack": 100,
+        "slashAttack": 100,
+        "crushAttack": 100,
+        "magicAttack": 100,
+        "rangedAttack": 100,
+        "stabDefence": 100,
+        "slashDefence": 100,
+        "crushDefence": 100,
+        "magicDefence": 100,
+        "rangedDefence": 100,
+        "strength": 50,
+        "prayerBonus": 50,
         "slot": "NECK"
     }
 }

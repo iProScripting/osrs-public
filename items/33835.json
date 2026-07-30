@@ -1,0 +1,8 @@
+{
+    "name": "Wyrmscraig goat hoof",
+    "id": 33835,
+    "members": false,
+    "examine": "An otherwise unremarkable goat hoof.",
+    "value": 10,
+    "weight": 1.0
+}

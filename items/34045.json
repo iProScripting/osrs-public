@@ -1,0 +1,8 @@
+{
+    "name": "Worn journal",
+    "id": 34045,
+    "members": false,
+    "examine": "An old, worn out journal.",
+    "value": 1,
+    "weight": 0.453
+}

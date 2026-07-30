@@ -1,0 +1,12 @@
+{
+    "name": "Wyrmscraig shoes",
+    "id": 33878,
+    "members": false,
+    "examine": "Soft leather shoes.",
+    "value": 10000,
+    "weight": 0.34,
+    "equipment": {
+        "slot": "FEET",
+        "combatStyle": "UNARMED"
+    }
+}

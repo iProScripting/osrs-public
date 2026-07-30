@@ -1,0 +1,8 @@
+{
+    "name": "Sunstone core",
+    "id": 34022,
+    "members": false,
+    "examine": "A golem core crafted from sunstone.",
+    "value": 1,
+    "weight": 2.5
+}

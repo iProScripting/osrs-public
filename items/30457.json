@@ -1,8 +1,8 @@
 {
-    "name": "Raging echoes npc contact scroll",
+    "name": "Raging echoes astral contact scroll",
     "id": 30457,
     "members": false,
-    "examine": "A scroll which unlocks the Raging Echoes NPC contact.",
+    "examine": "A scroll which unlocks the Raging Echoes Astral Contact.",
     "value": 25000,
     "weight": 0.1
 }

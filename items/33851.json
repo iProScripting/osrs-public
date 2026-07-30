@@ -1,0 +1,12 @@
+{
+    "name": "Noble robe top",
+    "id": 33851,
+    "members": false,
+    "examine": "Tied up with a bow.",
+    "value": 50000,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY",
+        "combatStyle": "UNARMED"
+    }
+}
