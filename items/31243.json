@@ -5,6 +5,7 @@
     "examine": "Sound the horn for a better hunt.",
     "value": 20000,
     "weight": 1.0,
+    "buyLimit": 15,
     "equipment": {
         "slot": "SHIELD"
     }

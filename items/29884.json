@@ -4,5 +4,5 @@
     "members": false,
     "examine": "Used for healing wounds.",
     "value": 30,
-    "weight": 5.0
+    "weight": 0.005
 }

@@ -4,5 +4,5 @@
     "members": false,
     "examine": "Blueprints used to build an exit portal in your player-owned house.",
     "value": 1,
-    "weight": 0.0
+    "weight": 0.1
 }

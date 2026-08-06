@@ -1,0 +1,8 @@
+{
+    "name": "Fairy tale quest lamp",
+    "id": 34059,
+    "members": false,
+    "examine": "Completes the Fairy Tale storyline, up to and including Fairytale II - Cure a Queen.",
+    "value": 1,
+    "weight": 0.1
+}
