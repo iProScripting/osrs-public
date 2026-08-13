@@ -6,7 +6,7 @@
     "value": 400,
     "weight": 0.907,
     "equipment": {
-        "slot": "BODY",
+        "slot": "LEGS",
         "combatStyle": "UNARMED"
     }
 }

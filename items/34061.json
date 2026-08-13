@@ -1,0 +1,8 @@
+{
+    "name": "Vampyre snail shell",
+    "id": 34061,
+    "members": false,
+    "examine": "A large red and black snail shell, looks sharp<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"missing period\">sic</span>&#93;</sup>",
+    "value": 150,
+    "weight": 10.0
+}

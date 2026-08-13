@@ -1,0 +1,19 @@
+{
+    "name": "Vampyre snelm",
+    "id": 34063,
+    "members": false,
+    "examine": "Master of snelms.",
+    "value": 300,
+    "weight": 0.777,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 7,
+        "slashDefence": 8,
+        "crushDefence": 6,
+        "magicDefence": -1,
+        "rangedDefence": 7,
+        "slot": "HEAD",
+        "combatStyle": "UNARMED"
+    }
+}
