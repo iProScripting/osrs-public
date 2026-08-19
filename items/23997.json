@@ -5,6 +5,7 @@
     "examine": "A magical elven sword.",
     "value": 5000000,
     "weight": 1.814,
+    "buyLimit": 8,
     "equipment": {
         "slot": "WEAPON",
         "attackSpeed": 4,

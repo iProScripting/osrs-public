@@ -5,7 +5,6 @@
     "examine": "A weapon from the deep.",
     "value": 69000,
     "weight": 1.814,
-    "buyLimit": 8,
     "equipment": {
         "magicAttack": 15,
         "stabDefence": 2,
