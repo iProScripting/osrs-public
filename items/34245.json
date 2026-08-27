@@ -1,0 +1,8 @@
+{
+    "name": "Huge port reward bag (rellekka)",
+    "id": 34245,
+    "members": false,
+    "examine": "A huge reward bag for completing a port task at Rellekka.",
+    "value": 1,
+    "weight": 1.0
+}

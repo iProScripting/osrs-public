@@ -1,0 +1,8 @@
+{
+    "name": "Tiny port reward bag (void knights outpost)",
+    "id": 34247,
+    "members": false,
+    "examine": "A tiny reward bag for completing a port task at Void Knights Outpost.",
+    "value": 1,
+    "weight": 1.0
+}

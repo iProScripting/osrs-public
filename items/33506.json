@@ -1,8 +1,8 @@
 {
-    "name": "Dizana's quiver (broken)",
+    "name": "Blood ancient sceptre",
     "id": 33506,
     "members": false,
-    "examine": "A mangled Quiver, perhaps Perdu could fix it.",
-    "value": 80000,
-    "weight": 0.453
+    "examine": "A very old mangled but powerful stick, enhanced with the power of blood magic.",
+    "value": 1,
+    "weight": 2.267
 }

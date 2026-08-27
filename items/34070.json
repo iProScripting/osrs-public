@@ -1,0 +1,8 @@
+{
+    "name": "Sawmill coupon (mahogany plank)",
+    "id": 34070,
+    "members": false,
+    "examine": "Used to cover plank costs for mahogany logs at the sawmill. Must be used in person.",
+    "value": 100,
+    "weight": 0.0
+}

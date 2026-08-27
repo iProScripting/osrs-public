@@ -1,10 +1,11 @@
 {
-    "name": "Helm of neitiznot",
+    "name": "Helm of Neitiznot",
     "id": 10828,
     "members": false,
     "examine": "A gift from Neitiznot's Burgher.",
     "value": 50000,
     "weight": 2.267,
+    "buyLimit": 70,
     "equipment": {
         "stabDefence": 31,
         "slashDefence": 29,

@@ -1,0 +1,8 @@
+{
+    "name": "Small port coin bag",
+    "id": 34379,
+    "members": false,
+    "examine": "A small coin bag for completing a port task.",
+    "value": 1,
+    "weight": 1.0
+}

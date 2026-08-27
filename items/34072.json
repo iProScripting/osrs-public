@@ -1,0 +1,8 @@
+{
+    "name": "Sawmill coupon (camphor plank)",
+    "id": 34072,
+    "members": false,
+    "examine": "Used to cover plank costs for camphor logs at the sawmill. Must be used in person.",
+    "value": 100,
+    "weight": 0.0
+}

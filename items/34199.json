@@ -1,0 +1,8 @@
+{
+    "name": "Small port reward bag (lands end)",
+    "id": 34199,
+    "members": false,
+    "examine": "A small reward bag for completing a port task at Lands End.",
+    "value": 1,
+    "weight": 1.0
+}

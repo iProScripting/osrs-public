@@ -1,0 +1,8 @@
+{
+    "name": "Medium port reward bag (hosidius)",
+    "id": 34121,
+    "members": false,
+    "examine": "A medium reward bag for completing a port task at Hosidius.",
+    "value": 1,
+    "weight": 1.0
+}

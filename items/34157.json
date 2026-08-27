@@ -1,0 +1,8 @@
+{
+    "name": "Tiny port reward bag (ruins of unkah)",
+    "id": 34157,
+    "members": false,
+    "examine": "A tiny reward bag for completing a port task at Ruins of Unkah.",
+    "value": 1,
+    "weight": 1.0
+}

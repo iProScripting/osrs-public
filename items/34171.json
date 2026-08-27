@@ -1,0 +1,8 @@
+{
+    "name": "Medium port reward bag (lunar isle)",
+    "id": 34171,
+    "members": false,
+    "examine": "A medium reward bag for completing a port task at Lunar Isle.",
+    "value": 1,
+    "weight": 1.0
+}

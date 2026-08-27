@@ -1,0 +1,8 @@
+{
+    "name": "Huge port reward bag (the pandemonium)",
+    "id": 34265,
+    "members": false,
+    "examine": "A huge reward bag for completing a port task at The Pandemonium.",
+    "value": 1,
+    "weight": 1.0
+}

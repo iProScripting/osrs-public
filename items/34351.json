@@ -1,0 +1,8 @@
+{
+    "name": "Medium port reward bag (port sarim)",
+    "id": 34351,
+    "members": false,
+    "examine": "A medium reward bag for completing a port task at Port Sarim.",
+    "value": 1,
+    "weight": 1.0
+}

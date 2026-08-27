@@ -1,0 +1,8 @@
+{
+    "name": "Large port reward bag (piscatoris)",
+    "id": 34143,
+    "members": false,
+    "examine": "A large reward bag for completing a port task at Piscatoris.",
+    "value": 1,
+    "weight": 1.0
+}

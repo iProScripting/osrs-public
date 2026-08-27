@@ -1,0 +1,8 @@
+{
+    "name": "Tiny port reward bag (jatizso)",
+    "id": 34107,
+    "members": false,
+    "examine": "A tiny reward bag for completing a port task at Jatizso.",
+    "value": 1,
+    "weight": 1.0
+}

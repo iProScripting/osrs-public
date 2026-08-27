@@ -1,0 +1,8 @@
+{
+    "name": "Sawmill coupon (teak plank)",
+    "id": 34068,
+    "members": false,
+    "examine": "Used to cover plank costs for teak logs at the sawmill. Must be used in person.",
+    "value": 100,
+    "weight": 0.0
+}
