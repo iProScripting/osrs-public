@@ -1,0 +1,8 @@
+{
+    "name": "Fire ruby",
+    "id": 34422,
+    "members": false,
+    "examine": "Rather hot to the touch, maybe I could start a fire with this.",
+    "value": 20000,
+    "weight": 0.1
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Amulet of fire",
+    "id": 34425,
+    "members": false,
+    "examine": "I hope my clothes don't catch on fire.",
+    "value": 21000,
+    "weight": 0.107,
+    "equipment": {
+        "magicAttack": 10,
+        "slot": "NECK"
+    }
+}

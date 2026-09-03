@@ -1,0 +1,8 @@
+{
+    "name": "Water sapphire",
+    "id": 34410,
+    "members": false,
+    "examine": "Who needs a watering can these days.",
+    "value": 20000,
+    "weight": 0.1
+}

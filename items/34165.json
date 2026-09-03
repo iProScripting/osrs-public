@@ -1,8 +1,8 @@
 {
-    "name": "Huge port reward bag (ruins of unkah)",
+    "name": "Huge port reward bag",
     "id": 34165,
     "members": false,
     "examine": "A huge reward bag for completing a port task at Ruins of Unkah.",
     "value": 1,
-    "weight": 1.0
+    "weight": 0.0
 }

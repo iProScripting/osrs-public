@@ -1,0 +1,13 @@
+{
+    "name": "Amulet of air",
+    "id": 34407,
+    "members": false,
+    "examine": "Might be as light as a feather.",
+    "value": 21000,
+    "weight": 0.101,
+    "equipment": {
+        "magicAttack": 10,
+        "slot": "NECK",
+        "combatStyle": "UNARMED"
+    }
+}

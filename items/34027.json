@@ -5,6 +5,7 @@
     "examine": "This really fells my hallow.",
     "value": 1250000,
     "weight": 10.0,
+    "buyLimit": 100,
     "equipment": {
         "slashAttack": 117,
         "crushAttack": 25,

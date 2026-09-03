@@ -1,0 +1,12 @@
+{
+    "name": "Amulet of water",
+    "id": 34413,
+    "members": false,
+    "examine": "I'm going to get my clothes wet wearing this.",
+    "value": 21000,
+    "weight": 0.107,
+    "equipment": {
+        "magicAttack": 10,
+        "slot": "NECK"
+    }
+}

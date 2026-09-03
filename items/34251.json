@@ -1,8 +1,8 @@
 {
-    "name": "Medium port reward bag (void knights outpost)",
+    "name": "Medium port reward bag",
     "id": 34251,
     "members": false,
     "examine": "A medium reward bag for completing a port task at Void Knights Outpost.",
     "value": 1,
-    "weight": 1.0
+    "weight": 0.0
 }

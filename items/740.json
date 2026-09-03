@@ -4,5 +4,10 @@
     "members": false,
     "examine": "A strange blue wizard's hat.",
     "value": 2,
-    "weight": 0.453
+    "weight": 0.453,
+    "equipment": {
+        "magicAttack": 2,
+        "magicDefence": 2,
+        "slot": "HEAD"
+    }
 }

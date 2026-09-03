@@ -1,0 +1,8 @@
+{
+    "name": "Big red button",
+    "id": 34388,
+    "members": false,
+    "examine": "WARNING: DANGER",
+    "value": 1,
+    "weight": 0.1
+}

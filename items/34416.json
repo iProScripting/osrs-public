@@ -1,0 +1,8 @@
+{
+    "name": "Earth emerald",
+    "id": 34416,
+    "members": false,
+    "examine": "This seems rather heavy for a gem.",
+    "value": 20000,
+    "weight": 1.0
+}

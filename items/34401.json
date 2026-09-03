@@ -1,0 +1,13 @@
+{
+    "name": "Necklace of fangs",
+    "id": 34401,
+    "members": false,
+    "examine": "Toothy, and makes for decent arrowheads in a pinch.",
+    "value": 50000,
+    "weight": 0.01,
+    "equipment": {
+        "rangedAttack": 12,
+        "rangedStrength": 1,
+        "slot": "NECK"
+    }
+}

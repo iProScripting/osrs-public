@@ -1,0 +1,12 @@
+{
+    "name": "Amulet of earth",
+    "id": 34419,
+    "members": false,
+    "examine": "Heavy is the amulet.",
+    "value": 21000,
+    "weight": 2.0,
+    "equipment": {
+        "magicAttack": 10,
+        "slot": "NECK"
+    }
+}

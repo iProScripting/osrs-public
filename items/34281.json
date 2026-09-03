@@ -1,8 +1,8 @@
 {
-    "name": "Medium port reward bag (brimhaven)",
+    "name": "Medium port reward bag",
     "id": 34281,
     "members": false,
     "examine": "A medium reward bag for completing a port task at Brimhaven.",
     "value": 1,
-    "weight": 1.0
+    "weight": 0.0
 }

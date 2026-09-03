@@ -1,8 +1,8 @@
 {
-    "name": "Small port reward bag (cairn isle)",
+    "name": "Small port reward bag",
     "id": 34079,
     "members": false,
     "examine": "A small reward bag for completing a port task at Cairn Isle.",
     "value": 1,
-    "weight": 1.0
+    "weight": 0.0
 }
