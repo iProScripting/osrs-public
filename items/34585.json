@@ -1,0 +1,8 @@
+{
+    "name": "Battered barrel",
+    "id": 34585,
+    "members": false,
+    "examine": "Unusable for any kind of storage.",
+    "value": 1,
+    "weight": 1.2
+}

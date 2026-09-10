@@ -1,0 +1,12 @@
+{
+    "name": "Wyrmscraig villager robe top (A)",
+    "id": 33887,
+    "members": false,
+    "examine": "A plain and simple robe top.",
+    "value": 500,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY",
+        "combatStyle": "UNARMED"
+    }
+}

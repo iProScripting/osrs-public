@@ -1,0 +1,12 @@
+{
+    "name": "Wyrmscraig noble skirt",
+    "id": 33869,
+    "members": false,
+    "examine": "A skirt woven from a thick wool.",
+    "value": 40000,
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS",
+        "combatStyle": "UNARMED"
+    }
+}

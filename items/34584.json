@@ -1,0 +1,8 @@
+{
+    "name": "Weathered rosewood plank",
+    "id": 34584,
+    "members": false,
+    "examine": "This plank has been through some stuff, including, but not limited to, the sea.",
+    "value": 1,
+    "weight": 0.4
+}
