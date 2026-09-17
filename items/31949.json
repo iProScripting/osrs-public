@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A violently shaking container with the furious power of the sea inside.",
     "value": 8000,
-    "weight": 0.5
+    "weight": 0.5,
+    "buyLimit": 15
 }

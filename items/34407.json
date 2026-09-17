@@ -7,7 +7,6 @@
     "weight": 0.101,
     "equipment": {
         "magicAttack": 10,
-        "slot": "NECK",
-        "combatStyle": "UNARMED"
+        "slot": "NECK"
     }
 }
