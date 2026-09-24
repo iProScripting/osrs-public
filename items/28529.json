@@ -1,5 +1,5 @@
 {
-    "name": "Sigil of woodcraft",
+    "name": "Sigil of Woodcraft",
     "id": 28529,
     "members": false,
     "examine": "Instead of receiving logs when chopping specific trees, you will receive the appropriate planks. Requires 50 coins per regular plank, 125 coins per oak plank, 250 coins per teak plank, and 700 coins per mahogany plank. Does not work in guarded areas or with the infernal axe.",

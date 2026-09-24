@@ -1,5 +1,5 @@
 {
-    "name": "Sigil of resistance",
+    "name": "Sigil of Resistance",
     "id": 28490,
     "members": false,
     "examine": "All attacks from monsters do 25% less damage. The damage reduction effect does not stack with the Sigil of Titanium.",

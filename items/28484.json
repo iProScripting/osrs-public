@@ -1,5 +1,5 @@
 {
-    "name": "Sigil of the alchemaniac",
+    "name": "Sigil of the Alchemaniac",
     "id": 28484,
     "members": false,
     "examine": "When casting high or low alchemy on a stack of items, the spell will automatically recast over time, until the stack is depleted or moved.",

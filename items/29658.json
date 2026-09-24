@@ -1,5 +1,5 @@
 {
-    "name": "Sigil of deception",
+    "name": "Sigil of Deception",
     "id": 29658,
     "members": false,
     "examine": "Automatically re-pickpocket an NPC until you can no longer do so. Drastically improves pickpocketing success rates at early levels. Note: Guards will not let you pickpocket in safezones!",

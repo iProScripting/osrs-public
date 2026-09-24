@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A pointy tooth.",
     "value": 250,
-    "weight": 0.0
+    "weight": 0.0,
+    "buyLimit": 10000
 }
