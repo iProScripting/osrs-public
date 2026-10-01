@@ -13,7 +13,6 @@
         "crushDefence": 6,
         "magicDefence": -1,
         "rangedDefence": 7,
-        "slot": "HEAD",
-        "combatStyle": "UNARMED"
+        "slot": "HEAD"
     }
 }

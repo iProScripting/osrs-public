@@ -14,7 +14,6 @@
         "magicDefence": 34,
         "rangedDefence": 38,
         "prayerBonus": 2,
-        "slot": "LEGS",
-        "combatStyle": "UNARMED"
+        "slot": "LEGS"
     }
 }

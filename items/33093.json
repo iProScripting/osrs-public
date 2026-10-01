@@ -7,7 +7,6 @@
     "weight": 0.2,
     "buyLimit": 4,
     "equipment": {
-        "slot": "FEET",
-        "combatStyle": "UNARMED"
+        "slot": "FEET"
     }
 }

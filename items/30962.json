@@ -2,7 +2,7 @@
     "name": "Kuhu essence",
     "id": 30962,
     "members": false,
-    "examine": "A ancient piece of essence.",
+    "examine": "A<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"should be &quot;an&quot;\">sic</span>&#93;</sup> ancient piece of essence.",
     "value": 20,
     "weight": 0.002
 }

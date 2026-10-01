@@ -6,7 +6,6 @@
     "value": 500000,
     "weight": 0.5,
     "equipment": {
-        "slot": "HEAD",
-        "combatStyle": "UNARMED"
+        "slot": "HEAD"
     }
 }
