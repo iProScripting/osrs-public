@@ -1,0 +1,8 @@
+{
+    "name": "Net trap (item)",
+    "id": 34631,
+    "members": false,
+    "examine": "A rope tied onto a small net - genius!",
+    "value": 32,
+    "weight": 1.0
+}
