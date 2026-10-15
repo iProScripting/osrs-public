@@ -4,5 +4,6 @@
     "members": false,
     "examine": "Used on the Dinh's Bulwark to give it a theme from Leagues IV: Trailblazer Reloaded.",
     "value": 5000,
-    "weight": 0.5
+    "weight": 0.5,
+    "buyLimit": 4
 }

@@ -2,5 +2,7 @@
     "name": "Supply crate (Pete Kayer's Challenges)",
     "id": 34643,
     "members": false,
-    "examine": "Contains some useful supplies."
+    "examine": "Contains some useful supplies.",
+    "value": 1,
+    "weight": 4.0
 }

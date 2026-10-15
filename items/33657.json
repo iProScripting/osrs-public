@@ -4,5 +4,6 @@
     "members": false,
     "examine": "Unrefined dragon metal.",
     "value": 170000,
-    "weight": 0.907
+    "weight": 0.907,
+    "buyLimit": 4500
 }
