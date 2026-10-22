@@ -1,0 +1,20 @@
+{
+    "name": "Rondache",
+    "id": 34719,
+    "members": false,
+    "examine": "A finely crafted rondache shield.",
+    "value": 4000000,
+    "weight": 4.122,
+    "equipment": {
+        "magicAttack": -5,
+        "rangedAttack": -8,
+        "stabDefence": 35,
+        "slashDefence": 41,
+        "crushDefence": 38,
+        "magicDefence": -6,
+        "rangedDefence": 55,
+        "strength": 8,
+        "slot": "SHIELD",
+        "combatStyle": "UNARMED"
+    }
+}

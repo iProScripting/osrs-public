@@ -1,0 +1,11 @@
+{
+    "name": "Living record (tier 1)",
+    "id": 34659,
+    "members": false,
+    "examine": "Once used to honour the archivists, now awarded to those who defend their work. The engraving reads \"Scrivener\".",
+    "value": 10,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

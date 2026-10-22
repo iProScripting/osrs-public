@@ -1,0 +1,8 @@
+{
+    "name": "Archivist's folio",
+    "id": 34722,
+    "members": false,
+    "examine": "A collection of manuscripts used by Guthixian archivists for convenient travel.",
+    "value": 500,
+    "weight": 0.06
+}

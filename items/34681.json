@@ -1,0 +1,19 @@
+{
+    "name": "Ascension crossbows",
+    "id": 34681,
+    "members": false,
+    "examine": "Ancient crossbows formed of powerful crystal.",
+    "value": 4000000,
+    "weight": 6.0,
+    "equipment": {
+        "magicAttack": 3,
+        "rangedAttack": 34,
+        "stabDefence": -7,
+        "slashDefence": -5,
+        "magicDefence": 10,
+        "slot": "WEAPON",
+        "attackSpeed": 3,
+        "attackRange": 6,
+        "combatStyle": "CROSSBOW"
+    }
+}

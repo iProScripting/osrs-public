@@ -1,0 +1,12 @@
+{
+    "name": "Onyx ascension bolts",
+    "id": 34702,
+    "members": false,
+    "examine": "Bolts chiselled from powerful crystals, tipped with onyx.",
+    "value": 14050,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 58,
+        "slot": "AMMO"
+    }
+}

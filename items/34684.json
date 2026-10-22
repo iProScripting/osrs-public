@@ -1,0 +1,12 @@
+{
+    "name": "Ascension bolts",
+    "id": 34684,
+    "members": false,
+    "examine": "Bolts chiseled from powerful crystals.",
+    "value": 575,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 53,
+        "slot": "AMMO"
+    }
+}

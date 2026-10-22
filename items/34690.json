@@ -1,0 +1,12 @@
+{
+    "name": "Diamond ascension bolts",
+    "id": 34690,
+    "members": false,
+    "examine": "Bolts chiselled from powerful crystals, tipped with diamond.",
+    "value": 1000,
+    "weight": 0.0,
+    "equipment": {
+        "rangedStrength": 58,
+        "slot": "AMMO"
+    }
+}

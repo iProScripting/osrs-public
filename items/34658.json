@@ -1,0 +1,8 @@
+{
+    "name": "Archive key",
+    "id": 34658,
+    "members": false,
+    "examine": "A key-like object made of stone and vines found within the Fractured Archive. What does it open?",
+    "value": 30,
+    "weight": 0.02
+}

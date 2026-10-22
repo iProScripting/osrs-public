@@ -1,0 +1,9 @@
+{
+    "name": "Ascension shards",
+    "id": 34669,
+    "members": false,
+    "examine": "Shards of powerful crystal.",
+    "value": 1000,
+    "weight": 0.0,
+    "buyLimit": 100
+}

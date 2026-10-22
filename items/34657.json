@@ -1,0 +1,8 @@
+{
+    "name": "Alliance's message",
+    "id": 34657,
+    "members": false,
+    "examine": "A message from the Alliance.",
+    "value": 30,
+    "weight": 0.003
+}

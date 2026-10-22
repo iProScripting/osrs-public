@@ -1,0 +1,11 @@
+{
+    "name": "Living record (tier 4)",
+    "id": 34665,
+    "members": false,
+    "examine": "Once used to honour the archivists, now awarded to those who defend their work. The engraving reads \"Reliquist\".",
+    "value": 10,
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Obligator",
+    "id": 34715,
+    "members": false,
+    "examine": "A huge mace on a writhing vine.",
+    "value": 4000000,
+    "weight": 4.989,
+    "equipment": {
+        "stabAttack": 22,
+        "slashAttack": -8,
+        "crushAttack": 120,
+        "slashDefence": 16,
+        "magicDefence": 3,
+        "rangedDefence": 8,
+        "strength": 40,
+        "prayerBonus": 3,
+        "slot": "WEAPON",
+        "attackSpeed": 5,
+        "attackRange": 1
+    }
+}
