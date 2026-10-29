@@ -1,0 +1,12 @@
+{
+    "name": "Vampyre monocle",
+    "id": 34740,
+    "members": false,
+    "examine": "Similar to the one worn by another pretend vampyre.",
+    "value": 1,
+    "weight": 0.003,
+    "equipment": {
+        "slot": "HEAD",
+        "combatStyle": "UNARMED"
+    }
+}

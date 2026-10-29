@@ -16,6 +16,6 @@
         "slot": "WEAPON",
         "attackSpeed": 3,
         "attackRange": 7,
-        "combatStyle": "UNARMED"
+        "combatStyle": "POWERED_STAFF"
     }
 }

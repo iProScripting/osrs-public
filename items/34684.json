@@ -5,6 +5,7 @@
     "examine": "Bolts chiseled from powerful crystals.",
     "value": 575,
     "weight": 0.0,
+    "buyLimit": 11000,
     "equipment": {
         "rangedStrength": 53,
         "slot": "AMMO"

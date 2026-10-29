@@ -4,5 +4,6 @@
     "members": false,
     "examine": "A paste made by crushing squid.",
     "value": 100,
-    "weight": 0.3
+    "weight": 0.3,
+    "buyLimit": 13000
 }

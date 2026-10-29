@@ -12,7 +12,6 @@
         "crushDefence": 3,
         "magicDefence": 15,
         "magicDamage": 2.0,
-        "slot": "CAPE",
-        "combatStyle": "UNARMED"
+        "slot": "CAPE"
     }
 }

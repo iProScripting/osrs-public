@@ -1,0 +1,12 @@
+{
+    "name": "Vampyre costume cape",
+    "id": 34746,
+    "members": false,
+    "examine": "This is the outfit of a killer!",
+    "value": 1,
+    "weight": 0.5,
+    "equipment": {
+        "slot": "CAPE",
+        "combatStyle": "UNARMED"
+    }
+}

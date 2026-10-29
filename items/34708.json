@@ -5,6 +5,7 @@
     "examine": "Enchanted bolts chiselled from powerful crystals, tipped with onyx.",
     "value": 15950,
     "weight": 0.0,
+    "buyLimit": 11000,
     "equipment": {
         "rangedStrength": 58,
         "slot": "AMMO"

@@ -5,6 +5,7 @@
     "examine": "A finely crafted rondache shield.",
     "value": 4000000,
     "weight": 4.122,
+    "buyLimit": 8,
     "equipment": {
         "magicAttack": -5,
         "rangedAttack": -8,

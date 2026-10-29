@@ -4,9 +4,5 @@
     "members": false,
     "examine": "A cargo crate of fish destined for Port Sarim.",
     "value": 0,
-    "weight": 1.285,
-    "equipment": {
-        "slot": "WEAPON",
-        "combatStyle": "UNARMED"
-    }
+    "weight": 1.285
 }
