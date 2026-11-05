@@ -1,8 +1,8 @@
 {
-    "name": "Steel sword",
+    "name": "Steel shortsword",
     "id": 1281,
     "members": false,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "value": 325,
     "weight": 1.814,
     "buyLimit": 125,

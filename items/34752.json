@@ -1,0 +1,8 @@
+{
+    "name": "Mudfoot (item)",
+    "id": 34752,
+    "members": false,
+    "examine": "Goblins... Such curious creatures.",
+    "value": 1,
+    "weight": 0.001
+}

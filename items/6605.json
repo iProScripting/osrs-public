@@ -1,8 +1,8 @@
 {
-    "name": "White sword",
+    "name": "White shortsword",
     "id": 6605,
     "members": false,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "value": 624,
     "weight": 1.814,
     "buyLimit": 125,

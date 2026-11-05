@@ -15,7 +15,6 @@
         "magicDamage": 15.0,
         "slot": "WEAPON",
         "attackSpeed": 3,
-        "attackRange": 7,
-        "combatStyle": "POWERED_STAFF"
+        "attackRange": 7
     }
 }

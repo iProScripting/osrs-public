@@ -1,8 +1,8 @@
 {
-    "name": "Wooden sword",
+    "name": "Wooden shortsword",
     "id": 7675,
     "members": false,
-    "examine": "A less-than razor sharp sword.",
+    "examine": "A less-than razor sharp shortsword.",
     "value": 1,
     "weight": 1.814,
     "equipment": {

@@ -1,0 +1,20 @@
+{
+    "name": "Bandos chestplate (Pete Kayer's Challenges)",
+    "id": 34611,
+    "members": false,
+    "examine": "A sturdy chestplate.",
+    "value": 30,
+    "weight": 12.0,
+    "equipment": {
+        "magicAttack": -15,
+        "rangedAttack": -10,
+        "stabDefence": 98,
+        "slashDefence": 93,
+        "crushDefence": 105,
+        "magicDefence": -6,
+        "rangedDefence": 133,
+        "strength": 4,
+        "prayerBonus": 1,
+        "slot": "BODY"
+    }
+}

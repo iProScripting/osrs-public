@@ -1,8 +1,8 @@
 {
-    "name": "Adamant sword",
+    "name": "Adamant shortsword",
     "id": 1287,
     "members": false,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "value": 2080,
     "weight": 2.041,
     "buyLimit": 125,

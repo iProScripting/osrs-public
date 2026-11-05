@@ -1,8 +1,8 @@
 {
-    "name": "Rune sword",
+    "name": "Rune shortsword",
     "id": 1289,
     "members": false,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "value": 20800,
     "weight": 1.814,
     "buyLimit": 70,

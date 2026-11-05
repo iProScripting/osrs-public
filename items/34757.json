@@ -1,0 +1,8 @@
+{
+    "name": "Newspaper cutting",
+    "id": 34757,
+    "members": false,
+    "examine": "A cutting from an old newspaper found in Betty's home in Land's End.",
+    "value": 30,
+    "weight": 0.003
+}

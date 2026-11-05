@@ -1,8 +1,8 @@
 {
-    "name": "Dragon sword",
+    "name": "Dragon shortsword",
     "id": 21009,
     "members": false,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "value": 72001,
     "weight": 1.814,
     "buyLimit": 70,

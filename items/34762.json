@@ -1,0 +1,12 @@
+{
+    "name": "Amulet of sight",
+    "id": 34762,
+    "members": false,
+    "examine": "A useful amulet for a ranger.",
+    "value": 1500,
+    "weight": 0.01,
+    "equipment": {
+        "rangedAttack": 10,
+        "slot": "NECK"
+    }
+}

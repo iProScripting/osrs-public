@@ -1,0 +1,8 @@
+{
+    "name": "Bloody knife (The Writing's on the Wall)",
+    "id": 34758,
+    "members": false,
+    "examine": "A blood-covered knife found in the butcher's home in Land's End.",
+    "value": 30,
+    "weight": 0.2
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Antique lamp (Black Knights' Fortress)",
+    "id": 34748,
+    "members": false,
+    "examine": "Give it a rub.",
+    "value": 40,
+    "weight": 0.1
+}

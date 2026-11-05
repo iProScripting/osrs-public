@@ -1,0 +1,8 @@
+{
+    "name": "Antique lamp (Mudfoot's Big Adventure)",
+    "id": 34751,
+    "members": false,
+    "examine": "Give it a rub.",
+    "value": 40,
+    "weight": 0.1
+}

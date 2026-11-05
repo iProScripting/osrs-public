@@ -5,6 +5,7 @@
     "examine": "The book is weighed down by all the knowledge it contains.",
     "value": 4000000,
     "weight": 4.0,
+    "buyLimit": 8,
     "equipment": {
         "magicAttack": 45,
         "stabDefence": 1,
@@ -15,7 +16,6 @@
         "magicDamage": 15.0,
         "slot": "WEAPON",
         "attackSpeed": 3,
-        "attackRange": 7,
-        "combatStyle": "POWERED_STAFF"
+        "attackRange": 7
     }
 }

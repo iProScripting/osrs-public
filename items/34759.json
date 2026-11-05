@@ -1,0 +1,8 @@
+{
+    "name": "Human head",
+    "id": 34759,
+    "members": false,
+    "examine": "A decapitated head found at Betty's uncle's home near Hosidius.",
+    "value": 30,
+    "weight": 0.6
+}
