@@ -1,0 +1,18 @@
+{
+    "name": "Painted kiteshield",
+    "id": 34769,
+    "members": false,
+    "examine": "A pretty kiteshield.",
+    "value": 30,
+    "weight": 5.443,
+    "equipment": {
+        "magicAttack": -8,
+        "rangedAttack": -3,
+        "stabDefence": 5,
+        "slashDefence": 7,
+        "crushDefence": 6,
+        "magicDefence": -1,
+        "rangedDefence": 6,
+        "slot": "SHIELD"
+    }
+}

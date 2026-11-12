@@ -1,0 +1,8 @@
+{
+    "name": "Bea's supplies",
+    "id": 34791,
+    "members": false,
+    "examine": "A sack of supplies for helping Bea on her farm.",
+    "value": 5,
+    "weight": 0.1
+}

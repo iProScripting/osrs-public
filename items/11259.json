@@ -1,8 +1,8 @@
 {
-    "name": "Magic butterfly net",
+    "name": "Magic insect net",
     "id": 11259,
     "members": false,
-    "examine": "For catching butterflies.",
+    "examine": "For catching insects.",
     "value": 1000,
     "weight": 0.226,
     "equipment": {

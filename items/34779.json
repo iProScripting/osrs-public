@@ -1,0 +1,8 @@
+{
+    "name": "Wasp sting",
+    "id": 34779,
+    "members": false,
+    "examine": "If this is the point of the wasp, I can see why many people don't like them.",
+    "value": 1,
+    "weight": 0.005
+}

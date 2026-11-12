@@ -1,0 +1,8 @@
+{
+    "name": "Bee box",
+    "id": 34775,
+    "members": false,
+    "examine": "A box full of stinging insects.",
+    "value": 10,
+    "weight": 0.01
+}

@@ -5,6 +5,7 @@
     "examine": "A huge mace on a writhing vine.",
     "value": 4000000,
     "weight": 4.989,
+    "buyLimit": 8,
     "equipment": {
         "stabAttack": 22,
         "slashAttack": -8,

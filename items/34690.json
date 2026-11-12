@@ -5,6 +5,7 @@
     "examine": "Bolts chiselled from powerful crystals, tipped with diamond.",
     "value": 1000,
     "weight": 0.0,
+    "buyLimit": 11000,
     "equipment": {
         "rangedStrength": 58,
         "slot": "AMMO"

@@ -1,0 +1,19 @@
+{
+    "name": "Pink snelm",
+    "id": 34801,
+    "members": false,
+    "examine": "A pink snail shell helmet.",
+    "value": 300,
+    "weight": 2.0,
+    "equipment": {
+        "magicAttack": -3,
+        "rangedAttack": -1,
+        "stabDefence": 7,
+        "slashDefence": 8,
+        "crushDefence": 6,
+        "magicDefence": -1,
+        "rangedDefence": 7,
+        "slot": "HEAD",
+        "combatStyle": "UNARMED"
+    }
+}
