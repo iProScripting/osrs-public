@@ -2,7 +2,7 @@
     "name": "Werewolf bone",
     "id": 7868,
     "members": false,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "value": 1,
     "weight": 0.907
 }

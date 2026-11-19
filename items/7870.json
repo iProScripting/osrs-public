@@ -1,8 +1,8 @@
 {
-    "name": "Bone in vinegar",
+    "name": "Moss giant bone in vinegar",
     "id": 7870,
     "members": false,
-    "examine": "A Moss Giant's bone",
+    "examine": "A nice pot of bony vinegar.",
     "value": 0,
     "weight": 0.907
 }

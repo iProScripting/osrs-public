@@ -1,0 +1,8 @@
+{
+    "name": "Communication cabbage",
+    "id": 34808,
+    "members": false,
+    "examine": "There is a message carved into this cabbage. Luckily, the first bite is with the eye.",
+    "value": 1,
+    "weight": 0.453
+}

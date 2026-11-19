@@ -1,0 +1,8 @@
+{
+    "name": "Seed of growth",
+    "id": 34813,
+    "members": false,
+    "examine": "Planting this will return you to the Farming Guild.",
+    "value": 250,
+    "weight": 0.0
+}

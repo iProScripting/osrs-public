@@ -1,0 +1,8 @@
+{
+    "name": "Blessed compost",
+    "id": 34819,
+    "members": false,
+    "examine": "Though the compost emits a divine glow, it still smells pretty rotten.",
+    "value": 1,
+    "weight": 3.0
+}

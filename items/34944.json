@@ -1,0 +1,8 @@
+{
+    "name": "Hill giant bone",
+    "id": 34944,
+    "members": false,
+    "examine": "This belongs in a museum!",
+    "value": 1,
+    "weight": 0.003
+}

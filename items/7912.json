@@ -1,8 +1,8 @@
 {
-    "name": "Bone in vinegar",
+    "name": "Vulture wing in vinegar",
     "id": 7912,
     "members": false,
-    "examine": "There is a vulture bone in here.",
+    "examine": "A nice pot of bony vinegar.",
     "value": 0,
     "weight": 1.36
 }

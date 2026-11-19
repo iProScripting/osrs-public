@@ -3,9 +3,14 @@
     "id": 504,
     "members": false,
     "examine": "Bob can fix this for me.",
-    "value": 1,
+    "value": 43,
     "weight": 1.133,
     "equipment": {
+        "stabAttack": -2,
+        "slashAttack": 8,
+        "crushAttack": 4,
+        "slashDefence": 1,
+        "strength": 11,
         "slot": "WEAPON",
         "attackSpeed": 5,
         "attackRange": 1

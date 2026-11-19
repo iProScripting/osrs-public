@@ -1,0 +1,8 @@
+{
+    "name": "Brassican sentience potion",
+    "id": 34817,
+    "members": false,
+    "examine": "Only for consumption by pre-blessed brassican plants. Do not mix with fish eggs.",
+    "value": 1,
+    "weight": 0.035
+}

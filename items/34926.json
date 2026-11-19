@@ -1,0 +1,8 @@
+{
+    "name": "Cow bone",
+    "id": 34926,
+    "members": false,
+    "examine": "This belongs in a museum!",
+    "value": 1,
+    "weight": 0.003
+}

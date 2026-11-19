@@ -1,0 +1,8 @@
+{
+    "name": "Heavy bonesack",
+    "id": 34840,
+    "members": false,
+    "examine": "Looks sturdy enough to hold exactly 28 sets of bones!",
+    "value": 1,
+    "weight": 3.0
+}

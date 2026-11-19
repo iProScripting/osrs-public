@@ -2,7 +2,7 @@
     "name": "Bonesack",
     "id": 7918,
     "members": false,
-    "examine": "The Bonesack is a little old item that protects like leather.",
+    "examine": "The bonesack is a little old item that protects like leather.",
     "value": 1,
     "weight": 0.003,
     "equipment": {
