@@ -1,0 +1,8 @@
+{
+    "name": "Graceful boots (Fremennik)",
+    "id": 35054,
+    "members": false,
+    "examine": "For your graceful and toasty feet.",
+    "value": 40,
+    "weight": 0.4
+}

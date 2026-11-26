@@ -5,6 +5,7 @@
     "examine": "Smells of victory.",
     "value": 30000,
     "weight": 0.001,
+    "buyLimit": 250,
     "equipment": {
         "slot": "WEAPON",
         "attackSpeed": 4,

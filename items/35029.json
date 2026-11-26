@@ -1,0 +1,8 @@
+{
+    "name": "Fremennik sail fabric",
+    "id": 35029,
+    "members": false,
+    "examine": "A fabric that can be used to change the design of your sails.",
+    "value": 500,
+    "weight": 0.5
+}

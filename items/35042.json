@@ -1,0 +1,8 @@
+{
+    "name": "Graceful cape (Fremennik)",
+    "id": 35042,
+    "members": false,
+    "examine": "A sign of your grace in the frigid north.",
+    "value": 40,
+    "weight": 0.8
+}

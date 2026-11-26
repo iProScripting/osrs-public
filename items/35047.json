@@ -1,0 +1,11 @@
+{
+    "name": "Graceful top (Fremennik)",
+    "id": 35047,
+    "members": false,
+    "examine": "A sign of your grace in the frigid north.",
+    "value": 55,
+    "weight": -5.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

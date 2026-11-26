@@ -1,0 +1,8 @@
+{
+    "name": "Ghostly sail fabric",
+    "id": 35031,
+    "members": false,
+    "examine": "A fabric that can be used to change the design of your sails.",
+    "value": 500,
+    "weight": 0.5
+}
